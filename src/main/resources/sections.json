@@ -1,0 +1,668 @@
+[
+  {
+    "id": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
+    "title": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
+    "order": 1,
+    "isCommon": true
+  },
+  {
+    "id": "daaf72fb-4c8b-4d48-af72-fb4c8b0d4834",
+    "title": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
+    "order": 2,
+    "isCommon": true
+  },
+  {
+    "id": "41c18b62-42b7-4630-818b-6242b716307b",
+    "title": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
+    "order": 3,
+    "isCommon": true
+  },
+  {
+    "id": "2e314714-061e-4b0e-b147-14061e7b0edd",
+    "title": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
+    "order": 4,
+    "isCommon": true
+  },
+  {
+    "id": "7fbc9788-52ad-4443-bc97-8852add44384",
+    "title": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
+    "order": 5,
+    "isCommon": true
+  },
+  {
+    "id": "c2536220-4458-4d41-9362-2044588d41e4",
+    "title": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
+    "order": 6,
+    "isCommon": true
+  },
+  {
+    "id": "7df8bd97-e186-4540-b8bd-97e18635402d",
+    "title": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
+    "order": 7,
+    "isCommon": true
+  },
+  {
+    "id": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "title": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
+    "order": 8,
+    "suborder": 1,
+    "isCommon": true
+  },
+  {
+    "id": "e011561a-4077-4f81-9156-1a40774f8155",
+    "title": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
+    "order": 8,
+    "suborder": 2,
+    "isCommon": true
+  },
+  {
+    "id": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
+    "title": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
+    "order": 9,
+    "isCommon": true
+  },
+  {
+    "id": "7d6b9473-e961-4d72-ab94-73e9619d72ca",
+    "title": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
+    "order": 10,
+    "isCommon": true
+  },
+  {
+    "id": "21f00c43-985f-4d41-b00c-43985fcd41a2",
+    "title": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
+    "order": 11,
+    "isCommon": true
+  },
+  {
+    "id": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "title": "ШВИДКІСТЬ РУХУ",
+    "order": 12,
+    "isCommon": true
+  },
+  {
+    "id": "fefd3aa5-1946-4f5d-bd3a-a51946df5dc0",
+    "title": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
+    "order": 13,
+    "isCommon": true
+  },
+  {
+    "id": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "title": "ОБГІН",
+    "order": 14,
+    "isCommon": true
+  },
+  {
+    "id": "47add86a-ffbc-49b9-add8-6affbc19b90a",
+    "title": "ЗУПИНКА І СТОЯНКА",
+    "order": 15,
+    "isCommon": true
+  },
+  {
+    "id": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
+    "title": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
+    "order": 16,
+    "suborder": 1,
+    "isCommon": true
+  },
+  {
+    "id": "209f2f77-add2-445f-9f2f-77add2645fd0",
+    "title": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
+    "order": 16,
+    "suborder": 2,
+    "isCommon": true
+  },
+  {
+    "id": "185eeae2-80d0-49e7-9eea-e280d029e71d",
+    "title": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
+    "order": 17,
+    "isCommon": true
+  },
+  {
+    "id": "56d5b985-f5d2-4e57-95b9-85f5d2fe5739",
+    "title": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
+    "order": 18,
+    "isCommon": true
+  },
+  {
+    "id": "960773b7-f0e5-4503-8773-b7f0e5b50362",
+    "title": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
+    "order": 19,
+    "isCommon": true
+  },
+  {
+    "id": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
+    "title": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
+    "order": 20,
+    "isCommon": true
+  },
+  {
+    "id": "d38e5e5d-d7c0-4c5a-8e5e-5dd7c0ec5a2d",
+    "title": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
+    "order": 21,
+    "isCommon": true
+  },
+  {
+    "id": "711c9f82-025c-4ef9-9c9f-82025c6ef97e",
+    "title": "ПЕРЕВЕЗЕННЯ ВАНТАЖУ",
+    "order": 22,
+    "isCommon": true
+  },
+  {
+    "id": "83bb78e3-aca2-44a6-bb78-e3aca2d4a671",
+    "title": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
+    "order": 23,
+    "isCommon": true
+  },
+  {
+    "id": "e6e1f2fe-e47e-4560-a1f2-fee47e5560a4",
+    "title": "НАВЧАЛЬНА ЇЗДА",
+    "order": 24,
+    "isCommon": true
+  },
+  {
+    "id": "30b0d9f8-803d-49fe-b0d9-f8803db9fee6",
+    "title": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
+    "order": 25,
+    "isCommon": true
+  },
+  {
+    "id": "d5e7a718-5870-41e6-a7a7-18587081e65e",
+    "title": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
+    "order": 26,
+    "isCommon": true
+  },
+  {
+    "id": "e5c9cc89-c575-472c-89cc-89c575d72c99",
+    "title": "РУХ ПО АВТОМАГІСТРАЛЯХ",
+    "order": 27,
+    "isCommon": true
+  },
+  {
+    "id": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "title": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
+    "order": 28,
+    "isCommon": true
+  },
+  {
+    "id": "0eed1349-be15-4fda-ad13-49be154fdafb",
+    "title": "МІЖНАРОДНИЙ РУХ",
+    "order": 29,
+    "isCommon": true
+  },
+  {
+    "id": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "title": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
+    "order": 30,
+    "isCommon": true
+  },
+  {
+    "id": "362af646-10af-42a8-aaf6-4610af42a872",
+    "title": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
+    "order": 31,
+    "isCommon": true
+  },
+  {
+    "id": "5594db8a-191c-4ea9-94db-8a191caea96a",
+    "title": "ОКРЕМІ ПИТАННЯ ДОРОЖНЬОГО РУХУ, ЩО ПОТРЕБУЮТЬ УЗГОДЖЕННЯ",
+    "order": 32,
+    "isCommon": true
+  },
+  {
+    "id": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "title": "ДОРОЖНІ ЗНАКИ",
+    "order": 33,
+    "isCommon": true
+  },
+  {
+    "id": "10e5201a-5b46-47cd-a520-1a5b4677cd02",
+    "title": "ДОРОЖНЯ РОЗМІТКА",
+    "order": 34,
+    "isCommon": true
+  },
+  {
+    "id": "1e524429-5d15-4bd5-9244-295d150bd5db",
+    "title": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
+    "order": 35,
+    "isCommon": true
+  },
+  {
+    "id": "d6a74c1a-7e70-4c33-a74c-1a7e70dc338a",
+    "title": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
+    "order": 36,
+    "isCommon": true
+  },
+  {
+    "id": "33c963a9-9685-460b-8963-a99685f60b57",
+    "title": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
+    "order": 37,
+    "isCommon": true
+  },
+  {
+    "id": "280ad55a-a854-411f-8ad5-5aa854e11f38",
+    "title": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
+    "order": 38,
+    "isCommon": true
+  },
+  {
+    "id": "e0c3e35d-54e6-4025-83e3-5d54e6202577",
+    "title": "ЄВРОПРОТОКОЛ",
+    "order": 39,
+    "isCommon": true
+  },
+  {
+    "id": "238205d9-40b6-49c6-8205-d940b6f9c645",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
+    "order": 40,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "1be95ff1-8534-44da-a95f-f1853464da42",
+        "licenceCategoryId": "A1"
+      },
+      {
+        "id": "4dca33b6-8f87-44ad-8a33-b68f8764ad8e",
+        "licenceCategoryId": "A"
+      }
+    ]
+  },
+  {
+    "id": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
+    "order": 41,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "fa592c05-2315-4dfb-992c-052315adfb89",
+        "licenceCategoryId": "A1"
+      },
+      {
+        "id": "075e1ecd-25d3-4123-9e1e-cd25d36123ce",
+        "licenceCategoryId": "A"
+      }
+    ]
+  },
+  {
+    "id": "4ab30695-b68f-4bf9-b306-95b68fabf91a",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
+    "order": 42,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "b08745da-c263-428b-8745-dac263028bea",
+        "licenceCategoryId": "A1"
+      },
+      {
+        "id": "beeabfe6-e0c0-4ebe-aabf-e6e0c09ebeae",
+        "licenceCategoryId": "A"
+      }
+    ]
+  },
+  {
+    "id": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
+    "order": 43,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "ae6f87b5-69a3-4365-af87-b569a373652d",
+        "licenceCategoryId": "A1"
+      },
+      {
+        "id": "979f2b2f-b286-4636-9f2b-2fb286d6360d",
+        "licenceCategoryId": "A"
+      }
+    ]
+  },
+  {
+    "id": "d4b3f9f3-43da-40cf-b3f9-f343daf0cf13",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
+    "order": 44,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "98d74fda-9a50-4ad0-974f-da9a500ad0a8",
+        "licenceCategoryId": "B1"
+      },
+      {
+        "id": "d65765ba-d8f1-4555-9765-bad8f1055506",
+        "licenceCategoryId": "B"
+      }
+    ]
+  },
+  {
+    "id": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
+    "order": 45,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "e9391f8f-2424-430f-b91f-8f2424e30f07",
+        "licenceCategoryId": "B1"
+      },
+      {
+        "id": "7e1aedd1-aaf2-4cf0-9aed-d1aaf2acf0fc",
+        "licenceCategoryId": "B"
+      }
+    ]
+  },
+  {
+    "id": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
+    "order": 46,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "cfc42815-8362-46ea-8428-15836246ea28",
+        "licenceCategoryId": "B1"
+      },
+      {
+        "id": "8805ef71-a79b-4778-85ef-71a79b177894",
+        "licenceCategoryId": "B"
+      }
+    ]
+  },
+  {
+    "id": "7a4950cd-5234-427d-8950-cd5234e27d11",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БЕЗПЕКА)",
+    "order": 47,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "a1546e3a-eec4-4b67-946e-3aeec4fb6773",
+        "licenceCategoryId": "B1"
+      },
+      {
+        "id": "ebb24f14-0959-416d-b24f-140959d16dcd",
+        "licenceCategoryId": "B"
+      }
+    ]
+  },
+  {
+    "id": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
+    "order": 48,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "68c82f73-92fa-4065-882f-7392faf06581",
+        "licenceCategoryId": "C1"
+      },
+      {
+        "id": "fc186817-e870-49fb-9868-17e87099fb9c",
+        "licenceCategoryId": "C"
+      }
+    ]
+  },
+  {
+    "id": "73ff2ced-f0f0-4e1a-bf2c-edf0f0ae1ac9",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
+    "order": 49,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "a64c581d-3b5c-4a2d-8c58-1d3b5cba2de1",
+        "licenceCategoryId": "C1"
+      },
+      {
+        "id": "14bf4627-a9f1-4504-bf46-27a9f1b504f1",
+        "licenceCategoryId": "C"
+      }
+    ]
+  },
+  {
+    "id": "a4428f64-e891-4ff2-828f-64e8915ff2d6",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
+    "order": 50,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "c542993e-aaf1-4f66-8299-3eaaf18f66e0",
+        "licenceCategoryId": "C1"
+      },
+      {
+        "id": "26f08d67-c543-4721-b08d-67c5436721ba",
+        "licenceCategoryId": "C"
+      }
+    ]
+  },
+  {
+    "id": "b2310cbe-952c-4fbe-b10c-be952c3fbec4",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
+    "order": 51,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "2a8957c8-a520-491e-8957-c8a520d91e6a",
+        "licenceCategoryId": "C1"
+      },
+      {
+        "id": "6a839cfd-0014-4c5c-839c-fd0014ec5cfd",
+        "licenceCategoryId": "C"
+      }
+    ]
+  },
+  {
+    "id": "5fe97969-939e-4739-a979-69939e7739db",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
+    "order": 52,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "3765d25f-eb34-445c-a5d2-5feb34445caa",
+        "licenceCategoryId": "D1"
+      },
+      {
+        "id": "2ee25a6d-0396-44be-a25a-6d039624be91",
+        "licenceCategoryId": "D"
+      }
+    ]
+  },
+  {
+    "id": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БУДОВА І ТЕРМІНИ)",
+    "order": 53,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "7d4940f9-92e5-43b8-8940-f992e5b3b802",
+        "licenceCategoryId": "D1"
+      },
+      {
+        "id": "f8d22d8b-6fe8-4b6b-922d-8b6fe84b6bb5",
+        "licenceCategoryId": "D"
+      }
+    ]
+  },
+  {
+    "id": "aa59a333-4515-402c-99a3-334515202c0d",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
+    "order": 54,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "6b9e2aec-bb4d-41a8-9e2a-ecbb4db1a84e",
+        "licenceCategoryId": "D1"
+      },
+      {
+        "id": "7aeacc14-66c6-4fe1-aacc-1466c60fe19a",
+        "licenceCategoryId": "D"
+      }
+    ]
+  },
+  {
+    "id": "37c07ab1-d2da-4955-807a-b1d2daa9559e",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
+    "order": 55,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "d741cb6f-bd1e-4011-81cb-6fbd1ed01180",
+        "licenceCategoryId": "D1"
+      },
+      {
+        "id": "20b574cf-9a2a-4cc8-b574-cf9a2a8cc8d7",
+        "licenceCategoryId": "D"
+      }
+    ]
+  },
+  {
+    "id": "1d004d36-1edc-4431-804d-361edc043149",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
+    "order": 56,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "cc2f2f33-00d6-40d1-af2f-3300d6c0d154",
+        "licenceCategoryId": "BE"
+      },
+      {
+        "id": "1ea14261-fdc8-485f-a142-61fdc8685f90",
+        "licenceCategoryId": "C1E"
+      },
+      {
+        "id": "e0d47e99-fa80-48c5-947e-99fa80c8c5bc",
+        "licenceCategoryId": "CE"
+      },
+      {
+        "id": "9510b8d9-8724-4c9a-90b8-d98724dc9a0c",
+        "licenceCategoryId": "D1E"
+      },
+      {
+        "id": "394ccecd-5e6d-4d21-8cce-cd5e6d8d214e",
+        "licenceCategoryId": "DE"
+      }
+    ]
+  },
+  {
+    "id": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БУДОВА И ТЕРМІНИ)",
+    "order": 57,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "5f2315d8-1ff5-4047-a315-d81ff590472e",
+        "licenceCategoryId": "BE"
+      },
+      {
+        "id": "9c9564b4-c931-43b0-9564-b4c931e3b001",
+        "licenceCategoryId": "C1E"
+      },
+      {
+        "id": "7e8cf448-6144-4321-8cf4-48614413210a",
+        "licenceCategoryId": "CE"
+      },
+      {
+        "id": "419446fb-3266-43d3-9446-fb326653d3c0",
+        "licenceCategoryId": "D1E"
+      },
+      {
+        "id": "ada704d9-f98f-4299-a704-d9f98fb299c1",
+        "licenceCategoryId": "DE"
+      }
+    ]
+  },
+  {
+    "id": "a81c874c-09f9-4202-9c87-4c09f9820277",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
+    "order": 58,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "de81aae4-d96b-42a5-81aa-e4d96bf2a5b7",
+        "licenceCategoryId": "BE"
+      },
+      {
+        "id": "415d30a0-6dce-4e3a-9d30-a06dce4e3ac4",
+        "licenceCategoryId": "C1E"
+      },
+      {
+        "id": "52d2d068-137f-4bc5-92d0-68137f3bc54e",
+        "licenceCategoryId": "CE"
+      },
+      {
+        "id": "9fbeaace-e330-4f68-beaa-cee3304f685b",
+        "licenceCategoryId": "D1E"
+      },
+      {
+        "id": "87799751-e0a0-4345-b997-51e0a0234550",
+        "licenceCategoryId": "DE"
+      }
+    ]
+  },
+  {
+    "id": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
+    "order": 59,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "4a9fa064-194e-4cbc-9fa0-64194efcbc71",
+        "licenceCategoryId": "BE"
+      },
+      {
+        "id": "25d9594b-d806-408e-9959-4bd806608ef5",
+        "licenceCategoryId": "C1E"
+      },
+      {
+        "id": "8983e3a5-e1fd-498d-83e3-a5e1fd298dc2",
+        "licenceCategoryId": "CE"
+      },
+      {
+        "id": "2e96e054-6277-418b-96e0-546277e18b80",
+        "licenceCategoryId": "D1E"
+      },
+      {
+        "id": "cbfed954-96d4-415e-bed9-5496d4e15e85",
+        "licenceCategoryId": "DE"
+      }
+    ]
+  },
+  {
+    "id": "74022e98-71d9-4f5f-822e-9871d94f5f39",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
+    "order": 60,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "c11ad970-8383-4054-9ad9-708383805472",
+        "licenceCategoryId": "T"
+      }
+    ]
+  },
+  {
+    "id": "7c1723ca-50ef-49f0-9723-ca50ef09f086",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БУДОВА І ТЕРМІНИ)",
+    "order": 61,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "2f9de56f-c365-4ac4-9de5-6fc3656ac456",
+        "licenceCategoryId": "T"
+      }
+    ]
+  },
+  {
+    "id": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
+    "order": 62,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "9ced4b0d-b29c-46c2-ad4b-0db29c26c28d",
+        "licenceCategoryId": "T"
+      }
+    ]
+  },
+  {
+    "id": "7a16f47d-c868-452a-96f4-7dc868a52a1a",
+    "title": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
+    "order": 63,
+    "isCommon": false,
+    "licenceCategoryList": [
+      {
+        "id": "f860730c-b073-4d19-a073-0cb073ed1959",
+        "licenceCategoryId": "T"
+      }
+    ]
+  }
+]
