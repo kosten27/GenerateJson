@@ -17,11 +17,14 @@ fun main() {
 //    val sectionId = Uuid.parse(sectionIdString)
 //    println("sectionId: $sectionId")
 
+    val sectionsWithImages = parseSectionsWithImages(File("src/main/resources/question_images.txt").readText())
+
     val sections = mutableListOf<Section>()
     var currentSection: Section? = null
+    var currentSectionWithImages: SectionImages? = null
     var currentQuestion: Question? = null
 
-    val sectionRegex = Regex("""^(\d+)\.\s+([A-ZА-ЯІЇЄҐ0-9\s'’\-(),]+)$""")
+    val sectionRegex = Regex("""^(\d+(.\d)?)\.\s+([A-ZА-ЯІЇЄҐ0-9\s'’\-(),]+)$""")
     val questionRegex = Regex("""^(\d+)\.\s+(.+)$""")
     val answerRegex = Regex("""^(\d+)\)\s+(.+)$""")
 
@@ -36,13 +39,18 @@ fun main() {
             // SECTION
             sectionRegex.matches(trimmed) -> {
                 val match = sectionRegex.find(trimmed)!!
-                val title = match.groupValues[2].trim()
-                val id = sectionList.find { it.title == title }?.id
+                val title = match.groupValues[3].trim()
+                val populateSectionModel = sectionList.find { it.title == title }
+                val id = populateSectionModel?.id
                 currentSection = Section(
                     id = id?.let { Uuid.parse(id) },
                     order = match.groupValues[1].trim(),
                     title = title
                 )
+                val sectionOrder = populateSectionModel?.let { model ->
+                    model.order.toString() + (model.suborder?.let { ".$it" } ?: "")
+                }
+                currentSectionWithImages = sectionsWithImages.find { it.sectionOrder == sectionOrder }
                 sections += currentSection!!
                 currentQuestion = null
             }
@@ -50,10 +58,17 @@ fun main() {
             // QUESTION
             questionRegex.matches(trimmed) -> {
                 val match = questionRegex.find(trimmed)!!
+                val questionOrder = match.groupValues[1].toInt()
+                var imageResId: String? = null
+                if (currentSectionWithImages?.questionsWithImage?.contains(questionOrder) == true) {
+                    val sectionOrder = currentSectionWithImages?.sectionOrder?.replace(".", "_")
+                    imageResId = "image_s${sectionOrder}_q${questionOrder}"
+                }
                 currentQuestion = Question(
                     id = Uuid.random(),
-                    order = match.groupValues[1].toInt(),
-                    text = match.groupValues[2].trim()
+                    order = questionOrder,
+                    text = match.groupValues[2].trim(),
+                    imageResId = imageResId
                 )
                 currentSection?.questions?.add(currentQuestion!!)
             }
@@ -75,6 +90,39 @@ fun main() {
 
 
 }
+
+fun parseSectionsWithImages(input: String): List<SectionImages> {
+    val lines = input.trim().lines()
+    val sectionRegex = Regex("""^(\d+(.\d)?):(.*)$""")
+
+    return lines.mapNotNull { line ->
+        val match = sectionRegex.matchEntire(line) ?: return@mapNotNull null
+
+        val sectionId = match.groupValues[1]
+        val raw = match.groupValues[3].trim()
+
+        if (raw.isEmpty()) {
+            SectionImages(sectionId, emptyList())
+        } else {
+            val questions = raw.split(",")
+                .flatMap { part ->
+                    if (part.contains("-")) {
+                        val (start, end) = part.split("-").map { it.toInt() }
+                        (start..end).toList()
+                    } else {
+                        listOf(part.toInt())
+                    }
+                }
+
+            SectionImages(sectionId, questions)
+        }
+    }
+}
+
+data class SectionImages(
+    val sectionOrder: String,
+    val questionsWithImage: List<Int>
+)
 
 data class Section(
     val id: Uuid?,
