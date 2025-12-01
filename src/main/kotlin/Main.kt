@@ -4,6 +4,8 @@ package org.example
 
 import PopulateSectionModel
 import kotlinx.serialization.json.Json
+import tech.uniapp.pdr.launch.domain.model.PopulateAnswerOptionModel
+import tech.uniapp.pdr.launch.domain.model.PopulateQuestionModel
 import java.io.File
 import kotlin.uuid.ExperimentalUuidApi
 import kotlin.uuid.Uuid
@@ -17,7 +19,23 @@ fun main() {
 //    val sectionId = Uuid.parse(sectionIdString)
 //    println("sectionId: $sectionId")
 
-    val sectionsWithImages = parseSectionsWithImages(File("src/main/resources/question_images.txt").readText())
+    val sectionsWithImagesString = parseSectionsWithImages(File("src/main/resources/question_images.txt").readText())
+    val answersString = File("src/main/resources/answers.txt").readText().split("\n")
+
+    val answerSectionRegex = Regex("""^(\d*.\d*):(.+)""")
+    val answerPairRegex = Regex("""(\d+)-(\d+)""")
+    val answerMap: MutableMap<String, Map<Int, Int>> = mutableMapOf()
+    answersString.forEach { line ->
+        if (answerSectionRegex.matches(line)) {
+            val matchResult = answerSectionRegex.find(line)!!
+            val sectionId = matchResult.groupValues[1]
+            val sectionAnswers = answerPairRegex.findAll(matchResult.groupValues[2]).map {
+                val (a, b) = it.destructured
+                a.toInt() to b.toInt()
+            }.toMap()
+            answerMap[sectionId] = sectionAnswers
+        }
+    }
 
     val sections = mutableListOf<Section>()
     var currentSection: Section? = null
@@ -50,7 +68,7 @@ fun main() {
                 val sectionOrder = populateSectionModel?.let { model ->
                     model.order.toString() + (model.suborder?.let { ".$it" } ?: "")
                 }
-                currentSectionWithImages = sectionsWithImages.find { it.sectionOrder == sectionOrder }
+                currentSectionWithImages = sectionsWithImagesString.find { it.sectionOrder == sectionOrder }
                 sections += currentSection!!
                 currentQuestion = null
             }
@@ -76,15 +94,44 @@ fun main() {
             // ANSWER
             answerRegex.matches(trimmed) -> {
                 val match = answerRegex.find(trimmed)!!
+                val sectionId = currentSection?.order
+                val questionNumber = currentQuestion?.order
+                val optionPosition = match.groupValues[1].toInt()
                 val answer = Answer(
                     id = Uuid.random(),
-                    position = match.groupValues[1].toInt(),
-                    text = match.groupValues[2].trim()
+                    position = optionPosition,
+                    text = match.groupValues[2].trim(),
+                    isCorrect = answerMap[sectionId]?.get(questionNumber) == optionPosition
                 )
                 currentQuestion?.answerOptionList?.add(answer)
             }
         }
 
+    }
+    val generatedData = sections.associate { section ->
+        val sectionNumber = section.order.replace(".", "_")
+        val fileName = "questions_section${sectionNumber}.json"
+        val questions = section.questions.map { question ->
+            PopulateQuestionModel(
+                id = question.id.toString(),
+                sectionId = section.id.toString(),
+                order = question.order,
+                text = question.text,
+                imageResId = question.imageResId,
+                answerOptionList = question.answerOptionList.map { answerOption ->
+                    PopulateAnswerOptionModel(
+                        id = answerOption.id.toString(),
+                        position = answerOption.position,
+                        text = answerOption.text,
+                        isCorrect = answerOption.isCorrect
+                    )
+                }
+            )
+        }
+        fileName to questions
+    }
+    generatedData.forEach { fileName, questions ->
+        val questionsEncodedJson = Json.encodeToString(questions)
     }
     println(text.length)
 
