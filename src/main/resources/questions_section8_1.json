@@ -1,0 +1,2392 @@
+[
+  {
+    "id": "14d33845-d53d-47ce-86c9-1c4c5aa21637",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 1,
+    "text": "Водіям яких транспортних засобів дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q1",
+    "answerOptionList": [
+      {
+        "id": "2c68f1d9-bbc3-46be-8cae-b4062c7bebef",
+        "position": 1,
+        "text": "Синього – ліворуч, жовтого – прямо, червоного – праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "be13963d-afa8-4966-ba56-7b128c573311",
+        "position": 2,
+        "text": "Синього – ліворуч або розворот.",
+        "isCorrect": true
+      },
+      {
+        "id": "085135d5-ce96-416f-bde4-62d5f53c34f1",
+        "position": 3,
+        "text": "Синього – ліворуч, жовтого – прямо.",
+        "isCorrect": false
+      },
+      {
+        "id": "6aed7262-e9ce-451e-9ad2-9770756bf73f",
+        "position": 4,
+        "text": "Синього – ліворуч, червоного – праворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "646d2701-ae2d-4b8b-a3ff-0a79267c2ce8",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 2,
+    "text": "Ви правильно виконали поворот праворуч у цій ситуації, якщо:",
+    "imageResId": "image_s8_1_q2",
+    "answerOptionList": [
+      {
+        "id": "1738f9a2-4feb-459b-9be7-2a0e3fce1920",
+        "position": 1,
+        "text": "Зупинилися перед стоп-лінією і, дочекавшись дозвільного сигналу регулювальника, продовжили рух.",
+        "isCorrect": false
+      },
+      {
+        "id": "95139ff4-58b1-4ef7-bfde-2c7d91d70dcb",
+        "position": 2,
+        "text": "Повернули на зображений на малюнку сигнал регулювальника, давши дорогу пішоходам.",
+        "isCorrect": true
+      },
+      {
+        "id": "cfc6af95-0654-49ce-8bf6-f549ef6dea6c",
+        "position": 3,
+        "text": "Повернули на зображений на малюнку сигнал регулювальника, не даючи дороги пішоходам.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "813957d7-8b37-4e83-a95c-d9914e78b04e",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 3,
+    "text": "Чи дозволено Вам повернути праворуч у даній ситуації?",
+    "imageResId": "image_s8_1_q3",
+    "answerOptionList": [
+      {
+        "id": "9a9d7744-96ce-4d15-99a5-6d922157d38a",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": true
+      },
+      {
+        "id": "f86bd1e1-3230-4572-9b31-0c0622eb4e8e",
+        "position": 2,
+        "text": "Дозволено, даючи дорогу пішоходам.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c62d7950-be49-4da4-97de-45930120cd7a",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 4,
+    "text": "Кому дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q4",
+    "answerOptionList": [
+      {
+        "id": "d03b9d5d-cb6b-489e-bc54-219f933d6be3",
+        "position": 1,
+        "text": "Тільки трамваю.",
+        "isCorrect": false
+      },
+      {
+        "id": "7387cac9-d34f-4ac9-86f1-d5752170eef5",
+        "position": 2,
+        "text": "Тільки автомобілю.",
+        "isCorrect": false
+      },
+      {
+        "id": "b5c18991-7195-4e49-8442-f82675bbc1bc",
+        "position": 3,
+        "text": "Обом транспортним засобам.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3438b879-1532-49be-b578-0cfef01916c5",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 5,
+    "text": "Чи дозволено Вам рух у даній ситуації?",
+    "imageResId": "image_s8_1_q5",
+    "answerOptionList": [
+      {
+        "id": "15183617-3013-41e1-95f9-5e211f4d1250",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "45c9506a-a27c-4916-bbe4-22deffb066d2",
+        "position": 2,
+        "text": "Дозволено, але треба дати дорогу трамваю.",
+        "isCorrect": false
+      },
+      {
+        "id": "750d94ff-f3ef-4af3-992a-1ac664b3582a",
+        "position": 3,
+        "text": "Дозволено тільки Вам.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "1db9924c-87a7-482c-9133-4c40efff1d4c",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 6,
+    "text": "Чи повинен водій синього автомобіля, повертаючи праворуч, дати дорогу пішоходам?",
+    "imageResId": "image_s8_1_q6",
+    "answerOptionList": [
+      {
+        "id": "584d02bc-dace-456a-856e-6941d2361465",
+        "position": 1,
+        "text": "Повинен.",
+        "isCorrect": true
+      },
+      {
+        "id": "7f05b0ae-be3d-475b-896d-88bdfd9df72e",
+        "position": 2,
+        "text": "Не повинен.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "79bddf5c-f04f-4c97-a6df-e3be052eef96",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 7,
+    "text": "Чи дозволено Вам рух у даній ситуації?",
+    "imageResId": "image_s8_1_q7",
+    "answerOptionList": [
+      {
+        "id": "8365e3b3-0c31-4549-a0d8-e6ce920727b3",
+        "position": 1,
+        "text": "Дозволено праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "799950cc-9ff9-45af-9f0e-e200ad3b092a",
+        "position": 2,
+        "text": "Дозволено прямо і праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "0747ea77-da96-4466-bca2-b05a4b43dd43",
+        "position": 3,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3cfa2f2f-4bfe-4a7e-a6cc-377ded63cbf1",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 8,
+    "text": "Чи дозволено Вам повернути ліворуч у даній ситуації?",
+    "imageResId": "image_s8_1_q8",
+    "answerOptionList": [
+      {
+        "id": "e19c68ef-ea36-425e-8bbd-bd146c1bb0f1",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": true
+      },
+      {
+        "id": "864ad0e9-607a-46d2-bc90-f04ded50ebdf",
+        "position": 2,
+        "text": "Дозволено, давши дорогу зустрічному автомобілю.",
+        "isCorrect": false
+      },
+      {
+        "id": "1d7e0eeb-136e-4d88-ac1f-24889888f2cb",
+        "position": 3,
+        "text": "Дозволено, не даючи дорогу зустрічному автомобілю.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cc8aaa63-3b98-4652-90cb-1994ed45a35f",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 9,
+    "text": "У яких напрямках дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q9",
+    "answerOptionList": [
+      {
+        "id": "f78e762b-b540-4f0d-99d0-52c83bddc730",
+        "position": 1,
+        "text": "Прямо.",
+        "isCorrect": false
+      },
+      {
+        "id": "96c86fa7-2476-42e2-ba5e-9be13e81b0ac",
+        "position": 2,
+        "text": "Прямо або ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "8e01a896-05f4-42a2-a5fc-33713a1014fe",
+        "position": 3,
+        "text": "Прямо або праворуч.",
+        "isCorrect": true
+      },
+      {
+        "id": "6b1badbe-43c8-419f-8dbc-e7dc0c070cdc",
+        "position": 4,
+        "text": "Праворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bf533d12-1609-40c1-b56d-02aa96645ba3",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 10,
+    "text": "Чи дозволено Вам повернути праворуч у даній ситуації?",
+    "imageResId": "image_s8_1_q10",
+    "answerOptionList": [
+      {
+        "id": "b545be99-34df-4d35-a28b-1bee29500492",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "4d04bb6d-845b-4aed-9f40-8f00e5b8536c",
+        "position": 2,
+        "text": "Дозволено, не даючи дорогу пішоходам.",
+        "isCorrect": false
+      },
+      {
+        "id": "139fed23-d8f2-4d67-94b8-9f7978b65814",
+        "position": 3,
+        "text": "Дозволено, даючи дорогу пішоходам.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8e744a61-78b1-4fe4-9817-46b119976ce9",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 11,
+    "text": "Чи дозволено Вам рух у напрямку, вказаному стрілкою в додатковій секції світлофора?",
+    "imageResId": "image_s8_1_q11",
+    "answerOptionList": [
+      {
+        "id": "5bfcef95-a54f-4519-8f1d-7f5537adf497",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "d2a69558-4b16-4707-bbd2-f743d73ebaeb",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "607dd1d7-aa57-4f48-8ff8-e11d13b9a9ad",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 12,
+    "text": "Звуковий сигнал, який додатково увімкнений до сигналу світлофора, що регулює рух пішоходів:",
+    "imageResId": "image_s8_1_q12",
+    "answerOptionList": [
+      {
+        "id": "f8e23842-5ec9-4fa7-9c86-8f8a7c493b41",
+        "position": 1,
+        "text": "Призначений для пішоходів з порушенням зору – забороняє їм рух через дорогу.",
+        "isCorrect": false
+      },
+      {
+        "id": "13d1ef7c-5222-4acc-bc75-3b33728906d6",
+        "position": 2,
+        "text": "Призначений для пішоходів з порушенням зору – дозволяє їм рух.",
+        "isCorrect": true
+      },
+      {
+        "id": "ca38eed2-af81-4037-a660-7193cd5273ae",
+        "position": 3,
+        "text": "Призначений для привернення уваги пішоходів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fb601f4f-794f-4783-9b0b-602282990785",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 13,
+    "text": "На яких учасників дорожнього руху поширює свою дію даний світлофор?",
+    "imageResId": "image_s8_1_q13",
+    "answerOptionList": [
+      {
+        "id": "bbabbdb5-c968-43bc-99a9-4ff6cb35ad7a",
+        "position": 1,
+        "text": "На пішоходів.",
+        "isCorrect": true
+      },
+      {
+        "id": "8fbbdb72-d464-4088-9c99-088158b49857",
+        "position": 2,
+        "text": "На транспортні засоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "94d16bc5-e89d-4ce5-a3bb-024e7d4a1bd5",
+        "position": 3,
+        "text": "На транспортні засоби та пішоходів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b0688dff-481e-4e66-bca1-c9b82c794070",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 14,
+    "text": "Який світлофор застосовується для регулювання руху через залізничні переїзди?",
+    "imageResId": "image_s8_1_q14",
+    "answerOptionList": [
+      {
+        "id": "5efbc0c2-c1b9-4c38-a57d-58a993afad33",
+        "position": 1,
+        "text": "Світлофор 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "6d53ca6c-8cc3-48b0-9258-c1e9ae95c3ce",
+        "position": 2,
+        "text": "Світлофор 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "22ebe2e7-4ffc-4a11-9ae5-e9e8c156bd82",
+        "position": 3,
+        "text": "Світлофор 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "3bd8f8b8-666c-4c66-92a8-43568a9e8116",
+        "position": 4,
+        "text": "Світлофори 1 і 2.",
+        "isCorrect": true
+      },
+      {
+        "id": "97396e35-5995-4bf1-9365-937e8103baf7",
+        "position": 5,
+        "text": "Світлофори 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1bc91ef7-225f-4c81-a7ab-1c12115b3e77",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 15,
+    "text": "На якому світлофорі горить сигнал, що дозволяє трамваю повернути праворуч?",
+    "imageResId": "image_s8_1_q15",
+    "answerOptionList": [
+      {
+        "id": "183ad769-e715-4d66-a2d9-529c90768f32",
+        "position": 1,
+        "text": "На третьому і четвертому.",
+        "isCorrect": false
+      },
+      {
+        "id": "7e8da718-8869-4f2b-8d45-cb4b5ba9f9ee",
+        "position": 2,
+        "text": "Тільки на четвертому.",
+        "isCorrect": false
+      },
+      {
+        "id": "b6ba4b46-1504-473f-badd-1519b18ebb74",
+        "position": 3,
+        "text": "На другому світлофорі.",
+        "isCorrect": true
+      },
+      {
+        "id": "26b5f0c4-c7f8-4daf-bfe4-6cf72f54b59c",
+        "position": 4,
+        "text": "На другому і четвертому.",
+        "isCorrect": false
+      },
+      {
+        "id": "70f152ee-6037-41c6-a8d7-d42832e87249",
+        "position": 5,
+        "text": "На першому і другому.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ddd114ea-799f-4d00-ac8d-b94eff78225d",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 16,
+    "text": "У цій ситуації рух дозволено:",
+    "imageResId": "image_s8_1_q16",
+    "answerOptionList": [
+      {
+        "id": "081b62db-7590-4846-a468-a72ccf446bc1",
+        "position": 1,
+        "text": "Трамваю й автомобілю.",
+        "isCorrect": false
+      },
+      {
+        "id": "00991811-6f11-40b7-9ca4-7da7f2f92984",
+        "position": 2,
+        "text": "Трамваю і мотоциклу.",
+        "isCorrect": false
+      },
+      {
+        "id": "08b5f916-1b76-42c2-bb7f-27d0544a590c",
+        "position": 3,
+        "text": "Автомобілю і мотоциклу.",
+        "isCorrect": true
+      },
+      {
+        "id": "d09857c3-fa3b-4844-9c43-ed34d68a5c91",
+        "position": 4,
+        "text": "Тільки трамваю.",
+        "isCorrect": false
+      },
+      {
+        "id": "7beac62b-257e-4314-a5e1-6b58eb51dc73",
+        "position": 5,
+        "text": "Усім переліченим вище транспортним засобам.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0d495e0a-0a9f-4f83-8d9f-0c5618cbead7",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 17,
+    "text": "Чи дозволено рух трамвая в цій ситуації?",
+    "imageResId": "image_s8_1_q17",
+    "answerOptionList": [
+      {
+        "id": "8e5bef8e-7e1d-4698-895b-7fd04d3aa103",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "ca42bc6c-ef03-42fa-93f8-d098161b37fc",
+        "position": 2,
+        "text": "Дозволено прямо, праворуч або ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "7cce1c8b-2bc2-4002-a62e-de4d5e95160b",
+        "position": 3,
+        "text": "Дозволено прямо або ліворуч.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a4564021-6d60-41a3-8c34-d2cab07a21d1",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 18,
+    "text": "Яким автомобілям дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q18",
+    "answerOptionList": [
+      {
+        "id": "8040c6c2-bc45-4216-8516-c57b5da8a682",
+        "position": 1,
+        "text": "Білому і синьому.",
+        "isCorrect": false
+      },
+      {
+        "id": "1cdfafe0-fc6e-4b50-8c59-87942fd4d9d2",
+        "position": 2,
+        "text": "Синьому і сірому.",
+        "isCorrect": false
+      },
+      {
+        "id": "02b462b2-5589-4ee3-8160-d0f72b6ace05",
+        "position": 3,
+        "text": "Жовтому і синьому.",
+        "isCorrect": true
+      },
+      {
+        "id": "b7ebafd2-515b-4323-a783-2e553df0abca",
+        "position": 4,
+        "text": "Синьому і білому.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "317bff81-8906-4359-a180-20354ebaed19",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 19,
+    "text": "У яких напрямках Вам дозволено рух?",
+    "imageResId": "image_s8_1_q19",
+    "answerOptionList": [
+      {
+        "id": "0e45910e-76be-4b67-928b-17f5825a61a8",
+        "position": 1,
+        "text": "Праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "63889403-2871-452a-b921-01ba24782f42",
+        "position": 2,
+        "text": "Прямо.",
+        "isCorrect": false
+      },
+      {
+        "id": "b228380a-cc1e-454a-a5d1-9ad5eb1daf4c",
+        "position": 3,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "f48643b3-69fc-4565-8e29-fd5b016cc7b3",
+        "position": 4,
+        "text": "Прямо або праворуч.",
+        "isCorrect": true
+      },
+      {
+        "id": "ad6097eb-fb4f-4abf-88b7-75a779298e41",
+        "position": 5,
+        "text": "Ліворуч або праворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "371a7999-6b82-45e8-9879-011579daa75f",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 20,
+    "text": "Яким транспортним засобам дозволено рух на даний жест регулювальника?",
+    "imageResId": "image_s8_1_q20",
+    "answerOptionList": [
+      {
+        "id": "0d08ed16-c3db-4f14-914f-009e608940a9",
+        "position": 1,
+        "text": "Усім транспортним засобам.",
+        "isCorrect": false
+      },
+      {
+        "id": "f0b0598e-5b8f-48f0-9773-e880ef1ef073",
+        "position": 2,
+        "text": "Трамваю і білому автомобілю.",
+        "isCorrect": false
+      },
+      {
+        "id": "a39efde9-bcf5-4625-b752-c7274f034372",
+        "position": 3,
+        "text": "Трамваю і синьому автомобілю.",
+        "isCorrect": false
+      },
+      {
+        "id": "6d167a61-c998-4e41-84c2-5ee318462e6e",
+        "position": 4,
+        "text": "Білому і синьому автомобілям.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "5fbcec52-39af-4432-9693-7677f7a3e3ee",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 21,
+    "text": "У якому напрямку Вам дозволено рух в показаній ситуації?",
+    "imageResId": "image_s8_1_q21",
+    "answerOptionList": [
+      {
+        "id": "2690dc2e-dda8-4776-8e74-84c122703036",
+        "position": 1,
+        "text": "Прямо.",
+        "isCorrect": false
+      },
+      {
+        "id": "3521d5ce-d3cb-4d09-8d85-221a54ee5721",
+        "position": 2,
+        "text": "Прямо, праворуч, ліворуч або розворот.",
+        "isCorrect": true
+      },
+      {
+        "id": "0eaac21d-0ac7-4a60-95a5-33b47ae94269",
+        "position": 3,
+        "text": "Прямо, праворуч і ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "34e75c2c-a3c0-4af2-ad7e-a0f22413637f",
+        "position": 4,
+        "text": "Прямо і праворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a41cd5c4-ea31-4ea5-96d4-47ce784b39c3",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 22,
+    "text": "Як Ви повинні вчинити в даній ситуації?",
+    "imageResId": "image_s8_1_q22",
+    "answerOptionList": [
+      {
+        "id": "fad690c5-271d-4877-9fb6-103b262c6e6f",
+        "position": 1,
+        "text": "Зупинитися в місці, на яке вкаже поліцейський, з дотриманням правил зупинки.",
+        "isCorrect": true
+      },
+      {
+        "id": "15126921-0f39-4a2b-a349-613c47a60e9f",
+        "position": 2,
+        "text": "Зупинитися біля правого або лівого краю проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "3433de16-b513-42f7-a2d9-4c5cfea1b690",
+        "position": 3,
+        "text": "Зупинитися, не змінюючи смуги руху.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4db1217a-4a0e-49f9-8396-5c5316aadd90",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 23,
+    "text": "Як Ви повинні діяти в цій ситуації, якщо співробітник поліції подає Вам сигнал про зупинку?",
+    "imageResId": "image_s8_1_q23",
+    "answerOptionList": [
+      {
+        "id": "f29b6435-7d3c-420c-a2e4-551863f041d2",
+        "position": 1,
+        "text": "Зупинити свій транспортний засіб у місці, на яке Вам буде вказано, з дотриманням правил зупинки.",
+        "isCorrect": true
+      },
+      {
+        "id": "d3de35c8-da08-4e0e-be12-c2c87cbdd103",
+        "position": 2,
+        "text": "Зупинитися, але тільки з лівого боку проїжджої частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "480e07eb-5257-4dbd-b3f8-fa00d9fbdffd",
+        "position": 3,
+        "text": "Зупинитися безпосередньо біля поліцейського.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "080b264b-c6c8-4360-9ccf-716c27082338",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 24,
+    "text": "Яким учасникам дорожнього руху дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q24",
+    "answerOptionList": [
+      {
+        "id": "e07e1a9e-47ea-4788-aa4a-6a03cb9e6fc0",
+        "position": 1,
+        "text": "Транспортним засобам.",
+        "isCorrect": false
+      },
+      {
+        "id": "662ee3d3-991a-4601-80b9-4700c1d9843f",
+        "position": 2,
+        "text": "Пішоходам.",
+        "isCorrect": false
+      },
+      {
+        "id": "4364e381-4aad-48c6-b6ad-b09c23059218",
+        "position": 3,
+        "text": "Транспортним засобам і пішоходам.",
+        "isCorrect": false
+      },
+      {
+        "id": "32a67913-b8ad-44bd-ad52-ba5aca6e4409",
+        "position": 4,
+        "text": "Нікому.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e93bbb3b-c3ee-4455-99d4-fd17c485cce3",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 25,
+    "text": "На даний сигнал регулювальника рух дозволено:",
+    "imageResId": "image_s8_1_q25",
+    "answerOptionList": [
+      {
+        "id": "5442ac88-363d-4676-b910-fc9d04b9d976",
+        "position": 1,
+        "text": "Жовтому автомобілю.",
+        "isCorrect": true
+      },
+      {
+        "id": "b721d547-ce20-48b6-b3ad-c3c53549ee80",
+        "position": 2,
+        "text": "Чорному і білому автомобілям.",
+        "isCorrect": false
+      },
+      {
+        "id": "3e024359-f567-4b07-9eb6-2b51a5bca9c2",
+        "position": 3,
+        "text": "Червоному, білому і жовтому автомобілям.",
+        "isCorrect": false
+      },
+      {
+        "id": "6ee19a8f-55cb-449d-87ac-77c451cfb4ca",
+        "position": 4,
+        "text": "Червоному і білому автомобілям.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e85ac92c-1bea-4561-8b2c-97ef579d4d37",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 26,
+    "text": "Чи дозволено Вам рух у даній ситуації?",
+    "imageResId": "image_s8_1_q26",
+    "answerOptionList": [
+      {
+        "id": "7fb5343e-3b27-493b-858b-373b1c711a42",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "a445606f-a9db-4320-8145-1734e0064d6b",
+        "position": 2,
+        "text": "Дозволено прямо.",
+        "isCorrect": false
+      },
+      {
+        "id": "b14e7b1a-c884-4d24-b3a7-3b9d4525fb3e",
+        "position": 3,
+        "text": "Дозволено праворуч.",
+        "isCorrect": true
+      },
+      {
+        "id": "24f12cc1-82c5-4b1e-bea8-d6dac55d7cc6",
+        "position": 4,
+        "text": "Дозволено праворуч і прямо.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b5f3ec84-ceff-43b8-a606-ebcc34d96f72",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 27,
+    "text": "На даний сигнал регулювальника рух дозволено:",
+    "imageResId": "image_s8_1_q27",
+    "answerOptionList": [
+      {
+        "id": "7e12df2b-c70c-4068-85c2-4533b7e91a6c",
+        "position": 1,
+        "text": "Зеленому, синьому і жовтому автомобілям.",
+        "isCorrect": false
+      },
+      {
+        "id": "0a4a77bd-05c5-4210-9308-81e6dd2c1bd5",
+        "position": 2,
+        "text": "Жовтому і зеленому автомобілям.",
+        "isCorrect": true
+      },
+      {
+        "id": "4d30ee8f-ab02-475e-bc75-9b2251b63dd9",
+        "position": 3,
+        "text": "Чорному і зеленому автомобілям.",
+        "isCorrect": false
+      },
+      {
+        "id": "993da28d-7bb1-48a2-92da-1a84a17f59c2",
+        "position": 4,
+        "text": "Жовтому автомобілю.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "70ac03d0-3f33-463a-87fa-8009923fb9cc",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 28,
+    "text": "Чи дозволено Вам рух у даній ситуації?",
+    "imageResId": "image_s8_1_q28",
+    "answerOptionList": [
+      {
+        "id": "0e2a6083-c2bc-4e39-8392-33bee2f12e76",
+        "position": 1,
+        "text": "Рух заборонено.",
+        "isCorrect": true
+      },
+      {
+        "id": "5d00ec8d-e6ef-4018-8c23-e56a01dadd28",
+        "position": 2,
+        "text": "Дозволено праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "299831cd-5d40-4ecd-942a-0a5a48b7b0bd",
+        "position": 3,
+        "text": "Дозволено ліворуч або на розворот.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5077bba7-78ca-4faf-a0b4-da1687b5b582",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 29,
+    "text": "Чи дозволено Вам рух у даній ситуації?",
+    "imageResId": "image_s8_1_q29",
+    "answerOptionList": [
+      {
+        "id": "c4f8dcb5-a758-46a5-9159-efac6c4760d7",
+        "position": 1,
+        "text": "Дозволено праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "8517e673-c513-41e6-83d4-d6f43799d467",
+        "position": 2,
+        "text": "Дозволено праворуч і ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "59cd2209-405b-4a65-a335-ea5785815b6e",
+        "position": 3,
+        "text": "Рух заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "bf8a398b-ab48-4ded-b682-ee488c702b84",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 30,
+    "text": "У якому з місць пішоходам дозволено перехід проїзної частини в даній ситуації?",
+    "imageResId": "image_s8_1_q30",
+    "answerOptionList": [
+      {
+        "id": "9b94e232-7ecf-4e3e-9ce8-496a3c0b985a",
+        "position": 1,
+        "text": "У місці Г.",
+        "isCorrect": true
+      },
+      {
+        "id": "51435abe-186b-4165-8687-82194e3a35f3",
+        "position": 2,
+        "text": "У місцях Б і Г.",
+        "isCorrect": false
+      },
+      {
+        "id": "378cfb8d-055f-4784-a50a-a0d50d32a49a",
+        "position": 3,
+        "text": "У місці Б.",
+        "isCorrect": false
+      },
+      {
+        "id": "f977a9f3-88ff-4185-a417-4b63be0db125",
+        "position": 4,
+        "text": "У всіх місцях.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "dee6616f-51fd-4bc4-ae55-b880d280d4e2",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 31,
+    "text": "На даний сигнал регулювальника рух дозволено:",
+    "imageResId": "image_s8_1_q31",
+    "answerOptionList": [
+      {
+        "id": "71696893-f68b-4f59-bd5e-75429de8cd81",
+        "position": 1,
+        "text": "Трамваям 1 і 2, а також білому автомобілю.",
+        "isCorrect": false
+      },
+      {
+        "id": "904ee118-cc17-4a10-9c22-cee75581b1ff",
+        "position": 2,
+        "text": "Трамваям 1 і 2, сірому і білому автомобілям.",
+        "isCorrect": true
+      },
+      {
+        "id": "ce740c14-8786-46a0-8b4e-c5112a0410c5",
+        "position": 3,
+        "text": "Трамваю 1, білому і сірому автомобілям.",
+        "isCorrect": false
+      },
+      {
+        "id": "c982a3f4-bf71-4c0a-ae4b-b7df22381196",
+        "position": 4,
+        "text": "Трамваю 2 і білому автомобілю.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ed8b292d-d94e-49f2-afea-f81ebeaf37f9",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 32,
+    "text": "На даний сигнал регулювальника трамваю дозволено рух:",
+    "imageResId": "image_s8_1_q32",
+    "answerOptionList": [
+      {
+        "id": "9846f6bf-7a94-4a47-ac1f-387826eb0be7",
+        "position": 1,
+        "text": "Прямо або праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "838709a6-bf2b-49ec-8bb0-913e6c9432a9",
+        "position": 2,
+        "text": "Прямо або ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "3a31c552-82ed-41d7-93c3-0a074ffafa47",
+        "position": 3,
+        "text": "Ліворуч або праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "373a387d-3488-4979-bc34-d72dc2ea3c44",
+        "position": 4,
+        "text": "Ліворуч.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d2882e8f-88c2-4ece-9432-c63b845f83fa",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 33,
+    "text": "У якому напрямку Ви можете продовжити рух у даній ситуації?",
+    "imageResId": "image_s8_1_q33",
+    "answerOptionList": [
+      {
+        "id": "8ab6acd3-2fba-475c-9b00-5fd17315a551",
+        "position": 1,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "77808eab-729a-41e3-9f4a-c7d6eb4f7262",
+        "position": 2,
+        "text": "У зворотному напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "4211c6e6-c5c1-4fe4-9078-034a663d2e04",
+        "position": 3,
+        "text": "Ліворуч або у зворотному напрямку.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "ea14e417-aaf5-44a2-b7d1-a26e6128f0d6",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 34,
+    "text": "У якому напрямку Ви можете продовжити рух на даний сигнал регулювальника?",
+    "imageResId": "image_s8_1_q34",
+    "answerOptionList": [
+      {
+        "id": "ce941c66-246b-4458-9771-4e51dfb6c579",
+        "position": 1,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "44baa0ff-2402-4d57-9b88-a9114678b1f5",
+        "position": 2,
+        "text": "Прямо або праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "6377ac89-1e9d-4811-a3e1-b534e96c8ea3",
+        "position": 3,
+        "text": "Прямо або ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "04145e5b-f3fb-4cd1-b4ef-34352e69ef07",
+        "position": 4,
+        "text": "Прямо, праворуч або ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "68e63e3d-506d-40fc-8c67-cf54157381c0",
+        "position": 5,
+        "text": "Прямо, праворуч, ліворуч або у зворотному напрямку.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "61cbee80-ee6d-4cc0-8ab8-5846c6fc9ede",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 35,
+    "text": "Чи дозволено Вам рух прямо в даній ситуації?",
+    "imageResId": "image_s8_1_q35",
+    "answerOptionList": [
+      {
+        "id": "101436fe-ab00-4ab0-8aee-a899ca09580f",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "c44d71d5-1b00-428c-aefd-8df3785e48f1",
+        "position": 2,
+        "text": "Дозволено за умови, що Ви дасте дорогу трамваю.",
+        "isCorrect": false
+      },
+      {
+        "id": "48184548-84da-4405-baa7-3ae03a069c86",
+        "position": 3,
+        "text": "Дозволено тільки Вам, рух трамваю заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c4f45e23-b9c8-47d3-8de2-975199921438",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 36,
+    "text": "Яким автомобілям дозволено рух на даний жест регулювальника?",
+    "imageResId": "image_s8_1_q36",
+    "answerOptionList": [
+      {
+        "id": "6bcac7c9-6b91-4d38-aba6-bf3f2b705c20",
+        "position": 1,
+        "text": "Усім.",
+        "isCorrect": true
+      },
+      {
+        "id": "0bc390f9-9f0f-4126-879c-10bd120f0a9c",
+        "position": 2,
+        "text": "Червоному і жовтому.",
+        "isCorrect": false
+      },
+      {
+        "id": "5a394da1-8134-4e23-bc4a-3194bb8990e1",
+        "position": 3,
+        "text": "Червоному.",
+        "isCorrect": false
+      },
+      {
+        "id": "21666fa2-be42-4fef-b048-ec82282f5102",
+        "position": 4,
+        "text": "Жовтому і сірому.",
+        "isCorrect": false
+      },
+      {
+        "id": "8b11b6c1-b6b2-447e-8d8e-968b0250bdc2",
+        "position": 5,
+        "text": "Сірому і червоному.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3e12d4db-90c8-49d2-9ccc-f69dded89ca7",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 37,
+    "text": "Для регулювання руху яких транспортних засобів застосовується даний світлофор?",
+    "imageResId": "image_s8_1_q37",
+    "answerOptionList": [
+      {
+        "id": "93feca27-db96-4e0d-826c-c55f5e7aa527",
+        "position": 1,
+        "text": "Маршрутних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "8fac0422-226e-4e57-b34f-a4da4c56d81d",
+        "position": 2,
+        "text": "Трамваїв.",
+        "isCorrect": true
+      },
+      {
+        "id": "065fe411-11dc-4b4d-a984-ae5ee46a523a",
+        "position": 3,
+        "text": "Тролейбусів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bcf1950b-cd63-4f16-a384-e745ef988d5e",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 38,
+    "text": "Чи дозволено водієві червоного автомобіля в даній ситуації виконати випередження вантажного автомобіля з лівого боку?",
+    "imageResId": "image_s8_1_q38",
+    "answerOptionList": [
+      {
+        "id": "266fd707-04a5-4bec-827b-c96d872423f1",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "9ef62b36-acdd-4b77-af6e-4db371598cab",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fac632ff-30da-47f0-b4e4-4f6e91584d83",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 39,
+    "text": "Проїжджаючи дане перехрестя, водії повинні керуватися:",
+    "imageResId": "image_s8_1_q39",
+    "answerOptionList": [
+      {
+        "id": "3233640d-a39e-4c49-a4c4-9ce703ce16c1",
+        "position": 1,
+        "text": "Знаками пріоритету.",
+        "isCorrect": false
+      },
+      {
+        "id": "fdb2b9b8-969e-412f-b081-c8aa4869669a",
+        "position": 2,
+        "text": "Сигналами світлофора.",
+        "isCorrect": true
+      },
+      {
+        "id": "3c8e87e2-3001-4e0b-9916-575baa9cf9ce",
+        "position": 3,
+        "text": "Вірні обидва варіанти.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f1393d29-c89a-45ba-98d5-ab248d7795d3",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 40,
+    "text": "У яких напрямках Вам дозволено рух в даній ситуації?",
+    "imageResId": "image_s8_1_q40",
+    "answerOptionList": [
+      {
+        "id": "dc5f002d-4091-410b-87ea-dc10a6006fa1",
+        "position": 1,
+        "text": "Прямо, праворуч, ліворуч і розворот.",
+        "isCorrect": false
+      },
+      {
+        "id": "9bd4bd1a-3fea-45bc-9a19-277842d842af",
+        "position": 2,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "470ae466-28e1-40d5-bc8f-54cfc78fb91c",
+        "position": 3,
+        "text": "Ліворуч і розворот.",
+        "isCorrect": false
+      },
+      {
+        "id": "8c972e45-d092-4756-9cc3-8b27f11e97e7",
+        "position": 4,
+        "text": "Прямо, ліворуч і розворот.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e325a657-e938-4809-ac1f-d2e88df91b74",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 41,
+    "text": "Як Ви повинні вчинити в цій ситуації, якщо поліцейський подає Вам сигнал про зупинку?",
+    "imageResId": "image_s8_1_q41",
+    "answerOptionList": [
+      {
+        "id": "6a20005e-1b45-4ef4-9a56-e024375f306f",
+        "position": 1,
+        "text": "Виконати вимогу поліцейського, зупинивши свій транспортний засіб у місці, на яке Вам буде вказано, з дотриманням правил зупинки.",
+        "isCorrect": true
+      },
+      {
+        "id": "6cb597b8-2e93-4ccf-b868-a96f6ecb8065",
+        "position": 2,
+        "text": "Виконати вимогу поліцейського, зупинивши свій транспортний засіб тільки з лівого боку дороги.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "62534d24-f75b-432d-8c1b-ed286c489fc8",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 42,
+    "text": "Як повинні вчинити водії транспортних засобів у даній ситуації?",
+    "imageResId": "image_s8_1_q42",
+    "answerOptionList": [
+      {
+        "id": "11be162a-ed9b-4f7c-9ae2-ee2fafe86475",
+        "position": 1,
+        "text": "Керуючись сигналом регулювальника, продовжити рух.",
+        "isCorrect": true
+      },
+      {
+        "id": "a0678108-3c33-4d4e-af27-e470b40a3421",
+        "position": 2,
+        "text": "Дочекавшись дозвільного сигналу світлофора, розпочати рух.",
+        "isCorrect": false
+      },
+      {
+        "id": "13e77bbc-224d-45c0-9437-455e19b6e66c",
+        "position": 3,
+        "text": "Керуючись сигналом регулювальника, рух повинен продовжити тільки білий автомобіль.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7288432c-2148-4006-adce-6e18188fce45",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 43,
+    "text": "Як Ви повинні вчинити в даній ситуації?",
+    "imageResId": "image_s8_1_q43",
+    "answerOptionList": [
+      {
+        "id": "9ae25fbc-04ce-4994-ac18-d98afe816882",
+        "position": 1,
+        "text": "Керуючись зеленим сигналом світлофора, продовжити рух через перехрестя.",
+        "isCorrect": false
+      },
+      {
+        "id": "7a0f9ad3-f129-428f-914a-0d1df3135efe",
+        "position": 2,
+        "text": "Керуючись сигналом регулювальника, зупинитися.",
+        "isCorrect": true
+      },
+      {
+        "id": "fb39915d-b32d-497f-a9d8-465e99192319",
+        "position": 3,
+        "text": "Керуючись сигналом регулювальника і світлофора, продовжити рух.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "21ba06ac-676f-4257-bd13-ecf856707ac4",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 44,
+    "text": "На даному перехресті водії та пішоходи повинні керуватися:",
+    "imageResId": "image_s8_1_q44",
+    "answerOptionList": [
+      {
+        "id": "8b1c8e12-0ebd-4f93-a56d-253136f39318",
+        "position": 1,
+        "text": "Сигналами світлофора.",
+        "isCorrect": false
+      },
+      {
+        "id": "44d5f1b0-b6b3-495b-aa5c-dcd8b78ff5a4",
+        "position": 2,
+        "text": "Сигналами регулювальника.",
+        "isCorrect": true
+      },
+      {
+        "id": "90edd173-5757-423d-b9b5-a58dfe1ecd49",
+        "position": 3,
+        "text": "Сигналами світлофора, якщо не зрозумілі сигнали регулювальника.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b64e4800-b152-4187-9b48-a8457f817ed0",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 45,
+    "text": "Чи дозволено в даній ситуації рух водієві автомобіля?",
+    "imageResId": "image_s8_1_q45",
+    "answerOptionList": [
+      {
+        "id": "51ed9c75-f74b-4ca3-b489-ea0549d79395",
+        "position": 1,
+        "text": "Дозволено тільки праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "ff9f521c-1a13-4dd0-9ede-23097ab41275",
+        "position": 2,
+        "text": "Дозволено праворуч або ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "e9e12d70-2cf3-429e-9b1a-ac863c8230d8",
+        "position": 3,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cb5421b2-5960-46c9-a2ea-0077571ac38c",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 46,
+    "text": "Яким автомобілям дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q46",
+    "answerOptionList": [
+      {
+        "id": "a717cb82-6b28-4596-91de-4252c8dd7edd",
+        "position": 1,
+        "text": "Синьому.",
+        "isCorrect": false
+      },
+      {
+        "id": "9853998e-f924-4c58-a9f2-9d8d56b9bc72",
+        "position": 2,
+        "text": "Білому.",
+        "isCorrect": false
+      },
+      {
+        "id": "9115f502-6445-4d50-aab7-cc337840906c",
+        "position": 3,
+        "text": "Обом автомобілям.",
+        "isCorrect": true
+      },
+      {
+        "id": "b01c1004-6415-4e56-aa49-ce3fa8f12d71",
+        "position": 4,
+        "text": "Рух заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "42a57ba6-e0dd-4e65-88aa-8c850e6bf902",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 47,
+    "text": "Чим повинні керуватися водії під час проїзду даного перехрестя?",
+    "imageResId": "image_s8_1_q47",
+    "answerOptionList": [
+      {
+        "id": "913b4193-191d-4386-8c13-050aedebb3cf",
+        "position": 1,
+        "text": "Сигналами світлофора.",
+        "isCorrect": false
+      },
+      {
+        "id": "2bc8a71b-6446-4b62-93ff-3ef8d37a7c6f",
+        "position": 2,
+        "text": "Знаками пріоритету.",
+        "isCorrect": false
+      },
+      {
+        "id": "53f7fa33-fa9e-4b69-b87c-3e26771e9426",
+        "position": 3,
+        "text": "Сигналами регулювальника.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3c4a3fe3-e6bc-4284-99b9-1eb898586eb2",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 48,
+    "text": "Що означає даний сигнал регулювальника?",
+    "imageResId": "image_s8_1_q48",
+    "answerOptionList": [
+      {
+        "id": "8ca7ec62-9f27-4b0e-9d79-fe0ca984b9c4",
+        "position": 1,
+        "text": "Рух заборонено транспортним засобам.",
+        "isCorrect": false
+      },
+      {
+        "id": "fdb8e7e3-87b9-4195-8aa8-3b76c4b4e330",
+        "position": 2,
+        "text": "Рух заборонено пішоходам.",
+        "isCorrect": false
+      },
+      {
+        "id": "6e2ea53c-de1b-49de-8baa-99d7286a7ce9",
+        "position": 3,
+        "text": "Рух заборонено транспортним засобам і пішоходам.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "5d9c291b-9894-4d58-b5ea-b940bacc0ec0",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 49,
+    "text": "Хто з водіїв порушив Правила дорожнього руху, зупинившись на заборонний сигнал світлофора?",
+    "imageResId": "image_s8_1_q49",
+    "answerOptionList": [
+      {
+        "id": "8464bd14-086c-4ed4-be86-a6fb56070305",
+        "position": 1,
+        "text": "Водій легкового автомобіля.",
+        "isCorrect": true
+      },
+      {
+        "id": "bc1d9ea1-4889-425d-bf69-7efbf4f0d9e3",
+        "position": 2,
+        "text": "Водій вантажного автомобіля.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "242ff912-b9de-424f-9e02-4ee819ec0c31",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 50,
+    "text": "Чи дозволено водієві сірого автомобіля в'їхати на реверсивну смугу так, як показано на малюнку?",
+    "imageResId": "image_s8_1_q50",
+    "answerOptionList": [
+      {
+        "id": "ee423020-aed8-4bb5-807c-5865544fdf7d",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": true
+      },
+      {
+        "id": "cdc49b84-b45f-4399-b7b9-d6469746b144",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "86711d9c-f3c0-4739-847f-b137d39a5d71",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 51,
+    "text": "Чи дозволено Вам рух у цій ситуації?",
+    "imageResId": "image_s8_1_q51",
+    "answerOptionList": [
+      {
+        "id": "1586e168-915c-4d99-b158-09a9e9d6b49f",
+        "position": 1,
+        "text": "Дозволено, але необхідно дати дорогу транспортним засобам і пішоходам.",
+        "isCorrect": false
+      },
+      {
+        "id": "ee7d6ff9-18b2-4281-8492-e90417fe16ee",
+        "position": 2,
+        "text": "Заборонено, необхідно дочекатися ввімкнення зеленого сигналу та завершення переходу пішоходами проїзної частини.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c0720f26-0dfb-4df5-90c0-41f228df412d",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 52,
+    "text": "Чи дозволено водієві автомобіля рух у напрямку стрілки, ввімкненої в додатковій секції світлофора?",
+    "imageResId": "image_s8_1_q52",
+    "answerOptionList": [
+      {
+        "id": "2d83fdce-d355-4781-82bb-217669340261",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "9219c8ee-0386-4dea-b8fa-bb217dc28ef9",
+        "position": 2,
+        "text": "Дозволено за умови, що він дасть дорогу транспортним засобам.",
+        "isCorrect": false
+      },
+      {
+        "id": "4ea582ef-cc70-43ff-8bcf-8493df449821",
+        "position": 3,
+        "text": "Дозволено за умови безперешкодного пропуску транспортних засобів, що рухаються з інших напрямків, а також пішоходів.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "9e31ad2f-d8bf-41b4-a0a1-bcfbfa2120da",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 53,
+    "text": "Водіям яких транспортних засобів дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q53",
+    "answerOptionList": [
+      {
+        "id": "a24b2855-16fd-4c14-a546-a81b787d0e60",
+        "position": 1,
+        "text": "Водієві трамвая і червоного автомобіля.",
+        "isCorrect": true
+      },
+      {
+        "id": "d2224193-ebfc-4c6a-91c1-38c59ab12bf9",
+        "position": 2,
+        "text": "Водіям усіх транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "3b0a6a35-f7c0-42f1-8a46-4f4b8485513c",
+        "position": 3,
+        "text": "Водіям білого і червоного автомобілів.",
+        "isCorrect": false
+      },
+      {
+        "id": "cad3783d-e71e-43ba-9936-c05702c5f691",
+        "position": 4,
+        "text": "Водіям трамвая і білого автомобіля.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "adb1d0d4-fec7-482b-9726-ecfe0b1eb865",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 54,
+    "text": "У якому напрямку Вам дозволено рух в зображеній ситуації?",
+    "imageResId": "image_s8_1_q54",
+    "answerOptionList": [
+      {
+        "id": "a27afac6-b3b2-41d1-8575-04736f8d472d",
+        "position": 1,
+        "text": "Прямо, праворуч, ліворуч і розворот.",
+        "isCorrect": false
+      },
+      {
+        "id": "b109b8f5-67ae-4f25-acee-5aa4a839d9a2",
+        "position": 2,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "2d3befba-dfae-465a-bd8f-eceb585ebbd5",
+        "position": 3,
+        "text": "Ліворуч і розворот.",
+        "isCorrect": true
+      },
+      {
+        "id": "7fd977a3-fba7-490b-8c48-17c6b6e8371e",
+        "position": 4,
+        "text": "Прямо, ліворуч і розворот.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6b8b0fcf-07fa-4cd8-96da-559b9ae2357c",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 55,
+    "text": "Водіям яких транспортних засобів дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q55",
+    "answerOptionList": [
+      {
+        "id": "9877bebf-deb0-47a7-a0d2-a8756a76fb18",
+        "position": 1,
+        "text": "Водіям усіх транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "dac98b7b-18de-4339-849a-7d770044cbe0",
+        "position": 2,
+        "text": "Водіям червоного і сірого автомобілів.",
+        "isCorrect": false
+      },
+      {
+        "id": "53c7f192-0519-4414-8945-4b19a0aa2c48",
+        "position": 3,
+        "text": "Водіям сірого та синього автомобілів.",
+        "isCorrect": false
+      },
+      {
+        "id": "c82fca98-1354-4072-8525-cbfafaccb913",
+        "position": 4,
+        "text": "Водієві синього автомобіля.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d6e2abd5-4dc8-413f-9e82-90324bf7c8f0",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 56,
+    "text": "У якому напрямку Вам дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q56",
+    "answerOptionList": [
+      {
+        "id": "28812bd1-8b9f-4ffa-adea-6f7d7de11026",
+        "position": 1,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "55f6e82a-4318-4c65-ab2e-fe7d62bd0ee8",
+        "position": 2,
+        "text": "Ліворуч або розворот.",
+        "isCorrect": true
+      },
+      {
+        "id": "475b9580-1c56-45cd-a81a-51cf253f7348",
+        "position": 3,
+        "text": "Прямо, ліворуч або розворот.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c1fd6318-5bf6-4859-8d42-8ad411ed8f3d",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 57,
+    "text": "Чи може водій автомобіля в даній ситуації розпочати рух?",
+    "imageResId": "image_s8_1_q57",
+    "answerOptionList": [
+      {
+        "id": "7f229ea9-3d28-4608-8ae0-2bd2fda66639",
+        "position": 1,
+        "text": "Може.",
+        "isCorrect": false
+      },
+      {
+        "id": "67c2367b-e281-4570-9adc-2e9ea3752098",
+        "position": 2,
+        "text": "Не може, оскільки повинен дочекатися ввімкнення зеленого сигналу.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "361f4e97-e978-4a54-9384-eab2855ecc8f",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 58,
+    "text": "Яке значення мають одночасно ввімкнені червоний і жовтий сигнали світлофора?",
+    "imageResId": "image_s8_1_q58",
+    "answerOptionList": [
+      {
+        "id": "37ead112-f00e-4897-98b9-1d586bcb10e5",
+        "position": 1,
+        "text": "Дозволяють рух, якщо перехрестя вільне.",
+        "isCorrect": false
+      },
+      {
+        "id": "8b0a5ce4-352b-4082-83ec-aeafb932cf12",
+        "position": 2,
+        "text": "Забороняють рух.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8941ee3f-719d-419e-a024-73c95ded6660",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 59,
+    "text": "Чорні контурні стрілки на червоному і жовтому сигналах не змінюють значення цих сигналів та інформують:",
+    "imageResId": "image_s8_1_q59",
+    "answerOptionList": [
+      {
+        "id": "618a2861-5f46-4dfe-ae90-491a72c2ab4b",
+        "position": 1,
+        "text": "Про наявність у світлофора додаткової секції.",
+        "isCorrect": false
+      },
+      {
+        "id": "9d69da24-0926-4779-9518-284998fd1f6c",
+        "position": 2,
+        "text": "Про дозволені напрямки руху при зеленому сигналі.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "19b88233-cd94-4b88-96d6-6a9300532951",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 60,
+    "text": "Чи дозволено водієві автомобіля поворот ліворуч на даному перехресті в разі ввімкнення зеленого сигналу світлофора?",
+    "imageResId": "image_s8_1_q60",
+    "answerOptionList": [
+      {
+        "id": "40953077-8138-499c-8525-d082680cf8a4",
+        "position": 1,
+        "text": "Дозволено тільки в разі ввімкнення зеленого сигналу.",
+        "isCorrect": false
+      },
+      {
+        "id": "784291a0-425f-446b-af54-faecb994dc56",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "002c718f-55db-428c-bed4-16c47a86a121",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 61,
+    "text": "Чорні контурні стрілки на ввімкненому червоному сигналі світлофора інформують:",
+    "imageResId": "image_s8_1_q61",
+    "answerOptionList": [
+      {
+        "id": "34240350-0b6b-4cc2-bce9-885263e5509b",
+        "position": 1,
+        "text": "Про наявність у світлофора кількох додаткових секцій.",
+        "isCorrect": false
+      },
+      {
+        "id": "2416d632-5668-4735-bf2e-544eb6e8ced7",
+        "position": 2,
+        "text": "Про те, що рух дозволено в інших напрямках.",
+        "isCorrect": false
+      },
+      {
+        "id": "86bc48ea-0ff3-4009-956f-87fa23099cb1",
+        "position": 3,
+        "text": "Про дозволені напрямки руху при зеленому сигналі.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "61979443-a930-4e08-9a7b-884c1b31b392",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 62,
+    "text": "Як Вам виконати поворот ліворуч у даній ситуації?",
+    "imageResId": "image_s8_1_q62",
+    "answerOptionList": [
+      {
+        "id": "373d28f4-c21b-45f8-ba00-aae7d9fe29d1",
+        "position": 1,
+        "text": "Повернути без зупинки, давши дорогу зустрічним автомобілям.",
+        "isCorrect": false
+      },
+      {
+        "id": "5ca94a37-95c8-4747-8d0e-6034da7081d0",
+        "position": 2,
+        "text": "Зупинитися перед стоп-лінією і повернути, коли ввімкнеться додаткова секція.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e1a340e2-84d5-4da5-82ac-fd3e6aa0b8de",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 63,
+    "text": "Який зі світлофорів застосовується для регулювання руху транспортних засобів на вулицях, дорогах або смугах проїзної частини, напрямок руху на яких може змінюватися на протилежний?",
+    "imageResId": "image_s8_1_q63",
+    "answerOptionList": [
+      {
+        "id": "10111e7d-a855-4d55-b072-ddfad6f7fc8d",
+        "position": 1,
+        "text": "Світлофор 1.",
+        "isCorrect": true
+      },
+      {
+        "id": "1cce6c27-0b10-4d37-be62-d0032e0c756b",
+        "position": 2,
+        "text": "Світлофор 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "62d08602-4191-408b-a000-a26ca48dc6b4",
+        "position": 3,
+        "text": "Світлофор 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "b69c453f-2941-4de6-beb8-e83e6892a7cf",
+        "position": 4,
+        "text": "Світлофор 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f852a649-3fcd-48d2-82f6-82f9162692cc",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 64,
+    "text": "Чи дозволено водієві червоного автомобіля в даній ситуації виконати випередження вантажного автомобіля з лівого боку?",
+    "imageResId": "image_s8_1_q64",
+    "answerOptionList": [
+      {
+        "id": "124610d9-75af-4ace-9e73-a8b02628c9ab",
+        "position": 1,
+        "text": "Дозволено, але після випередження необхідно повернутися на смугу, яку він займав раніше.",
+        "isCorrect": false
+      },
+      {
+        "id": "2776c71b-5c7a-47f7-a10a-a73ea796125a",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cc5a662e-665b-4cc3-8afa-fda8383a486a",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 65,
+    "text": "За якої умови водій автомобіля може виконати поворот праворуч у даній ситуації?",
+    "imageResId": "image_s8_1_q65",
+    "answerOptionList": [
+      {
+        "id": "37286c21-088a-4d1c-824c-f02f0b3224a8",
+        "position": 1,
+        "text": "Тільки в разі ввімкнення зеленого сигналу світлофора.",
+        "isCorrect": false
+      },
+      {
+        "id": "6599ae5a-bea0-46e0-b06b-1b4bae94b31b",
+        "position": 2,
+        "text": "У разі ввімкнення зеленого сигналу світлофора, а також при ввімкненому червоному сигналі, але за умови надання переваги в русі іншим учасникам.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e9f970f8-7b85-451e-bc5a-9c697700063f",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 66,
+    "text": "У якому напрямку водієві автомобіля дозволено рух у даній ситуації?",
+    "imageResId": "image_s8_1_q66",
+    "answerOptionList": [
+      {
+        "id": "0b4b079d-0c7f-481b-999e-cb2e8dec4481",
+        "position": 1,
+        "text": "Рух заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "735da0f4-260f-440b-bf81-41eed7ebdeae",
+        "position": 2,
+        "text": "Праворуч, ввімкнувши покажчик правого повороту (за умови надання переваги в русі іншим учасникам).",
+        "isCorrect": true
+      },
+      {
+        "id": "9a025799-5fb6-48db-8a0e-01b2930be2c6",
+        "position": 3,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2ba72ba6-9e70-4c80-9bdc-249758cfad5a",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 67,
+    "text": "Що означають два червоні поперемінно миготливі сигнали даного світлофора?",
+    "imageResId": "image_s8_1_q67",
+    "answerOptionList": [
+      {
+        "id": "8d1bdc06-9308-4af1-9edc-f135006d68bb",
+        "position": 1,
+        "text": "Рух заборонено.",
+        "isCorrect": true
+      },
+      {
+        "id": "cd671910-2a2d-4ff2-a1d2-b30e92828aac",
+        "position": 2,
+        "text": "Рух не заборонено, але наближається поїзд, якому необхідно дати дорогу.",
+        "isCorrect": false
+      },
+      {
+        "id": "319e3aba-3034-4d4f-983e-3cc1074227c5",
+        "position": 3,
+        "text": "Слід бути особливо уважним на даній ділянці дороги.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "390c247f-feaa-4fee-8465-fb0a3ebf6ff9",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 68,
+    "text": "Увімкнений червоний сигнал світлофора означає, що:",
+    "imageResId": "image_s8_1_q68",
+    "answerOptionList": [
+      {
+        "id": "82337805-69bb-43bd-9bab-ca07873e2ae4",
+        "position": 1,
+        "text": "Рух дозволено тільки праворуч за умови надання переваги в русі іншим учасникам.",
+        "isCorrect": false
+      },
+      {
+        "id": "e8bcd11c-f066-4f38-82fe-5c2103c9a078",
+        "position": 2,
+        "text": "Рух заборонено.",
+        "isCorrect": true
+      },
+      {
+        "id": "1188d39b-f2f5-4722-bbeb-463b5a185472",
+        "position": 3,
+        "text": "Рух заборонено тільки нерейковим транспортним засобам.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9ee415a3-40f1-46ff-8ea6-189e6f27fad6",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 69,
+    "text": "У якому випадку заборонено в'їжджати на реверсивну смугу?",
+    "answerOptionList": [
+      {
+        "id": "33d504d0-798c-4744-ac51-d491b7d0656a",
+        "position": 1,
+        "text": "Коли на реверсивному світлофорі горить червоний сигнал.",
+        "isCorrect": false
+      },
+      {
+        "id": "b8dc530d-5da0-4fe8-9a5f-a2b103814acb",
+        "position": 2,
+        "text": "Коли реверсивний світлофор вимкнений.",
+        "isCorrect": false
+      },
+      {
+        "id": "094e32a8-5620-491e-adae-e8eb1ae9cdb5",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "002da1ad-bc3d-4ec2-933c-9e436615264a",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 70,
+    "text": "Знаки якої групи інформують учасників дорожнього руху про розташування населених пунктів, різних об'єктів, територій, де діють спеціальні правила?",
+    "answerOptionList": [
+      {
+        "id": "a7f0f580-3581-4c05-b8a2-044a9f505447",
+        "position": 1,
+        "text": "Попереджувальні знаки.",
+        "isCorrect": false
+      },
+      {
+        "id": "98db18f7-4155-4378-a8d2-316603443fdc",
+        "position": 2,
+        "text": "Знаки пріоритету.",
+        "isCorrect": false
+      },
+      {
+        "id": "c62b01fe-99d7-4f62-8ccc-c4e8838f75cd",
+        "position": 3,
+        "text": "Заборонні знаки.",
+        "isCorrect": false
+      },
+      {
+        "id": "c04b610c-f795-4675-acb6-5e52c81673a9",
+        "position": 4,
+        "text": "Наказові знаки.",
+        "isCorrect": false
+      },
+      {
+        "id": "2e2ab0df-e9c6-4ded-b2d3-9a55d6824948",
+        "position": 5,
+        "text": "Інформаційно-вказівні знаки.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d8a32278-d166-4aed-8c14-590f3ad77275",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 71,
+    "text": "Згідно з Правилами дорожнього руху регулювальником вважається...",
+    "answerOptionList": [
+      {
+        "id": "31695584-2af3-49ab-90f7-cfa75695411f",
+        "position": 1,
+        "text": "Працівник дорожньо-експлуатаційної служби, який має відповідне посвідчення і нарукавну пов’язку, жезл, диск з червоним сигналом чи світлоповертачем, червоний ліхтар або прапорець і виконує регулювання у форменому одязі.",
+        "isCorrect": false
+      },
+      {
+        "id": "67769aa5-9e78-4f6c-97f6-c5865ff2634b",
+        "position": 2,
+        "text": "Працівник військової інспекції безпеки дорожнього руху, який має відповідне посвідчення і нарукавну пов’язку, жезл, диск з червоним сигналом чи світлоповертачем, червоний ліхтар або прапорець і виконує регулювання у форменому одязі.",
+        "isCorrect": false
+      },
+      {
+        "id": "7ad6b421-23a8-4184-ab0c-ac8ba05e4a86",
+        "position": 3,
+        "text": "Поліцейський, що виконує регулювання дорожнього руху у форменому одязі підвищеної видимості з елементами із світлоповертального матеріалу за допомогою жезлу, свистка.",
+        "isCorrect": false
+      },
+      {
+        "id": "4d32549e-2d45-4dee-9c2e-caf3ea713fd7",
+        "position": 4,
+        "text": "Черговий на залізничному переїзді і поромній переправі, який має відповідне посвідчення і нарукавну пов’язку, жезл, диск з червоним сигналом чи світлоповертачем, червоний ліхтар або прапорець і виконує регулювання у форменому одязі.",
+        "isCorrect": false
+      },
+      {
+        "id": "141e4a59-3c73-46d4-8b3d-e4f4985f85d6",
+        "position": 5,
+        "text": "Відповіді 1, 2, 3 і 4.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "86b33497-755a-4264-a232-2ee3970fc848",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 72,
+    "text": "Яких видів буває дорожня розмітка?",
+    "answerOptionList": [
+      {
+        "id": "748cb015-4ca8-40d5-a29b-2966d994574d",
+        "position": 1,
+        "text": "Горизонтальна.",
+        "isCorrect": false
+      },
+      {
+        "id": "b8eff498-26f3-45b5-a4b4-0e611ef44c1d",
+        "position": 2,
+        "text": "Вертикальна.",
+        "isCorrect": false
+      },
+      {
+        "id": "32b87b5a-ef18-484c-9f6d-b200764a0f6d",
+        "position": 3,
+        "text": "Діагональна.",
+        "isCorrect": false
+      },
+      {
+        "id": "d6d2d90a-cea5-4aed-abfa-5aff62256798",
+        "position": 4,
+        "text": "Горизонтальна і вертикальна.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "05cc7133-589c-4a96-9378-51aeddcaeaeb",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 73,
+    "text": "У якому місці водій повинен зупинити свій транспортний засіб у разі ввімкнення заборонного сигналу світлофора або підняття регулювальником руки вгору?",
+    "answerOptionList": [
+      {
+        "id": "67310228-6f7c-445e-8f97-a3c046786242",
+        "position": 1,
+        "text": "Перед дорожньою розміткою «Стоп-лінія».",
+        "isCorrect": false
+      },
+      {
+        "id": "166f5e01-b720-4bab-b8dc-5ae78eb5d74d",
+        "position": 2,
+        "text": "Перед дорожнім знаком «Місце зупинки».",
+        "isCorrect": false
+      },
+      {
+        "id": "eede5271-610d-4fde-b0d3-91b4505b7129",
+        "position": 3,
+        "text": "Перед світлофором або пішохідним переходом за відсутності розмітки «Стоп-лінія» і знака «Місце зупинки».",
+        "isCorrect": false
+      },
+      {
+        "id": "08145d3b-07a7-496b-a014-83ffe2676a8d",
+        "position": 4,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0286b907-0549-4fb4-bc5b-85045e65a10a",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 74,
+    "text": "Знаки якої групи вказують обов'язкові напрямки руху або дозволяють деяким учасникам рух по проїзній частині чи на окремих її ділянках, а також запроваджують або скасовують деякі обмеження?",
+    "answerOptionList": [
+      {
+        "id": "01eadbfb-2cff-4cd8-a9b8-f601aba539f4",
+        "position": 1,
+        "text": "Попереджувальні знаки.",
+        "isCorrect": false
+      },
+      {
+        "id": "aa81afce-fefd-42eb-bd2e-f270420bcce5",
+        "position": 2,
+        "text": "Знаки пріоритету.",
+        "isCorrect": false
+      },
+      {
+        "id": "690a569e-54cb-40d5-8091-cc66da56861f",
+        "position": 3,
+        "text": "Наказові знаки.",
+        "isCorrect": true
+      },
+      {
+        "id": "5a079471-61f5-4815-b53b-43878ac83854",
+        "position": 4,
+        "text": "Інформаційно-вказівні знаки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "67910a03-47c9-4807-ba57-b3b3b80a1410",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 75,
+    "text": "Як повинен вчинити водій транспортного засобу, якщо від поліцейського надійшла вимога про зупинку?",
+    "answerOptionList": [
+      {
+        "id": "c90f35a4-decd-4358-bcc8-fcf1168f8d4f",
+        "position": 1,
+        "text": "Зупинити свій транспортний засіб у будь-якому місці.",
+        "isCorrect": false
+      },
+      {
+        "id": "d29c0531-cd6f-4378-8350-0688a9f90fe2",
+        "position": 2,
+        "text": "Зупинити свій транспортний засіб у місці, на яке йому буде вказано, з дотриманням правил зупинки.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a1ee122e-67fc-4cf6-8f91-31af7af3b4de",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 76,
+    "text": "За допомогою чого поліцейські можуть подавати вимогу про зупинку транспортного засобу?",
+    "answerOptionList": [
+      {
+        "id": "7d4cc957-ed2b-4caf-9ea6-0532785a9d36",
+        "position": 1,
+        "text": "Сигнального диска з червоним сигналом чи світлоповертачем або руки, що вказують на відповідний транспортний засіб та подальше місце його зупинки.",
+        "isCorrect": false
+      },
+      {
+        "id": "53219cbc-e642-4743-b4ba-5947fb74de0f",
+        "position": 2,
+        "text": "Увімкненого проблискового маячка синього і червоного або лише червоного кольору та (або) спеціального звукового сигналу.",
+        "isCorrect": false
+      },
+      {
+        "id": "030e31f4-5e8b-44fd-9a19-118eafb57808",
+        "position": 3,
+        "text": "Гучномовного пристрою.",
+        "isCorrect": false
+      },
+      {
+        "id": "11a70374-f97f-426b-bc2e-c12ccccfeaf1",
+        "position": 4,
+        "text": "Спеціального табло, на якому зазначається вимога про зупинку транспортного засобу.",
+        "isCorrect": false
+      },
+      {
+        "id": "e6c9ce33-8fc6-4eb0-aeaa-aeb80c0f4c1d",
+        "position": 5,
+        "text": "Будь-якого з перелічених вище засобів.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "5462f291-06d5-4162-8b39-4394fef8b769",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 77,
+    "text": "Знаки якої групи запроваджують або скасовують обмеження в русі на проїзній частині?",
+    "answerOptionList": [
+      {
+        "id": "867bcb4c-93da-42eb-9147-74bd4448b4ed",
+        "position": 1,
+        "text": "Попереджувальні знаки.",
+        "isCorrect": false
+      },
+      {
+        "id": "1ae69c48-8ace-4b5f-8c07-45b8213001c5",
+        "position": 2,
+        "text": "Знаки пріоритету.",
+        "isCorrect": false
+      },
+      {
+        "id": "63c8a840-7312-427a-b574-a6cfbf846f55",
+        "position": 3,
+        "text": "Заборонні знаки.",
+        "isCorrect": true
+      },
+      {
+        "id": "62dec8eb-6b2a-4f2a-8438-885c2595db0f",
+        "position": 4,
+        "text": "Інформаційно-вказівні знаки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "098945bf-b60b-4a35-9bef-b4fac3cc6078",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 78,
+    "text": "Зелений миготливий сигнал світлофора означає, що:",
+    "answerOptionList": [
+      {
+        "id": "9e495b37-ecaa-4d20-82b1-c7cf96baa2b8",
+        "position": 1,
+        "text": "Рух заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "7469c2aa-4370-4f5c-8e81-aee722e07a45",
+        "position": 2,
+        "text": "Рух заборонено, крім випадків, коли для зупинки потрібно вдатися до екстреного гальмування.",
+        "isCorrect": false
+      },
+      {
+        "id": "e58a473d-b1ec-4c18-943c-f304b546248c",
+        "position": 3,
+        "text": "Рух дозволено, але незабаром буде ввімкнено сигнал, що забороняє рух.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "522b22f8-455a-477b-82fd-bcb605d2115d",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 79,
+    "text": "Яким способом водій може бути проінформований про перемикання зеленого сигналу світлофора?",
+    "answerOptionList": [
+      {
+        "id": "e1711eea-124c-4b88-bde1-bd366e513877",
+        "position": 1,
+        "text": "Миготінням зеленого сигналу світлофора.",
+        "isCorrect": false
+      },
+      {
+        "id": "aa574726-b7ee-4c25-8465-3f5e279295d1",
+        "position": 2,
+        "text": "Цифровими табло.",
+        "isCorrect": false
+      },
+      {
+        "id": "66268075-4c2a-4652-8c88-f1e79056ca12",
+        "position": 3,
+        "text": "Будь-яким з перелічених вище способів.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "ca6dac75-ec4b-48e9-94c3-edfe095d3dd3",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 80,
+    "text": "Чим Ви як водій повинні керуватися, якщо сигнали, які подає регулювальник, суперечать сигналам світлофора?",
+    "answerOptionList": [
+      {
+        "id": "30e3480e-6da0-4ead-959a-a354110606d7",
+        "position": 1,
+        "text": "Сигналами світлофора.",
+        "isCorrect": false
+      },
+      {
+        "id": "4a36c900-6853-465a-8a12-7c42a22a4251",
+        "position": 2,
+        "text": "Сигналами регулювальника.",
+        "isCorrect": true
+      },
+      {
+        "id": "58443dc0-35ce-4728-a0c0-5a0cdc3d1dca",
+        "position": 3,
+        "text": "Вимогами дорожніх знаків пріоритету.",
+        "isCorrect": false
+      },
+      {
+        "id": "8b800eb1-2c1b-46c8-88e5-c89031edb647",
+        "position": 4,
+        "text": "Правилами проїзду нерегульованих перехресть.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "34a7f4d3-1f4d-4c12-abcb-754ad5e18812",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 81,
+    "text": "Для чого служить сигнал регулювальника, що подається свистком?",
+    "answerOptionList": [
+      {
+        "id": "34595afb-0943-4929-beb4-7a7b04149e71",
+        "position": 1,
+        "text": "Для привернення уваги водіїв транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "e2e58fb1-d6cd-4bb8-8eef-c66441fd899c",
+        "position": 2,
+        "text": "Для привернення уваги пішоходів.",
+        "isCorrect": false
+      },
+      {
+        "id": "afdb6047-570a-48a7-b742-fda00a5cbfb5",
+        "position": 3,
+        "text": "Для попередження про зміну положення корпуса.",
+        "isCorrect": false
+      },
+      {
+        "id": "9093552e-b258-4fea-a9a9-7d2f8f5f9910",
+        "position": 4,
+        "text": "Для привернення уваги учасників дорожнього руху.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b19d6105-cac4-442d-8827-78d4e129d510",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 82,
+    "text": "Якщо сигнал регулювальника відрізняється від сигналу світлофора, Ви будете керуватись сигналами регулювальника:",
+    "answerOptionList": [
+      {
+        "id": "ee54076c-df35-49c9-aa81-46f0ff2da477",
+        "position": 1,
+        "text": "Так.",
+        "isCorrect": true
+      },
+      {
+        "id": "55e64d85-b89e-41bb-87ff-14a999da0b6b",
+        "position": 2,
+        "text": "Ні.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7fc0c5d7-8fae-460a-86b5-be32e4f0867b",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 83,
+    "text": "Сигнал світлофора відрізняється від сигналу регулювальника. Ви будете користуватись сигналом світлофора:",
+    "answerOptionList": [
+      {
+        "id": "b0fb575f-721a-42bf-bbd1-9f726c08de55",
+        "position": 1,
+        "text": "Так.",
+        "isCorrect": false
+      },
+      {
+        "id": "23054c22-b05c-4c40-9909-15a52d07d6e4",
+        "position": 2,
+        "text": "Ні.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "7430702d-198c-4bd1-ba89-7c31bab2304d",
+    "sectionId": "b3387248-0afe-4f11-b872-480afe0f116e",
+    "order": 84,
+    "text": "Сигнал, який показує регулювальник відрізняється від вимог дорожніх знаків. Дорожні знаки є пріоритетними в цьому випадку:",
+    "answerOptionList": [
+      {
+        "id": "9694c0ee-0a8b-4730-8236-d745959010ce",
+        "position": 1,
+        "text": "Так.",
+        "isCorrect": false
+      },
+      {
+        "id": "d6c1b873-32b6-4f67-a258-7980f2ff152a",
+        "position": 2,
+        "text": "Ні.",
+        "isCorrect": true
+      }
+    ]
+  }
+]

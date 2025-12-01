@@ -130,8 +130,9 @@ fun main() {
         }
         fileName to questions
     }
-    generatedData.forEach { fileName, questions ->
+    generatedData.forEach { (fileName, questions) ->
         val questionsEncodedJson = Json.encodeToString(questions)
+        File("src/main/resources/$fileName").writeText(questionsEncodedJson)
     }
     println(text.length)
 

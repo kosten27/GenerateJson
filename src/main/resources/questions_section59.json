@@ -1,0 +1,392 @@
+[
+  {
+    "id": "ec86eeee-934a-421c-8ac8-1a5819aebf85",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 1,
+    "text": "При русі заднім ходом на автомобілі з причепом:",
+    "answerOptionList": [
+      {
+        "id": "302c236c-fa10-422f-8da8-9764a519bc82",
+        "position": 1,
+        "text": "При повороті керма вправо, причіп почне йти теж вправо.",
+        "isCorrect": false
+      },
+      {
+        "id": "f11dd0f9-1072-41f8-95c1-eb63e3c597b8",
+        "position": 2,
+        "text": "При повороті керма вправо, причіп почне йти вліво.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cf7b39d2-bdd8-412d-bcb9-f83c1d0fabab",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 2,
+    "text": "При русі заднім ходом на автомобілі з причепом:",
+    "answerOptionList": [
+      {
+        "id": "9d4feaf5-450f-4593-bd55-203ddaaa50ed",
+        "position": 1,
+        "text": "При повороті керма вліво, причіп почне йти вправо.",
+        "isCorrect": true
+      },
+      {
+        "id": "58c9c814-d729-49a4-8f0e-1652221ffd73",
+        "position": 2,
+        "text": "При повороті керма вліво, причіп почне йти теж вліво.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ff2c1eb3-4948-4c26-b029-41089c05eb54",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 3,
+    "text": "Рухаючись на автомобілі з причепом, які дії Ви повинні виконати, щоб запобігти його перекидання?",
+    "answerOptionList": [
+      {
+        "id": "790e44c6-cdda-4d0e-b3d7-a1701db94464",
+        "position": 1,
+        "text": "Входячи в поворот зменшити швидкість.",
+        "isCorrect": true
+      },
+      {
+        "id": "a51a5f81-9666-4031-80b9-5c9c55dfebe3",
+        "position": 2,
+        "text": "Входячи в поворот збільшити швидкість.",
+        "isCorrect": false
+      },
+      {
+        "id": "59432606-1ac5-474d-aeaa-1e19719cad38",
+        "position": 3,
+        "text": "Входячи в поворот не міняти швидкість.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fe47f6d7-e84a-46d5-b86b-9c458a3340a0",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 4,
+    "text": "Що найчастіше призводить до перекидання причепа.",
+    "answerOptionList": [
+      {
+        "id": "06dca43a-7d3c-456a-9859-66b592dbcd09",
+        "position": 1,
+        "text": "Повороти.",
+        "isCorrect": true
+      },
+      {
+        "id": "8813ddbb-8384-4f0d-ac7e-956c0128f883",
+        "position": 2,
+        "text": "Круті спуски та підйоми.",
+        "isCorrect": false
+      },
+      {
+        "id": "740390ab-88e2-4741-a758-7d5af0510d2c",
+        "position": 3,
+        "text": "Боковий вітер.",
+        "isCorrect": false
+      },
+      {
+        "id": "7f461356-c0f8-4f3b-8c22-5d1260a1dec8",
+        "position": 4,
+        "text": "Все перелічене.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cae9c278-01df-437b-ab93-68899f2f0c23",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 5,
+    "text": "Під час руху з причепом, для обгону інших транспортних засобів необхідно:",
+    "answerOptionList": [
+      {
+        "id": "8a98b362-f08d-4f59-91f2-f64b177a8dcf",
+        "position": 1,
+        "text": "Менше часу, ніж на автомобілі без причепу.",
+        "isCorrect": false
+      },
+      {
+        "id": "879fb147-8dc4-42d3-b11f-67dd9c119fa7",
+        "position": 2,
+        "text": "Більше часу, ніж на автомобілі без причепу.",
+        "isCorrect": true
+      },
+      {
+        "id": "ba413158-78e4-4ff7-b66f-8ae670d38a22",
+        "position": 3,
+        "text": "Динамічні характеристики автомобіля не змінюються при русі з причепом.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "28987d34-12a6-49a9-a5ad-8a6419743296",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 6,
+    "text": "Перед кожним виїздом з причепом необхідно:",
+    "answerOptionList": [
+      {
+        "id": "9b2f14f6-71dd-43ef-ae42-91cc60e716f6",
+        "position": 1,
+        "text": "Відрегулювати тиск в шинах.",
+        "isCorrect": false
+      },
+      {
+        "id": "d9b544b2-97fc-4730-aed1-bc65cfa44eac",
+        "position": 2,
+        "text": "Переконатися в надійності з'єднання страхувальних тросів або ланцюгів.",
+        "isCorrect": false
+      },
+      {
+        "id": "917f6c51-1b86-4b55-ad3b-3f56a0b78772",
+        "position": 3,
+        "text": "Перевірити роботу приладів світлової сигналізації причепа.",
+        "isCorrect": false
+      },
+      {
+        "id": "95fdb0da-b3c8-482e-af30-128d868fd769",
+        "position": 4,
+        "text": "Виконати усі вище перелічені дії.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "91fed793-fedf-4034-bf55-c6581a5258ee",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 7,
+    "text": "При поворотах колеса причепа рухаються:",
+    "answerOptionList": [
+      {
+        "id": "fbc4bdfd-97b2-41a4-84c2-e2310aa60cac",
+        "position": 1,
+        "text": "По меншому радіусу, ніж колеса автомобіля.",
+        "isCorrect": true
+      },
+      {
+        "id": "1cae6fbd-72b5-4495-9ad7-c5d17548e2dc",
+        "position": 2,
+        "text": "По більшому радіусу, ніж колеса автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "6e77fc25-96d9-43a8-a569-b1e04a9711d5",
+        "position": 3,
+        "text": "По такому самому радіусу як і колеса автомобіля.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b8f7367d-c4d1-4cbc-a896-6ea18521a56f",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 8,
+    "text": "Перевищувати максимальну швидкість, зазначену в технічній документації причепа:",
+    "answerOptionList": [
+      {
+        "id": "20935907-4244-4368-bb59-cfcf609d3fd5",
+        "position": 1,
+        "text": "Дозволено в будь-якому випадку.",
+        "isCorrect": false
+      },
+      {
+        "id": "9bf3c16a-436d-47e7-9eb6-df48ebe90c60",
+        "position": 2,
+        "text": "Дозволено за умови дотримання швидкісного режиму в населеному або поза населеному пункті.",
+        "isCorrect": false
+      },
+      {
+        "id": "11ad4109-c602-4da9-942d-edc88fffb624",
+        "position": 3,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d61e6a92-9b09-44e8-beda-391cb86338df",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 9,
+    "text": "Правильно завантажений причіп, якщо:",
+    "answerOptionList": [
+      {
+        "id": "b23c1107-c487-4229-8b6f-20641a97e3d4",
+        "position": 1,
+        "text": "Вантаж розміщений рівномірно.",
+        "isCorrect": true
+      },
+      {
+        "id": "66ac2f17-c61f-48ee-8c51-b8c7d12060fc",
+        "position": 2,
+        "text": "Вантаж розміщено ближче до автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "01837124-d8d5-4a1f-b4a5-0b42cc949673",
+        "position": 3,
+        "text": "Вантаж розміщено на краю причепа.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "46b42e46-4bef-43e6-8aeb-4b4a94678245",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 10,
+    "text": "Завантажений причіп:",
+    "answerOptionList": [
+      {
+        "id": "1d57475e-d9ec-4214-a6c3-1f483ef7da70",
+        "position": 1,
+        "text": "Збільшує гальмівний шлях.",
+        "isCorrect": true
+      },
+      {
+        "id": "36d3fa9e-9063-4324-bbb2-d2ab09253a7e",
+        "position": 2,
+        "text": "Зменшує гальмівний шлях.",
+        "isCorrect": false
+      },
+      {
+        "id": "074d6b06-130d-4ce9-ab61-f202ae70aca2",
+        "position": 3,
+        "text": "Гальмівний шлях не змінюється.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f7deac3c-be1d-42f8-8d23-ec1ba1188f73",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 11,
+    "text": "По якій траєкторії рухається причіп легкового автомобіля при проходженні повороту?",
+    "answerOptionList": [
+      {
+        "id": "cabdf9b4-33d6-4588-b697-4524cf1c420a",
+        "position": 1,
+        "text": "Далі від центру повороту, ніж траєкторія руху автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "48c7daf7-bb98-4b6d-91e9-733dc045ddf7",
+        "position": 2,
+        "text": "По траєкторії руху автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "070a284f-7567-42d3-874e-580f80cddb56",
+        "position": 3,
+        "text": "Ближче до центру повороту, ніж траєкторія руху автомобіля.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8694b27f-cc61-4af0-87b9-0e7bb1902e2b",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 12,
+    "text": "Як змінюється довжина гальмівного шляху легкового автомобіля при русі з причепом, що не має гальмівної системи?",
+    "answerOptionList": [
+      {
+        "id": "54e36a96-4c26-467b-9feb-9c3fc88e226e",
+        "position": 1,
+        "text": "Зменшується, так як причіп чинить додатковий опір руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "a38c2a89-67b2-4510-9d20-c5104ab434a1",
+        "position": 2,
+        "text": "Не змінюється.",
+        "isCorrect": false
+      },
+      {
+        "id": "ef0fa25f-4596-4ca4-bcc3-8133c2e39f3e",
+        "position": 3,
+        "text": "Збільшується.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "98312b22-0c3b-46a5-9d8e-d5588bdf32ef",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 13,
+    "text": "За дотримання яких умов дозволена експлуатація транспортного состава у складі автобуса і причепа?",
+    "answerOptionList": [
+      {
+        "id": "796a944b-4f46-4b6a-b2ba-a49ce68b6b57",
+        "position": 1,
+        "text": "За наявності у автобуса справного причіпного пристрою.",
+        "isCorrect": false
+      },
+      {
+        "id": "9fbce4c3-27e0-4a3b-892a-20e6cf5e824c",
+        "position": 2,
+        "text": "За наявності у автобуса справного причіпного пристрою, встановленого заводом-виробником.",
+        "isCorrect": true
+      },
+      {
+        "id": "4e0b5b55-240d-438b-9c1a-2379a5954370",
+        "position": 3,
+        "text": "Буксирування автобусами завжди заборонене.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4898dc13-660a-4bfa-9afc-de3800d6c3ea",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 14,
+    "text": "За дотримання яких з умов дозволяється експлуатація транспортних составів у складі автомобіля і причепа?",
+    "answerOptionList": [
+      {
+        "id": "1647dbf6-deaf-482b-8814-032e8eada9c8",
+        "position": 1,
+        "text": "За умови відповідності причепа тягачу і виконання вимог щодо їхньої експлуатації.",
+        "isCorrect": true
+      },
+      {
+        "id": "5d963a7f-33ce-43e4-8b58-7e158b486635",
+        "position": 2,
+        "text": "За наявності гальмової системи у причепа.",
+        "isCorrect": false
+      },
+      {
+        "id": "5e80e0b2-5542-4e2a-8876-f7ba748aad32",
+        "position": 3,
+        "text": "За дотримання всіх перерахованих вище умов.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0b5df173-589d-4407-ac48-cbc6a50a64d1",
+    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "order": 15,
+    "text": "Що рекомендується при першому досвіді керування автомобілем з причепом:",
+    "answerOptionList": [
+      {
+        "id": "efbbf7d8-4b6a-4899-b694-851afc8306a9",
+        "position": 1,
+        "text": "Починати практичне знайомство слід з навчальної площадки.",
+        "isCorrect": true
+      },
+      {
+        "id": "d19d77cf-3044-42f8-8cd5-624aef5cc8c1",
+        "position": 2,
+        "text": "Не звертати уваги на причеп.",
+        "isCorrect": false
+      },
+      {
+        "id": "fb456c09-d045-4fb9-beff-d0b4042d6d9b",
+        "position": 3,
+        "text": "Постійно рухатися з невеликою швидкістю і тоді дія причепа не позначається.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

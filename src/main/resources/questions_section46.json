@@ -1,0 +1,290 @@
+[
+  {
+    "id": "c63d27a3-a86a-4184-9da0-2368110be303",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 1,
+    "text": "В яких випадках водій має право відступати від вимог законодавства?",
+    "answerOptionList": [
+      {
+        "id": "436f80a8-8d10-4472-8770-c03eace6bf7a",
+        "position": 1,
+        "text": "В умовах дії непереборної сили.",
+        "isCorrect": false
+      },
+      {
+        "id": "301a473e-a96a-45b3-a843-63e145541cc2",
+        "position": 2,
+        "text": "Коли іншими засобами неможливо запобігти власній загибелі чи каліцтву громадян.",
+        "isCorrect": false
+      },
+      {
+        "id": "d1641645-8e13-465b-a6ae-c3244127f2c6",
+        "position": 3,
+        "text": "У випадках, зазначених в пунктах 1 та/або 2.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2c7738da-1b26-46e4-809f-5d618dd646fe",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 2,
+    "text": "Яка необхідна умова при огляді на предмет алкогольного сп’яніння водія на місці зупинки транспортного засобу?",
+    "answerOptionList": [
+      {
+        "id": "dba44f86-e239-4228-a329-e1c7ec6f74b8",
+        "position": 1,
+        "text": "Присутність двох свідків та поліцейського.",
+        "isCorrect": false
+      },
+      {
+        "id": "1eebecfc-10a6-4e25-9c84-8c7c11299545",
+        "position": 2,
+        "text": "Присутність двох свідків.",
+        "isCorrect": true
+      },
+      {
+        "id": "bf75ced7-66f5-44d4-af18-fe5d7044161a",
+        "position": 3,
+        "text": "Присутність одного понятого.",
+        "isCorrect": false
+      },
+      {
+        "id": "f7d06f92-b71b-42ae-b7dd-bc89a5da6eb5",
+        "position": 4,
+        "text": "Присутність щонайменше двох поліцейських.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e6a8f1a0-81f9-47dd-b77f-3577273a26db",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 3,
+    "text": "При огляді Вашогоавтомобіля необхідною умовою є:",
+    "answerOptionList": [
+      {
+        "id": "fb4c0e39-37c2-4c2d-b80c-5b2a584c04e4",
+        "position": 1,
+        "text": "Присутність щонайменше двох свідків та двох поліцейських.",
+        "isCorrect": false
+      },
+      {
+        "id": "16a6b205-3884-412b-ae10-1602aabaa3c6",
+        "position": 2,
+        "text": "Присутність одного понятого та двох поліцейських.",
+        "isCorrect": false
+      },
+      {
+        "id": "9f7da778-c301-4a5b-ac2f-2254299e67e0",
+        "position": 3,
+        "text": "Присутність двох понятих.",
+        "isCorrect": true
+      },
+      {
+        "id": "b696b0ab-2796-4b4c-a0ea-a56735a2c85f",
+        "position": 4,
+        "text": "Присутність щонайменше двох поліцейських.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ce8ca954-39bc-439c-bf7a-099b84ffb420",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 4,
+    "text": "При особистому огляді і огляді речей необхідною умовою є:",
+    "answerOptionList": [
+      {
+        "id": "c7182cda-428d-4e1f-8fb8-5a5bbd728330",
+        "position": 1,
+        "text": "Присутність двох понятих.",
+        "isCorrect": true
+      },
+      {
+        "id": "29f92a90-84f7-4e7e-9238-a453b3f3b5ce",
+        "position": 2,
+        "text": "Присутність щонайменше двох свідків.",
+        "isCorrect": false
+      },
+      {
+        "id": "8d871740-71ed-42ab-b682-3f10f4b07e69",
+        "position": 3,
+        "text": "Присутність одного понятого.",
+        "isCorrect": false
+      },
+      {
+        "id": "8b4d4e00-0030-4d6b-bb7c-42752f0b9886",
+        "position": 4,
+        "text": "Присутність щонайменше двох поліцейських.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "373b0e3f-3ee5-4c16-bb29-d130222e654c",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 5,
+    "text": "За які правопорушення Вас може бути позбавлено права керування транспортним засобом?",
+    "answerOptionList": [
+      {
+        "id": "d88a928c-a865-4dc0-a9db-91a24e223257",
+        "position": 1,
+        "text": "За керування транспортним засобом в стані алкогольного, наркотичного чи іншого сп'яніння.",
+        "isCorrect": false
+      },
+      {
+        "id": "2c76c542-40f9-459a-b4ff-bdb025303390",
+        "position": 2,
+        "text": "За в'їзд на залізничний переїзд у випадках, коли рух через переїзд заборонений.",
+        "isCorrect": false
+      },
+      {
+        "id": "02faabe8-d20c-4ba1-a199-407e2a812a6c",
+        "position": 3,
+        "text": "За порушення правил дорожнього руху, що спричинило пошкодження транспортних засобів, вантажу, автомобільних доріг, вулиць, залізничних переїздів, дорожніх споруд чи іншого майна.",
+        "isCorrect": false
+      },
+      {
+        "id": "c16cbebe-8707-43b3-ac03-97de4410d406",
+        "position": 4,
+        "text": "За керування транспортним засобом, не зареєстрованим або не перереєстрованим в установленому порядку.",
+        "isCorrect": false
+      },
+      {
+        "id": "eea80ad8-31ef-45d8-848d-fde68fa96ab9",
+        "position": 5,
+        "text": "Відповіді 1,2,3.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "bc3650e2-800f-4275-ac0f-0aafebcb0ed8",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 6,
+    "text": "За які правопорушення Вас можуть позбавити права керування:",
+    "answerOptionList": [
+      {
+        "id": "cba0ae45-a88e-4a75-93e0-e34338e4391f",
+        "position": 1,
+        "text": "За перевищення швидкості більш ніж на 20 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "317dcc63-2232-4d86-a443-a32e834ef1db",
+        "position": 2,
+        "text": "За керування транспортним засобом, не зареєстрованим або не перереєстрованим в установленому порядку.",
+        "isCorrect": false
+      },
+      {
+        "id": "6325c5a2-75e9-4644-bb99-40f0aeff8159",
+        "position": 3,
+        "text": "За порушення вимог дорожніх знаків та розмітки.",
+        "isCorrect": false
+      },
+      {
+        "id": "1d18e65b-de74-4f49-bdb7-ef2f33c434ec",
+        "position": 4,
+        "text": "За в'їзд на залізничний переїзд у випадках, коли рух через переїзд заборонений.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "bf2e6c18-26b0-4c22-9281-e038108898a1",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 7,
+    "text": "Адміністративне затримання Національною поліцією проводиться:",
+    "answerOptionList": [
+      {
+        "id": "fff414f0-aee2-4ec3-8a04-faafcffa5b9b",
+        "position": 1,
+        "text": "Тільки в разі вчинення дрібного хуліганства.",
+        "isCorrect": false
+      },
+      {
+        "id": "b0c8115f-d07d-43a1-85df-1026b4a64f6c",
+        "position": 2,
+        "text": "Тільки в разі порушення Правил дорожнього руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "676db969-cc17-4fa5-8abd-12b55d48c8ba",
+        "position": 3,
+        "text": "Проводиться в разі вчинення правопорушень, зазначених у відповідях 1 і 2 з обов'язковим складанням протоколу про затримання.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "065e68c0-d883-4cf5-8a9f-3a78b792ca49",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 8,
+    "text": "Передача керування транспортним засобом особі, яка не має права керування даним транспортним засобом, тягне за собою:",
+    "answerOptionList": [
+      {
+        "id": "a715f4fa-917a-4481-b890-55ac899ed099",
+        "position": 1,
+        "text": "Адміністративну відповідальність.",
+        "isCorrect": true
+      },
+      {
+        "id": "8dbf7a9f-d243-42ee-a214-8ed89c6a5114",
+        "position": 2,
+        "text": "Кримінальну відповідальність.",
+        "isCorrect": false
+      },
+      {
+        "id": "d5db71d8-19dd-4175-85e6-f7a957bce21c",
+        "position": 3,
+        "text": "Безоплатне вилучення транспортного засобу.",
+        "isCorrect": false
+      },
+      {
+        "id": "af297f59-e37e-4dcf-aefb-e830acf39aad",
+        "position": 4,
+        "text": "Повторний медичний огляд.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5ce8680a-2c9f-48f4-b13c-cd99907c21c5",
+    "sectionId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 9,
+    "text": "Ким проводиться огляд на стан сп’яніння?",
+    "answerOptionList": [
+      {
+        "id": "cfa7c7c1-65f5-4ae7-924c-adf52393603b",
+        "position": 1,
+        "text": "Будь яким лікарем.",
+        "isCorrect": false
+      },
+      {
+        "id": "80aeaa6a-d267-4b95-93fc-cbf00001a9f9",
+        "position": 2,
+        "text": "Поліцейським на місці зупинки транспортного засобу в присутності двох свідків.",
+        "isCorrect": false
+      },
+      {
+        "id": "0a04b607-31c0-476e-a61f-0ff8f2fbb7f4",
+        "position": 3,
+        "text": "Лікарем закладу охорони здоров’я, який має право на проведення такого огляду.",
+        "isCorrect": false
+      },
+      {
+        "id": "8f3d1ba7-0f63-4ee6-8f48-0ea872fe3261",
+        "position": 4,
+        "text": "Відповіді 1,2,3.",
+        "isCorrect": false
+      },
+      {
+        "id": "db976874-95e7-40d5-ac54-2cc7adb4695d",
+        "position": 5,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": true
+      }
+    ]
+  }
+]

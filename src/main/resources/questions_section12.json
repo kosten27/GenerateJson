@@ -1,0 +1,1215 @@
+[
+  {
+    "id": "a7fd041a-92fc-40f7-90bb-3bf6766830fd",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 1,
+    "text": "У яких випадках за допомогою дорожніх знаків вводяться постійні обмеження швидкості руху?",
+    "imageResId": "image_s12_q1",
+    "answerOptionList": [
+      {
+        "id": "14e25723-4e83-4868-9810-195352929fb3",
+        "position": 1,
+        "text": "На небезпечних ділянках доріг і вулиць та в місцях розміщення наземних нерегульованих пішохідних переходів.",
+        "isCorrect": false
+      },
+      {
+        "id": "1a5cd632-dda5-4814-907f-7fae7f907e7b",
+        "position": 2,
+        "text": "На ділянках доріг (вулиць), що прилягають до території дошкільних та загальноосвітніх навчальних закладів, дитячих оздоровчих таборів.",
+        "isCorrect": false
+      },
+      {
+        "id": "84b6668b-f0e6-41a8-94e7-86461c0b34e6",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a9d65a29-aa88-4417-8dd5-8dc60e355f18",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 2,
+    "text": "З якою максимальною швидкістю дозволено рух водієві зі стажем менш ніж два роки?",
+    "imageResId": "image_s12_q2",
+    "answerOptionList": [
+      {
+        "id": "8f6104c7-273b-4993-b4cc-9f0e8f9d9957",
+        "position": 1,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "3bd51863-1a4e-4852-8036-73c62bde88ca",
+        "position": 2,
+        "text": "70 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "4fd879a4-4575-47c2-a594-4a4b7456cc50",
+        "position": 3,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "599134ed-ad22-4590-b049-4e87f793a6b1",
+        "position": 4,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "ace0bb65-0011-46c8-92b7-41ce0bba62b5",
+        "position": 5,
+        "text": "50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "70280134-82d2-4c34-ae02-fd644995d6c0",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 3,
+    "text": "Яка максимальна швидкість встановлена для руху легкових автомобілів на автомагістралі (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
+    "answerOptionList": [
+      {
+        "id": "3c93ea25-3fd0-4648-aedd-83ab072d3a3d",
+        "position": 1,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "b8435114-1b9d-4ce8-b8bc-00d896bbf3e7",
+        "position": 2,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "fc1c7064-35e2-4357-b4c4-bfae9827a99d",
+        "position": 3,
+        "text": "110 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "2ef2873a-59ed-4ac5-a9ff-f009104972c1",
+        "position": 4,
+        "text": "130 км/год.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "706bc399-1570-4d50-8cc7-08964a3622c5",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 4,
+    "text": "З якою максимальною швидкістю можуть рухатися легкові автомобілі по дорогах для автомобілів (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
+    "imageResId": "image_s12_q4",
+    "answerOptionList": [
+      {
+        "id": "c12a86b3-e9c2-4463-bd79-758b975f784a",
+        "position": 1,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "ebd76953-d9b5-459a-9f42-ffb61c2d3187",
+        "position": 2,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "fa3080be-9e27-46d6-967e-bc8aad970033",
+        "position": 3,
+        "text": "110 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "3a932090-93a3-4dea-8179-44b1d8b68215",
+        "position": 4,
+        "text": "130 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2322528f-e074-467a-aa25-3afde31f57c7",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 5,
+    "text": "З якою максимальною швидкістю допускається рух легкових автомобілів на дорогах з окремими проїзними частинами, що відокремлені одна від одної розділювальною смугою (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
+    "imageResId": "image_s12_q5",
+    "answerOptionList": [
+      {
+        "id": "83bf5621-701b-4d64-98f3-d29217fa3b98",
+        "position": 1,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "aeef92e9-438f-47c4-81ef-b1d81e2fb164",
+        "position": 2,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "5fba17cc-6715-46af-8643-3ab4792d630d",
+        "position": 3,
+        "text": "110 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "e0677268-efe3-4737-b8fd-44f2297ca564",
+        "position": 4,
+        "text": "130 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b7bfdcc1-f8b5-4bc6-93de-948dbbd8a1e9",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 6,
+    "text": "З якою максимальною швидкістю допускається рух на цій дорозі легкового автомобіля, якщо він рухається за межами населеного пункту (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
+    "imageResId": "image_s12_q6",
+    "answerOptionList": [
+      {
+        "id": "a96cd64a-643e-4044-95f2-6fdc1d6aea8b",
+        "position": 1,
+        "text": "70 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "6c04c280-9c9c-4a5d-b2d4-afc23eae05e0",
+        "position": 2,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "a39babe4-f7b8-4dbf-990f-4cca1ba20e3f",
+        "position": 3,
+        "text": "90 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "b63e139d-cd31-4c33-8e92-bfcb9673be89",
+        "position": 4,
+        "text": "100 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "9d75ef75-c848-4bd5-a440-364ab87f110c",
+        "position": 5,
+        "text": "110 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "43afb998-abd1-475f-abee-c2a3f9fe7af8",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 7,
+    "text": "Яка максимальна швидкість встановлена для автомобіля в цьому місці (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
+    "imageResId": "image_s12_q7",
+    "answerOptionList": [
+      {
+        "id": "ecd22578-1303-4a8d-8c61-6dfe055bd447",
+        "position": 1,
+        "text": "50 км/год. до кінця всього населеного пункту.",
+        "isCorrect": false
+      },
+      {
+        "id": "3992e3f6-53ee-452d-8d20-eb1fdf0633f1",
+        "position": 2,
+        "text": "80 км/год. до кінця всього населеного пункту.",
+        "isCorrect": false
+      },
+      {
+        "id": "37a4ccde-5a68-49b1-8512-3b40c8ebed5a",
+        "position": 3,
+        "text": "90 км/год. під час руху прямо, у разі повороту праворуч, на забудовану територію – 50 км/год.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "49337864-9949-4443-9f99-b2d067497257",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 8,
+    "text": "Яка максимальна швидкість встановлена для легкових автомобілів на цій дорозі за межами населених пунктів (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
+    "imageResId": "image_s12_q8",
+    "answerOptionList": [
+      {
+        "id": "01d457f8-e421-4d32-bc48-aa9c79aded22",
+        "position": 1,
+        "text": "70 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "2e1dfe9f-c69e-4a17-979c-5e7ea60dc5c3",
+        "position": 2,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "144b2e82-1e80-478e-9476-433fff637d70",
+        "position": 3,
+        "text": "90 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "24e6694f-a64a-4c6f-baea-c658eac665b9",
+        "position": 4,
+        "text": "100 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "2eed65e2-20a4-4857-a44e-4dd2852844ce",
+        "position": 5,
+        "text": "110 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ab46fac0-f7eb-4d02-8a5b-cca68b380829",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 9,
+    "text": "З якою максимальною швидкістю дозволено рух білому автомобілю на дорозі за межами населених пунктів?",
+    "imageResId": "image_s12_q9",
+    "answerOptionList": [
+      {
+        "id": "34f5dc1e-6975-4b27-b2e4-217a504cceed",
+        "position": 1,
+        "text": "40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "9c89507f-69d3-4eef-9a5a-12d0d493d0ef",
+        "position": 2,
+        "text": "50 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "8fe0620c-64dd-46f5-9e1d-a32111d6885d",
+        "position": 3,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "b0b1489d-ee66-488b-9ba3-990f7389f53c",
+        "position": 4,
+        "text": "70 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8d8df18d-371e-48da-b358-84b026f4b370",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 10,
+    "text": "З якою максимальною швидкістю дозволено буксирування транспортним засобам на автомагістралях?",
+    "imageResId": "image_s12_q10",
+    "answerOptionList": [
+      {
+        "id": "d7f633fb-bb20-4bfe-b552-dc3e916ba6dc",
+        "position": 1,
+        "text": "40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "5c963c62-4e6c-422b-8ec4-51491ec0b8b8",
+        "position": 2,
+        "text": "50 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "d6d4285c-8a47-43a4-b4b8-f5e064b4a29f",
+        "position": 3,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "8ce12241-f768-42c1-b3e5-84e1e42694cd",
+        "position": 4,
+        "text": "70 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d5e6e9a3-36f0-4114-a450-99d1b8cd142c",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 11,
+    "text": "З якою максимальною швидкістю дозволено рух червоного автомобіля?",
+    "imageResId": "image_s12_q11",
+    "answerOptionList": [
+      {
+        "id": "4d82ac3c-9c4c-4731-ae9d-213641d80d9d",
+        "position": 1,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "bef705b3-2ea0-42e9-9023-e6e204e6cc1a",
+        "position": 2,
+        "text": "70 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "8ccbfe72-49eb-4c64-aa6c-5d8ab087beb6",
+        "position": 3,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "3103a9f8-f2b3-45fc-85ad-135fc6aef350",
+        "position": 4,
+        "text": "110 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "79ece0af-f3c5-4595-ab3b-492bf51e9880",
+        "position": 5,
+        "text": "50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6e18964f-daa7-425f-9c89-91e0ca39f032",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 12,
+    "text": "У яких випадках за допомогою дорожніх знаків вводяться тимчасові обмеження швидкості руху?",
+    "imageResId": "image_s12_q12",
+    "answerOptionList": [
+      {
+        "id": "752a5bc0-060b-42fb-b78c-51f6e631fa6a",
+        "position": 1,
+        "text": "У місцях виконання дорожніх робіт і місцях проведення масових або спеціальних заходів.",
+        "isCorrect": false
+      },
+      {
+        "id": "42be0ce0-d2b4-43a4-a144-cc14610162a6",
+        "position": 2,
+        "text": "У випадках, пов’язаних зі стихійними (погодними) явищами.",
+        "isCorrect": false
+      },
+      {
+        "id": "716eacc5-2369-42a2-b8cd-71bf0c8598df",
+        "position": 3,
+        "text": "У місцях патрулювання поліцейськими.",
+        "isCorrect": false
+      },
+      {
+        "id": "776d993b-c12c-476e-9549-a47d7f430cc7",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": true
+      },
+      {
+        "id": "9cf9c104-b8fc-42e6-ae56-be9fa79e21cb",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d11c6ded-99f5-40be-b491-90b0840e26f3",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 13,
+    "text": "Кому з водіїв дозволено рух з більш високою швидкістю?",
+    "imageResId": "image_s12_q13",
+    "answerOptionList": [
+      {
+        "id": "d056a33f-06a3-4f9c-b170-801e130f5c89",
+        "position": 1,
+        "text": "Водієві мотоцикла.",
+        "isCorrect": false
+      },
+      {
+        "id": "28053c5a-9c3b-4985-91c3-23c6730b7bd3",
+        "position": 2,
+        "text": "Водієві автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "99167dd7-3df2-4349-a1cd-f945e6e25482",
+        "position": 3,
+        "text": "Швидкість обох не повинна перевищувати 20 км/год.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8d881f4e-e181-4399-9a1d-76a0b64c6713",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 14,
+    "text": "З якою максимальною швидкістю дозволено рух у житлових і пішохідних зонах?",
+    "imageResId": "image_s12_q14",
+    "answerOptionList": [
+      {
+        "id": "14e2578c-706f-471b-ab01-4949284b8001",
+        "position": 1,
+        "text": "20 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "26cc22aa-b03b-4692-b949-ec0785cc2bec",
+        "position": 2,
+        "text": "40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "2387de69-c106-4e45-850b-54b4ad915ab0",
+        "position": 3,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "a35981f4-8731-4355-805a-f79f26b29784",
+        "position": 4,
+        "text": "50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "73721fba-6b44-4dda-aaf5-3a27393d6fed",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 15,
+    "text": "Швидкість руху в темну пору доби та в умовах недостатньої видимості повинна бути такою, щоб водій:",
+    "imageResId": "image_s12_q15",
+    "answerOptionList": [
+      {
+        "id": "3a8acc14-174a-45c6-802d-989b2784752f",
+        "position": 1,
+        "text": "Мав можливість оцінити дорожню обстановку на відстані 50-100 м попереду.",
+        "isCorrect": false
+      },
+      {
+        "id": "80df28ff-fac8-444d-9b05-94a0fccfefd3",
+        "position": 2,
+        "text": "Мав можливість зупинити транспортний засіб у межах видимості дороги.",
+        "isCorrect": true
+      },
+      {
+        "id": "e44d28df-3c2e-4a0f-8b40-a00b96a3a616",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2259e083-1d2c-498d-9e4e-2c985710f8bb",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 16,
+    "text": "Рухаючись по дорозі, водій виявив перешкоду для руху. Як він повинен вчинити в такій ситуації?",
+    "imageResId": "image_s12_q16",
+    "answerOptionList": [
+      {
+        "id": "7221a3dd-ba8c-4434-8059-de0f3f7c6c28",
+        "position": 1,
+        "text": "Знизити швидкість на 10 км/год., об'їхати небезпеку, що виникла, а в разі потреби зупинитися.",
+        "isCorrect": false
+      },
+      {
+        "id": "1cb30435-df99-4df2-87b3-af197e1071df",
+        "position": 2,
+        "text": "Знизити швидкість (аж до зупинки транспортного засобу) або, забезпечивши безпеку для інших учасників руху, об'їхати перешкоду.",
+        "isCorrect": true
+      },
+      {
+        "id": "24b22d04-8810-46c5-9303-164f49acff85",
+        "position": 3,
+        "text": "Об'їхати перешкоду, не знижуючи швидкості.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6de77d36-0945-4665-8f19-366407ec2c68",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 17,
+    "text": "Яку максимальну швидкість руху встановлено в населених пунктах, позначених даним дорожнім знаком?",
+    "imageResId": "image_s12_q17",
+    "answerOptionList": [
+      {
+        "id": "51801db8-4aac-483f-bc45-7bdc655a6141",
+        "position": 1,
+        "text": "50 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "168afc72-c6a8-433b-b3b8-900e31b06011",
+        "position": 2,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "7e26c56c-1463-49e7-a759-75309c2aba01",
+        "position": 3,
+        "text": "70 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "36e99d3e-fb1c-47d6-9382-1d8b9192d081",
+        "position": 4,
+        "text": "80 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "34c7ce3d-cd16-4bfa-a6f9-1a7e429b656d",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 18,
+    "text": "З якою максимальною швидкістю дозволено рух після проїзду цього знака?",
+    "imageResId": "image_s12_q18",
+    "answerOptionList": [
+      {
+        "id": "400f177d-8e20-4c8f-a1cf-f5146c013316",
+        "position": 1,
+        "text": "50 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "1eca5dac-3c99-4bad-8ec1-8f2f84d93c56",
+        "position": 2,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "d8f5ca80-7a05-421d-8780-1d1f59c327c4",
+        "position": 3,
+        "text": "70 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "967c8ef9-c945-4e59-8f38-ec44a33147b7",
+        "position": 4,
+        "text": "80 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "83a6a2e7-6b1d-49e4-b2cf-8b24c3541486",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 19,
+    "text": "З якою максимальною швидкістю дозволено рух на дорогах з розділювальною смугою в населених пунктах?",
+    "imageResId": "image_s12_q19",
+    "answerOptionList": [
+      {
+        "id": "6e15ba39-6f55-4c78-874f-8841db8c8894",
+        "position": 1,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "f17cc110-54be-43a2-b181-41facf1cb2ed",
+        "position": 2,
+        "text": "70 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "7636c2ea-afdb-4f2b-ad29-94560be400ac",
+        "position": 3,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "b8459882-cb7b-4f6f-8369-cd703d5dd974",
+        "position": 4,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "bfb0c9db-46fc-4794-b654-ad28bae7eeb0",
+        "position": 5,
+        "text": "50 км/год.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a63e3ab7-e56c-41fa-b32c-4aae62c2498c",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 20,
+    "text": "З якою максимальною швидкістю дозволено рух автомобіля в зображеній ситуації?",
+    "imageResId": "image_s12_q20",
+    "answerOptionList": [
+      {
+        "id": "57e5b87e-04da-4605-b1ae-29b23b1cc76f",
+        "position": 1,
+        "text": "20 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "ed27cb4c-8c7a-443c-94cc-9400847da9f8",
+        "position": 2,
+        "text": "40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "4563aa31-9bdb-46b8-ac02-3f3a9b69d723",
+        "position": 3,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "4ab2b3c3-e952-4e44-bca9-d3a51248c477",
+        "position": 4,
+        "text": "50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bf043303-e88f-4cad-8f8d-111101e45d0f",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 21,
+    "text": "Чи завжди водій під час вибору безпечної швидкості руху повинен враховувати особливості вантажу, що перевозиться?",
+    "answerOptionList": [
+      {
+        "id": "0fa04432-84ae-4672-b5fd-0163f0ad16f5",
+        "position": 1,
+        "text": "Не повинен, якщо вантаж добре закріплений.",
+        "isCorrect": false
+      },
+      {
+        "id": "0e2501ec-277a-4b69-af84-f48c100f5651",
+        "position": 2,
+        "text": "Повинен завжди.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "71a10f45-0b9c-427d-a7c2-179500a3049b",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 22,
+    "text": "У яких випадках, відповідно до Правил дорожнього руху, водій не може бути притягнений до відповідальності за порушення встановлених обмежень швидкості?",
+    "answerOptionList": [
+      {
+        "id": "165ec375-d475-477e-8ca5-461e4904ea24",
+        "position": 1,
+        "text": "Якщо знаки обмеження швидкості руху встановлені з порушенням правил їх введення.",
+        "isCorrect": false
+      },
+      {
+        "id": "89da4ab8-d627-4909-88a9-c238bd3d0320",
+        "position": 2,
+        "text": "Якщо знаки обмеження швидкості руху встановлені з порушенням вимог національних стандартів.",
+        "isCorrect": false
+      },
+      {
+        "id": "d875ba06-9d24-4852-9cb2-6f3bccfb1424",
+        "position": 3,
+        "text": "Якщо знаки обмеження швидкості руху залишені після усунення обставин, за яких їх було встановлено.",
+        "isCorrect": false
+      },
+      {
+        "id": "dff0b2d5-1dc1-4f14-9312-d7b756c4d6c2",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "1cf55089-148f-4a48-9362-30b87ff99320",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "41f70223-94a0-46f5-8c06-3d7216d0cf32",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 23,
+    "text": "Чи завжди, вибираючи безпечну швидкість під час руху взимку, водій повинен враховувати стан дорожнього покриття?",
+    "answerOptionList": [
+      {
+        "id": "b66cdb93-1519-4aab-a1f0-9c00ef7e7b95",
+        "position": 1,
+        "text": "Повинен враховувати завжди.",
+        "isCorrect": true
+      },
+      {
+        "id": "ce73cef5-9423-499f-94c4-125f1e99c0d4",
+        "position": 2,
+        "text": "Не повинен, якщо на транспортному засобі встановлено зимові шини.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "db203e01-b0ba-41cf-a77f-b4eff8a1840f",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 24,
+    "text": "Чи дозволено водієві різко гальмувати?",
+    "answerOptionList": [
+      {
+        "id": "90785e14-6a79-4609-a75b-63c6ddfe0446",
+        "position": 1,
+        "text": "Заборонено завжди.",
+        "isCorrect": false
+      },
+      {
+        "id": "79e8840b-13f1-44eb-a253-05bd674c60ff",
+        "position": 2,
+        "text": "Заборонено, крім випадків запобігання дорожньо-транспортній пригоді.",
+        "isCorrect": true
+      },
+      {
+        "id": "dee0ecd8-be9d-4214-9307-599e849552a5",
+        "position": 3,
+        "text": "Дозволено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c024348c-2a92-4bc0-a18b-334390641a29",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 25,
+    "text": "Чи можна водієві без потреби рухатися з дуже малою швидкістю?",
+    "answerOptionList": [
+      {
+        "id": "cc422761-4820-468c-838a-79f87661891e",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "eb8cdbee-c5cd-422e-8fdc-61e95fafac0b",
+        "position": 2,
+        "text": "Заборонено в умовах, коли це перешкоджає іншим транспортним засобам.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "5d0f724c-5f6d-40d7-ae3b-86e6b81274cc",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 26,
+    "text": "Що враховується під час вибору безпечної швидкості руху?",
+    "answerOptionList": [
+      {
+        "id": "e5712eba-eadb-4645-9ece-34af31db9308",
+        "position": 1,
+        "text": "Дорожня обстановка.",
+        "isCorrect": false
+      },
+      {
+        "id": "1695077d-7921-437e-9270-958d7a01065a",
+        "position": 2,
+        "text": "Особливості вантажу, що перевозиться.",
+        "isCorrect": false
+      },
+      {
+        "id": "e0cf511f-dbaf-4faf-82ac-b70e3ca110b1",
+        "position": 3,
+        "text": "Стан транспортного засобу.",
+        "isCorrect": false
+      },
+      {
+        "id": "6cd6226a-3083-4c9b-9c94-3035a9a851f6",
+        "position": 4,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "9a0fd096-481f-4744-9685-6d6f720b9f64",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 27,
+    "text": "Чи дозволено водієві перевищувати максимальну дозволену швидкість під час буксирування?",
+    "answerOptionList": [
+      {
+        "id": "52d0dc4d-f0aa-4890-9033-b7fec1ee107e",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": true
+      },
+      {
+        "id": "5e36c42d-db61-4744-b7f6-1f2fc5c6482f",
+        "position": 2,
+        "text": "Дозволено, якщо довжина гнучкого зчеплення достатня.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5282e9d8-6899-47da-bc8a-8f3802165b02",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 28,
+    "text": "Чи можуть водії транспортних засобів рухатися в житлових і пішохідних зонах зі швидкістю, що перевищує встановлену для таких місць?",
+    "answerOptionList": [
+      {
+        "id": "cc1b3e06-c596-4243-8045-5e6c94afdce6",
+        "position": 1,
+        "text": "Дозволено тим, хто там працює або проживає в цих зонах.",
+        "isCorrect": false
+      },
+      {
+        "id": "fc0cda03-2eba-4f16-a725-5d353385c9b5",
+        "position": 2,
+        "text": "Дозволено тим, хто обслуговує підприємства.",
+        "isCorrect": false
+      },
+      {
+        "id": "1a6b4363-a48a-4d13-998e-0968df5570fc",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "8c6bdaa1-cd24-4d57-b661-2426ef9d8cd5",
+        "position": 4,
+        "text": "Заборонено перевищувати встановлену швидкість.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "97c9e9a5-1232-4a48-9c7f-f68016b839f0",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 29,
+    "text": "У якому випадку максимальна дозволена швидкість руху на дорозі в населеному пункті може бути збільшена?",
+    "answerOptionList": [
+      {
+        "id": "571cf4df-9e37-4d17-8edf-7022dba298cd",
+        "position": 1,
+        "text": "У разі створення умов, що дають можливість рухатися з більш високою швидкістю, за узгодженим рішенням уповноваженого підрозділу Національної поліції та власників доріг або органів, яким передано право на утримання таких доріг.",
+        "isCorrect": false
+      },
+      {
+        "id": "d8d57d5e-19ab-4f82-af4a-48cffb7cdc7b",
+        "position": 2,
+        "text": "У разі встановлення відповідних дорожніх знаків.",
+        "isCorrect": false
+      },
+      {
+        "id": "0af73669-f996-438d-905e-900b2c0fc669",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c6886fdd-625c-45a1-a78c-3b88b5ddd09e",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 30,
+    "text": "За яких умов дозволена максимальна швидкість руху на дорозі може бути збільшена?",
+    "answerOptionList": [
+      {
+        "id": "6e1bb8df-f32e-4bce-9265-6eacabc870f6",
+        "position": 1,
+        "text": "За умови встановлення відповідних дорожніх знаків.",
+        "isCorrect": true
+      },
+      {
+        "id": "66e26618-9d0b-4be2-b8a8-70643fc304d7",
+        "position": 2,
+        "text": "За узгодженим рішенням власників доріг або органів, яким передано право на утримання таких доріг, у разі створення умов, що дають можливість рухатися з більш високою швидкістю.",
+        "isCorrect": false
+      },
+      {
+        "id": "d5435d5d-773e-4cc8-906c-fb3562b8ba18",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "737fa0bc-3d79-442f-baf2-526fdbfa7534",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 31,
+    "text": "Яка швидкість обрана правильно під час руху в темну пору доби або в умовах недостатньої видимості?",
+    "answerOptionList": [
+      {
+        "id": "753ae6c2-71f3-46b2-aad2-4f838b2d7de9",
+        "position": 1,
+        "text": "При якій водій мав змогу зупинити транспортний засіб у межах видимості дороги.",
+        "isCorrect": true
+      },
+      {
+        "id": "30a2204a-9362-4331-b750-fb971e4a6bbf",
+        "position": 2,
+        "text": "При якій гальмівний шлях дорівнює або не перевищує видимості в напрямку руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "2a05466c-f889-4c27-8c6b-8222f5ed85a6",
+        "position": 3,
+        "text": "При якій гальмівний шлях перевищує видимість за напрямком руху.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3415b340-daae-4e1e-8739-6814b0fd7656",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 32,
+    "text": "Якою має бути швидкість під час руху в темну пору доби або в умовах недостатньої видимості?",
+    "answerOptionList": [
+      {
+        "id": "df29c79a-8a14-44d0-ad94-26ed5b14ea90",
+        "position": 1,
+        "text": "На 10 км/год. нижчою, ніж швидкість, яка встановлена для ділянки дороги, по якій рухається транспортний засіб.",
+        "isCorrect": false
+      },
+      {
+        "id": "fe4cdf31-b4f7-4785-9e8e-4cfdf18e2623",
+        "position": 2,
+        "text": "Такою, щоб водій мав змогу зупинити транспортний засіб у межах видимості дороги.",
+        "isCorrect": true
+      },
+      {
+        "id": "218d0cc1-15dc-487d-8375-501802b574d3",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f1690c61-baac-4459-a7f1-5d9a08e14e24",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 33,
+    "text": "З якою максимальною швидкістю дозволено буксирування транспортних засобів?",
+    "answerOptionList": [
+      {
+        "id": "1f4cc369-0907-47f7-a3a3-99a9cc560b71",
+        "position": 1,
+        "text": "40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "ecd7bcac-c81c-4541-a25b-d099d4936436",
+        "position": 2,
+        "text": "50 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "38d984cb-a481-408f-9ccf-84f798c1904d",
+        "position": 3,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "02c5ab2e-7df1-44a4-80be-e688ab6a7473",
+        "position": 4,
+        "text": "70 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "576abb2f-a43f-4f4d-a73d-752909cb4747",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 34,
+    "text": "Як повинен вчинити водій у разі виникнення небезпеки для руху або перешкоди, яку він виявив під час руху?",
+    "answerOptionList": [
+      {
+        "id": "7d739fbb-e289-46d1-af13-066725b6437e",
+        "position": 1,
+        "text": "Рухатися далі, не змінюючи швидкості, і бути готовим негайно зупинити транспортний засіб.",
+        "isCorrect": false
+      },
+      {
+        "id": "72b3d679-8745-46ca-843a-fa255acbf7f4",
+        "position": 2,
+        "text": "Вжити заходів для зменшення швидкості аж до зупинки транспортного засобу або безпечного для інших учасників руху об'їзду перешкоди.",
+        "isCorrect": true
+      },
+      {
+        "id": "73bda42c-3fe7-4270-a5d1-3d6a03341811",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5ba058de-1ec5-415b-bff8-57e417c1a7db",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 35,
+    "text": "З якою максимальною швидкістю дозволено рух транспортних засобів, якими керують водії зі стажем до двох років, на всіх дорогах за межами населених пунктів?",
+    "answerOptionList": [
+      {
+        "id": "795e2a36-0e06-4a2c-ba84-c534b44e0bc1",
+        "position": 1,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "3c2afd5b-af53-4a99-a21f-078a84a8f2e9",
+        "position": 2,
+        "text": "70 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "43f406c5-aa48-4a4e-8fc5-62a93c8a64d2",
+        "position": 3,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "ca062cc8-83a2-430d-8ad3-c4999ef2232f",
+        "position": 4,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "0e5adc9d-0b4d-43d5-836d-e885ce386291",
+        "position": 5,
+        "text": "50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e66e3781-df71-407a-a95a-16fe191eb741",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 36,
+    "text": "З якою максимальною швидкістю дозволено рух на дворових територіях?",
+    "answerOptionList": [
+      {
+        "id": "9b9d70b7-20ce-4fdb-a986-18b0d03d2066",
+        "position": 1,
+        "text": "20 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "d09f3df2-badc-4358-b41b-1b5afd0803e9",
+        "position": 2,
+        "text": "40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "cf91d6e9-2f8e-4e73-9767-3565a858edcc",
+        "position": 3,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "2c43bb0a-fbdc-4bed-82ef-e6565b295064",
+        "position": 4,
+        "text": "50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3b760290-e9c1-47e6-9a30-e03807374e0d",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 37,
+    "text": "Що для Вас вважається безпечною швидкістю?",
+    "answerOptionList": [
+      {
+        "id": "ac536735-e31f-425d-b950-10cb1b88a54f",
+        "position": 1,
+        "text": "Швидкість яка визначена дорожніми знаками для руху в населених пунктах.",
+        "isCorrect": false
+      },
+      {
+        "id": "3895b728-b214-4728-975f-3f0005e53aad",
+        "position": 2,
+        "text": "Швидкість при якій Ви маєте змогу безпечно керувати транспортним засобом та контролювати його рух у конкретних дорожніх умовах.",
+        "isCorrect": true
+      },
+      {
+        "id": "0a3ca4ce-53e6-4243-9f64-39b8b485a673",
+        "position": 3,
+        "text": "Швидкість яка визначена технічною характеристикою даного транспортного засобу.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ee31a817-db2a-437e-a6d4-92862d458b21",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 38,
+    "text": "Чи дозволено водіям із досвідом водіння понад 5 років перевищувати максимально допустиме обмеження швидкості поза межами населених пунктів?",
+    "answerOptionList": [
+      {
+        "id": "0743df5d-5c94-42c1-88c9-4ab2aa055f59",
+        "position": 1,
+        "text": "Так.",
+        "isCorrect": false
+      },
+      {
+        "id": "6196a26f-f071-4d95-a5fb-02cfe126c233",
+        "position": 2,
+        "text": "Ні.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "f265856b-8a47-42e2-8b48-c0694e093848",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 39,
+    "text": "Максимальна швидкість під час руху у житловій зоні становить 30 км/год?",
+    "imageResId": "image_s12_q39",
+    "answerOptionList": [
+      {
+        "id": "89a5a930-7a8e-4bf1-bf44-3d6ac9a2f747",
+        "position": 1,
+        "text": "Так.",
+        "isCorrect": false
+      },
+      {
+        "id": "909aaff2-b7dc-43d7-9c44-9b8ffaa97b91",
+        "position": 2,
+        "text": "Ні.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "06b0372b-1f52-4e9b-953b-5580fb8c4e5b",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 40,
+    "text": "Безпечна швидкість руху – це виключно встановлене обмеження швидкості:",
+    "answerOptionList": [
+      {
+        "id": "53ff9576-dc52-41dd-b23c-df5b0c3257e6",
+        "position": 1,
+        "text": "Так.",
+        "isCorrect": false
+      },
+      {
+        "id": "b4a099f6-3756-4aed-a54e-678c89db07c0",
+        "position": 2,
+        "text": "Ні.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8c330849-19dd-493e-adc0-6678be097810",
+    "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
+    "order": 41,
+    "text": "Водій транспортного засобу, що рухається зі швидкістю 68 км/год, наближаючись до наведеного дорожнього знака повинен:",
+    "imageResId": "image_s12_q41",
+    "answerOptionList": [
+      {
+        "id": "23fa9f93-0329-43e6-b890-77d3062d937f",
+        "position": 1,
+        "text": "Зобов'язаний збільшити швидкість, щоб швидкість транспортного засобу становила більше 70 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "ec76eb73-b1b1-4139-bf34-fd0f1716de12",
+        "position": 2,
+        "text": "Зобов’язаний продовжувати рух з цією ж швидкістю або меншою, але не більшою 70 км/год.",
+        "isCorrect": true
+      }
+    ]
+  }
+]

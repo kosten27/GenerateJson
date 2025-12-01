@@ -1,0 +1,2508 @@
+[
+  {
+    "id": "d26d1341-7b33-4f86-9c0a-2ee3245a2470",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 1,
+    "text": "На якому з місць водієві вантажного автомобіля дозволено виконати завантаження (розвантаження) вантажу, якщо дорога має по одній смузі для руху в кожному напрямку?",
+    "imageResId": "image_s48_q1",
+    "answerOptionList": [
+      {
+        "id": "7d761289-f808-4073-8eb4-055b2b11a65c",
+        "position": 1,
+        "text": "На місцях А та Б.",
+        "isCorrect": false
+      },
+      {
+        "id": "457897b1-ccd0-4971-827f-1d434ec3ddb7",
+        "position": 2,
+        "text": "На місцях А та Д.",
+        "isCorrect": true
+      },
+      {
+        "id": "26b699c2-9a5b-4fe6-a6a4-24775368b7dc",
+        "position": 3,
+        "text": "На місцях Б і Г.",
+        "isCorrect": false
+      },
+      {
+        "id": "b6beb08d-0a77-48b9-a8a2-0bdcfe502af6",
+        "position": 4,
+        "text": "На всіх зазначених місцях йому дозволено виконати зупинку.",
+        "isCorrect": false
+      },
+      {
+        "id": "882e97d2-917d-4ebe-807a-d8c8e5a5ddd7",
+        "position": 5,
+        "text": "На місцях Г і Д.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "599d550c-66dd-4d8b-827e-a730eba18ce5",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 2,
+    "text": "У яких напрямках дозволено рух вантажного автомобіля в зображеній ситуації?",
+    "imageResId": "image_s48_q2",
+    "answerOptionList": [
+      {
+        "id": "864a2ce7-9965-4937-9717-8f786ccc07a5",
+        "position": 1,
+        "text": "Прямо.",
+        "isCorrect": true
+      },
+      {
+        "id": "0e634bf0-f87b-4e02-ac1a-b3d1f8b31b41",
+        "position": 2,
+        "text": "Праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "4935e0ba-ac4f-4892-93eb-28f331bcda71",
+        "position": 3,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "0f68c1ab-5c4e-46da-953f-387fa2ab0c0e",
+        "position": 4,
+        "text": "У будь-якому з напрямків.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "45ec55d0-f30d-4bae-b06e-841b060bf7e2",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 3,
+    "text": "У яких напрямках дозволено рух вантажного автомобіля в зображеній ситуації?",
+    "imageResId": "image_s48_q3",
+    "answerOptionList": [
+      {
+        "id": "effab871-7071-4d91-9f0c-2f93b9da16e0",
+        "position": 1,
+        "text": "Прямо або праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "f03780b8-9866-4198-bdc3-bda84813b69a",
+        "position": 2,
+        "text": "Праворуч.",
+        "isCorrect": true
+      },
+      {
+        "id": "302cc7d3-45f6-43df-84f7-54050051c89c",
+        "position": 3,
+        "text": "Ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "fe512a0c-e12e-427b-a70e-2125abab50fa",
+        "position": 4,
+        "text": "У будь-якому з напрямків.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fcd19e08-8d94-4400-a3ce-3d2f989f0f5a",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 4,
+    "text": "У яких напрямках дозволено рух вантажного автомобіля в зображеній ситуації, якщо його дозволена максимальна маса понад 3,5 т?",
+    "imageResId": "image_s48_q4",
+    "answerOptionList": [
+      {
+        "id": "69765f53-0383-4d89-bdc4-c6c8f55b32a5",
+        "position": 1,
+        "text": "Тільки прямо.",
+        "isCorrect": false
+      },
+      {
+        "id": "fdccbf79-b026-492c-9416-9769986b14db",
+        "position": 2,
+        "text": "У всіх напрямках.",
+        "isCorrect": false
+      },
+      {
+        "id": "f190c619-5d44-45e5-bea8-82dceb3f8b83",
+        "position": 3,
+        "text": "Прямо або на розворот.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "1ed5840d-f3ef-4416-b7fb-41f7f895767f",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 5,
+    "text": "Чи дозволено в зображеній ситуації рух прямо вантажному автомобілю, якщо його дозволена максимальна маса менш ніж 3,5 т?",
+    "imageResId": "image_s48_q5",
+    "answerOptionList": [
+      {
+        "id": "25d30e30-cb48-4d11-b8bc-a8c24b29f2e3",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "f904a0b5-d8b6-47d1-8596-c9d2b00e9b73",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3e4fabe3-c30f-4d24-9378-168137b60cb0",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 6,
+    "text": "Який із зображених дорожніх знаків позначає кінець дії дорожнього знака «Обгін вантажним автомобілям заборонено»?",
+    "imageResId": "image_s48_q6",
+    "answerOptionList": [
+      {
+        "id": "30e7e80b-a83f-4dd9-a200-cca33d504b20",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "b994e862-83a0-41a8-85c9-1e606dc5a0e6",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": true
+      },
+      {
+        "id": "1faa848a-2049-4d63-aa8d-88ee7828ec2b",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "56b87475-8676-4475-8662-d65767c00b2d",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "4194c2a2-abab-44a4-ac0b-aa4b1fcef365",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "708b4fbb-3448-48ad-9295-d17636ab5bf1",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 7,
+    "text": "Який із зображених дорожніх знаків забороняє обгін тільки вантажним автомобілям з дозволеною максимальною масою понад 3,5 т?",
+    "imageResId": "image_s48_q7",
+    "answerOptionList": [
+      {
+        "id": "5babc3c4-70c8-4914-b8e7-67ce7ee14832",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "0449dec6-ea32-486b-823c-7edffe171656",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "0908ea33-728d-41d4-964b-012b5282d81f",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": true
+      },
+      {
+        "id": "39dab56c-37e7-4cd6-ac29-6bd96f36f354",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "f312fd30-67a6-408c-97cd-911714c1c8b1",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "89be8e59-a769-477d-8bcb-64f7b5e307a9",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 8,
+    "text": "Чи дозволено водієві вантажного автомобіля виконати обгін у зображеній ситуації, якщо состав, який обганяють, рухається зі швидкістю менш ніж 30 км/год.?",
+    "imageResId": "image_s48_q8",
+    "answerOptionList": [
+      {
+        "id": "b7854c79-6c4d-40a6-8c58-ab775363219b",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": true
+      },
+      {
+        "id": "76fc25f2-e9c9-498b-bbde-60878432bd72",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3381fd22-826e-4524-bce8-66948ebca778",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 9,
+    "text": "Чи дозволено водієві вантажного автомобіля з дозволеною масою понад 3,5 т у зоні дії зображеного дорожнього знака виконати обгін транспортного состава, що рухається зі швидкістю менш ніж 30 км/год.?",
+    "imageResId": "image_s48_q9",
+    "answerOptionList": [
+      {
+        "id": "ad0c1eab-9983-402e-a229-114c4d24ec87",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": true
+      },
+      {
+        "id": "d4368521-99c4-4eb8-a105-940ceb06f17b",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "97842e44-7f46-4941-b64a-9f720c1fe15b",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 10,
+    "text": "За якої з умов водієві вантажного автомобіля з дозволеною максимальною масою понад 3,5 т дозволено виконати обгін у зображеній ситуації?",
+    "imageResId": "image_s48_q10",
+    "answerOptionList": [
+      {
+        "id": "af206222-e463-499f-b6fe-67eab66cced8",
+        "position": 1,
+        "text": "Якщо поодинокий транспортний засіб рухається зі швидкістю менш ніж 30 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "68fde2b5-5ddf-4f36-979b-919fef1ee313",
+        "position": 2,
+        "text": "Якщо поодинокий транспортний засіб рухається зі швидкістю менш ніж 40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "fe25facd-aaa2-44b2-9a47-896832b98daf",
+        "position": 3,
+        "text": "Обгін у зображеній ситуації суворо заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f06e2425-b1c4-4d71-ab9a-5af22c672be1",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 11,
+    "text": "Чи дозволено в даній ситуації рух вантажного автомобіля, якщо його маса становить 10 т?",
+    "imageResId": "image_s48_q11",
+    "answerOptionList": [
+      {
+        "id": "ebdba64f-c33d-4128-b54a-424ccdda5696",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": true
+      },
+      {
+        "id": "0a981cff-a4b8-47ce-acb7-8a46c075ee20",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ab6eeac9-6550-4406-a416-8c92e8adfade",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 12,
+    "text": "Чи дозволено в даній ситуації рух вантажного автомобіля, якщо його маса становить 10 т?",
+    "imageResId": "image_s48_q12",
+    "answerOptionList": [
+      {
+        "id": "9dfd9836-5c4c-4a68-9b99-8906f5c736d1",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": true
+      },
+      {
+        "id": "87a5a037-4e2d-4ba9-bba7-2a11044e0d11",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b4fbf4ee-24a7-43f1-8b95-f1f15a4e52cc",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 13,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_s48_q13",
+    "answerOptionList": [
+      {
+        "id": "35c9b4d4-c3ae-4af6-ad5a-ed1c65b652b1",
+        "position": 1,
+        "text": "Транспортних засобів, маса яких перевищує масу, зазначену на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "cd500d3b-bd85-48b5-911e-8c1125ce6111",
+        "position": 2,
+        "text": "Транспортних засобів, дозволена максимальна маса яких перевищує масу, зазначену на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "de2b8cde-bf83-41ff-8ecf-c437ac6e2dbf",
+        "position": 3,
+        "text": "Транспортних засобів, навантаження на вісь яких перевищує масу, зазначену на знакові.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b29dcaf4-7a84-44a0-9c9a-0c2a57724172",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 14,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_s48_q14",
+    "answerOptionList": [
+      {
+        "id": "aa2aad8b-63a4-4ec1-b97e-83f1aa5d0cc6",
+        "position": 1,
+        "text": "Вантажних автомобілів, фактична маса яких перевищує зазначену на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "e333cc24-a098-4952-a781-76e200dce433",
+        "position": 2,
+        "text": "Автобусів, фактична маса яких перевищує зазначену на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "3f3629a4-b6b5-4149-91d8-9a18e2308113",
+        "position": 3,
+        "text": "Транспортних составів, фактична маса яких перевищує зазначену на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "4158a98f-0427-4b34-b29b-ded40a2e52e4",
+        "position": 4,
+        "text": "Будь-яких транспортних засобів, а також транспортних составів, фактична маса яких перевищує зазначену на знакові.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e250baa6-62ea-4fbb-bdbe-b6ec2e2178ef",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 15,
+    "text": "Чи дозволено водієві вантажного автомобіля повернути ліворуч у зображеній ситуації?",
+    "imageResId": "image_s48_q15",
+    "answerOptionList": [
+      {
+        "id": "3475f0bb-367a-4114-b01c-0c35838fd92b",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "eb64bd06-13b7-4df2-b52d-a17832740ce1",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "478ed69a-ff7e-418d-a531-13011e98da81",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 16,
+    "text": "Яка із зображених табличок дозволяє стоянку вантажних автомобілів із дозволеною максимальною масою понад 3,5 т?",
+    "imageResId": "image_s48_q16",
+    "answerOptionList": [
+      {
+        "id": "7e6f5c6a-5e62-44d2-b947-7b4a08ef0658",
+        "position": 1,
+        "text": "Табличка 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "327ba056-1949-4074-8a62-266fce9fa853",
+        "position": 2,
+        "text": "Табличка 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "a22af053-9015-499b-99ad-a08b28177338",
+        "position": 3,
+        "text": "Табличка 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "9acbb355-d016-4c1d-be50-ff3bac48c3df",
+        "position": 4,
+        "text": "Табличка 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "3712518e-885a-4657-b51d-09e67631145d",
+        "position": 5,
+        "text": "Табличка 5.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3657a4f6-6e40-417d-99c1-0da3c1f6b5fa",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 17,
+    "text": "На якому боці цієї дороги населеного пункту водієві вантажного автомобіля з дозволеною максимальною масою понад 3,5 т дозволено зупинитися?",
+    "imageResId": "image_s48_q17",
+    "answerOptionList": [
+      {
+        "id": "d9e5ee6f-0f80-4978-9a01-1bac5f0af4e0",
+        "position": 1,
+        "text": "На правому боці завжди дозволено, а на лівому - тільки для завантаження або розвантаження.",
+        "isCorrect": false
+      },
+      {
+        "id": "ddc70223-7e3e-4f9f-855a-87864240c62e",
+        "position": 2,
+        "text": "Тільки на правому.",
+        "isCorrect": false
+      },
+      {
+        "id": "6ed152d6-973f-40f2-b21c-7f967396c4ac",
+        "position": 3,
+        "text": "На правому і на лівому.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "f0cb1c87-aed9-4e3d-8324-e02c96f34995",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 18,
+    "text": "Чи може водій вантажного автомобіля з дозволеною максимальною масою понад 3,5 т зупинитися на лівому боці дороги з одностороннім рухом в населеному пункті?",
+    "answerOptionList": [
+      {
+        "id": "4d7b63c1-c3be-4559-9cb0-943b06a5742f",
+        "position": 1,
+        "text": "Може.",
+        "isCorrect": true
+      },
+      {
+        "id": "8af1b9ff-ad23-43fd-8447-e523b403618e",
+        "position": 2,
+        "text": "Не може.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "47b62ae4-a551-4b28-8ffc-2caac64f21fb",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 19,
+    "text": "На якому боці дороги з одностороннім рухом в населеному пункті водієві вантажного автомобіля з дозволеною максимальною масою понад 3,5 т дозволено зупинитися?",
+    "imageResId": "image_s48_q19",
+    "answerOptionList": [
+      {
+        "id": "85e0c976-3433-4950-bb61-72ae96a38c74",
+        "position": 1,
+        "text": "З обох боків у будь-якому випадку.",
+        "isCorrect": false
+      },
+      {
+        "id": "e5274210-f75d-4795-8909-72863ae8714f",
+        "position": 2,
+        "text": "Тільки на правому боці.",
+        "isCorrect": false
+      },
+      {
+        "id": "b1260552-f00f-4706-8c61-6f037d9d48ee",
+        "position": 3,
+        "text": "На правому боці завжди, на лівому боці - тільки для завантаження або розвантаження.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "7451297d-4d3a-4410-9a7f-59a0098395ca",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 20,
+    "text": "Які дії повинен виконати водій великогабаритного вантажного автомобіля в дорожній ситуації, коли інші водії не можуть обігнати його?",
+    "imageResId": "image_s48_q20",
+    "answerOptionList": [
+      {
+        "id": "0696c19c-bd83-40e1-8ece-f720ae9f9f50",
+        "position": 1,
+        "text": "Нічого не робити.",
+        "isCorrect": false
+      },
+      {
+        "id": "75cb796d-bded-4234-b036-bbea6b139355",
+        "position": 2,
+        "text": "Рухатися якомога правіше, а у разі потреби - зупинитися на узбіччі і пропустити транспортні засоби, що рухаються за ним.",
+        "isCorrect": true
+      },
+      {
+        "id": "c43bff64-ffe3-453a-8525-ebcc0f861494",
+        "position": 3,
+        "text": "Увімкнути аварійну світлову сигналізацію.",
+        "isCorrect": false
+      },
+      {
+        "id": "71ffbf19-68de-46d7-8308-f2608ec42d1c",
+        "position": 4,
+        "text": "Виконати дії, зазначені у відповідях 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e3255105-79f4-4943-b34e-c5bf8c9ec4cb",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 21,
+    "text": "Чи дозволено водієві вантажного автомобіля перевищувати швидкість, зазначену на розпізнавальному знаку «Обмеження максимальної швидкості»?",
+    "imageResId": "image_s48_q21",
+    "answerOptionList": [
+      {
+        "id": "0a03f20c-8c06-4e31-97a2-6b9fb7e12928",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "d95b2313-9f8f-44be-b7d1-35c011d08876",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "6d97c97c-aacf-4d0a-a956-bded7ee8c597",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 22,
+    "text": "Яка максимальна швидкість встановлена для всіх вантажних автомобілів на цій дорозі за межами населених пунктів?",
+    "imageResId": "image_s48_q22",
+    "answerOptionList": [
+      {
+        "id": "9ae60326-4ab1-4d94-9a7c-e50bd0383569",
+        "position": 1,
+        "text": "70 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "d3c16f48-33af-40f9-ad7c-b59f026a41eb",
+        "position": 2,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "e50a0cf3-a3f0-4140-a360-d91d26b54828",
+        "position": 3,
+        "text": "90 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "d50a2fba-ebc2-4500-af74-bfa62d40c568",
+        "position": 4,
+        "text": "100 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "e1ee5a2b-6e5c-474f-9fd9-6d99730b768d",
+        "position": 5,
+        "text": "110 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "50dd5dde-4660-4222-92a0-e0ae4b607d74",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 23,
+    "text": "З якою максимальною швидкістю допускається рух вантажних автомобілів з дозволеною максимальною масою понад 3,5 т на дорогах з окремими проїзними частинами?",
+    "imageResId": "image_s48_q23",
+    "answerOptionList": [
+      {
+        "id": "28d8885b-9ff8-4311-b387-8d3d9d8fa32e",
+        "position": 1,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "b93be1e7-77c9-44d9-805d-95a519165632",
+        "position": 2,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "3fefbae5-583f-4281-823b-0c1017293355",
+        "position": 3,
+        "text": "110 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "003fd8ed-e46c-4a54-b4f6-0b508f576e5d",
+        "position": 4,
+        "text": "130 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a40be3bf-ec0d-469c-913a-003bcd12a844",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 24,
+    "text": "Яка максимальна швидкість встановлена на автомагістралі для руху вантажних автомобілів з дозволеною максимальною масою понад 3,5 т з причепами?",
+    "imageResId": "image_s48_q24",
+    "answerOptionList": [
+      {
+        "id": "5dec0c90-ff5b-48ba-ae4a-3035cbaa45ba",
+        "position": 1,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "e9f8032f-97af-4aa5-a509-579990ced8e2",
+        "position": 2,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "4e8d71bb-0b9e-47b4-b2a7-93a3820a6fa3",
+        "position": 3,
+        "text": "110 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "d363c766-f7be-41f2-ba0d-f506a60f72c4",
+        "position": 4,
+        "text": "130 км/год.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "ab450d00-9263-4b8c-8870-3341f3afe47c",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 25,
+    "text": "Яка максимальна швидкість встановлена для руху вантажних автомобілів з дозволеною максимальною масою понад 3,5 т на автомагістралі?",
+    "imageResId": "image_s48_q25",
+    "answerOptionList": [
+      {
+        "id": "7926822b-a019-4b86-ab65-f39726a247b9",
+        "position": 1,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "653e83db-4682-4331-ae8d-570114022626",
+        "position": 2,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "a0e40b13-fb30-4c3c-b152-0442ab056ebf",
+        "position": 3,
+        "text": "110 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "739bd0ef-ef70-4350-b77f-37fca1aa6969",
+        "position": 4,
+        "text": "130 км/год.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "eb4d08a1-341b-4508-9389-dd20d7e566ea",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 26,
+    "text": "З якою максимальною швидкістю дозволено рух вантажних автомобілів, що перевозять людей у кузові на автомагістралях?",
+    "imageResId": "image_s48_q26",
+    "answerOptionList": [
+      {
+        "id": "141c457c-45eb-4f3c-a1be-9de4b7ba68e4",
+        "position": 1,
+        "text": "60 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "76c17504-3e07-4b9c-ba2e-f5a0cf972afa",
+        "position": 2,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "d32ff450-bb8b-49a1-ada0-9c4d45aa09d5",
+        "position": 3,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "18405823-0af4-4263-b842-2b0f3f257df0",
+        "position": 4,
+        "text": "110 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "65cdbf15-f314-4579-8cce-ba99f925ea5d",
+        "position": 5,
+        "text": "130 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3efdc696-d656-40cd-8bb1-10c26fd94a86",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 27,
+    "text": "З якою максимальною швидкістю дозволено рух вантажного автомобіля в зображеній ситуації?",
+    "imageResId": "image_s48_q27",
+    "answerOptionList": [
+      {
+        "id": "51e1c4ed-cbb1-4d17-ab14-32a5ca29db2b",
+        "position": 1,
+        "text": "20 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "71265487-164b-4a31-8cc9-50c0626a3c75",
+        "position": 2,
+        "text": "40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "5a66083a-cb7e-405e-a344-e9ad12c5e8c3",
+        "position": 3,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "272f4be3-5474-4b25-b15e-bf90ff853bea",
+        "position": 4,
+        "text": "50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ca98a151-6ec0-41a2-b1e4-a8818d5b3a81",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 28,
+    "text": "Водій автомобіля з увімкненим проблисковим маячком оранжевого кольору має право відступити?",
+    "imageResId": "image_s48_q28",
+    "answerOptionList": [
+      {
+        "id": "40e48fa1-3e5c-4442-9807-603423c13877",
+        "position": 1,
+        "text": "Від вимог знаку 2.2 «Проїзд без зупинки заборонено».",
+        "isCorrect": false
+      },
+      {
+        "id": "370dfcd5-870b-4328-b594-9dcb7a2e782c",
+        "position": 2,
+        "text": "Від вимог знаку 3.21 «В’їзд заборонено».",
+        "isCorrect": false
+      },
+      {
+        "id": "cd5f29ba-2ae0-4614-a3d4-a76b0a856fe2",
+        "position": 3,
+        "text": "Від вимог знаку 3.2 «Рух механічних транспортних засобів заборонено».",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "9000874c-105f-415b-864a-b126af8d7c3f",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 29,
+    "text": "Яка із зображених табличок забороняє стоянку вантажних автомобілів із дозволеною максимальною масою понад 3,5 т?",
+    "imageResId": "image_s48_q29",
+    "answerOptionList": [
+      {
+        "id": "35ad36dd-9b2e-4927-9bc7-fe0ad7550e3e",
+        "position": 1,
+        "text": "Табличка 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "56e9b8cc-3190-458a-9907-b350d1f402ce",
+        "position": 2,
+        "text": "Табличка 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "5d30a9df-fc16-4ae2-ab17-d6972fd8f946",
+        "position": 3,
+        "text": "Табличка 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "be6cb4d7-96cb-4d77-8941-09c31ac49bec",
+        "position": 4,
+        "text": "Табличка 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "761fe9a7-df5d-4bb7-882c-43eced53187f",
+        "position": 5,
+        "text": "Усі перелічені вище таблички.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "626ee810-7a1c-481b-8132-8b4db2a6bb7a",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 30,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_s48_q30",
+    "answerOptionList": [
+      {
+        "id": "82b44f87-0f58-4ab1-9b80-d8c88067a778",
+        "position": 1,
+        "text": "Транспортних засобів, що перевозять цистерни.",
+        "isCorrect": false
+      },
+      {
+        "id": "7db9b73f-f9dd-4de1-a959-78a7db011be8",
+        "position": 2,
+        "text": "Транспортних засобів, що перевозять небезпечні вантажі.",
+        "isCorrect": false
+      },
+      {
+        "id": "4055af42-4a42-4435-af6a-226283a87be2",
+        "position": 3,
+        "text": "Транспортних засобів, що перевозять речовини, які забруднюють воду.",
+        "isCorrect": true
+      },
+      {
+        "id": "5b9f159e-7f1b-4643-9dc3-b73f75861335",
+        "position": 4,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7cd456d5-206d-4896-acaa-3afc73f0e745",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 31,
+    "text": "Який із зображених дорожніх знаків забороняє рух транспортних засобів, що перевозять небезпечні вантажі?",
+    "imageResId": "image_s48_q31",
+    "answerOptionList": [
+      {
+        "id": "bd5b7fc3-1aaa-41e8-b675-e7c82f1e2730",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7e12fac1-d09d-44e0-9b51-7ad5e66be3f2",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "7986df8c-91e2-4ff8-9f4d-6ee117bdd6ee",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": true
+      },
+      {
+        "id": "ab0ee07a-0150-488b-80ea-68f3500f05d4",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "76d42e27-6248-40d9-ba41-64f96b730c5f",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2ab8b8a0-b2a4-48f7-be00-f2f18dded2bb",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 32,
+    "text": "Якщо на транспортному засобі встановлено розпізнавальний знак «Автопоїзд», у якому з перелічених випадків він повинен бути увімкнений?",
+    "imageResId": "image_s48_q32",
+    "answerOptionList": [
+      {
+        "id": "101e2c45-1fdc-4983-8b01-a498b4453a8e",
+        "position": 1,
+        "text": "Повинен бути увімкнений постійно під час руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "fe7e81e0-81ed-404e-a72b-607a316a90b9",
+        "position": 2,
+        "text": "Повинен бути увімкнений під час вимушеної зупинки, зупинки чи стоянки на дорозі в темну пору доби.",
+        "isCorrect": false
+      },
+      {
+        "id": "35cf2845-fe26-4378-8c24-07367e8d9b4c",
+        "position": 3,
+        "text": "Повинен бути увімкнений під час вимушеної зупинки, зупинки чи стоянки на дорозі в умовах недостатньої видимості.",
+        "isCorrect": false
+      },
+      {
+        "id": "8901e14e-00e3-4ac9-b579-80d87a457446",
+        "position": 4,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "a09c0ed7-7fb1-41db-9ecd-74fa367a4e7e",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "bf4fd024-7bc1-463a-9ad1-80f6d2b758de",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 33,
+    "text": "Який транспортний засіб неправильно виконує стоянку на дорозі з одностороннім рухом?",
+    "imageResId": "image_s48_q33",
+    "answerOptionList": [
+      {
+        "id": "38b32bc3-008a-47ed-b4f6-983cadddeed6",
+        "position": 1,
+        "text": "Червоний і вантажний з дозволеною масою понад 3,5 т, без процесу завантаження чи розвантаження.",
+        "isCorrect": false
+      },
+      {
+        "id": "6a40ca72-4dc8-4166-aa40-c77e8650700f",
+        "position": 2,
+        "text": "Усі транспортні засоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "9c29e1de-e20d-4d28-8e75-bb9c79a65392",
+        "position": 3,
+        "text": "Синій і зелений.",
+        "isCorrect": false
+      },
+      {
+        "id": "fa489cc9-54b1-4c70-be6d-773192c2fd6b",
+        "position": 4,
+        "text": "Синій, зелений і вантажний з дозволеною масою понад 3,5 т, без процесу завантаження чи розвантаження.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "4ee07c1c-9a12-4bd9-81e2-5d8af0c52421",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 34,
+    "text": "З якою максимальною швидкістю допускається рух вантажних автомобілів з дозволеною максимальною масою менш ніж 3,5 т на дорогах з окремими проїзними частинами?",
+    "imageResId": "image_s48_q34",
+    "answerOptionList": [
+      {
+        "id": "cb6317d7-56f5-4966-929d-acfe8ab31f30",
+        "position": 1,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "29337700-a460-436f-8bd3-577404d4343b",
+        "position": 2,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "fc0f30c9-5858-4d81-8d7c-14e46e874e36",
+        "position": 3,
+        "text": "110 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "5586a5a3-c152-44e2-bd54-bb5fb57ade10",
+        "position": 4,
+        "text": "130 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1b3108f0-b81d-47b2-a41d-81a45923b11d",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 35,
+    "text": "Яка максимальна швидкість вантажних автомобілів з дозволеною максимальною масою понад 3,5 т встановлена на дорогах для автомобілів з розділювальною смугою?",
+    "imageResId": "image_s48_q35",
+    "answerOptionList": [
+      {
+        "id": "eae517f0-d4c4-4f4f-9113-c16c366acb02",
+        "position": 1,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "6d0034c1-0492-40ca-aedc-1b2b062f7bec",
+        "position": 2,
+        "text": "90 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "95a53092-f35a-4155-b4b6-324d829b708e",
+        "position": 3,
+        "text": "110 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "452b5588-57ca-41ce-8cac-b5e4fc98a83c",
+        "position": 4,
+        "text": "130 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b339f23f-43d6-4261-b413-fedc7cd78c8f",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 36,
+    "text": "З якою максимальною швидкістю дозволено рух вантажного автомобіля?",
+    "imageResId": "image_s48_q36",
+    "answerOptionList": [
+      {
+        "id": "fa4e24ee-35b1-4d93-bd43-b23240f80c1e",
+        "position": 1,
+        "text": "20 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "1c56d392-ec65-4886-a0b3-03be388a5ff1",
+        "position": 2,
+        "text": "40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "1309cdfd-0c41-429c-a5ac-c46b5bb9bb8e",
+        "position": 3,
+        "text": "60 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "3c131b60-f7e7-49a0-ac22-0e1da89bd9cb",
+        "position": 4,
+        "text": "50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b10dd4b0-e0b7-4935-a14d-03dc8b81356e",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 37,
+    "text": "У якому напрямку дозволено рух на перехресті водієві вантажного автомобіля з дозволеною максимальною масою понад 3,5 т?",
+    "imageResId": "image_s48_q37",
+    "answerOptionList": [
+      {
+        "id": "9438bbd7-a452-430c-b9b1-937d0b696e27",
+        "position": 1,
+        "text": "Прямо, ліворуч і на розворот.",
+        "isCorrect": false
+      },
+      {
+        "id": "703cd439-80a3-46dc-a104-901d1164872d",
+        "position": 2,
+        "text": "Прямо і ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "75667948-fae4-4e92-ae43-c4bf51aa87d1",
+        "position": 3,
+        "text": "Ліворуч і на розворот.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "1437fbeb-1d96-49fe-870d-c3cff64f28fe",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 38,
+    "text": "Який попереджувальний сигнал вмикається на транспортному засобі, на якому встановлені розпізнавальні знаки «Знак небезпеки» та «Інформаційна таблиця небезпечного вантажу», під час перевезення ним небезпечного вантажу?",
+    "imageResId": "image_s48_q38",
+    "answerOptionList": [
+      {
+        "id": "7f728801-ba1e-44be-a8b2-4cd414922199",
+        "position": 1,
+        "text": "Знак «Автопоїзд».",
+        "isCorrect": false
+      },
+      {
+        "id": "0c42a93a-4597-41e8-b383-df6376dfaaea",
+        "position": 2,
+        "text": "Проблисковий маячок оранжевого кольору.",
+        "isCorrect": false
+      },
+      {
+        "id": "ab73f14b-b2e8-4afd-88b9-27759628270b",
+        "position": 3,
+        "text": "Ближнє світло фар.",
+        "isCorrect": true
+      },
+      {
+        "id": "a3951253-1631-4048-85bb-b599205f2644",
+        "position": 4,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8d1fcb85-3fb0-4875-854a-e53987eaeba9",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 39,
+    "text": "Чи має право вантажний автомобіль з дозволеною максимальною масою менш ніж 3,5 т рухатися в третій смузі?",
+    "imageResId": "image_s48_q39",
+    "answerOptionList": [
+      {
+        "id": "f74e46f5-cf85-4971-a69a-5b57252cd5c7",
+        "position": 1,
+        "text": "Має право – у разі виконання випередження.",
+        "isCorrect": false
+      },
+      {
+        "id": "40fd4c8e-a844-4ef3-ad2d-766b4c978040",
+        "position": 2,
+        "text": "Має право – для повороту ліворуч і розвороту.",
+        "isCorrect": false
+      },
+      {
+        "id": "ab1d1f73-a2c3-491d-ac7a-871b604c4183",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c45a093a-b5af-47c2-984a-7ee5ba701dd9",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 40,
+    "text": "Вантажному автомобілю з дозволеною максимальною масою понад 3,5 т виїжджати на третю смугу?",
+    "imageResId": "image_s48_q40",
+    "answerOptionList": [
+      {
+        "id": "c37dc44c-2b3e-4c9c-a145-8c38b14083fc",
+        "position": 1,
+        "text": "Дозволено, у разі виконання випередження.",
+        "isCorrect": false
+      },
+      {
+        "id": "215da2d0-a3a2-4885-a580-dc0737a214c0",
+        "position": 2,
+        "text": "Дозволено лише для повороту ліворуч та розвороту.",
+        "isCorrect": true
+      },
+      {
+        "id": "8ff5709f-3d66-4bb9-a223-14ede5caa7d1",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "03f0cab7-5278-402f-b4a2-4b8bc950e05f",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 41,
+    "text": "Чи має право водій вантажного автомобіля виїхати на смугу, призначену для зустрічного руху?",
+    "imageResId": "image_s48_q41",
+    "answerOptionList": [
+      {
+        "id": "877292b3-cb7a-4597-817e-aefc4ae53eba",
+        "position": 1,
+        "text": "Має право виїжджати на всіх дорогах із будь-якою кількістю смуг для руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "c8506143-1082-4b16-9880-7b52f8c7a7c9",
+        "position": 2,
+        "text": "Має право виїхати для об'їзду перешкоди або обгону.",
+        "isCorrect": true
+      },
+      {
+        "id": "a81d85dd-6952-4535-8535-1ca0018e42ec",
+        "position": 3,
+        "text": "Має право виїхати для об'їзду перешкоди або обгону, а також для повороту ліворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "48fc4d7f-1c6f-47f1-b8fc-d95f136e6ef6",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 42,
+    "text": "Який попереджувальний сигнал вмикається на великовагових великогабаритних транспортних засобах?",
+    "imageResId": "image_s48_q42",
+    "answerOptionList": [
+      {
+        "id": "8e2d5f1e-273a-48b2-9925-f5ac71f58374",
+        "position": 1,
+        "text": "Ближнє світло фар.",
+        "isCorrect": false
+      },
+      {
+        "id": "23bb373e-295f-4294-a8d5-c5e51c82a276",
+        "position": 2,
+        "text": "Оранжевий проблисковий маячок.",
+        "isCorrect": false
+      },
+      {
+        "id": "881932da-c3f0-4449-a885-6f4df88ec885",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2e46424f-3e50-4c68-92ff-e46ac7916e96",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 43,
+    "text": "Як вчинити водієві автомобіля з увімкненим проблисковим маячком оранжевого кольору на нерегульованому перехресті рівнозначних доріг?",
+    "imageResId": "image_s48_q43",
+    "answerOptionList": [
+      {
+        "id": "ee949da2-0296-48c0-a483-a141834e93a6",
+        "position": 1,
+        "text": "Рухатися першим, оскільки увімкнено проблисковий маячок.",
+        "isCorrect": false
+      },
+      {
+        "id": "75766c20-4236-4740-b9cf-2c3cb9cd0a1a",
+        "position": 2,
+        "text": "Керуватися правилами проїзду рівнозначних перехресть.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "1ef3f4d7-b16c-4956-9fbd-e9a1b22c72c3",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 44,
+    "text": "Дія даного дорожнього знака не поширюється:",
+    "imageResId": "image_s48_q44",
+    "answerOptionList": [
+      {
+        "id": "ac3117d2-f569-408f-9d78-5aa45725db98",
+        "position": 1,
+        "text": "На транспортні засоби, що обслуговують підприємства, які розташовані в позначеній зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "de2fb349-a4ed-46ac-88bc-2518c3d5b5d1",
+        "position": 2,
+        "text": "На вантажні автомобілі, які мають похилу білу смугу на зовнішній бічній поверхні або перевозять групи людей.",
+        "isCorrect": false
+      },
+      {
+        "id": "034f51fa-cf9b-445c-a52b-18bedc78532e",
+        "position": 3,
+        "text": "На транспортні засоби, що обслуговують громадян чи належать громадянам, які проживають або працюють у позначеній зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "16bdc179-329c-4628-b7de-c551129b5154",
+        "position": 4,
+        "text": "Відповіді 1 і 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "d280426c-346d-4eff-b61d-54a6eab20ef1",
+        "position": 5,
+        "text": "Відповіді 1, 2, і 3.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "087291f6-2d03-4bb6-9b57-f4d016227894",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 45,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_s48_q45",
+    "answerOptionList": [
+      {
+        "id": "9962b4b8-c264-4e66-b8db-91171df0e4a8",
+        "position": 1,
+        "text": "Транспортних засобів, що перевозять великогабаритні вантажі.",
+        "isCorrect": false
+      },
+      {
+        "id": "ed851e0b-6671-476e-86af-95a8c2a30f26",
+        "position": 2,
+        "text": "Транспортних засобів, що перевозять великовагові вантажі.",
+        "isCorrect": false
+      },
+      {
+        "id": "20773f94-b72a-4003-a66b-e0cc2ecb5507",
+        "position": 3,
+        "text": "Транспортних засобів, що перевозять небезпечні вантажі.",
+        "isCorrect": true
+      },
+      {
+        "id": "39a00302-d35b-408c-8811-42b93f884a7d",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "7ebba65a-ca1a-4df6-971b-6560e64b1690",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "19cd57d7-7140-4661-82bc-98a775aaa8ec",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 46,
+    "text": "Чи дозволено транзитний рух транспортного состава з дозволеною максимальною масою більше 8 т у зоні дії даного знаку?",
+    "imageResId": "image_s48_q46",
+    "answerOptionList": [
+      {
+        "id": "d7958947-67f3-45ad-a330-594f8f48cdac",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "957dcb4d-ae24-42a2-8bfc-369de0c02863",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2f2ce3a0-1291-4ee8-b8da-36c52c2992eb",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 47,
+    "text": "Чи дозволено поворот праворуч вантажному автомобілю в даній ситуації?",
+    "imageResId": "image_s48_q47",
+    "answerOptionList": [
+      {
+        "id": "83645a8f-d2d3-4294-a63f-5b27881902dc",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "10255532-dd79-4230-92d1-081848bec07b",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "5b14cc4c-ff31-4253-8112-e914ff1e4e4c",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 48,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_s48_q48",
+    "answerOptionList": [
+      {
+        "id": "c8f8244f-97cb-4d98-bf8b-1d4dfd6fd5d5",
+        "position": 1,
+        "text": "Вантажних автомобілів і составів транспортних засобів з дозволеною максимальною масою понад 3,5 т, а також тракторів, самохідних машин і механізмів.",
+        "isCorrect": false
+      },
+      {
+        "id": "dab3b7f9-a435-4c29-9514-ed45cebee358",
+        "position": 2,
+        "text": "Вантажних автомобілів і составів транспортних засобів з дозволеною максимальною масою понад 3,5 т.",
+        "isCorrect": false
+      },
+      {
+        "id": "9ac56736-fbd9-43da-ad0e-1c24c36cac8d",
+        "position": 3,
+        "text": "Вантажних автомобілів і составів транспортних засобів з дозволеною максимальною масою понад 8 т, а також тракторів, самохідних машин і механізмів.",
+        "isCorrect": true
+      },
+      {
+        "id": "826213f1-e8a4-41db-9d60-5a7a2e580f97",
+        "position": 4,
+        "text": "Вантажних автомобілів і составів транспортних засобів з дозволеною максимальною масою понад 8 т.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f073568a-621c-44a0-8278-f1339dda39dd",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 49,
+    "text": "Який із розпізнавальних знаків встановлюється на транспортних засобах, що перевозять небезпечні вантажі?",
+    "imageResId": "image_s48_q49",
+    "answerOptionList": [
+      {
+        "id": "f88f8b83-0c2f-4696-8057-f810c45bdf65",
+        "position": 1,
+        "text": "Перший.",
+        "isCorrect": false
+      },
+      {
+        "id": "e545c2d0-6ed2-49ac-ba66-8fb15eeb749a",
+        "position": 2,
+        "text": "Другий.",
+        "isCorrect": false
+      },
+      {
+        "id": "fc84ac90-6d83-473b-af39-9f0f3c35b095",
+        "position": 3,
+        "text": "Третій.",
+        "isCorrect": false
+      },
+      {
+        "id": "ba0ed6e6-4c9b-431d-8687-bbdffe033348",
+        "position": 4,
+        "text": "Другий і третій.",
+        "isCorrect": true
+      },
+      {
+        "id": "967d279d-e3d8-4da8-beef-e09f0e900a33",
+        "position": 5,
+        "text": "Перший і третій.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "73213952-3fda-43b5-939b-ab6d1ce8be8b",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 50,
+    "text": "Чи дозволено транзитний рух вантажного автомобіля з дозволеною максимальною масою менш ніж 3,5 т прямо?",
+    "imageResId": "image_s48_q50",
+    "answerOptionList": [
+      {
+        "id": "14ac1384-e65a-42c5-8bda-0dc17039a9c3",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": true
+      },
+      {
+        "id": "0718f1eb-02f2-4e94-9555-1815b91fbcc7",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "10320b99-2a3e-41fa-90cf-449171fbf719",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 51,
+    "text": "Тривалість керування для водія на тиждень з урахуванням понаднормових робіт не повинна перевищувати:",
+    "answerOptionList": [
+      {
+        "id": "992be873-d8cd-48ca-88fc-1cb69a5f8d86",
+        "position": 1,
+        "text": "47 годин.",
+        "isCorrect": false
+      },
+      {
+        "id": "496f65b1-d992-43b2-960b-5cc1d3aa1895",
+        "position": 2,
+        "text": "48 годин.",
+        "isCorrect": true
+      },
+      {
+        "id": "10cb071a-47d5-4bba-952a-26e253b93010",
+        "position": 3,
+        "text": "49 годин.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e09de534-829a-4783-92da-084bdf0760d8",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 52,
+    "text": "Змінний період керування водія, за винятком водіїв транспортних засобів, що здійснюють перевезення великовагових, і (або) великогабаритних, і (або) небезпечних вантажів, з урахуванням понаднормових робіт не повинен перевищувати:",
+    "answerOptionList": [
+      {
+        "id": "8741ad8e-b609-4821-82f0-6b5166a3bb71",
+        "position": 1,
+        "text": "8 годин.",
+        "isCorrect": false
+      },
+      {
+        "id": "52303621-7209-4d20-8a28-8968586644ea",
+        "position": 2,
+        "text": "9 годин.",
+        "isCorrect": true
+      },
+      {
+        "id": "9d0fd75f-aa50-429e-b0ee-3e98cd268450",
+        "position": 3,
+        "text": "12 годин.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4d67a33a-e1a7-41f5-a388-8f29f8ff991a",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 53,
+    "text": "Для водіїв транспортних засобів, що здійснюють перевезення великовагових, і (або) великогабаритних, і (або) небезпечних вантажів, змінний період керування з урахуванням понаднормових робіт не повинен перевищувати:",
+    "answerOptionList": [
+      {
+        "id": "6a716bf8-10a2-4716-93e9-3eb3e16b8e36",
+        "position": 1,
+        "text": "7 годин.",
+        "isCorrect": false
+      },
+      {
+        "id": "e20ab81e-83af-4348-9cb4-e62d5062ac29",
+        "position": 2,
+        "text": "8 годин.",
+        "isCorrect": true
+      },
+      {
+        "id": "cc12380e-5e33-4396-9b5e-6a6f35f0f334",
+        "position": 3,
+        "text": "10 годин.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5c06ac90-2e6d-4bc0-a153-717b147329c8",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 54,
+    "text": "Для водіїв транспортних засобів, що здійснюють перевезення великовагових і (або) великогабаритних і (або) небезпечних вантажів, змінний період керування, включно з надурочними роботами, не повинен перевищувати:",
+    "answerOptionList": [
+      {
+        "id": "46a7d49a-2f5e-4994-b865-7ac904b32dfc",
+        "position": 1,
+        "text": "7 годин.",
+        "isCorrect": false
+      },
+      {
+        "id": "1174ca7e-e8f6-4e83-88c5-af5df3d313f1",
+        "position": 2,
+        "text": "8 годин.",
+        "isCorrect": true
+      },
+      {
+        "id": "2995a2ed-f7d7-4996-8c25-55c8f7db4b25",
+        "position": 3,
+        "text": "9 годин.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2af921fa-880d-4be9-8033-6718fccd711e",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 55,
+    "text": "Тривалість керування водія на тиждень, включно з надурочними роботами, не повинна перевищувати:",
+    "answerOptionList": [
+      {
+        "id": "ebf24290-ac28-4d1e-9353-e3744fbe53fe",
+        "position": 1,
+        "text": "46 годин.",
+        "isCorrect": false
+      },
+      {
+        "id": "01abd5a3-ac56-4041-bc55-6a105cd39df6",
+        "position": 2,
+        "text": "48 годин.",
+        "isCorrect": true
+      },
+      {
+        "id": "e2bfb04c-ee10-4da3-b77b-1a8ca441ddc3",
+        "position": 3,
+        "text": "50 годин.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "07021a05-ac4f-4cd2-82f4-3808a89566a1",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 56,
+    "text": "Що означає поняття «відпочинок водія»?",
+    "answerOptionList": [
+      {
+        "id": "92751175-a6cd-44c6-a5b8-ed54388416fa",
+        "position": 1,
+        "text": "Безперервний період часу, який водій може використовувати на свій розсуд.",
+        "isCorrect": true
+      },
+      {
+        "id": "3574d145-6a6d-40dd-bf62-9d838493270d",
+        "position": 2,
+        "text": "Безперервний період часу, який водій повинен використовувати винятково для сну.",
+        "isCorrect": false
+      },
+      {
+        "id": "a2248053-ce6f-43dd-b9c4-e22afcaa65ed",
+        "position": 3,
+        "text": "Безперервний період часу, який водій повинен використовувати винятково для прийняття їжі.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e878d43f-673e-45f9-a3f8-27f63c7f5f1a",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 57,
+    "text": "Нормальна тривалість робочого часу водія не має перевищувати:",
+    "answerOptionList": [
+      {
+        "id": "edeab056-bfce-484e-9652-6e7e926fc76c",
+        "position": 1,
+        "text": "54 години на тиждень.",
+        "isCorrect": false
+      },
+      {
+        "id": "f32da294-51cd-4bf3-a0fd-4924b128790d",
+        "position": 2,
+        "text": "46 годин на тиждень.",
+        "isCorrect": false
+      },
+      {
+        "id": "a560ebd7-aeed-4ae5-9c98-fd4f5ccd1ecd",
+        "position": 3,
+        "text": "40 годин на тиждень.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "6068b43d-8c3c-40c2-bfd7-f6cb9dfa9014",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 58,
+    "text": "Як затягувати болти/гайки кріплення колеса до маточини?",
+    "answerOptionList": [
+      {
+        "id": "3f80d3dc-3e04-4ecb-81b6-3a3386e25f2d",
+        "position": 1,
+        "text": "Затягнути болти/гайки на колесі, що спирається на поверхню.",
+        "isCorrect": false
+      },
+      {
+        "id": "b43856fb-e9e3-4130-ac86-c0a3c478c9bd",
+        "position": 2,
+        "text": "Затягнути болти/гайки на підвішеному колесі, дотягнути з необхідним моментом затягування на колесі, що спирається на поверхню.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "956a367a-b8ec-4b22-8861-5746e7295ce8",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 59,
+    "text": "Як правильно встановлюється домкрат?",
+    "answerOptionList": [
+      {
+        "id": "10b9aaee-f5d6-4221-8715-4f7665e42856",
+        "position": 1,
+        "text": "Якомога ближче до маточини колеса.",
+        "isCorrect": true
+      },
+      {
+        "id": "91198a30-d6c9-4cb3-8d51-8908b0a22d90",
+        "position": 2,
+        "text": "Якомога далі від маточини колеса.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6cd7e092-cd5d-4981-afad-14958c34b237",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 60,
+    "text": "Зміст навчального матеріалу та кількість практичних годин для проходження навчання практичному водінню на вантажному автомобілі (категорія С1 або С), визначається:",
+    "answerOptionList": [
+      {
+        "id": "e53a033b-c545-43c3-bef5-1254dda1cd53",
+        "position": 1,
+        "text": "Кожним навчальним закладом самостійно, в залежності від рівня вмінь особи, що навчається.",
+        "isCorrect": false
+      },
+      {
+        "id": "cec6acd8-a3f3-4b73-85cd-83ff2c92569d",
+        "position": 2,
+        "text": "Кожним спеціалістом з практичного навчання самостійно, в залежності від рівня вмінь особи, що навчається.",
+        "isCorrect": false
+      },
+      {
+        "id": "75aaf9c4-b21d-416d-82b6-da6895195292",
+        "position": 3,
+        "text": "Типовою навчальною програмою підготовки та перепідготовки водіїв транспортних засобів.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "857d1b90-895b-4ff2-88a0-6c56ebd739e5",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 61,
+    "text": "Ви, як водій транспортного засобу, який через свої габарити не маєте можливість здійснити поворот ліворуч з крайнього лівого положення, повертаючи ліворуч поза перехрестям повинні:",
+    "answerOptionList": [
+      {
+        "id": "c5aa2320-7941-4f84-8275-583c1ed1d5ee",
+        "position": 1,
+        "text": "Включити покажчик лівого повороту.",
+        "isCorrect": false
+      },
+      {
+        "id": "1a8e821b-3161-4ee2-9d92-7d69b758958b",
+        "position": 2,
+        "text": "Дати дорогу зустрічним і попутним транспортним засобам.",
+        "isCorrect": false
+      },
+      {
+        "id": "723b5aa0-694e-44a5-8523-0e7370798d97",
+        "position": 3,
+        "text": "За наявності трамвайної колії посередині проїзної частини, дати дорогу трамваю.",
+        "isCorrect": false
+      },
+      {
+        "id": "db604cfd-241f-48ec-861c-1bf284cd1d62",
+        "position": 4,
+        "text": "Виконати дії зазначені у відповідях 1,2,3.",
+        "isCorrect": true
+      },
+      {
+        "id": "d5fe561e-d9a9-449f-a3df-ebcc3e8b21d8",
+        "position": 5,
+        "text": "Вам заборонено виконувати поворот ліворуч не з крайнього положення.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5ee7ade9-3d0f-4867-96de-7f435700af6c",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 62,
+    "text": "У якій послідовності необхідно від'єднувати клеми від виводів акумуляторної батареї?",
+    "answerOptionList": [
+      {
+        "id": "df9b4b12-973f-4fed-94cb-3174cb67008b",
+        "position": 1,
+        "text": "Спочатку негативну, потім позитивну клему.",
+        "isCorrect": true
+      },
+      {
+        "id": "efd88e28-d483-4d09-a0b8-330c4bccb925",
+        "position": 2,
+        "text": "Спочатку позитивну, потім негативну клему.",
+        "isCorrect": false
+      },
+      {
+        "id": "9b8be65f-7147-45eb-a210-49f595acd5ac",
+        "position": 3,
+        "text": "Послідовність від'єднання не має значення.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4ad9107f-bebb-43bb-a84d-78ceecc6ecc6",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 63,
+    "text": "Тривалість щотижневого відпочинку водія має становити:",
+    "answerOptionList": [
+      {
+        "id": "d718202f-4d22-42be-bbad-1538de3c9f9c",
+        "position": 1,
+        "text": "Не менше 42 годин поспіль.",
+        "isCorrect": false
+      },
+      {
+        "id": "34c1eef5-f83a-4e4c-975c-2fb621ae326a",
+        "position": 2,
+        "text": "Не менше 45 годин поспіль.",
+        "isCorrect": true
+      },
+      {
+        "id": "2cc934d6-1891-4f13-8075-6b762ac8583c",
+        "position": 3,
+        "text": "Не менше 47 годин поспіль.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "805dfc31-4227-40fd-8c7f-fa2af595d872",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 64,
+    "text": "Скільки має тривати щоденний (міжзмінний) відпочинок водія протягом будь-якого 24-годинного періоду, рахуючи від початку робочого дня (зміни)?",
+    "answerOptionList": [
+      {
+        "id": "45eb3eab-6b23-4c33-a2fb-7745a6521834",
+        "position": 1,
+        "text": "Не менше 10 годин поспіль.",
+        "isCorrect": true
+      },
+      {
+        "id": "3565851d-6944-4f27-9734-c5b36bf1efaf",
+        "position": 2,
+        "text": "Не менше 12 годин поспіль.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d1cea8b2-0c64-4708-87a2-86d043d4cd47",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 65,
+    "text": "Як водії мають використовувати час перерви?",
+    "answerOptionList": [
+      {
+        "id": "ab89e0ba-2c59-4854-99e5-340e0bec93ff",
+        "position": 1,
+        "text": "Мають відпочивати в спеціально відведених місцях.",
+        "isCorrect": false
+      },
+      {
+        "id": "b1d93c58-ff53-46bc-97e4-761ac9405c32",
+        "position": 2,
+        "text": "На свій розсуд.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "ccfe9698-ea92-4e6c-a7d0-139b78432eae",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 66,
+    "text": "Чи зараховується перерва для відпочинку і харчування до робочого часу водія?",
+    "answerOptionList": [
+      {
+        "id": "89a2ef45-6449-4337-8677-c18bb873bb29",
+        "position": 1,
+        "text": "Зараховується.",
+        "isCorrect": false
+      },
+      {
+        "id": "fd263690-94fe-4871-a699-561d20b4aecd",
+        "position": 2,
+        "text": "Не зараховується.",
+        "isCorrect": true
+      },
+      {
+        "id": "ac1a4245-e62b-4672-bf02-7b331bf3a4ff",
+        "position": 3,
+        "text": "На розсуд роботодавця.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c1320959-2a99-415e-9073-c07b7adf7648",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 67,
+    "text": "Яка мінімальна тривалість відпочинку та харчування водія після 4 годин керування, якщо не настає період щоденного (міжзмінного) відпочинку?",
+    "answerOptionList": [
+      {
+        "id": "ac2cc5fa-1e31-4158-982b-4b77d2bfe69f",
+        "position": 1,
+        "text": "Не менше 45 хвилин.",
+        "isCorrect": true
+      },
+      {
+        "id": "11b61a7c-db88-4f00-ac3b-f00d6e7b3878",
+        "position": 2,
+        "text": "Не менше 1 години.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3d8200c1-b183-4b8c-9526-1588eebdd198",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 68,
+    "text": "Змінний період керування водія, за винятком водіїв транспортних засобів, що здійснюють перевезення великовагових і (або) великогабаритних і (або) небезпечних вантажів, включно з надурочними роботами, не повинен перевищувати:",
+    "answerOptionList": [
+      {
+        "id": "a7ee8e1b-6fc9-4387-89f1-39a2914470af",
+        "position": 1,
+        "text": "8 годин.",
+        "isCorrect": false
+      },
+      {
+        "id": "9ab296ee-aa66-4af9-8baf-99926888463f",
+        "position": 2,
+        "text": "9 годин.",
+        "isCorrect": true
+      },
+      {
+        "id": "a6efbdf1-ffe5-49e4-8b10-abcbc3300fec",
+        "position": 3,
+        "text": "10 годин.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8b1a2dae-5e2d-4262-8087-934f4e05c769",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 69,
+    "text": "Нормальна тривалість робочого часу водія не повинна перевищувати:",
+    "answerOptionList": [
+      {
+        "id": "d25a7885-f502-48a0-9537-bea10900555f",
+        "position": 1,
+        "text": "50 годин на тиждень.",
+        "isCorrect": false
+      },
+      {
+        "id": "5c1f8ef6-4cd7-4c62-a851-86e0e3a082e5",
+        "position": 2,
+        "text": "45 годин на тиждень.",
+        "isCorrect": false
+      },
+      {
+        "id": "9ca4ae59-424c-43e8-b743-b22a080bad37",
+        "position": 3,
+        "text": "40 годин на тиждень.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "4986f156-0e74-4b6c-aec1-2ba96e8d0418",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 70,
+    "text": "Що належить до поняття відпочинок водія?",
+    "answerOptionList": [
+      {
+        "id": "233fa419-27f0-46f1-97a4-139d39d4fce0",
+        "position": 1,
+        "text": "Безперервний період часу, який водій може використовувати на свій розсуд.",
+        "isCorrect": true
+      },
+      {
+        "id": "75c8cb48-7b3e-4bc3-8ad7-a69400011db1",
+        "position": 2,
+        "text": "Безперервний період часу, який водій використовує для заповнення необхідних супровідних документів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eaaf7c6e-a917-40a6-9408-141f171b2657",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 71,
+    "text": "За якої умови дозволене буксирування на жорсткому зчепленні транспортного засобу з несправною гальмовою системою?",
+    "answerOptionList": [
+      {
+        "id": "430311b2-ed84-4b0b-a67e-5a1b707278f6",
+        "position": 1,
+        "text": "При справності гальма стоянки у буксированому транспортному засобі.",
+        "isCorrect": false
+      },
+      {
+        "id": "46092c9a-65c9-43f8-bb2d-8d99dbd5b28d",
+        "position": 2,
+        "text": "Буксирування дозволене завжди, без дотримання будь-яких умов.",
+        "isCorrect": false
+      },
+      {
+        "id": "9b79f812-7a25-43da-804d-d1780a0c0513",
+        "position": 3,
+        "text": "За умови, що фактична маса буксированого транспортного засобу не перевищує половини фактичної маси транспортного засобу, що буксирує.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a0c738d4-9a49-41fd-9817-347315f9331f",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 72,
+    "text": "За яких умов особам, які супроводжують вантаж або їдуть за ним, дозволений проїзд у кузові вантажного автомобіля?",
+    "answerOptionList": [
+      {
+        "id": "d7e2fb91-194c-4ac3-aaf2-44af293b2d46",
+        "position": 1,
+        "text": "За умови, що вони забезпечені місцями для сидіння, розташованими згідно з вимогами Правил дорожнього руху.",
+        "isCorrect": true
+      },
+      {
+        "id": "2a614dc9-6c2b-4263-8be0-f6c9932dd0b1",
+        "position": 2,
+        "text": "За умови, що вони забезпечені будь-якими місцями для сидіння, а також дотримана техніка безпеки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6c57d634-5e6d-4278-915f-781ac72b218e",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 73,
+    "text": "У яких випадках у житлову зону дозволений в'їзд вантажних автомобілів, тракторів, самохідних машин і механізмів?",
+    "answerOptionList": [
+      {
+        "id": "46f0aadd-92b9-466d-80f3-97329dffcd87",
+        "position": 1,
+        "text": "У разі обслуговування громадян або об'єктів, розташованих у цій зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "82442efe-ab29-4875-85ea-852b48d4b313",
+        "position": 2,
+        "text": "Під час виконання технологічних робіт у цій зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "42264351-dd8c-4aaa-9bb5-e0085954991f",
+        "position": 3,
+        "text": "Якщо транспортні засоби належать громадянам, які проживають у цій зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "0723cfed-04a3-46ee-8eb8-381693ee1cb0",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "de5d55e8-127a-4ddf-9495-59bfed6bdcd6",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e888c6cb-3e8f-4c57-b78a-0a6e326723a5",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 74,
+    "text": "Наскільки повинен бути перевищений габарит вантажу, що перевозиться, за висотою від поверхні дороги (крім контейнеровозів на встановлених Укравтодором і уповноваженим підрозділам Національної поліції маршрутах), щоб перевезення вантажу здійснювалася за спеціальними правилами?",
+    "answerOptionList": [
+      {
+        "id": "19efc986-ba50-45a0-a00d-24babf9b62be",
+        "position": 1,
+        "text": "3 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "e71873a7-b2e7-477f-a175-09fa1b4e8723",
+        "position": 2,
+        "text": "3.5 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "f0f0f82b-20aa-4e65-8014-ccb26cd48ead",
+        "position": 3,
+        "text": "4 м.",
+        "isCorrect": true
+      },
+      {
+        "id": "7d9ecee1-52db-42d1-a4c7-4e440069cecc",
+        "position": 4,
+        "text": "4.5 м.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bd54a512-45bc-407a-8bce-a4e9f2af9885",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 75,
+    "text": "На якій смузі автомагістралі дозволено рух вантажних автомобілів з дозволеною максимальною масою понад 3,5 т?",
+    "answerOptionList": [
+      {
+        "id": "a7ee03f3-ece0-40fd-997d-169c3170c10b",
+        "position": 1,
+        "text": "На будь-якій смузі.",
+        "isCorrect": false
+      },
+      {
+        "id": "182a4758-cfbb-4f3a-a36e-0c5a45de0502",
+        "position": 2,
+        "text": "На першій.",
+        "isCorrect": false
+      },
+      {
+        "id": "f1b64d65-ff54-477f-9ca4-4f7fba2fcd44",
+        "position": 3,
+        "text": "На першій і другій.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "224572e2-93ab-4d16-a31a-b0b9844569f5",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 76,
+    "text": "З якою максимальною швидкістю дозволено рух вантажним автомобілям, що перевозять людей у кузові, на всіх дорогах за межами населених пунктів?",
+    "answerOptionList": [
+      {
+        "id": "821c774c-7aef-445d-9bbb-6d5d5cebbbda",
+        "position": 1,
+        "text": "60 км/год.",
+        "isCorrect": true
+      },
+      {
+        "id": "965eb8d9-c75c-4713-93f2-30c30987d66d",
+        "position": 2,
+        "text": "70 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "a69d0da4-7d31-4ad2-9f8b-4a63ab937c78",
+        "position": 3,
+        "text": "80 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "41ef01f4-950b-4d46-808b-e7ed7a498ce1",
+        "position": 4,
+        "text": "90 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a8fdb7bd-88db-4662-974e-068cc5624aa0",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 77,
+    "text": "Чи дозволено вантажному автомобілю з дозволеною максимальною масою понад 3,5 т виконувати випередження по крайній лівій смузі на дорозі, яка має три і більше смуги для руху в одному напрямку?",
+    "answerOptionList": [
+      {
+        "id": "b0286dc1-1d26-44e8-9da5-8fa62eb4ffce",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": true
+      },
+      {
+        "id": "098b6403-ca50-4b71-a93c-bfc7909a0aae",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a16ec589-c815-44ae-9e64-73181b4521b6",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 78,
+    "text": "Що повинен зробити водій тихохідного або великогабаритного транспортного засобу, рухаючись за межами населених пунктів, у випадках, коли дорожня ситуація не дозволяє здійснити обгін?",
+    "answerOptionList": [
+      {
+        "id": "a6144bd5-d994-4aeb-ae00-4a4d5f2d5bcf",
+        "position": 1,
+        "text": "Рухатися, не змінюючи швидкості руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "94436f91-213d-4080-9a00-675cd621ce0d",
+        "position": 2,
+        "text": "Тільки рухатися якомога правіше, не зупиняючись.",
+        "isCorrect": false
+      },
+      {
+        "id": "63bb2d68-296c-4e19-b338-b68b5e1003c3",
+        "position": 3,
+        "text": "Рухатися якомога правіше, а у разі потреби - зупинитися на узбіччі і пропустити транспортні засоби, що рухаються за ним.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "776a0d87-eb82-49a1-93c8-341e1fffdf61",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 79,
+    "text": "У якій смузі дозволено рух вантажним автомобілям із дозволеною максимальною масою понад 3,5 т, тракторам, самохідним машинам і механізмам на дорогах з розділювальною смугою, що мають по чотири смуги для руху в кожному напрямку?",
+    "answerOptionList": [
+      {
+        "id": "602a5919-4338-43a7-b8df-7bd0baaa7319",
+        "position": 1,
+        "text": "У будь-якій, крім крайньої лівої: виїзд на неї дозволено тільки для випередження і перед поворотом ліворуч та розворотом.",
+        "isCorrect": false
+      },
+      {
+        "id": "f2dc95bf-973f-46b7-9f2b-8e002ae4d71c",
+        "position": 2,
+        "text": "У будь-якій смузі.",
+        "isCorrect": false
+      },
+      {
+        "id": "b5547c8f-05bf-4b3d-8e82-a18b8158ba59",
+        "position": 3,
+        "text": "У будь-якій, крім крайньої лівої: виїзд на неї дозволено тільки для повороту ліворуч і розвороту, а в населених пунктах, крім того, – для зупинки зліва з метою завантаження чи розвантаження.",
+        "isCorrect": false
+      },
+      {
+        "id": "2061d35e-4f0c-484d-b91e-1e3541a5606f",
+        "position": 4,
+        "text": "У будь-якій, крім крайньої лівої: виїзд на неї дозволено тільки для повороту ліворуч і розвороту.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "081301a0-5762-4ad2-b78f-6ddc31b91ad5",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 80,
+    "text": "Чи дозволено пасажирам під час руху стояти в кузові вантажного автомобіля, якщо вони супроводжують вантаж?",
+    "answerOptionList": [
+      {
+        "id": "31e983ed-faac-4a83-b3d9-6a7a2744bb7a",
+        "position": 1,
+        "text": "Заборонено, пасажири повинні сидіти в обладнаних для сидіння місцях.",
+        "isCorrect": true
+      },
+      {
+        "id": "25153fe3-c97d-4d2b-bf48-106fd51cf1e3",
+        "position": 2,
+        "text": "Дозволено, якщо вони тримаються за поручні або інші міцно закріплені предмети.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "80f4af98-b105-46f5-a174-2222b32e2e60",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 81,
+    "text": "Оранжевий проблисковий маячок може бути увімкнено:",
+    "answerOptionList": [
+      {
+        "id": "fa9d4c5d-5ca6-4033-ba8c-3d7a1e9e21b7",
+        "position": 1,
+        "text": "На транспортних засобах із розпізнавальним знаком «Діти» під час посадки, висадки.",
+        "isCorrect": false
+      },
+      {
+        "id": "e452f3ac-7de4-4bf0-a70c-3102c6112c6b",
+        "position": 2,
+        "text": "На механічних транспортних засобах дорожньо-експлуатаційної служби під час виконання роботи на дорозі.",
+        "isCorrect": false
+      },
+      {
+        "id": "fd13bcd8-e4d3-4be3-a944-520e0b3e8ee9",
+        "position": 3,
+        "text": "На великогабаритних і великовагових транспортних засобах.",
+        "isCorrect": false
+      },
+      {
+        "id": "179296e1-b0f7-4901-a4df-d1515871c9f9",
+        "position": 4,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": true
+      },
+      {
+        "id": "845a7c94-94d4-4cd9-b216-4252a3148fc4",
+        "position": 5,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f45fbdf8-9d9c-4fa1-adfa-98421f922685",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 82,
+    "text": "Яка мета поточного ремонту транспортного засобу?",
+    "answerOptionList": [
+      {
+        "id": "f872d1cd-0123-4e34-9625-0e5831824bf1",
+        "position": 1,
+        "text": "Відновити працездатність шляхом заміни або ремонту окремих несправних деталей, вузлів або агрегатів.",
+        "isCorrect": true
+      },
+      {
+        "id": "1de4ce2b-38e9-4d1b-abca-5bef385a5832",
+        "position": 2,
+        "text": "Повний ремонт транспортного засобу через надмірне зношення його вузлів і агрегатів.",
+        "isCorrect": false
+      },
+      {
+        "id": "1cf53771-60d7-415f-86c6-f39a5d2102ab",
+        "position": 3,
+        "text": "Регулювання кутів установки керованих коліс.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c2e6c163-4d7d-4967-a33e-554ad023b8b3",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 83,
+    "text": "Що потрібно зробити заздалегідь, перед використанням гідравлічного домкрата?",
+    "answerOptionList": [
+      {
+        "id": "03dce19c-8cfa-4394-94dc-d1b2281bac75",
+        "position": 1,
+        "text": "Перевірити справність гідравлічного домкрата.",
+        "isCorrect": false
+      },
+      {
+        "id": "09d984d7-7bff-4135-b6fe-ea65fb0115d7",
+        "position": 2,
+        "text": "Заборонено використовувати гідравлічний домкрат.",
+        "isCorrect": false
+      },
+      {
+        "id": "af9d6cd2-a2aa-4305-8102-7c9086977fb8",
+        "position": 3,
+        "text": "Встановити упори коліс.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "81c26de4-af1b-4b00-80d6-b17496d25d20",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 84,
+    "text": "Як затягувати болти/гайки кріплення колеса до маточини?",
+    "answerOptionList": [
+      {
+        "id": "806e23c0-40cc-4878-85cb-b2bd391c3f07",
+        "position": 1,
+        "text": "Затягнути болти/гайки на підвішеному колесі.",
+        "isCorrect": false
+      },
+      {
+        "id": "19690772-366d-43ab-b117-0437c2872d27",
+        "position": 2,
+        "text": "Затягнути болти/гайки на колесі, що стоїть на поверхні.",
+        "isCorrect": false
+      },
+      {
+        "id": "b3ded37d-c2c4-492e-aa44-2a3bea3eecc3",
+        "position": 3,
+        "text": "Затягнути болти/гайки на підвішеному колесі, дотягнути з необхідним моментом затягування на колесі, що стоїть на поверхні.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d3653acb-4d1d-4f32-91ad-cdc79a435d9e",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 85,
+    "text": "Як правильно встановлювати домкрат?",
+    "answerOptionList": [
+      {
+        "id": "c78a382c-483a-41cf-bb63-1b2776d9762e",
+        "position": 1,
+        "text": "Якнайближче до колеса.",
+        "isCorrect": true
+      },
+      {
+        "id": "4e397b03-02cb-4fb5-b5aa-0a9dea03b587",
+        "position": 2,
+        "text": "Якнайдалі від колеса.",
+        "isCorrect": false
+      },
+      {
+        "id": "328e3828-004c-48d8-9090-80e6aaaea3a8",
+        "position": 3,
+        "text": "Місце встановлення не має значення.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2e00d6b7-fda1-4162-a156-1fa8c3e16bfd",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 86,
+    "text": "У разі під'їзду до регульованого перехрестя транспортним засобом, яким керує водій з однією з категорій C, C1, що завжди потрібно ураховувати водієві?",
+    "answerOptionList": [
+      {
+        "id": "e2da8a0a-88f7-4adb-9125-6dcf906b2768",
+        "position": 1,
+        "text": "Те, що перехрестя регульоване.",
+        "isCorrect": false
+      },
+      {
+        "id": "e6ddc7bb-4ff5-4a67-b702-23df51022283",
+        "position": 2,
+        "text": "Маршрут руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "93546490-70dd-403f-905e-1cc09e9bc87e",
+        "position": 3,
+        "text": "Те, що через габарити транспортного засобу сигналів світлофора може бути не видно іншим учасникам дорожнього руху.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "f7056dcc-c9ef-4b19-81bd-1d59e7792942",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 87,
+    "text": "Вкажіть максимально допустиму довжину зчеплених при буксируванні транспортних засобів (за винятком маршрутних транспортних засобів).",
+    "answerOptionList": [
+      {
+        "id": "09e70a0a-e203-4602-80fc-4ce2b1dccfde",
+        "position": 1,
+        "text": "20 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "17be562b-317b-4cd4-b74e-2b8bbd628945",
+        "position": 2,
+        "text": "22 м.",
+        "isCorrect": true
+      },
+      {
+        "id": "26ef40bd-8ffa-4a36-a273-0a31b70a7a31",
+        "position": 3,
+        "text": "25 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "8332b725-9522-4bf3-8a30-e9860273f02f",
+        "position": 4,
+        "text": "30 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "da4542b0-1421-44ac-966f-c8e856da9f3e",
+        "position": 5,
+        "text": "35 м.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3f11b6c7-b7c1-4693-8722-888708f176d6",
+    "sectionId": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
+    "order": 88,
+    "text": "Цим дорожнім знаком позначають:",
+    "imageResId": "image_s48_q88",
+    "answerOptionList": [
+      {
+        "id": "e83af8db-ba3b-49e9-acd9-5fad4d13bf5d",
+        "position": 1,
+        "text": "Зону габаритно-вагового контролю.",
+        "isCorrect": true
+      },
+      {
+        "id": "6fe927db-b32b-4564-ab37-208e3e15e159",
+        "position": 2,
+        "text": "Місця, де може зупинитися вантажний автомобіль, фургон тощо, виключно на час, необхідний для розвантаження/завантаження.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

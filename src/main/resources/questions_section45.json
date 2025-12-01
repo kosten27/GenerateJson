@@ -1,0 +1,906 @@
+[
+  {
+    "id": "0e44fd7a-2cc9-4588-a18b-1c21b177bec6",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 1,
+    "text": "Недостатньою видимістю вважається:",
+    "imageResId": "image_s45_q1",
+    "answerOptionList": [
+      {
+        "id": "27769476-c8ed-46ba-8609-3ccebb6024bd",
+        "position": 1,
+        "text": "Видимість дороги в напрямку руху менше 300 метрів, обмежена поворотом дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "e2dcf006-e27a-49da-a507-34e2655e7df2",
+        "position": 2,
+        "text": "Видимість дороги в напрямку руху менше 300 м у сутінках, в умовах туману, дощу, снігопаду тощо.",
+        "isCorrect": true
+      },
+      {
+        "id": "57999f44-1bfb-4cf1-ba93-564faa824bb5",
+        "position": 3,
+        "text": "Небезпечний поворот, небезпечний підйом, небезпечний спуск.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1b9a4683-ad79-4e68-945d-0a6640c954ec",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 2,
+    "text": "Що означає вимога дати дорогу?",
+    "imageResId": "image_s45_q2",
+    "answerOptionList": [
+      {
+        "id": "06b08fe1-9036-497c-9bcf-e724019e6c58",
+        "position": 1,
+        "text": "Вимога до учасника дорожнього руху не продовжувати або не відновлювати рух, не здійснювати будь-яких маневрів (за винятком вимоги звільнити займану смугу руху), якщо це може примусити інших учасників дорожнього руху, які мають перевагу, змінити напрямок руху або швидкість.",
+        "isCorrect": true
+      },
+      {
+        "id": "76ed52d5-650b-40e8-bd0c-961824c966a5",
+        "position": 2,
+        "text": "Вимога обов'язкової зупинки, щоб дати дорогу всім учасникам дорожнього руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "efa84858-4bca-4132-b122-37e17e0b597d",
+        "position": 3,
+        "text": "Вимога обов'язкової зупинки перед дорожнім знаком «Дати дорогу».",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6778f605-b5dd-49f9-a753-89087b24c9d5",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 3,
+    "text": "Перехрестям вважається:",
+    "imageResId": "image_s45_q3",
+    "answerOptionList": [
+      {
+        "id": "108dd686-def8-42a8-9b4b-7d9f6355e726",
+        "position": 1,
+        "text": "Перехрещення, прилягання або розгалуження доріг на одному рівні, межею якого є уявні лінії між початком заокруглень країв проїзної частини кожної з доріг та яке не є виїздом з прилеглих територій.",
+        "isCorrect": true
+      },
+      {
+        "id": "ac9888d5-e459-40a2-affe-82ff2d3bb163",
+        "position": 2,
+        "text": "Місце перетину дороги над іншою дорогою (залізницею) на різних рівнях за допомогою шляхопроводу.",
+        "isCorrect": false
+      },
+      {
+        "id": "50cdb64d-7c55-42f5-b117-7fc1a54b93c9",
+        "position": 3,
+        "text": "Місце прилягання до дороги виїзду з прилеглої території.",
+        "isCorrect": false
+      },
+      {
+        "id": "bf01a57f-51f9-4be8-b58e-1b7b620371d7",
+        "position": 4,
+        "text": "Відповіді, зазначені в пунктах 2, 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "06b7161f-85c6-4822-9d43-58eeafee510d",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 4,
+    "text": "Що з переліченого нижче відповідає терміну «видимість у напрямку руху»?",
+    "answerOptionList": [
+      {
+        "id": "4f144a78-82e6-47ee-8970-2cb6d823a2fd",
+        "position": 1,
+        "text": "Мінімальна відстань, на якій з місця водія можна побачити «стоп-лінію».",
+        "isCorrect": false
+      },
+      {
+        "id": "c611b661-a9e7-423b-b2e4-91157677a9ee",
+        "position": 2,
+        "text": "Максимальна відстань вправо від напрямку руху, на якому можна розпізнати транспортні засоби, що наближаються до перехрестя по головній дорозі.",
+        "isCorrect": false
+      },
+      {
+        "id": "f1775f80-9ca7-41cf-96ae-2dbc70f0d093",
+        "position": 3,
+        "text": "Максимальна відстань, на якій з місця водія можна чітко розпізнати межі елементів дороги та розміщення учасників руху, що дає змогу водієві орієнтуватися під час керування транспортним засобом.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "98fc6d8c-8786-4724-8af3-6406f19741f3",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 5,
+    "text": "За наявності якої несправності дозволяється експлуатація транспортного засобу?",
+    "answerOptionList": [
+      {
+        "id": "4f411beb-b1ad-4fdf-aa9d-94e9d4c67b77",
+        "position": 1,
+        "text": "Не працюють запори горловин паливних баків.",
+        "isCorrect": false
+      },
+      {
+        "id": "df663efb-707c-40b5-8b49-02221a27f3de",
+        "position": 2,
+        "text": "Не працює механізм регулювання сидіння водія.",
+        "isCorrect": false
+      },
+      {
+        "id": "4df6b0db-1fb7-44df-b88c-ba6f1363933d",
+        "position": 3,
+        "text": "Не працює пристрій для обігрівання та обдування скла.",
+        "isCorrect": false
+      },
+      {
+        "id": "a9c977d8-f3d0-419e-9418-5aa1d9cedfaa",
+        "position": 4,
+        "text": "Не працює склопідйомник.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cd4cf9fb-833e-4abf-bf16-1e955d215903",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 6,
+    "text": "Яку максимальну кількість пасажирів Ви, як водій з категорією В, маєте право перевозити?",
+    "answerOptionList": [
+      {
+        "id": "10fb786d-4bb9-434a-a4cb-e7d1a2751731",
+        "position": 1,
+        "text": "Не більше 9, не враховуючи місце водія.",
+        "isCorrect": false
+      },
+      {
+        "id": "9932e547-ea88-42f1-a932-2e380f6be226",
+        "position": 2,
+        "text": "Не більше 9 з урахуванням місця водія.",
+        "isCorrect": true
+      },
+      {
+        "id": "23bb255c-682e-4cbb-838b-5bd36ae2881c",
+        "position": 3,
+        "text": "Не більше 7.",
+        "isCorrect": false
+      },
+      {
+        "id": "8a120095-ea9b-47e6-95ac-9b3444fc98e2",
+        "position": 4,
+        "text": "Не більше 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "859a035d-e20b-4dae-8703-b059c8c3e669",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 7,
+    "text": "У якому випадку дозволяється експлуатація транспортного засобу?",
+    "answerOptionList": [
+      {
+        "id": "3600d87a-c11e-4370-97c2-5ec98e4ec5bf",
+        "position": 1,
+        "text": "Порушено регулювання фар.",
+        "isCorrect": false
+      },
+      {
+        "id": "4e730781-a96a-4085-a0ad-c5dbe41a243b",
+        "position": 2,
+        "text": "На світлових приладах використовуються розсіювачі, що не відповідають типу конкретного світлового приладу.",
+        "isCorrect": false
+      },
+      {
+        "id": "31088008-33e7-4316-b431-1ef4449e2a82",
+        "position": 3,
+        "text": "Відсутні протитуманні фари.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3a0b27e1-2959-40d1-b2cd-41d9e2cc2eba",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 8,
+    "text": "Ви маєте право експлуатувати легковий автомобіль за відсутності:",
+    "answerOptionList": [
+      {
+        "id": "45accfbb-87bd-4be9-b5be-b62fad45309e",
+        "position": 1,
+        "text": "Аптечки.",
+        "isCorrect": false
+      },
+      {
+        "id": "b69aa220-618a-43f5-9bae-addcb9467345",
+        "position": 2,
+        "text": "Вогнегасника.",
+        "isCorrect": false
+      },
+      {
+        "id": "48cc6a9c-19e2-4872-8488-65dac94a7bc5",
+        "position": 3,
+        "text": "Знака аварійної зупинки.",
+        "isCorrect": false
+      },
+      {
+        "id": "0f8d3c10-24f3-4e85-908b-7c5d9e81182b",
+        "position": 4,
+        "text": "Противідкатних упорів.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "09b3715f-b76d-4fc0-a1b3-52e2a9f2d265",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 9,
+    "text": "У разі виникнення якої несправності заборонено подальший рух навіть до місця ремонту або стоянки?",
+    "answerOptionList": [
+      {
+        "id": "68a0651b-f329-4905-a33f-309248ff6906",
+        "position": 1,
+        "text": "Несправна робоча гальмова система не дає змоги водієві зупинити транспортний засіб при русі навіть з мінімальною швидкістю.",
+        "isCorrect": true
+      },
+      {
+        "id": "f6cd4910-6467-4f08-8fb9-1fb1511022f6",
+        "position": 2,
+        "text": "Несправна система випуску відпрацьованих газів.",
+        "isCorrect": false
+      },
+      {
+        "id": "886637df-eec7-4cd9-abff-7dc0dee00ec4",
+        "position": 3,
+        "text": "Не працює склоочисник.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c78c7d7e-bea1-4a72-8780-44234c8cdc18",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 10,
+    "text": "Для чого здійснюють балансування коліс?",
+    "answerOptionList": [
+      {
+        "id": "0cabdb8c-c76b-4344-8949-da4f2d845021",
+        "position": 1,
+        "text": "Для запобігання биттю колеса під час руху.",
+        "isCorrect": true
+      },
+      {
+        "id": "e9303048-9ecd-4c3a-9c5c-a777bda862e4",
+        "position": 2,
+        "text": "Для зменшення витрати палива.",
+        "isCorrect": false
+      },
+      {
+        "id": "bcce1d92-24fd-4ac7-95f9-d260b5d75e1e",
+        "position": 3,
+        "text": "Для покращення аеродинамічних показників автомобіля.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0de3ceac-58ef-4c90-b605-156936d4dc1f",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 11,
+    "text": "На автомобілі з автоматичною коробкою передач щоб зняти автомобіль з позиції P необхідно натиснути педаль гальма:",
+    "imageResId": "image_s45_q11",
+    "answerOptionList": [
+      {
+        "id": "9578e680-f275-45a3-8e37-38f9a27d93a6",
+        "position": 1,
+        "text": "Так, неможливо зняти не натиснувши на педаль гальма.",
+        "isCorrect": true
+      },
+      {
+        "id": "2ed818f7-9c02-4b83-8e15-4255e1a8e24a",
+        "position": 2,
+        "text": "Не потрібно натискати, достатньо переключити у необхідне положення.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a063cc94-e916-467e-ba0f-df4ed4c473e3",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 12,
+    "text": "Під час руху на автомобілі загорівся попереджувальний індикатор № 4, це означає:",
+    "imageResId": "image_s45_q12",
+    "answerOptionList": [
+      {
+        "id": "c328e4d7-ca40-4006-a14e-5e4f480915e8",
+        "position": 1,
+        "text": "Несправність акумулятора.",
+        "isCorrect": true
+      },
+      {
+        "id": "167b6249-d9e8-4a5b-9d37-7cead3696b57",
+        "position": 2,
+        "text": "Падіння рівня моторного масла.",
+        "isCorrect": false
+      },
+      {
+        "id": "3489dbb1-e824-49a2-ac8f-9d94dff23304",
+        "position": 3,
+        "text": "Несправність гальмової системи.",
+        "isCorrect": false
+      },
+      {
+        "id": "88cd1986-2383-49f7-bbf5-090adeed98d7",
+        "position": 4,
+        "text": "Високу температуру теплоносія.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f74eaacd-ca11-44e0-b9c7-7dc6520b60ff",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 13,
+    "text": "Під час руху на автомобілі загорівся попереджувальний індикатор № 1, це означає:",
+    "imageResId": "image_s45_q13",
+    "answerOptionList": [
+      {
+        "id": "53898636-5d12-4e7e-b254-55041895ba27",
+        "position": 1,
+        "text": "Несправність акумулятора.",
+        "isCorrect": false
+      },
+      {
+        "id": "0705c462-4cc8-4e62-b25a-d7f3e5e5c91d",
+        "position": 2,
+        "text": "Падіння тиску в системі змащування або низький рівень масла.",
+        "isCorrect": true
+      },
+      {
+        "id": "1cfb075d-8c3b-4f56-8a63-69eb11d761a3",
+        "position": 3,
+        "text": "Несправність гальмової системи.",
+        "isCorrect": false
+      },
+      {
+        "id": "6bd5c93d-fd00-4189-8abb-e247cb3707d9",
+        "position": 4,
+        "text": "Високу температуру теплоносія.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c7b8bbe9-2c42-4e32-a86f-15e473803d5a",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 14,
+    "text": "Виберіть індикатор, що відображає увімкнення ближнього світла фар:",
+    "imageResId": "image_s45_q14",
+    "answerOptionList": [
+      {
+        "id": "b2246275-1b30-4c4a-8802-fe03c5984027",
+        "position": 1,
+        "text": "А.",
+        "isCorrect": false
+      },
+      {
+        "id": "ffbde3fa-0ee9-47ef-8999-bcc50cae8cfd",
+        "position": 2,
+        "text": "В.",
+        "isCorrect": false
+      },
+      {
+        "id": "284f3a13-c4f5-4b06-abe2-9c3cda58a4a7",
+        "position": 3,
+        "text": "С.",
+        "isCorrect": false
+      },
+      {
+        "id": "99139bef-e7cb-44c1-9eab-49d5ac299250",
+        "position": 4,
+        "text": "D.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0b4011f8-78cf-44a2-a109-0ba8ae1f7c92",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 15,
+    "text": "Що означає наведений індикатор червоного кольору:",
+    "imageResId": "image_s45_q15",
+    "answerOptionList": [
+      {
+        "id": "a17feca9-1247-41ef-9ae2-372f355fc206",
+        "position": 1,
+        "text": "Падіння тиску в системі змащування або низький рівень масла.",
+        "isCorrect": true
+      },
+      {
+        "id": "754164cf-a3d4-40b3-ab0a-101cc7bf06a7",
+        "position": 2,
+        "text": "Індикатор стоянкового гальма.",
+        "isCorrect": false
+      },
+      {
+        "id": "70bcf43c-1501-4ff5-99bd-ebcd6e0ed5d1",
+        "position": 3,
+        "text": "Відсутність палива у паливному баку.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "64d70720-5de0-4b55-b3ed-0a131d963a7a",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 16,
+    "text": "Наведений індикатор червоного кольору інформує про:",
+    "imageResId": "image_s45_q16",
+    "answerOptionList": []
+  },
+  {
+    "id": "e11587d9-bcb3-4638-9431-5732767254b5",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 17,
+    "text": "Спалах зображеного індикатора жовтого кольору інформує водія транспортного засобу про:",
+    "imageResId": "image_s45_q17",
+    "answerOptionList": [
+      {
+        "id": "b07af03f-c1bb-4340-9336-b7cd98a2647b",
+        "position": 1,
+        "text": "Низький рівень палива у паливному баку.",
+        "isCorrect": true
+      },
+      {
+        "id": "17b7bb92-3fc5-4ba0-94f9-13fb4f4d9f4a",
+        "position": 2,
+        "text": "Повний паливний бак.",
+        "isCorrect": false
+      },
+      {
+        "id": "211b7071-c730-42cc-a926-d687bf0c5cef",
+        "position": 3,
+        "text": "Непрацюючий ремінь безпеки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0a3c27f8-9d41-4d9d-b9ce-ea57e918b815",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 18,
+    "text": "Індикатор у вигляді двох миготливих стрілок зеленого кольору відображає:",
+    "imageResId": "image_s45_q18",
+    "answerOptionList": [
+      {
+        "id": "50228189-db23-4e0f-b5bf-0e261745f6dd",
+        "position": 1,
+        "text": "Увімкнену аварійну світлову сигналізацію.",
+        "isCorrect": true
+      },
+      {
+        "id": "09818c94-edd8-473b-8f49-6908d15a660b",
+        "position": 2,
+        "text": "Незакриті передні двері автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "0107a416-41e7-4d7b-a7d3-ce80b07d6a51",
+        "position": 3,
+        "text": "Увімкнені склоочисники.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3e77e42e-6e09-499e-acd9-bd783a6a738d",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 19,
+    "text": "Який з наведених індикаторів стає активним при запуску двигуна автомобіля та горить до тих пір, поки ремінь безпеки не буде пристебнутий?",
+    "imageResId": "image_s45_q19",
+    "answerOptionList": [
+      {
+        "id": "9b7bbc65-0c23-4426-af16-f70530df0abd",
+        "position": 1,
+        "text": "1.",
+        "isCorrect": false
+      },
+      {
+        "id": "1ef884cc-c497-4d81-964b-8aab524db8df",
+        "position": 2,
+        "text": "2.",
+        "isCorrect": false
+      },
+      {
+        "id": "ec4e4223-69ca-49dc-9130-dc2fbe8d800e",
+        "position": 3,
+        "text": "3.",
+        "isCorrect": true
+      },
+      {
+        "id": "2754fe4c-decb-4d3b-b47c-b6a5c5e2c8ce",
+        "position": 4,
+        "text": "4.",
+        "isCorrect": false
+      },
+      {
+        "id": "c3909dd0-be19-445f-acea-7390be375a18",
+        "position": 1,
+        "text": "Про можливі проблеми з гальмовою системою або увімкнута стоянкова гальмова система.",
+        "isCorrect": false
+      },
+      {
+        "id": "9602540b-cc70-4d05-b5f7-e57909a4c6c1",
+        "position": 2,
+        "text": "Увімкнена аварійна сигналізація.",
+        "isCorrect": false
+      },
+      {
+        "id": "25f85475-be99-451d-badb-18a908079641",
+        "position": 3,
+        "text": "Низький рівень палива у паливному баку.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b3cfe939-f64c-4c49-b8f9-d4e39c903991",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 21,
+    "text": "Цей індикатор вказує що в автомобілі ввімкнені:",
+    "imageResId": "image_s45_q21",
+    "answerOptionList": [
+      {
+        "id": "b7270d5e-450d-49ba-9d6a-0d6f22e94aaf",
+        "position": 1,
+        "text": "Протитуманні фари.",
+        "isCorrect": true
+      },
+      {
+        "id": "c7b4efdb-d1a4-40aa-8fd3-1ba8f8c6c20c",
+        "position": 2,
+        "text": "Ближнє світло фар.",
+        "isCorrect": false
+      },
+      {
+        "id": "4df91320-6ef7-4452-83e1-f368e2a7864e",
+        "position": 3,
+        "text": "Аварійна світлова сигналізація.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "be6ca708-280c-4956-8465-218f5ced4a8d",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 22,
+    "text": "Цей індикатор жовтого кольору вказує на низький рівень тиску в шинах?",
+    "imageResId": "image_s45_q22",
+    "answerOptionList": [
+      {
+        "id": "1c6f622e-3456-4145-8588-a01a50bc0009",
+        "position": 1,
+        "text": "Так.",
+        "isCorrect": true
+      },
+      {
+        "id": "46ef1a5f-a4aa-4e8a-871b-af425f512c99",
+        "position": 2,
+        "text": "Ні.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a3b446ca-f660-4902-87f5-088a3ca52b1d",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 23,
+    "text": "Про що інформує водія вказаний індикатор червоного кольору?",
+    "imageResId": "image_s45_q23",
+    "answerOptionList": [
+      {
+        "id": "80b4a10c-c77e-4ab4-a8b4-ca077cfb3009",
+        "position": 1,
+        "text": "Про необхідність пристебнутися.",
+        "isCorrect": true
+      },
+      {
+        "id": "eaa545e0-791e-4442-abf0-b3fc60d29dfa",
+        "position": 2,
+        "text": "Про неправильно відрегульоване сидіння водія.",
+        "isCorrect": false
+      },
+      {
+        "id": "4d60cabb-aa7f-48f3-ab12-119a5decefb2",
+        "position": 3,
+        "text": "Про несправність гальмової системи.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6219b9df-5de6-452b-8189-7c81ed4d70e9",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 24,
+    "text": "Вказаний індикатор червоного кольору інформує водія про:",
+    "imageResId": "image_s45_q24",
+    "answerOptionList": [
+      {
+        "id": "03c0250e-e50c-4c0d-9899-aa0283092d6f",
+        "position": 1,
+        "text": "Відчинені двері автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "5137e4d2-eafb-4907-9a09-15926fd1c309",
+        "position": 2,
+        "text": "Відчинений багажник автомобіля.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "f7928604-f4d6-4f27-9ef1-f91afa728a0e",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 25,
+    "text": "Вказаний індикатор жовтого кольору інформує Вас про:",
+    "imageResId": "image_s45_q25",
+    "answerOptionList": [
+      {
+        "id": "cb13a3ea-3046-4b93-b4ba-7e79e6a8cc4e",
+        "position": 1,
+        "text": "Несправність антиблокувальної системи автомобіля.",
+        "isCorrect": true
+      },
+      {
+        "id": "71bad00e-e78f-42f4-bd15-42c0119bebb6",
+        "position": 2,
+        "text": "Несправність гальмівної системи.",
+        "isCorrect": false
+      },
+      {
+        "id": "ae790e6a-0122-435b-b512-366b25e7f74c",
+        "position": 3,
+        "text": "Несправність керма.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2327a4fd-a5c5-4c23-8d2c-b73eedccb462",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 26,
+    "text": "Виберіть індикатор, що інформує водія про увімкнене дальнє світло фар:",
+    "imageResId": "image_s45_q26",
+    "answerOptionList": [
+      {
+        "id": "bbb584e0-6717-41a2-a7fa-301399f61872",
+        "position": 1,
+        "text": "Індикатор блакитного кольору.",
+        "isCorrect": true
+      },
+      {
+        "id": "0f4aa2ab-98b7-4780-87aa-0bc6591cc957",
+        "position": 2,
+        "text": "Індикатор зеленого кольору.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "85b897f7-02c2-4370-be61-c29be4e03ac2",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 27,
+    "text": "Виберіть індикатор, що інформує водія про увімкнене ближнє світло фар:",
+    "imageResId": "image_s45_q27",
+    "answerOptionList": [
+      {
+        "id": "879d6408-de92-4aa6-b8ae-3a9611455abf",
+        "position": 1,
+        "text": "Індикатор блакитного кольору.",
+        "isCorrect": false
+      },
+      {
+        "id": "20a2a21e-e634-4c20-b7c5-1da6ac167041",
+        "position": 2,
+        "text": "Індикатор зеленого кольору.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "1097962b-9359-428f-9060-c55df8844c98",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 28,
+    "text": "Наведений індикатор червоного кольору може інформувати водія про:",
+    "imageResId": "image_s45_q28",
+    "answerOptionList": [
+      {
+        "id": "1d67a939-38d8-4ccc-bd5a-bc26e614e84d",
+        "position": 1,
+        "text": "Перегрів двигуна.",
+        "isCorrect": true
+      },
+      {
+        "id": "c50dc499-c9e5-46fe-a73f-8c43985f023f",
+        "position": 2,
+        "text": "Низький рівень гальмової рідини.",
+        "isCorrect": false
+      },
+      {
+        "id": "131d5361-ea16-487f-8cab-d6dac44c43da",
+        "position": 3,
+        "text": "Низький рівень палива у паливному баку.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1b5768eb-4617-4a0d-b93e-b3ea41ff0930",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 29,
+    "text": "Який із наведених індикаторів інформує водія транспортного засобу про можливі проблеми з гальмовою системою?",
+    "imageResId": "image_s45_q29",
+    "answerOptionList": [
+      {
+        "id": "feacce63-039e-4152-a3c1-9bb190876c42",
+        "position": 1,
+        "text": "1.",
+        "isCorrect": true
+      },
+      {
+        "id": "95a0a28c-6caf-4fba-9ff3-85d98cec3ff5",
+        "position": 2,
+        "text": "1 і 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "5794809a-3002-4519-aa4a-812bee816cb2",
+        "position": 3,
+        "text": "2.",
+        "isCorrect": false
+      },
+      {
+        "id": "363de25d-094d-4e3c-ac5a-21d22e863dd4",
+        "position": 4,
+        "text": "3.",
+        "isCorrect": false
+      },
+      {
+        "id": "e64ba8bb-c5ba-45ff-ba04-f7e1c4b24a77",
+        "position": 5,
+        "text": "4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d6a5ca48-5c0c-41dc-8faa-bfdffa6bce45",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 30,
+    "text": "Який із наведених індикаторів інформує водія транспортного засобу про низький рівень палива у паливному баку?",
+    "imageResId": "image_s45_q30",
+    "answerOptionList": [
+      {
+        "id": "e9dd1558-f444-46a0-a257-87993802ade0",
+        "position": 1,
+        "text": "1.",
+        "isCorrect": false
+      },
+      {
+        "id": "28d00eac-8aee-4b1c-a370-4af7341c8464",
+        "position": 2,
+        "text": "2.",
+        "isCorrect": true
+      },
+      {
+        "id": "efcb8f6a-714f-466f-a70c-714c32f3b310",
+        "position": 3,
+        "text": "3.",
+        "isCorrect": false
+      },
+      {
+        "id": "372859e6-df58-461e-b8ba-d71b10855864",
+        "position": 4,
+        "text": "4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2ee50a77-ff1e-41eb-8f4d-e49497eedcfd",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 31,
+    "text": "Який із наведених індикаторів вмикається при запуску двигуна та інформує водія транспортного засобу про неправильно зачинені двері?",
+    "imageResId": "image_s45_q31",
+    "answerOptionList": [
+      {
+        "id": "02c688d7-40cb-4658-9306-4caf75544d2f",
+        "position": 1,
+        "text": "1.",
+        "isCorrect": false
+      },
+      {
+        "id": "30a1e2a1-60df-40cb-bbca-07069f5bc940",
+        "position": 2,
+        "text": "2.",
+        "isCorrect": false
+      },
+      {
+        "id": "5fc1e110-dca8-4b44-ad9e-1c55df3d3b65",
+        "position": 3,
+        "text": "3.",
+        "isCorrect": true
+      },
+      {
+        "id": "413f8038-9ed2-47c3-81c0-3cfa7b6ab436",
+        "position": 4,
+        "text": "4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e5237ab2-3646-4f32-ab77-f83ed6101b80",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 32,
+    "text": "Який із наведених індикаторів попереджає водія транспортного засобу про перегрів двигуна?",
+    "imageResId": "image_s45_q32",
+    "answerOptionList": [
+      {
+        "id": "5940f07b-922a-4ae3-ae94-3eee6a4bc267",
+        "position": 1,
+        "text": "1.",
+        "isCorrect": false
+      },
+      {
+        "id": "15e9493d-7fc2-427e-acfc-5d2eeb85e1b0",
+        "position": 2,
+        "text": "2.",
+        "isCorrect": false
+      },
+      {
+        "id": "73c2a3a2-7b7d-4891-b630-b47c07b1dd7d",
+        "position": 3,
+        "text": "3.",
+        "isCorrect": false
+      },
+      {
+        "id": "95006b21-0bdb-4475-ab6a-4a2ead861e46",
+        "position": 4,
+        "text": "4.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "873db542-bd5e-4b7d-a3f4-389dc36be6ca",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 33,
+    "text": "Цей індикатор вказує, що в автомобілі увімкнено:",
+    "imageResId": "image_s45_q33",
+    "answerOptionList": [
+      {
+        "id": "02b8ff9d-4c7b-4c0d-88c2-df2a415f8405",
+        "position": 1,
+        "text": "Протитуманні фари.",
+        "isCorrect": false
+      },
+      {
+        "id": "6d3ddba7-42e3-4194-b73f-a39e760cf23c",
+        "position": 2,
+        "text": "Ближнє світло фар.",
+        "isCorrect": false
+      },
+      {
+        "id": "9614243a-3c48-4971-83bc-030ee10f9679",
+        "position": 3,
+        "text": "Дальнє світло фар.",
+        "isCorrect": true
+      }
+    ]
+  }
+]

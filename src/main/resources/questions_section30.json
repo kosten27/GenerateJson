@@ -1,0 +1,408 @@
+[
+  {
+    "id": "096318a7-d1cc-4564-83b7-e764e2846ac8",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 1,
+    "text": "Цим розпізнавальним знаком позначаються транспортні засоби, на яких:",
+    "imageResId": "image_s30_q1",
+    "answerOptionList": [
+      {
+        "id": "07ad8bb8-ad37-4f52-ab63-f08f966a14d8",
+        "position": 1,
+        "text": "Встановлено шини із шипами.",
+        "isCorrect": true
+      },
+      {
+        "id": "9794f677-49e1-4d22-8705-43473f30cd44",
+        "position": 2,
+        "text": "Встановлено зимові шини.",
+        "isCorrect": false
+      },
+      {
+        "id": "8172c0e3-733b-4622-b8bc-2e27a5e8f5c9",
+        "position": 3,
+        "text": "Встановлено всесезонні шини.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "02744e6e-e108-4350-9de3-d3804110d73e",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 2,
+    "text": "Де на транспортному засобі повинен бути розпізнавальний знак «Таксі»?",
+    "imageResId": "image_s30_q2",
+    "answerOptionList": [
+      {
+        "id": "c6a5196e-9834-471e-bbe0-630dc1de87dc",
+        "position": 1,
+        "text": "На даху транспортного засобу.",
+        "isCorrect": false
+      },
+      {
+        "id": "8b06cec6-3a80-413f-958b-d000c502f3fa",
+        "position": 2,
+        "text": "На бічній поверхні транспортного засобу.",
+        "isCorrect": false
+      },
+      {
+        "id": "cae0cd2b-2c92-4504-824c-fae1dfeb7b89",
+        "position": 3,
+        "text": "На даху або на бічній поверхні транспортного засобу.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b2954414-1014-4722-a457-f7fbe763e2ec",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 3,
+    "text": "На яких транспортних засобах обов'язково встановлюється цей розпізнавальний знак?",
+    "imageResId": "image_s30_q3",
+    "answerOptionList": [
+      {
+        "id": "23fbc17b-7794-4cf3-9c70-ee4051e04c77",
+        "position": 1,
+        "text": "На всіх механічних транспортних засобах.",
+        "isCorrect": false
+      },
+      {
+        "id": "a43bc13c-f5f8-408a-a79b-d5e5d8133717",
+        "position": 2,
+        "text": "На транспортних засобах, які використовуються для дорожніх робіт.",
+        "isCorrect": false
+      },
+      {
+        "id": "b0a61a4b-2613-451c-8a28-8c38f560cc36",
+        "position": 3,
+        "text": "На транспортних засобах, що мають особливу форму.",
+        "isCorrect": false
+      },
+      {
+        "id": "15a84a16-ba86-4957-91de-d29bf098b327",
+        "position": 4,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "93f9e032-ee86-41b0-930b-39c4a9ea8dad",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 4,
+    "text": "Який із розпізнавальних знаків встановлюється на транспортних засобах, якими керують водії зі стажем до двох років?",
+    "imageResId": "image_s30_q4",
+    "answerOptionList": [
+      {
+        "id": "799448f4-542e-47fc-922d-5c15de23eac9",
+        "position": 1,
+        "text": "Перший.",
+        "isCorrect": false
+      },
+      {
+        "id": "59576745-9c16-4ce4-a511-e9ed5cc0d39a",
+        "position": 2,
+        "text": "Другий.",
+        "isCorrect": false
+      },
+      {
+        "id": "b9153953-e543-4bf2-acab-5c16175e1466",
+        "position": 3,
+        "text": "Третій.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "21bc9019-e998-4d11-9faf-8f448f167340",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 5,
+    "text": "У яких випадках на транспортних засобах встановлюється такий розпізнавальний знак?",
+    "imageResId": "image_s30_q5",
+    "answerOptionList": [
+      {
+        "id": "79f92157-b162-4fee-887e-c44c65feb011",
+        "position": 1,
+        "text": "У разі перевезення небезпечного вантажу.",
+        "isCorrect": false
+      },
+      {
+        "id": "788f083e-3c6d-4063-8dd6-1ad58bdfe0f0",
+        "position": 2,
+        "text": "Коли вантаж виступає за габарити транспортного засобу на відстань більшу, ніж це передбачено Правилами дорожнього руху.",
+        "isCorrect": true
+      },
+      {
+        "id": "16cb7710-96b4-4b1f-be77-7c779add686e",
+        "position": 3,
+        "text": "Під час перевезення великовагового вантажу.",
+        "isCorrect": false
+      },
+      {
+        "id": "e1dc9acf-e5b3-452f-a09f-c57046ec9946",
+        "position": 4,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ab28e34b-e63d-4344-9c8d-70d04283163b",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 6,
+    "text": "Цей розпізнавальний знак встановлюється на транспортних засобах:",
+    "imageResId": "image_s30_q6",
+    "answerOptionList": [
+      {
+        "id": "78b284e5-3f11-4ebb-9fa6-cc16d35afd72",
+        "position": 1,
+        "text": "Якими керують водії з інвалідністю.",
+        "isCorrect": false
+      },
+      {
+        "id": "6dfb4978-ed5d-4411-9594-9e2e556852aa",
+        "position": 2,
+        "text": "Що належать водіям-лікарям.",
+        "isCorrect": true
+      },
+      {
+        "id": "cf0a53ec-392f-47d4-9464-6c3058e42547",
+        "position": 3,
+        "text": "Якими керують глухі або глухонімі водії.",
+        "isCorrect": false
+      },
+      {
+        "id": "66a24d0c-8709-4b76-97a8-570b06ea6e59",
+        "position": 4,
+        "text": "Якими керують водії-лікарі.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "41505338-e613-416e-b738-fbce48f39026",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 7,
+    "text": "Цим розпізнавальним знаком позначають транспортні засоби, які:",
+    "imageResId": "image_s30_q7",
+    "answerOptionList": [
+      {
+        "id": "775fd5a4-9f8a-44c0-aee6-c4aebb6316d7",
+        "position": 1,
+        "text": "Перевозять великовагові вантажі.",
+        "isCorrect": false
+      },
+      {
+        "id": "527773d6-5036-4762-8fe9-833487bfd07c",
+        "position": 2,
+        "text": "Перевозять небезпечні вантажі.",
+        "isCorrect": true
+      },
+      {
+        "id": "d6641317-c808-41c2-840f-4850fe8d2339",
+        "position": 3,
+        "text": "Перевозять великогабаритні вантажі.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f7e9b2b8-48a9-4ca4-888c-d3b96feda68c",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 8,
+    "text": "На яких транспортних засобах встановлюється такий розпізнавальний знак?",
+    "imageResId": "image_s30_q8",
+    "answerOptionList": [
+      {
+        "id": "d7fae942-1b71-4568-b5de-1b90bc11015b",
+        "position": 1,
+        "text": "На тих, якими керують водії з інвалідністю.",
+        "isCorrect": true
+      },
+      {
+        "id": "c727cde9-bc06-40cb-9d49-f8647de8d269",
+        "position": 2,
+        "text": "На тих, якими керують глухі або глухонімі водії.",
+        "isCorrect": false
+      },
+      {
+        "id": "3535a2a0-e746-416e-8bab-34bf1a10524c",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e39e1d6e-9925-4fdb-8f72-211b8272d8e8",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 9,
+    "text": "Яким із розпізнавальних знаків позначаються транспортні засоби, якими керують водії з інвалідністю?",
+    "imageResId": "image_s30_q9",
+    "answerOptionList": [
+      {
+        "id": "dd4efd92-2148-434c-8f56-1c5d48ea2b47",
+        "position": 1,
+        "text": "Першим.",
+        "isCorrect": true
+      },
+      {
+        "id": "341724ac-b214-4303-83a6-1fd01de72803",
+        "position": 2,
+        "text": "Другим.",
+        "isCorrect": false
+      },
+      {
+        "id": "b941dd29-bc98-4daa-83a4-4642b7cccff2",
+        "position": 3,
+        "text": "Третім.",
+        "isCorrect": false
+      },
+      {
+        "id": "c7c8f2bb-58af-4242-8ab9-2f7f622c0f02",
+        "position": 4,
+        "text": "Четвертим.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "10e5f59c-08ae-4d24-91e3-7dd660da1aae",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 10,
+    "text": "Такий розпізнавальний знак розміщується на транспортних засобах, які:",
+    "imageResId": "image_s30_q10",
+    "answerOptionList": [
+      {
+        "id": "da4bcfe2-e11f-49d7-acdf-c922a3f0df5d",
+        "position": 1,
+        "text": "Перевозять пасажирів з дітьми.",
+        "isCorrect": false
+      },
+      {
+        "id": "afcaec29-19fa-449d-8541-36214a0bc7ec",
+        "position": 2,
+        "text": "Перевозять організовані групи дітей.",
+        "isCorrect": true
+      },
+      {
+        "id": "697f051e-450c-408b-a203-91e259a2cda4",
+        "position": 3,
+        "text": "Перевозять пасажирів, велика частина з яких діти.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3df0ca19-f9ec-4490-b6c7-e5422644eb47",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 11,
+    "text": "Який із розпізнавальних знаків встановлюється на транспортних засобах, якими керують глухі або глухонімі водії?",
+    "imageResId": "image_s30_q11",
+    "answerOptionList": [
+      {
+        "id": "8b1d10d9-c3ce-43f0-8afd-ad6bf1d64bc3",
+        "position": 1,
+        "text": "Перший.",
+        "isCorrect": true
+      },
+      {
+        "id": "331ff4e8-fad9-4fec-8b31-cd84ed3e0580",
+        "position": 2,
+        "text": "Другий.",
+        "isCorrect": false
+      },
+      {
+        "id": "2975e5bc-8c9f-4f82-b4c0-6b79e260d911",
+        "position": 3,
+        "text": "Третій.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0d7c1dd3-f263-42ae-9918-d412576c44b3",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 12,
+    "text": "На яких транспортних засобах встановлюється цей розпізнавальний знак?",
+    "imageResId": "image_s30_q12",
+    "answerOptionList": [
+      {
+        "id": "86dc6e27-000a-4380-a8fe-29dba79d0635",
+        "position": 1,
+        "text": "На транспортних засобах, якими керують водії з інвалідністю.",
+        "isCorrect": false
+      },
+      {
+        "id": "c0840df8-3f4f-47d9-93a7-dfd36ad7de03",
+        "position": 2,
+        "text": "На транспортних засобах, якими керують глухі водії.",
+        "isCorrect": false
+      },
+      {
+        "id": "816fec34-5dfc-48ef-88cb-db7f925c7390",
+        "position": 3,
+        "text": "На транспортних засобах, якими керують глухі або глухонімі водії.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b8cae888-cb6f-45ee-aa8d-17f8ef309b9c",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 13,
+    "text": "Де на механічних транспортних засобах (за винятком трамваїв і тролейбусів) і причепах встановлюють номерні знаки?",
+    "answerOptionList": [
+      {
+        "id": "d3b83af7-280d-414e-9548-7f6ca3dc114b",
+        "position": 1,
+        "text": "З боків.",
+        "isCorrect": false
+      },
+      {
+        "id": "d83b527e-a46f-4e7b-b9b2-833698a68607",
+        "position": 2,
+        "text": "Спереду і ззаду.",
+        "isCorrect": false
+      },
+      {
+        "id": "c4045aee-9712-4178-ab37-13c6bc3a176f",
+        "position": 3,
+        "text": "У передбачених для цього місцях.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "9e0df894-97da-4040-be19-d09f43557478",
+    "sectionId": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
+    "order": 14,
+    "text": "Якщо в результаті проведення переобладнання або ремонту транспортного засобу необхідно внести зміни до реєстраційних документів, протягом якого часу з моменту завершення ремонту або переобладнання необхідно перереєструвати його в уповноваженому органі МВС?",
+    "answerOptionList": [
+      {
+        "id": "a5647301-8635-4245-b6d3-8bab1ef4147c",
+        "position": 1,
+        "text": "5 діб.",
+        "isCorrect": false
+      },
+      {
+        "id": "e4a722e8-ed7b-4ac3-9bd3-5add971e8267",
+        "position": 2,
+        "text": "7 діб.",
+        "isCorrect": false
+      },
+      {
+        "id": "7ad4f8ca-d91f-4e0f-bce2-973a6e72d4c6",
+        "position": 3,
+        "text": "10 діб.",
+        "isCorrect": true
+      },
+      {
+        "id": "81544bd8-2342-4430-ab53-35f8a154618c",
+        "position": 4,
+        "text": "14 діб.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
