@@ -19,6 +19,26 @@ fun main() {
 //    val sectionId = Uuid.parse(sectionIdString)
 //    println("sectionId: $sectionId")
 
+    val sectionJsonString = File("src/main/resources/sections.json").readText()
+    val sectionList = Json.decodeFromString<List<PopulateSectionModel>>(sectionJsonString)
+
+    val questionIds = mutableMapOf<String, Uuid>()
+    val questionsSectionFiles = File("src/main/resources/questions_section_files.txt").readText().split("\n")
+    questionsSectionFiles.forEach { questionsSectionFile ->
+        val questionsSectionText = File("src/main/resources/$questionsSectionFile").readText()
+        val questionList = Json.decodeFromString<List<PopulateQuestionModel>>(questionsSectionText)
+        val currentSectionQuestionIds = questionList.associate { question ->
+            val section = sectionList.find { section ->
+                section.id == question.sectionId
+            }
+            val sectionNumber = section?.let {
+                it.order.toString() + it.suborder?.let { suborder -> ".$suborder" }.orEmpty()
+            }
+            "${sectionNumber}_${question.order}" to Uuid.parse(question.id)
+        }
+        questionIds.putAll(currentSectionQuestionIds)
+    }
+
     val sectionsWithImagesString = parseSectionsWithImages(File("src/main/resources/question_images.txt").readText())
     val answersString = File("src/main/resources/answers.txt").readText().split("\n")
 
@@ -45,9 +65,6 @@ fun main() {
     val sectionRegex = Regex("""^(\d+(.\d)?)\.\s+([A-ZА-ЯІЇЄҐ0-9\s'’\-(),]+)$""")
     val questionRegex = Regex("""^(\d+)\.\s+(.+)$""")
     val answerRegex = Regex("""^(\d+)\)\s+(.+)$""")
-
-    val sectionJsonString = File("src/main/resources/sections.json").readText()
-    val sectionList = Json.decodeFromString<List<PopulateSectionModel>>(sectionJsonString)
 
     val text = File("src/main/resources/pdr.txt").readText()
     text.lines().forEach {line ->
@@ -82,8 +99,10 @@ fun main() {
                     val sectionOrder = currentSectionWithImages?.sectionOrder?.replace(".", "_")
                     imageResId = "image_s${sectionOrder}_q${questionOrder}"
                 }
+                val questionIdKey =  "${currentSection?.order}_${questionOrder}"
+                val questionId = questionIds[questionIdKey]
                 currentQuestion = Question(
-                    id = Uuid.random(),
+                    id = questionId ?: Uuid.random(),
                     order = questionOrder,
                     text = match.groupValues[2].trim(),
                     imageResId = imageResId
@@ -130,9 +149,12 @@ fun main() {
         }
         fileName to questions
     }
+    val prettyPrintJson = Json {
+        prettyPrint = true
+    }
     generatedData.forEach { (fileName, questions) ->
-        val questionsEncodedJson = Json.encodeToString(questions)
-        File("src/main/resources/$fileName").writeText(questionsEncodedJson)
+        val questionsEncodedJson = prettyPrintJson.encodeToString(questions)
+//        File("src/main/resources/$fileName").writeText(questionsEncodedJson)
     }
     println(text.length)
 
