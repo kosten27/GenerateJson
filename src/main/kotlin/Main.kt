@@ -3,6 +3,7 @@
 package org.example
 
 import PopulateSectionModel
+import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.json.Json
 import tech.uniapp.pdr.launch.domain.model.PopulateAnswerOptionModel
 import tech.uniapp.pdr.launch.domain.model.PopulateQuestionModel
@@ -12,17 +13,13 @@ import kotlin.uuid.Uuid
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-@OptIn(ExperimentalUuidApi::class)
+@OptIn(ExperimentalUuidApi::class, ExperimentalSerializationApi::class)
 fun main() {
-//    println("Enter sectionId")
-//    val sectionIdString = readln()
-//    val sectionId = Uuid.parse(sectionIdString)
-//    println("sectionId: $sectionId")
-
     val sectionJsonString = File("src/main/resources/sections.json").readText()
     val sectionList = Json.decodeFromString<List<PopulateSectionModel>>(sectionJsonString)
 
     val questionIds = mutableMapOf<String, Uuid>()
+    val questionOptionIds = mutableMapOf<String, Uuid>()
     val questionsSectionFiles = File("src/main/resources/questions_section_files.txt").readText().split("\n")
     questionsSectionFiles.forEach { questionsSectionFile ->
         val questionsSectionText = File("src/main/resources/$questionsSectionFile").readText()
@@ -37,6 +34,20 @@ fun main() {
             "${sectionNumber}_${question.order}" to Uuid.parse(question.id)
         }
         questionIds.putAll(currentSectionQuestionIds)
+
+        questionList.forEach { question ->
+            val section = sectionList.find { section ->
+                section.id == question.sectionId
+            }
+            val sectionNumber = section?.let {
+                it.order.toString() + it.suborder?.let { suborder -> ".$suborder" }.orEmpty()
+            }
+            val questionIdKey = "${sectionNumber}_${question.order}"
+            val currentQuestionAnswerOptionIds = question.answerOptionList.associate { answerOption ->
+                "${questionIdKey}_${answerOption.position}" to Uuid.parse(answerOption.id)
+            }
+            questionOptionIds.putAll(currentQuestionAnswerOptionIds)
+        }
     }
 
     val sectionsWithImagesString = parseSectionsWithImages(File("src/main/resources/question_images.txt").readText())
@@ -116,8 +127,10 @@ fun main() {
                 val sectionId = currentSection?.order
                 val questionNumber = currentQuestion?.order
                 val optionPosition = match.groupValues[1].toInt()
+                val optionIdKey =  "${currentSection?.order}_${currentQuestion?.order}_${optionPosition}"
+                val optionId = questionOptionIds[optionIdKey]
                 val answer = Answer(
-                    id = Uuid.random(),
+                    id = optionId ?: Uuid.random(),
                     position = optionPosition,
                     text = match.groupValues[2].trim(),
                     isCorrect = answerMap[sectionId]?.get(questionNumber) == optionPosition
@@ -151,13 +164,12 @@ fun main() {
     }
     val prettyPrintJson = Json {
         prettyPrint = true
+        prettyPrintIndent = "  "
     }
     generatedData.forEach { (fileName, questions) ->
         val questionsEncodedJson = prettyPrintJson.encodeToString(questions)
-//        File("src/main/resources/$fileName").writeText(questionsEncodedJson)
+        File("src/main/resources/$fileName").writeText(questionsEncodedJson)
     }
-    println(text.length)
-
 
 }
 
