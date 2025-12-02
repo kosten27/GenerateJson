@@ -503,19 +503,19 @@
     "imageResId": "image_s45_q19",
     "answerOptionList": [
       {
-        "id": "9b7bbc65-0c23-4426-af16-f70530df0abd",
+        "id": "c3909dd0-be19-445f-acea-7390be375a18",
         "position": 1,
         "text": "1.",
         "isCorrect": false
       },
       {
-        "id": "1ef884cc-c497-4d81-964b-8aab524db8df",
+        "id": "9602540b-cc70-4d05-b5f7-e57909a4c6c1",
         "position": 2,
         "text": "2.",
         "isCorrect": false
       },
       {
-        "id": "ec4e4223-69ca-49dc-9130-dc2fbe8d800e",
+        "id": "25f85475-be99-451d-badb-18a908079641",
         "position": 3,
         "text": "3.",
         "isCorrect": true
@@ -525,24 +525,33 @@
         "position": 4,
         "text": "4.",
         "isCorrect": false
-      },
+      }
+    ]
+  },
+  {
+    "id": "81aeda4b-52da-4e28-bd1e-fa48f95ad87d",
+    "sectionId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 20,
+    "text": "Про що може інформувати водія транспортного засобу спалах зображеного індикатора червоного кольору?",
+    "imageResId": "image_s45_q20",
+    "answerOptionList": [
       {
-        "id": "c3909dd0-be19-445f-acea-7390be375a18",
+        "id": "1b6c3cfb-a745-4567-9198-73eb207d8a6b",
         "position": 1,
         "text": "Про можливі проблеми з гальмовою системою або увімкнута стоянкова гальмова система.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
-        "id": "9602540b-cc70-4d05-b5f7-e57909a4c6c1",
+        "id": "e30c1b3d-780f-445b-a29c-89150b923d00",
         "position": 2,
         "text": "Увімкнена аварійна сигналізація.",
         "isCorrect": false
       },
       {
-        "id": "25f85475-be99-451d-badb-18a908079641",
+        "id": "424c01e8-e8f8-45b7-8ffe-bbd93ba59275",
         "position": 3,
         "text": "Низький рівень палива у паливному баку.",
-        "isCorrect": true
+        "isCorrect": false
       }
     ]
   },
