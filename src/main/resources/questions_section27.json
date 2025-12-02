@@ -1,30 +1,31 @@
 [
   {
-    "id": "c2bf3099-eec1-4adc-a4ec-4bfa4365fce9",
-    "sectionId": "null",
+    "id": "1650db00-f84b-437d-aa48-4f68486674d4",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 1,
     "text": "Яким транспортним засобам дозволено рух по автомагістралі?",
+    "imageResId": "image_s27_q1",
     "answerOptionList": [
       {
-        "id": "f17f1fd6-a862-4955-a3c9-bb1413d6c246",
+        "id": "fc617244-b47f-4090-8dbe-e15979b80572",
         "position": 1,
         "text": "Автомобілям, якими керують водії зі стажем водіння до двох років.",
         "isCorrect": false
       },
       {
-        "id": "e4b3f183-0b02-4275-bab3-184202940de6",
+        "id": "48df2edc-3910-4a7a-a01b-f977f2c7e4c0",
         "position": 2,
         "text": "Вантажним автомобілям з дозволеною максимальною масою понад 3,5 т.",
         "isCorrect": false
       },
       {
-        "id": "816ae2a1-d18a-488d-933f-d91191846f61",
+        "id": "c3583ace-bdc7-4972-bc7a-275e159d38af",
         "position": 3,
         "text": "Тракторам, самохідним машинам і механізмам.",
         "isCorrect": false
       },
       {
-        "id": "f12c2f53-b9a6-415a-b31a-96a33d20a216",
+        "id": "fda503e5-7e9d-4bc2-994b-599664cdacd1",
         "position": 4,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
@@ -32,19 +33,20 @@
     ]
   },
   {
-    "id": "3ad56736-54a7-4397-8c2c-b17e3f07fd77",
-    "sectionId": "null",
+    "id": "6b914259-d0f2-4028-9e8d-550b4f2b46b5",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 2,
     "text": "Чи дозволено на автомагістралях рух механічних транспортних засобів, швидкість яких за технічною характеристикою або їхнім станом менше 40 км/год?",
+    "imageResId": "image_s27_q2",
     "answerOptionList": [
       {
-        "id": "5b2ee801-e5af-499e-b1d5-b32915daddc6",
+        "id": "677a235b-5fd1-470f-97cf-5cee6e5b99e2",
         "position": 1,
         "text": "Дозволено.",
         "isCorrect": false
       },
       {
-        "id": "86c1ed1b-723f-4d28-8873-722568c816c4",
+        "id": "2252b1ba-4cb7-41ad-b737-eaaa53dd5fde",
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
@@ -52,37 +54,38 @@
     ]
   },
   {
-    "id": "3685f612-bdaf-4543-83a8-8c080184e52f",
-    "sectionId": "null",
+    "id": "63c45942-3a2b-4aa4-8b9a-d280f9f72301",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 3,
     "text": "Що з перерахованого заборонено на автомагістралі?",
+    "imageResId": "image_s27_q3",
     "answerOptionList": [
       {
-        "id": "0aa41eec-78ee-4bb6-9b2b-a895896adc6a",
+        "id": "05d6d8d0-4606-475c-a513-11820ed343e6",
         "position": 1,
         "text": "Рух із причепами, а також буксирування.",
         "isCorrect": false
       },
       {
-        "id": "23b705fb-58c1-4b92-9754-ff16167081a0",
+        "id": "9f72ee58-614a-4a64-867f-88bebd5ec117",
         "position": 2,
         "text": "Рух заднім ходом.",
         "isCorrect": false
       },
       {
-        "id": "2265bcd3-312f-4ac8-9bb2-e8c3baee9c78",
+        "id": "8ffa9f49-6526-4e39-a8d6-0dd7b33109df",
         "position": 3,
         "text": "Рух тракторів, самохідних машин і механізмів, а також велосипедів.",
         "isCorrect": false
       },
       {
-        "id": "b4481842-f88f-4e28-a01b-3c7ed479c6cc",
+        "id": "913d919a-d86a-4802-b11b-889345d258e7",
         "position": 4,
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       },
       {
-        "id": "eaba5d73-0f1d-429a-b708-23f90df04cc3",
+        "id": "5ce8ac7f-0577-4c3a-8ec1-6a173c66cf50",
         "position": 5,
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
@@ -90,37 +93,38 @@
     ]
   },
   {
-    "id": "76c8c785-8b71-4f65-9cbe-833ff2fef0af",
-    "sectionId": "null",
+    "id": "5843e598-6150-4891-bc19-e735737e047b",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 4,
     "text": "У якому місці дороги для автомобілів дозволена зупинка транспортних засобів?",
+    "imageResId": "image_s27_q4",
     "answerOptionList": [
       {
-        "id": "c427f480-bc39-4ab4-afc5-05acdea6e602",
+        "id": "ece9b35d-e1bb-4d0e-85cd-de99031e58a7",
         "position": 1,
         "text": "У будь-якому місці, але тільки на узбіччі.",
         "isCorrect": false
       },
       {
-        "id": "d6c789f1-b915-44c6-acdc-3780ef28b813",
+        "id": "245e1687-593f-47ab-b0cb-190bb98f4801",
         "position": 2,
         "text": "У місцях, позначених знаком «Місце відпочинку».",
         "isCorrect": false
       },
       {
-        "id": "99b2aa61-93c5-45e6-a920-153956f10c6d",
+        "id": "083c248e-aacf-4b9b-8fc7-560f3a38925f",
         "position": 3,
         "text": "У місцях, позначених знаком «Місце для стоянки».",
         "isCorrect": false
       },
       {
-        "id": "60a1b233-8208-437a-b9ee-29deea6750bd",
+        "id": "1b1da1ae-d9f5-4db5-92a0-a2c78b5ccb1d",
         "position": 4,
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       },
       {
-        "id": "ca0a1627-a3fc-4530-80f4-8aeacaa53598",
+        "id": "43799de7-2138-4c56-9940-c994f1784543",
         "position": 5,
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
@@ -128,25 +132,26 @@
     ]
   },
   {
-    "id": "de980503-5c0c-41e8-b452-2719c0c883f8",
-    "sectionId": "null",
+    "id": "8b2d8a6a-71f4-4933-b956-6288aa7b6a0c",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 5,
     "text": "Чи дозволений розворот у технологічних розривах розділювальної смуги на автомагістралі?",
+    "imageResId": "image_s27_q5",
     "answerOptionList": [
       {
-        "id": "2d9f76af-00ad-4b0a-9d23-77e02fc67f93",
+        "id": "2cb3e859-06af-4fd1-bb54-17694f19417f",
         "position": 1,
         "text": "Дозволений.",
         "isCorrect": false
       },
       {
-        "id": "bc2d62cd-c617-4976-a954-aaaf4ca3f819",
+        "id": "3d0c9c28-e5ac-47fc-a8e1-7418ca861f46",
         "position": 2,
         "text": "Дозволений, якщо дорога добре проглядається в обидві сторони.",
         "isCorrect": false
       },
       {
-        "id": "62cc3c94-10c1-48cb-8e1d-4c3cbd071126",
+        "id": "7a35015b-42b7-4299-8fb4-9110af343024",
         "position": 3,
         "text": "Заборонений.",
         "isCorrect": true
@@ -154,31 +159,31 @@
     ]
   },
   {
-    "id": "2ae9b4ae-feaf-4586-860f-d018ccd8e2f1",
-    "sectionId": "null",
+    "id": "a41747de-0996-4b76-be61-650c3a17482d",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 6,
     "text": "Де пішоходам дозволено переходити проїжджу частину автомагістралі?",
     "answerOptionList": [
       {
-        "id": "7d0cecc3-efc6-4462-8528-141438b3064b",
+        "id": "b3cbe649-a914-4b0a-88e0-3956e986d345",
         "position": 1,
         "text": "По наземних пішохідних переходах.",
         "isCorrect": false
       },
       {
-        "id": "4f31a537-a280-405d-aac4-414b764fa200",
+        "id": "eb4d6f63-26b5-4e7d-b5ba-ed0fae0e9266",
         "position": 2,
         "text": "По лініях тротуарів.",
         "isCorrect": false
       },
       {
-        "id": "6bd218c1-5691-4c62-a6ef-07cbbdcdc1c1",
+        "id": "5fa55b1f-4e69-41a7-8987-aeac5d3659e0",
         "position": 3,
         "text": "По підземних або надземних пішохідних переходах.",
         "isCorrect": true
       },
       {
-        "id": "54002b92-cedf-41db-b522-7d9d3298e804",
+        "id": "9641ad4f-a668-49f8-b6b9-7bd9ce4ca923",
         "position": 4,
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
@@ -186,37 +191,37 @@
     ]
   },
   {
-    "id": "542baabf-7c6f-4c93-8c89-66c5b4de7c9a",
-    "sectionId": "null",
+    "id": "f33f0440-fead-406e-976c-6ae65a4907d5",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 7,
     "text": "Що з перерахованого заборонено на дорозі для автомобілів?",
     "answerOptionList": [
       {
-        "id": "914a3813-df74-4e14-a14a-315c68a4c48a",
+        "id": "22dca670-dd06-429b-9f18-2c4d846f0cf7",
         "position": 1,
         "text": "Рух заднім ходом.",
         "isCorrect": false
       },
       {
-        "id": "2feda410-8822-469a-8e79-d8b0ab96c11d",
+        "id": "516c65a4-6cb4-4581-b00d-292f71c8a6ce",
         "position": 2,
         "text": "Навчальна їзда.",
         "isCorrect": false
       },
       {
-        "id": "c93f8f76-c37d-4664-91ed-764da08e1111",
+        "id": "0acf7537-8acd-42d5-9c2a-58e1affcbd19",
         "position": 3,
         "text": "Зупинка поза спеціальними місцями для стоянки, позначеними дорожніми знаками «Місце відпочинку» і «Місце для стоянки».",
         "isCorrect": false
       },
       {
-        "id": "a77d57a4-b33a-48f3-874a-5ffd67c49756",
+        "id": "7a77836c-b637-4d5b-9155-ad34333d8032",
         "position": 4,
         "text": "Рух тракторів, самохідних машин і механізмів.",
         "isCorrect": true
       },
       {
-        "id": "d7ab5dc8-9819-45bf-adf3-7812bb43c513",
+        "id": "a1a6988c-ffbf-4174-87da-2e3feab282c4",
         "position": 5,
         "text": "Все перераховане вище.",
         "isCorrect": false
@@ -224,25 +229,25 @@
     ]
   },
   {
-    "id": "5be097f4-37d0-4307-bb18-7366d2cd1e48",
-    "sectionId": "null",
+    "id": "f6ea4f5b-8d84-4603-a93a-381f6abb2db1",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 8,
     "text": "Чи повинні водії транспортних засобів, які виїжджають на автомагістраль або дорогу для автомобілів, пропускати транспортні засоби, що рухаються по цих дорогах?",
     "answerOptionList": [
       {
-        "id": "7fb5667c-9812-413f-b0b0-8b4fe19407df",
+        "id": "a330b550-5c23-498b-83e4-78d6ad991dd4",
         "position": 1,
         "text": "Не повинні.",
         "isCorrect": false
       },
       {
-        "id": "ece47174-63ca-4902-999b-4591f6b9992f",
+        "id": "8ce9b697-adaa-40aa-ae66-1b6a6885d00b",
         "position": 2,
         "text": "Повинні завжди.",
         "isCorrect": true
       },
       {
-        "id": "280ff223-9ccf-4f6b-97a8-c4aacd5159fb",
+        "id": "a1b4f84c-8b76-42a0-b888-6dd445d45c9e",
         "position": 3,
         "text": "Повинні, тільки якщо встановлений знак «Дати дорогу».",
         "isCorrect": false
@@ -250,25 +255,25 @@
     ]
   },
   {
-    "id": "cc5050cc-37a1-49b7-add9-1d3798b03310",
-    "sectionId": "null",
+    "id": "7964b37e-dc37-4f6d-8aa7-1f5a05888147",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 9,
     "text": "Чи дозволяється навчальна їзда на автомагістралі?",
     "answerOptionList": [
       {
-        "id": "5fc062eb-16c0-48a5-95bf-a5930319f29c",
+        "id": "41bb9e43-a511-4f91-a0bd-2a7ed39edeb5",
         "position": 1,
         "text": "Дозволяється.",
         "isCorrect": false
       },
       {
-        "id": "76b620e0-02ff-49df-b8e8-8f26154f67b4",
+        "id": "c2868c4d-5d8e-4da8-b209-9ad853e5345e",
         "position": 2,
         "text": "Дозволяється лише у світлу пору доби.",
         "isCorrect": false
       },
       {
-        "id": "5d153082-03c2-403d-b50c-91a3b20b677e",
+        "id": "001548b3-e73b-4b74-95bf-60a43283b598",
         "position": 3,
         "text": "Забороняється.",
         "isCorrect": true
@@ -276,25 +281,25 @@
     ]
   },
   {
-    "id": "feb17c5f-51f6-4046-8042-db4887686e3e",
-    "sectionId": "null",
+    "id": "f6428971-d8b6-4207-a098-6202dd01df2f",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 10,
     "text": "Чи дозволено транспортним засобам рух заднім ходом на автомагістралі?",
     "answerOptionList": [
       {
-        "id": "ae2fc094-3880-4294-897b-0fa5abf84cde",
+        "id": "66097522-4f04-479c-bd59-919600a533c5",
         "position": 1,
         "text": "Дозволено за умови забезпечення безпеки руху.",
         "isCorrect": false
       },
       {
-        "id": "116c30b3-3e7c-4416-93f7-f6fba747db9e",
+        "id": "1fd4d09d-d2b1-4332-94b1-2703ef9d760a",
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
       },
       {
-        "id": "efc50619-0b78-464a-9b9d-d27011690410",
+        "id": "25cfa7cf-4ff0-4097-9f20-24c2f9dfe1f0",
         "position": 3,
         "text": "Дозволено, якщо неможливо під'їхати до об'єкта іншим способом.",
         "isCorrect": false
@@ -302,25 +307,25 @@
     ]
   },
   {
-    "id": "001130b8-c4ed-4edc-8ff3-7accb61a9672",
-    "sectionId": "null",
+    "id": "944080dc-dd07-4d0d-ba84-ccd333f6e54f",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 11,
     "text": "Чи дозволяється транспортним засобам виконувати розворот на автомагістралі?",
     "answerOptionList": [
       {
-        "id": "11a1f617-3239-43aa-9f3e-8b505d5de65e",
+        "id": "9616ba5f-5046-4be9-a21b-c56b19c13e73",
         "position": 1,
         "text": "Дозволяється, тільки якщо дорога добре проглядається.",
         "isCorrect": false
       },
       {
-        "id": "7f2cda84-1662-4ab1-a3a1-50efc10e681a",
+        "id": "fa30debd-d284-4593-91c5-ac0ce3f6b0bc",
         "position": 2,
         "text": "Забороняється.",
         "isCorrect": true
       },
       {
-        "id": "5bc704cc-8b98-43d3-b1e4-c0d19fd226fa",
+        "id": "12bbe15f-e093-459b-ad7d-1300c516751c",
         "position": 3,
         "text": "Дозволяється.",
         "isCorrect": false
@@ -328,31 +333,31 @@
     ]
   },
   {
-    "id": "18fd51f2-6149-49e2-96ea-c1755c171a0a",
-    "sectionId": "null",
+    "id": "af85a411-530f-4e02-9eca-9019a2392a52",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 12,
     "text": "У якому місці автомагістралі дозволена зупинка транспортних засобів?",
     "answerOptionList": [
       {
-        "id": "e5f84d3e-fafa-4251-be9e-dab34b2ac044",
+        "id": "21131de5-ec57-4265-8c1b-f6ca0b48ffa2",
         "position": 1,
         "text": "У місцях, позначених знаками «Місце відпочинку» і «Місце для стоянки».",
         "isCorrect": true
       },
       {
-        "id": "b753f9ac-e255-404e-a891-7030d24a48fe",
+        "id": "7b8d17dc-60c4-4ce8-8785-5d9f70cba0a1",
         "position": 2,
         "text": "У місцях, позначених знаком «Пункт зупинки автобуса».",
         "isCorrect": false
       },
       {
-        "id": "f9225a76-c897-4a42-9645-808177f31306",
+        "id": "7cf08711-0f5d-46b2-b8be-c66cf4cbc221",
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       },
       {
-        "id": "b9267ff1-a33e-406e-8e26-75eb9e7415b6",
+        "id": "0952d24f-73d4-4d0b-b4d4-8ecf4e6f5733",
         "position": 4,
         "text": "У будь-якому місці, але тільки на узбіччі.",
         "isCorrect": false
@@ -360,25 +365,25 @@
     ]
   },
   {
-    "id": "fe20c782-adab-43f2-863a-3ed02b8a88f6",
-    "sectionId": "null",
+    "id": "689a16b4-4e79-4076-ba19-947637fd06a5",
+    "sectionId": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "order": 13,
     "text": "Як повинен діяти водій у разі вимушеної зупинки на автомагістралі чи дорозі для автомобілів?",
     "answerOptionList": [
       {
-        "id": "2bec6653-9038-4c48-bcb7-39df77769d3d",
+        "id": "53cf800b-cb8a-4e7e-a84e-7368d93c30d1",
         "position": 1,
         "text": "Ввімкнути аварійну сигналізацію або встановити знак аварійної зупинки або миготливий червоний ліхтар.",
         "isCorrect": false
       },
       {
-        "id": "2c55954a-b98f-4ede-b5bd-fcb0273d14b3",
+        "id": "390b2d53-fb00-4eb3-bb34-eae548ad255b",
         "position": 2,
         "text": "Вжити заходів для того, щоб прибрати транспортний засіб за межі проїжджої частини праворуч.",
         "isCorrect": false
       },
       {
-        "id": "827e896c-554b-4e2b-b14d-12bfd954b601",
+        "id": "5d4c1032-d503-4e58-9a4a-bd1ea3aee1b5",
         "position": 3,
         "text": "Виконати обидві дії.",
         "isCorrect": true
