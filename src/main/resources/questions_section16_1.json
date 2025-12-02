@@ -1,6 +1,6 @@
 [
   {
-    "id": "4d8ae765-5688-45ef-9865-fced53f28a7a",
+    "id": "998e8b87-4010-41f9-8e59-7c5a9be55a3a",
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 1,
     "text": "Як повинен у даній ситуації вчинити водій білого автомобіля, який очікує ввімкнення сигналу світлофора, що дозволяє рух, щоб їхати прямо?",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": "ec30c6c5-2aa9-4752-ad92-07ba08e06ce0",
+    "id": "9cfcb9b7-fdbb-408f-bfe4-43a17b9d633e",
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 2,
     "text": "Повертаючи праворуч, водій синього автомобіля повинен:",
@@ -830,22 +830,19 @@
     "order": 34,
     "text": "Чи дозволено водію чорного автомобіля повернути праворуч у даному випадку?",
     "imageResId": "image_s16_1_q34",
-    "answerOptionList": []
-  },
-  {
-    "id": "998e8b87-4010-41f9-8e59-7c5a9be55a3a",
-    "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
-    "order": 1,
-    "text": "Дозволено.",
-    "imageResId": "image_s16_1_q1",
-    "answerOptionList": []
-  },
-  {
-    "id": "9cfcb9b7-fdbb-408f-bfe4-43a17b9d633e",
-    "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
-    "order": 2,
-    "text": "Заборонено.».",
-    "imageResId": "image_s16_1_q2",
-    "answerOptionList": []
+    "answerOptionList": [
+      {
+        "id": "e3eebc5d-6db8-4cf8-b1a1-ab980c81db75",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": true
+      },
+      {
+        "id": "bcc4e4ea-30ca-44f6-8c61-db2fe52b7bf5",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
   }
 ]
