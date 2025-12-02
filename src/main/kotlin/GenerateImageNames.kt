@@ -1,7 +1,7 @@
 
 fun main() {
-    val firstImageName = 840
-    val questionImages = "339-357"
+    val firstImageName = 972
+    val questionImages = "152-160,162-167,169,170"
     val questions = questionImages.split(",")
         .flatMap { part ->
             if (part.contains("-")) {
