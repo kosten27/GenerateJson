@@ -4,7 +4,7 @@
     "sectionId": "e011561a-4077-4f81-9156-1a40774f8155",
     "order": 1,
     "text": "У якому напрямку Вам дозволено рух?",
-    "imageResId": "image_s8_2_q1",
+    "imageResId": "image_s8_2_q001",
     "answerOptionList": [
       {
         "id": "8fc2d6d0-26c8-445b-979c-469374995743",
@@ -43,7 +43,7 @@
     "sectionId": "e011561a-4077-4f81-9156-1a40774f8155",
     "order": 2,
     "text": "На якому малюнку зображено тимчасовий дорожній знак?",
-    "imageResId": "image_s8_2_q2",
+    "imageResId": "image_s8_2_q002",
     "answerOptionList": [
       {
         "id": "8738cb00-37a2-42a4-90c0-63a7189fcc7a",
@@ -70,7 +70,7 @@
     "sectionId": "e011561a-4077-4f81-9156-1a40774f8155",
     "order": 3,
     "text": "Яке значення має жовтий миготливий сигнал світлофора в даній ситуації?",
-    "imageResId": "image_s8_2_q3",
+    "imageResId": "image_s8_2_q003",
     "answerOptionList": [
       {
         "id": "a8cd7d2f-683c-4d47-9edb-26d6df15457e",

@@ -108,7 +108,7 @@ fun main() {
                 var imageResId: String? = null
                 if (currentSectionWithImages?.questionsWithImage?.contains(questionOrder) == true) {
                     val sectionOrder = currentSectionWithImages?.sectionOrder?.replace(".", "_")
-                    imageResId = "image_s${sectionOrder}_q${questionOrder}"
+                    imageResId = "image_s${sectionOrder}_q${questionOrder.toString().padStart(3, '0')}"
                 }
                 val questionIdKey =  "${currentSection?.order}_${questionOrder}"
                 val questionId = questionIds[questionIdKey]

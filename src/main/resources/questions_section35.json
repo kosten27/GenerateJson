@@ -976,7 +976,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 40,
     "text": "Різке гальмування під час ожеледиці може підвищити ризик потрапляння у ДТП?",
-    "imageResId": "image_s35_q40",
+    "imageResId": "image_s35_q040",
     "answerOptionList": [
       {
         "id": "d1b059e2-4755-4d9f-aeae-53126cc36e0b",
@@ -997,7 +997,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 41,
     "text": "Чи потрібно зчистити сніг із даху авто перед початком руху взимку?",
-    "imageResId": "image_s35_q41",
+    "imageResId": "image_s35_q041",
     "answerOptionList": [
       {
         "id": "cbce4893-3bb0-4919-9296-d62042c6044f",
@@ -1096,7 +1096,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 45,
     "text": "Чи безпечно рухатись водієві автомобіля в даному випадку?",
-    "imageResId": "image_s35_q45",
+    "imageResId": "image_s35_q045",
     "answerOptionList": [
       {
         "id": "1bf0eb94-f404-43ad-a8b6-afb8fe44e079",
@@ -1117,7 +1117,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 46,
     "text": "Водіння вночі є безпечнішим, ніж водіння в денний час, оскільки на дорозі відносно невелика кількість автомобілів?",
-    "imageResId": "image_s35_q46",
+    "imageResId": "image_s35_q046",
     "answerOptionList": [
       {
         "id": "0d6155e2-bf1f-4711-ab7c-eb0e6c0af68c",
@@ -1138,7 +1138,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 47,
     "text": "Дистанція до зустрічного автомобіля в тумані завжди здається більшою, а швидкість меншою, ніж насправді:",
-    "imageResId": "image_s35_q47",
+    "imageResId": "image_s35_q047",
     "answerOptionList": [
       {
         "id": "84c7557a-7f22-47b1-a719-a16054342801",
@@ -1159,7 +1159,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 48,
     "text": "Перед тим, як вирушати у поїздку вночі, особливу увагу слід приділити:",
-    "imageResId": "image_s35_q48",
+    "imageResId": "image_s35_q048",
     "answerOptionList": [
       {
         "id": "451bd5c9-3e1c-4d6c-aa66-13d6c24312f0",
@@ -1186,7 +1186,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 49,
     "text": "Для того щоб розпочати рух взимку достатньо очистити лобове скло автомобіля:",
-    "imageResId": "image_s35_q49",
+    "imageResId": "image_s35_q049",
     "answerOptionList": [
       {
         "id": "ea5af6cb-a16d-42bd-afe9-c7164d89fbd7",
@@ -1227,7 +1227,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 51,
     "text": "Ви можете подавати звукові сигнали в населеному пункті будь-коли, якщо вважаєте це необхідним:",
-    "imageResId": "image_s35_q51",
+    "imageResId": "image_s35_q051",
     "answerOptionList": [
       {
         "id": "8cbfc869-021c-43f9-a2c5-7cf68f6bb4ea",
@@ -1248,7 +1248,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 52,
     "text": "Ви повинні закінчити подавання сигналу світловим покажчиком повороту безпосередньо під час виконання маневру повороту?",
-    "imageResId": "image_s35_q52",
+    "imageResId": "image_s35_q052",
     "answerOptionList": [
       {
         "id": "282577b6-1d3f-49fb-99f4-9784590deef2",
@@ -1269,7 +1269,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 53,
     "text": "Чому небезпечно залишати дах автомобіля не очищеним від снігу взимку?",
-    "imageResId": "image_s35_q53",
+    "imageResId": "image_s35_q053",
     "answerOptionList": [
       {
         "id": "d6df1312-d4a0-40f7-881e-79ecb1b6a19f",
@@ -1382,7 +1382,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 58,
     "text": "Водії із досвідом водіння понад 10 років можуть під час руху користуватись телефоном, тримаючи його в руці:",
-    "imageResId": "image_s35_q58",
+    "imageResId": "image_s35_q058",
     "answerOptionList": [
       {
         "id": "b8db04a7-97fd-4cde-a65d-1032f61df4fd",
@@ -1403,7 +1403,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 59,
     "text": "Як Ви повинні вчинити, якщо зіштовхнулися з агресивною манерою водіння водіїв, що рухаються попереду?",
-    "imageResId": "image_s35_q59",
+    "imageResId": "image_s35_q059",
     "answerOptionList": [
       {
         "id": "e7631986-3b15-47b4-974b-1ce4c14ba870",
@@ -1436,7 +1436,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 60,
     "text": "Цей автомобіль здійснює рух заднім ходом?",
-    "imageResId": "image_s35_q60",
+    "imageResId": "image_s35_q060",
     "answerOptionList": [
       {
         "id": "7b1f2ac6-7746-4997-aa14-8f7fecb92254",
@@ -1457,7 +1457,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 61,
     "text": "На дорозі раптово з'явилася дика тварина, Ваші дії:",
-    "imageResId": "image_s35_q61",
+    "imageResId": "image_s35_q061",
     "answerOptionList": [
       {
         "id": "beeaa07e-16a8-4c84-b0b6-bfa38dd7fa02",
@@ -1478,7 +1478,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 62,
     "text": "Якщо через сильну зливу в межах населеного пункту, Ви не можете продовжувати рух, необхідно:",
-    "imageResId": "image_s35_q62",
+    "imageResId": "image_s35_q062",
     "answerOptionList": [
       {
         "id": "3eef248e-dcad-48c2-b65e-46d3b4d7794f",
@@ -1499,7 +1499,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 63,
     "text": "Чи можна різко збільшувати швидкість під час руху в дощову погоду?",
-    "imageResId": "image_s35_q63",
+    "imageResId": "image_s35_q063",
     "answerOptionList": [
       {
         "id": "a3c146b8-d940-43b3-9cfe-9ec64fb42776",
@@ -1520,7 +1520,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 64,
     "text": "Чи потрібно зменшити швидкість до та після проїзду цього дорожнього знаку?",
-    "imageResId": "image_s35_q64",
+    "imageResId": "image_s35_q064",
     "answerOptionList": [
       {
         "id": "730ae2ef-7f07-409d-b615-bcf35b3de573",
@@ -1547,7 +1547,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 65,
     "text": "Ви наближаєтесь до перехрестя, Ваші дії:",
-    "imageResId": "image_s35_q65",
+    "imageResId": "image_s35_q065",
     "answerOptionList": [
       {
         "id": "a1cc28a0-341d-4033-9fd7-578cfde374a2",
@@ -1574,7 +1574,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 66,
     "text": "Ви вирушили в доволі далеку поїздку. Через деякий час ви починаєте відчувати втому. Що Вам слід зробити?",
-    "imageResId": "image_s35_q66",
+    "imageResId": "image_s35_q066",
     "answerOptionList": [
       {
         "id": "b0fa910d-4ada-40f8-9899-0097b1cb0ce4",
@@ -1595,7 +1595,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 67,
     "text": "Якщо Ви відчуваєте сильну втому за кермом, Ви:",
-    "imageResId": "image_s35_q67",
+    "imageResId": "image_s35_q067",
     "answerOptionList": [
       {
         "id": "d97b77af-ea9d-46e7-8601-e51a48551df6",
@@ -1668,7 +1668,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 70,
     "text": "Під час тривалих поїздок найкращий спосіб запобігти сонливості це:",
-    "imageResId": "image_s35_q70",
+    "imageResId": "image_s35_q070",
     "answerOptionList": [
       {
         "id": "d6e75d06-265d-4c1c-be37-4ab0c92392dc",
@@ -1695,7 +1695,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 71,
     "text": "Ремені безпеки є найефективнішим засобом попередження травмування для водія та пасажирів:",
-    "imageResId": "image_s35_q71",
+    "imageResId": "image_s35_q071",
     "answerOptionList": [
       {
         "id": "032940c7-3024-4c3d-b3e2-cf4411d8f12a",
@@ -1716,7 +1716,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 72,
     "text": "У якому випадку подання звукового сигналу під час руху в населеному пункті є доречним:",
-    "imageResId": "image_s35_q72",
+    "imageResId": "image_s35_q072",
     "answerOptionList": [
       {
         "id": "74c8c742-cf67-41c4-893a-3b62d4eed679",
@@ -1769,7 +1769,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 74,
     "text": "Правильне налаштування підголівників може значно зменшити ризик травмування:",
-    "imageResId": "image_s35_q74",
+    "imageResId": "image_s35_q074",
     "answerOptionList": [
       {
         "id": "c1da71f5-cc78-417f-ae8d-542830907ccf",
@@ -1790,7 +1790,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 75,
     "text": "Що означають білі або прозорі вогні в задній частині автомобіля:",
-    "imageResId": "image_s35_q75",
+    "imageResId": "image_s35_q075",
     "answerOptionList": [
       {
         "id": "975f6f09-4f3f-483a-8bdb-b926b0c871c5",
@@ -1817,7 +1817,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 76,
     "text": "Недостатній тиск в шинах збільшує гальмівний шлях автомобіля:",
-    "imageResId": "image_s35_q76",
+    "imageResId": "image_s35_q076",
     "answerOptionList": [
       {
         "id": "dbe76317-64d2-4bce-b714-de4e049d6782",
@@ -1838,7 +1838,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 77,
     "text": "Недостатній тиск в шинах сприяє економії пального:",
-    "imageResId": "image_s35_q77",
+    "imageResId": "image_s35_q077",
     "answerOptionList": [
       {
         "id": "5e7ddbff-4ac1-49cd-815d-7ea687a1cd3e",
@@ -1891,7 +1891,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 79,
     "text": "Коли інший автомобіль розпочав маневр перестроювання у вашу смугу зі смуги праворуч, Ваші дії:",
-    "imageResId": "image_s35_q79",
+    "imageResId": "image_s35_q079",
     "answerOptionList": [
       {
         "id": "ff7a43bb-e6d7-474c-80a9-4d76149507f1",
@@ -1918,7 +1918,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 80,
     "text": "Якщо водій білого автомобіля різко розпочав маневр перестроювання у вашу смугу зі смуги ліворуч, Ваші дії:",
-    "imageResId": "image_s35_q80",
+    "imageResId": "image_s35_q080",
     "answerOptionList": [
       {
         "id": "ad7390a3-f142-4438-a583-de10e4dd70f5",
@@ -2023,7 +2023,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 84,
     "text": "Пішоходи повинні утриматись від переходу проїзної частини, якщо наближається транспортний засіб з проблисковими маячками:",
-    "imageResId": "image_s35_q84",
+    "imageResId": "image_s35_q084",
     "answerOptionList": [
       {
         "id": "6b958f71-cfca-4b42-b99f-1fb5773ab93e",
@@ -2044,7 +2044,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 85,
     "text": "Що робити, якщо під час руху вночі зустрічний автомобіль рухається із увімкненим дальнім світлом фар та засліплює Вас?",
-    "imageResId": "image_s35_q85",
+    "imageResId": "image_s35_q085",
     "answerOptionList": [
       {
         "id": "d0367004-ca4b-4896-b32d-8f02d324f490",
@@ -2071,7 +2071,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 86,
     "text": "Якщо на вашій смузі є зустрічний транспортний засіб чи дозволено подати звуковий сигнал в населеному пункті?",
-    "imageResId": "image_s35_q86",
+    "imageResId": "image_s35_q086",
     "answerOptionList": [
       {
         "id": "67ce41fb-67a5-4d93-9e19-bf719463676d",
@@ -2092,7 +2092,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 87,
     "text": "Використання кондиціонера під час руху впливає на роботу автомобіля, а саме на:",
-    "imageResId": "image_s35_q87",
+    "imageResId": "image_s35_q087",
     "answerOptionList": [
       {
         "id": "119c350a-945e-4d8e-a430-a4728630e463",
@@ -2119,7 +2119,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 88,
     "text": "Чи впливає використання кондиціонера під час руху авто на витрату палива?",
-    "imageResId": "image_s35_q88",
+    "imageResId": "image_s35_q088",
     "answerOptionList": [
       {
         "id": "d665479a-3633-480e-aca1-f645daa0bb87",
@@ -2140,7 +2140,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 89,
     "text": "З метою належного прогнозування дорожньої обстановки і безпечного подальшого руху, Ви повинні більше розподілити увагу погляд на:",
-    "imageResId": "image_s35_q89",
+    "imageResId": "image_s35_q089",
     "answerOptionList": [
       {
         "id": "cc974753-1182-4aa0-a22b-53055c52ce22",
@@ -2161,7 +2161,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 90,
     "text": "Чи дозволено Вам здійснити обгін у даній дорожній ситуації?",
-    "imageResId": "image_s35_q90",
+    "imageResId": "image_s35_q090",
     "answerOptionList": [
       {
         "id": "dbed656e-c3f8-4680-bd47-76fb181b7d02",
@@ -2182,7 +2182,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 91,
     "text": "Садити дитину в авто потрібно з боку:",
-    "imageResId": "image_s35_q91",
+    "imageResId": "image_s35_q091",
     "answerOptionList": [
       {
         "id": "4175e770-d3c0-476a-8cc5-54568d5225eb",
@@ -2209,7 +2209,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 92,
     "text": "Чи потрібно у даному випадку зменшити швидкість?",
-    "imageResId": "image_s35_q92",
+    "imageResId": "image_s35_q092",
     "answerOptionList": [
       {
         "id": "7eaa7f0c-2f54-46d4-bb18-e8c7040434eb",
@@ -2236,7 +2236,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 93,
     "text": "Чи правильно в даному випадку водій відрегулював положення сидіння та рульового колеса перед початком руху?",
-    "imageResId": "image_s35_q93",
+    "imageResId": "image_s35_q093",
     "answerOptionList": [
       {
         "id": "3fefd6e8-6808-497b-b8e9-bdf1150b00a7",
@@ -2257,7 +2257,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 94,
     "text": "Чи комфортна та правильна посадка водія?",
-    "imageResId": "image_s35_q94",
+    "imageResId": "image_s35_q094",
     "answerOptionList": [
       {
         "id": "12043c17-2715-4bcf-bece-bc093e267ed8",
@@ -2278,7 +2278,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 95,
     "text": "Чи необхідно збільшити потужність склоочисника у разі випередження вантажного автомобіля під час невеликого дощу?",
-    "imageResId": "image_s35_q95",
+    "imageResId": "image_s35_q095",
     "answerOptionList": [
       {
         "id": "d9f7ec8e-afc0-4ebe-b566-f5d18df28bb2",
@@ -2305,7 +2305,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 96,
     "text": "Зоною потенційної небезпеки для Вас, як водія даного транспортного засобу, є:",
-    "imageResId": "image_s35_q96",
+    "imageResId": "image_s35_q096",
     "answerOptionList": [
       {
         "id": "d8bb54a1-6af0-48d9-8234-e9b2edb134b9",
@@ -2332,7 +2332,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 97,
     "text": "Ремінь безпеки є обов’язковим для вагітних?",
-    "imageResId": "image_s35_q97",
+    "imageResId": "image_s35_q097",
     "answerOptionList": [
       {
         "id": "a35f818d-956a-4793-b7f4-939bf0443b7d",
@@ -2353,7 +2353,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 98,
     "text": "Водій транспортного засобу, наближаючись до пішоходів, які перетинають автомобільну дорогу за межами наземного пішохідного переходу, повинен:",
-    "imageResId": "image_s35_q98",
+    "imageResId": "image_s35_q098",
     "answerOptionList": [
       {
         "id": "8312da80-1142-4451-8aa8-7d119843ffbb",
@@ -2386,7 +2386,7 @@
     "sectionId": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "order": 99,
     "text": "У мокру погоду або в дощ гальмовий шлях транспортного засобу збільшується:",
-    "imageResId": "image_s35_q99",
+    "imageResId": "image_s35_q099",
     "answerOptionList": [
       {
         "id": "96f72683-12a7-4ba0-8e31-32cffbe6b55d",

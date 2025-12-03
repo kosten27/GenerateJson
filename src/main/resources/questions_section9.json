@@ -4,7 +4,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 1,
     "text": "Який попереджувальний сигнал вмикається під час руху на всіх транспортних засобах колони у світлий час доби?",
-    "imageResId": "image_s9_q1",
+    "imageResId": "image_s9_q001",
     "answerOptionList": [
       {
         "id": "64dedeef-a782-418b-aa93-cf6af109296c",
@@ -43,7 +43,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 2,
     "text": "Про що свідчить (може попереджати) знак аварійної зупинки, встановлений ззаду на автомобілі, що рухаєтеся?",
-    "imageResId": "image_s9_q2",
+    "imageResId": "image_s9_q002",
     "answerOptionList": [
       {
         "id": "5e1120c1-c6e5-42e5-aedc-12123b87d39f",
@@ -70,7 +70,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 3,
     "text": "Як позначити транспортний засіб, що буксирується, якщо у нього несправна або відсутня аварійна світлова сигналізація?",
-    "imageResId": "image_s9_q3",
+    "imageResId": "image_s9_q003",
     "answerOptionList": [
       {
         "id": "41e07e21-5e1e-41be-96e5-64ce432bc0ee",
@@ -109,7 +109,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 4,
     "text": "Який попереджувальний сигнал вмикається на транспортних засобах колони під час зупинки на дорозі?",
-    "imageResId": "image_s9_q4",
+    "imageResId": "image_s9_q004",
     "answerOptionList": [
       {
         "id": "714ef29e-3a1f-4173-b60a-92c56373c242",
@@ -136,7 +136,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 5,
     "text": "На якій відстані від транспортного засобу необхідно встановити знак аварійної зупинки або миготливий червоний ліхтар у випадках, передбачених Правилами дорожнього руху, на дорогах у населених пунктах?",
-    "imageResId": "image_s9_q5",
+    "imageResId": "image_s9_q005",
     "answerOptionList": [
       {
         "id": "5c143bb1-5694-456c-8a8c-d3520dc0c70a",
@@ -169,7 +169,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 6,
     "text": "У яких випадках для позначення транспортного засобу потрібно увімкнути аварійну сигналізацію і встановити знак аварійної зупинки або миготливий червоний ліхтар на відстані від транспортного засобу?",
-    "imageResId": "image_s9_q6",
+    "imageResId": "image_s9_q006",
     "answerOptionList": [
       {
         "id": "8353220f-ce9e-4a80-bada-37c50f2406fa",
@@ -208,7 +208,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 7,
     "text": "Як повинен водій позначити місце дорожньо-транспортної пригоди?",
-    "imageResId": "image_s9_q7",
+    "imageResId": "image_s9_q007",
     "answerOptionList": [
       {
         "id": "b595bdcb-4f45-4af3-96b9-ca48e8404a16",
@@ -235,7 +235,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 8,
     "text": "На якому малюнку водій правильно подав сигнал про початок руху?",
-    "imageResId": "image_s9_q8",
+    "imageResId": "image_s9_q008",
     "answerOptionList": [
       {
         "id": "2218d4ec-ed4c-4941-88d5-223be5cb5e0c",
@@ -262,7 +262,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 9,
     "text": "Ви водій, рухаючись на сірому автомобілі вирішили повернути праворуч на другому перехресті. Ви:",
-    "imageResId": "image_s9_q9",
+    "imageResId": "image_s9_q009",
     "answerOptionList": [
       {
         "id": "ba5a5884-8f4d-4786-b922-042bb4843146",
@@ -289,7 +289,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 10,
     "text": "Які попереджувальні сигнали вмикаються на транспортному засобі, що буксирується?",
-    "imageResId": "image_s9_q10",
+    "imageResId": "image_s9_q010",
     "answerOptionList": [
       {
         "id": "164919bc-773c-46bb-8abe-90335780ede3",
@@ -316,7 +316,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 11,
     "text": "На якому малюнку водій правильно подав сигнал перед поворотом праворуч у разі несправності світлових покажчиків повороту?",
-    "imageResId": "image_s9_q11",
+    "imageResId": "image_s9_q011",
     "answerOptionList": [
       {
         "id": "b425c1cd-17b3-4610-9815-f87ac5202a67",
@@ -1687,7 +1687,7 @@
     "sectionId": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "order": 60,
     "text": "Для того, щоб припаркувати Ваш транспортний засіб праворуч, Ви повинні увімкнути:",
-    "imageResId": "image_s9_q60",
+    "imageResId": "image_s9_q060",
     "answerOptionList": [
       {
         "id": "8a08d230-fff3-4c57-b17e-1ab9556e68a8",

@@ -4,7 +4,7 @@
     "sectionId": "d4b3f9f3-43da-40cf-b3f9-f343daf0cf13",
     "order": 1,
     "text": "Ви, як водій автомобіля, маєте право використовувати узбіччя:",
-    "imageResId": "image_s44_q1",
+    "imageResId": "image_s44_q001",
     "answerOptionList": [
       {
         "id": "ddee3483-8967-4ffa-a858-68dfe823227d",
@@ -31,7 +31,7 @@
     "sectionId": "d4b3f9f3-43da-40cf-b3f9-f343daf0cf13",
     "order": 2,
     "text": "З якого віку надається право на керування транспортними засобами категорії В?",
-    "imageResId": "image_s44_q2",
+    "imageResId": "image_s44_q002",
     "answerOptionList": [
       {
         "id": "28a9d649-8425-445b-8bd0-14877fc3b7b1",
@@ -64,7 +64,7 @@
     "sectionId": "d4b3f9f3-43da-40cf-b3f9-f343daf0cf13",
     "order": 3,
     "text": "Яку максимальну швидкість руху встановлено в населених пунктах, позначених даним дорожнім знаком?",
-    "imageResId": "image_s44_q3",
+    "imageResId": "image_s44_q003",
     "answerOptionList": [
       {
         "id": "2986acf0-e7d5-4a72-a116-f365e0c52c89",

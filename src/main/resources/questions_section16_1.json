@@ -4,7 +4,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 1,
     "text": "Як повинен у даній ситуації вчинити водій білого автомобіля, який очікує ввімкнення сигналу світлофора, що дозволяє рух, щоб їхати прямо?",
-    "imageResId": "image_s16_1_q1",
+    "imageResId": "image_s16_1_q001",
     "answerOptionList": [
       {
         "id": "e8b9353e-0119-41d9-aa46-0b54462e29bf",
@@ -31,7 +31,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 2,
     "text": "Повертаючи праворуч, водій синього автомобіля повинен:",
-    "imageResId": "image_s16_1_q2",
+    "imageResId": "image_s16_1_q002",
     "answerOptionList": [
       {
         "id": "a7c315e3-3433-48cd-8fc6-1625d2387d1f",
@@ -64,7 +64,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 3,
     "text": "Який транспортний засіб у даній ситуації має перевагу в русі?",
-    "imageResId": "image_s16_1_q3",
+    "imageResId": "image_s16_1_q003",
     "answerOptionList": [
       {
         "id": "da94ed35-218e-44e3-9195-5c28bb5f9626",
@@ -85,7 +85,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 4,
     "text": "Як повинен вчинити водій білого автомобіля, якщо він виїхав на перехрещення проїзних частин на сигнал світлофора, що дозволяє рух?",
-    "imageResId": "image_s16_1_q4",
+    "imageResId": "image_s16_1_q004",
     "answerOptionList": [
       {
         "id": "4c06fdee-d04f-47f3-a79c-c97fdace8b8f",
@@ -106,7 +106,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 5,
     "text": "Як повинен вчинити водій білого автомобіля, що виїхав на перехрещення проїзних частин на зелений сигнал світлофора?",
-    "imageResId": "image_s16_1_q5",
+    "imageResId": "image_s16_1_q005",
     "answerOptionList": [
       {
         "id": "8ea3ca7a-2714-4915-9457-d48b64542fe8",
@@ -127,7 +127,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 6,
     "text": "Як повинен діяти водій зеленого автомобіля, що повертає ліворуч, у даній ситуації?",
-    "imageResId": "image_s16_1_q6",
+    "imageResId": "image_s16_1_q006",
     "answerOptionList": [
       {
         "id": "c30d56a8-5c1a-454e-b948-f204b5e3caea",
@@ -148,7 +148,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 7,
     "text": "Хто в даній ситуації повинен дати дорогу?",
-    "imageResId": "image_s16_1_q7",
+    "imageResId": "image_s16_1_q007",
     "answerOptionList": [
       {
         "id": "a91ff66e-08a7-4c86-af87-de7a61c29428",
@@ -169,7 +169,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 8,
     "text": "Який транспортний засіб першим проїде дане перехрестя?",
-    "imageResId": "image_s16_1_q8",
+    "imageResId": "image_s16_1_q008",
     "answerOptionList": [
       {
         "id": "9a222df7-bac6-4111-a6c6-a821ec5f6f2e",
@@ -190,7 +190,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 9,
     "text": "Як велосипедист проїде перехрестя в даному випадку?",
-    "imageResId": "image_s16_1_q9",
+    "imageResId": "image_s16_1_q009",
     "answerOptionList": [
       {
         "id": "e73e5b38-bda7-4797-837c-3c250a469791",
@@ -211,7 +211,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 10,
     "text": "Як повинен вчинити водій червоного автомобіля, що збирається повертати праворуч, у даній ситуації?",
-    "imageResId": "image_s16_1_q10",
+    "imageResId": "image_s16_1_q010",
     "answerOptionList": [
       {
         "id": "96ee51cf-5718-4611-93cd-9c8d28efcae3",
@@ -238,7 +238,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 11,
     "text": "Чи дозволено Вам повернути праворуч у даній ситуації при ввімкненому червоному сигналі світлофора?",
-    "imageResId": "image_s16_1_q11",
+    "imageResId": "image_s16_1_q011",
     "answerOptionList": [
       {
         "id": "afc51938-7f4e-4186-a149-fcdd05d89f7f",
@@ -265,7 +265,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 12,
     "text": "На якому малюнку водій чорного автомобіля, який зупинився на заборонний сигнал світлофора, щоб потім їхати в прямому напрямку, обов'язково повинен продовжити рух праворуч (у напрямку стрілки), коли транспортний засіб, що наближається ззаду, подав сигнал повороту праворуч?",
-    "imageResId": "image_s16_1_q12",
+    "imageResId": "image_s16_1_q012",
     "answerOptionList": [
       {
         "id": "18294d12-6af4-432f-af45-97a61092c8c5",
@@ -292,7 +292,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 13,
     "text": "Що повинен зробити водій чорного автомобіля, який має намір їхати прямо, якщо в дзеркалі заднього виду він побачив транспортний засіб з увімкненим правим поворотом?",
-    "imageResId": "image_s16_1_q13",
+    "imageResId": "image_s16_1_q013",
     "answerOptionList": [
       {
         "id": "0a75c16a-09ca-4f3a-a7be-c9682ddda7f3",
@@ -319,7 +319,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 14,
     "text": "Чи повинен водій синього автомобіля дати дорогу велосипедистові в даній ситуації?",
-    "imageResId": "image_s16_1_q14",
+    "imageResId": "image_s16_1_q014",
     "answerOptionList": [
       {
         "id": "db46f0a2-898d-44bb-8b1e-3ef62f6f0526",
@@ -340,7 +340,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 15,
     "text": "Яка черговість проїзду автомобілів на даному перехресті?",
-    "imageResId": "image_s16_1_q15",
+    "imageResId": "image_s16_1_q015",
     "answerOptionList": [
       {
         "id": "0c495703-1ce8-4983-82a3-9acf6eece1f0",
@@ -361,7 +361,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 16,
     "text": "Повертаючи ліворуч на перехресті, водій білого автомобіля повинен:",
-    "imageResId": "image_s16_1_q16",
+    "imageResId": "image_s16_1_q016",
     "answerOptionList": [
       {
         "id": "ef969ebf-9f02-4485-b5ae-7b7f7632962c",
@@ -388,7 +388,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 17,
     "text": "Як водій білого автомобіля, що наближається до перехрестя, повинен проїхати дане перехрестя?",
-    "imageResId": "image_s16_1_q17",
+    "imageResId": "image_s16_1_q017",
     "answerOptionList": [
       {
         "id": "c8b856af-4599-4db2-ba26-2995352f0b79",
@@ -415,7 +415,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 18,
     "text": "Чи повинен водій автомобіля дати дорогу велосипедисту в даній ситуації?",
-    "imageResId": "image_s16_1_q18",
+    "imageResId": "image_s16_1_q018",
     "answerOptionList": [
       {
         "id": "be162ebd-5197-44e7-ad5c-1cbe0ad93ad2",
@@ -442,7 +442,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 19,
     "text": "Чи повинен водій автомобіля, повертаючи праворуч на перехресті, дати дорогу велосипедистові, який рухається прямо в попутному напрямку?",
-    "imageResId": "image_s16_1_q19",
+    "imageResId": "image_s16_1_q019",
     "answerOptionList": [
       {
         "id": "b0410bde-3296-4873-ac23-8beb5fef7e74",
@@ -469,7 +469,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 20,
     "text": "Чи повинен водій синього автомобіля дати дорогу пішоходам, повертаючи праворуч або ліворуч на даному перехресті?",
-    "imageResId": "image_s16_1_q20",
+    "imageResId": "image_s16_1_q020",
     "answerOptionList": [
       {
         "id": "87a2ed24-f341-46ac-aff4-7f1f9125c21c",
@@ -502,7 +502,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 21,
     "text": "Чи дозволено водієві червоного автомобіля виїхати на перехрестя на зелений миготливий сигнал світлофора, якщо за перехрестям утворився затор і йому буде потрібно зупинитися на перехресті?",
-    "imageResId": "image_s16_1_q21",
+    "imageResId": "image_s16_1_q021",
     "answerOptionList": [
       {
         "id": "f9b35430-58ac-405d-b85d-92ee33e06bdc",
@@ -523,7 +523,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 22,
     "text": "Як зобов'язаний вчинити водій чорного автомобіля, для якого ввімкнувся зелений сигнал світлофора?",
-    "imageResId": "image_s16_1_q22",
+    "imageResId": "image_s16_1_q022",
     "answerOptionList": [
       {
         "id": "270a0fce-130f-4a69-9ec9-9ea18ce87e9e",
@@ -550,7 +550,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 23,
     "text": "Як повинен вчинити водій автомобіля в даній ситуації, коли йому ввімкнувся сигнал світлофора, що дозволяє рух?",
-    "imageResId": "image_s16_1_q23",
+    "imageResId": "image_s16_1_q023",
     "answerOptionList": [
       {
         "id": "8b7bba0b-32a2-4fb9-8ee2-23641a6c9435",
@@ -577,7 +577,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 24,
     "text": "Як повинен вчинити водій синього автомобіля у разі ввімкнення зеленого сигналу світлофора?",
-    "imageResId": "image_s16_1_q24",
+    "imageResId": "image_s16_1_q024",
     "answerOptionList": [
       {
         "id": "a167afa3-706f-48b9-bf15-9684dc2f6bae",
@@ -598,7 +598,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 25,
     "text": "Хто проїде дане перехрестя першим?",
-    "imageResId": "image_s16_1_q25",
+    "imageResId": "image_s16_1_q025",
     "answerOptionList": [
       {
         "id": "6a9d23c1-a84f-4522-ba4e-3f9d5f76e469",
@@ -619,7 +619,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 26,
     "text": "Як Ви повинні вчинити, повертаючи ліворуч у даній ситуації?",
-    "imageResId": "image_s16_1_q26",
+    "imageResId": "image_s16_1_q026",
     "answerOptionList": [
       {
         "id": "64701623-8d4e-4178-8e62-111666b2f9c7",
@@ -640,7 +640,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 27,
     "text": "Як Ви повинні вчинити в даній ситуації, рухаючись прямо?",
-    "imageResId": "image_s16_1_q27",
+    "imageResId": "image_s16_1_q027",
     "answerOptionList": [
       {
         "id": "74cfc631-0302-4ced-b025-ab937db5b96c",
@@ -829,7 +829,7 @@
     "sectionId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 34,
     "text": "Чи дозволено водію чорного автомобіля повернути праворуч у даному випадку?",
-    "imageResId": "image_s16_1_q34",
+    "imageResId": "image_s16_1_q034",
     "answerOptionList": [
       {
         "id": "e3eebc5d-6db8-4cf8-b1a1-ab980c81db75",

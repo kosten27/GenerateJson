@@ -4,7 +4,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 1,
     "text": "Чи дозволено в цій ситуації рух через переїзд у два ряди?",
-    "imageResId": "image_s20_q1",
+    "imageResId": "image_s20_q001",
     "answerOptionList": [
       {
         "id": "e9f0d19e-7633-417a-9dfd-1d4d7895136f",
@@ -25,7 +25,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 2,
     "text": "Як ви повинні вчинити в цій ситуації, коли на залізничному переїзді утворився затор, який змусить вас зупинитися?",
-    "imageResId": "image_s20_q2",
+    "imageResId": "image_s20_q002",
     "answerOptionList": [
       {
         "id": "d4196bdc-3b9f-4e1e-9456-82d2698095b0",
@@ -52,7 +52,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 3,
     "text": "Чи дозволено в цій ситуації рух через переїзд у два ряди?",
-    "imageResId": "image_s20_q3",
+    "imageResId": "image_s20_q003",
     "answerOptionList": [
       {
         "id": "df3199e9-5739-4c34-9f19-73e9010a8b1e",
@@ -79,7 +79,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 4,
     "text": "Чи дозволяється самовільно відкривати шлагбаум на залізничному переїзді?",
-    "imageResId": "image_s20_q4",
+    "imageResId": "image_s20_q004",
     "answerOptionList": [
       {
         "id": "f7454498-a2da-43bf-a757-0c2f39379052",
@@ -106,7 +106,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 5,
     "text": "Чим повинен керуватися водій транспортного засобу під час проїзду цього залізничного переїзду?",
-    "imageResId": "image_s20_q5",
+    "imageResId": "image_s20_q005",
     "answerOptionList": [
       {
         "id": "55b062a4-6c58-4415-8e1f-5278687af671",
@@ -145,7 +145,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 6,
     "text": "Чим повинен керуватися водій транспортного засобу під час проїзду цього залізничного переїзду?",
-    "imageResId": "image_s20_q6",
+    "imageResId": "image_s20_q006",
     "answerOptionList": [
       {
         "id": "fdca7cd3-70d0-4da6-8768-f277b0d781cf",
@@ -184,7 +184,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 7,
     "text": "Чи дозволено рух через залізничний переїзд у ситуації, зображеній на малюнку?",
-    "imageResId": "image_s20_q7",
+    "imageResId": "image_s20_q007",
     "answerOptionList": [
       {
         "id": "80a4c6ff-ec52-497b-b8db-1c611f257024",
@@ -205,7 +205,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 8,
     "text": "Чи дозволено рух через залізничний переїзд у ситуації, зображеній на малюнку?",
-    "imageResId": "image_s20_q8",
+    "imageResId": "image_s20_q008",
     "answerOptionList": [
       {
         "id": "6b669b15-8600-40d9-aaa4-a16e4a40f5d2",
@@ -226,7 +226,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 9,
     "text": "Як ви повинні вчинити в цій ситуації, коли на залізничному переїзді увімкнулися світлова та звукова сигналізації, а шлагбауми ще не почали опускатися?",
-    "imageResId": "image_s20_q9",
+    "imageResId": "image_s20_q009",
     "answerOptionList": [
       {
         "id": "6fb4b0aa-d78e-486f-8283-8c4efca2efc8",
@@ -647,7 +647,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 24,
     "text": "У якому випадку Ви можете проїхати під шлагбаумом, який опускається на залізничному переїзді?",
-    "imageResId": "image_s20_q24",
+    "imageResId": "image_s20_q024",
     "answerOptionList": [
       {
         "id": "2fad82e1-6372-4e88-99a1-e181f13074b7",
@@ -804,7 +804,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 30,
     "text": "Чи дозволено водієві в даному випадку розпочати рух заднім ходом?",
-    "imageResId": "image_s20_q30",
+    "imageResId": "image_s20_q030",
     "answerOptionList": [
       {
         "id": "aa400b6e-01e8-41d6-ac9e-c9df593317c2",
@@ -825,7 +825,7 @@
     "sectionId": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "order": 31,
     "text": "Чи дозволено водієві в даному випадку виконати розворот, якщо попереду і позаду нього немає транспортних засобів?",
-    "imageResId": "image_s20_q31",
+    "imageResId": "image_s20_q031",
     "answerOptionList": [
       {
         "id": "478f5b26-6374-404f-93e5-974a93215c19",

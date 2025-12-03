@@ -4,7 +4,7 @@
     "sectionId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 1,
     "text": "З якого боку від трамвая пішоходам дозволяється виходити на проїзну частину під час посадки на трамвай, якщо трамвайна зупинка не обладнана посадковим майданчиком?",
-    "imageResId": "image_s4_q1",
+    "imageResId": "image_s4_q001",
     "answerOptionList": [
       {
         "id": "45d3d4e7-ac17-45fb-94fd-76307cb04660",
@@ -31,7 +31,7 @@
     "sectionId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 2,
     "text": "За наявності підземних і надземних пішохідних переходів пішоходи повинні переходити проїзну частину:",
-    "imageResId": "image_s4_q2",
+    "imageResId": "image_s4_q002",
     "answerOptionList": [
       {
         "id": "bf7b826a-106d-4fec-bd37-95a57fc4a06e",
@@ -58,7 +58,7 @@
     "sectionId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 3,
     "text": "Рухаючись тротуарами і пішохідними доріжками, пішоходи повинні дотримуватись:",
-    "imageResId": "image_s4_q3",
+    "imageResId": "image_s4_q003",
     "answerOptionList": [
       {
         "id": "47570719-97fc-4730-9833-d123e8a851ce",
@@ -615,7 +615,7 @@
     "sectionId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 23,
     "text": "Чи дозволено пішоходам переходити проїзну частину на цій ділянці дороги?",
-    "imageResId": "image_s4_q23",
+    "imageResId": "image_s4_q023",
     "answerOptionList": [
       {
         "id": "57bd7986-a69a-494b-8f12-d92ac6765518",
@@ -636,7 +636,7 @@
     "sectionId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 24,
     "text": "Чи правильно в даному випадку рухається пішохід по краю проїзної частини?",
-    "imageResId": "image_s4_q24",
+    "imageResId": "image_s4_q024",
     "answerOptionList": [
       {
         "id": "5545d701-2f08-4380-87c9-34134c564b6b",
@@ -657,7 +657,7 @@
     "sectionId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 25,
     "text": "Чи правильно в даному випадку рухається пішохід по краю проїзної частини?",
-    "imageResId": "image_s4_q25",
+    "imageResId": "image_s4_q025",
     "answerOptionList": [
       {
         "id": "f69ac796-0c5b-43b2-b57f-3db53512bcf6",

@@ -4,7 +4,7 @@
     "sectionId": "37c07ab1-d2da-4955-807a-b1d2daa9559e",
     "order": 1,
     "text": "Що в цій ситуації заборонено водієві автобуса (чорний автомобіль почав обгін)?",
-    "imageResId": "image_s55_q1",
+    "imageResId": "image_s55_q001",
     "answerOptionList": [
       {
         "id": "d3411dc3-af15-4fb2-a146-b5a8519541f2",
@@ -31,7 +31,7 @@
     "sectionId": "37c07ab1-d2da-4955-807a-b1d2daa9559e",
     "order": 2,
     "text": "Яких заходів повинен вжити водій автобуса, що подав сигнал про намір розпочати рух від будь-якої зупинки?",
-    "imageResId": "image_s55_q2",
+    "imageResId": "image_s55_q002",
     "answerOptionList": [
       {
         "id": "02ce466b-b946-440e-bedc-70191820b8c1",
@@ -58,7 +58,7 @@
     "sectionId": "37c07ab1-d2da-4955-807a-b1d2daa9559e",
     "order": 3,
     "text": "Яким із розпізнавальних знаків позначається автобус або мікроавтобус під час перевезення організованих груп дітей?",
-    "imageResId": "image_s55_q3",
+    "imageResId": "image_s55_q003",
     "answerOptionList": [
       {
         "id": "4787595b-96f9-4491-8e9b-a739c4725313",

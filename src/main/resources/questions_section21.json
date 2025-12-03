@@ -184,7 +184,7 @@
     "sectionId": "d38e5e5d-d7c0-4c5a-8e5e-5dd7c0ec5a2d",
     "order": 7,
     "text": "За яких умов дозволено перевозити дитину в легковому автомобілі без використання дитячих утримуючих систем, що дають змогу пристебнути дитину за допомогою ременів безпеки?",
-    "imageResId": "image_s21_q7",
+    "imageResId": "image_s21_q007",
     "answerOptionList": [
       {
         "id": "28952d64-032b-48fa-99f4-d9a7f0fbb936",
@@ -211,7 +211,7 @@
     "sectionId": "d38e5e5d-d7c0-4c5a-8e5e-5dd7c0ec5a2d",
     "order": 8,
     "text": "Яке твердження, що стосується дитячих утримуючих систем, невірне?",
-    "imageResId": "image_s21_q8",
+    "imageResId": "image_s21_q008",
     "answerOptionList": [
       {
         "id": "794f9a93-0bbe-4692-9b8d-4822c7c69572",
@@ -238,7 +238,7 @@
     "sectionId": "d38e5e5d-d7c0-4c5a-8e5e-5dd7c0ec5a2d",
     "order": 9,
     "text": "Яке найбезпечніше місце для розташування дитячої утримуючої системи в автомобілі?",
-    "imageResId": "image_s21_q9",
+    "imageResId": "image_s21_q009",
     "answerOptionList": [
       {
         "id": "26ec3090-8e06-493a-b8dc-f5aa8a005b47",
@@ -265,7 +265,7 @@
     "sectionId": "d38e5e5d-d7c0-4c5a-8e5e-5dd7c0ec5a2d",
     "order": 10,
     "text": "Чи є обов’язковим відключення фронтальної подушки безпеки цього місця для сидіння при встановленні дитячої утримуючої системи на передньому сидінні?",
-    "imageResId": "image_s21_q10",
+    "imageResId": "image_s21_q010",
     "answerOptionList": [
       {
         "id": "16ffd144-c74b-4db8-8852-354de20ad2eb",
@@ -286,7 +286,7 @@
     "sectionId": "d38e5e5d-d7c0-4c5a-8e5e-5dd7c0ec5a2d",
     "order": 11,
     "text": "У разі перевезення дитини віком до трьох років у легковому автомобілі на місці для сидіння першого ряду, дитячі утримуючі системи встановлюються:",
-    "imageResId": "image_s21_q11",
+    "imageResId": "image_s21_q011",
     "answerOptionList": [
       {
         "id": "41f35540-e846-41ff-b04c-c081c277519c",
@@ -307,7 +307,7 @@
     "sectionId": "d38e5e5d-d7c0-4c5a-8e5e-5dd7c0ec5a2d",
     "order": 12,
     "text": "У якому положенні повинні перебувати діти у дитячих утримуючих системах?",
-    "imageResId": "image_s21_q12",
+    "imageResId": "image_s21_q012",
     "answerOptionList": [
       {
         "id": "a1d51698-a205-452d-adf5-0ad512b0b8d1",

@@ -4,7 +4,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 1,
     "text": "У яких випадках за допомогою дорожніх знаків вводяться постійні обмеження швидкості руху?",
-    "imageResId": "image_s12_q1",
+    "imageResId": "image_s12_q001",
     "answerOptionList": [
       {
         "id": "14e25723-4e83-4868-9810-195352929fb3",
@@ -31,7 +31,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 2,
     "text": "З якою максимальною швидкістю дозволено рух водієві зі стажем менш ніж два роки?",
-    "imageResId": "image_s12_q2",
+    "imageResId": "image_s12_q002",
     "answerOptionList": [
       {
         "id": "8f6104c7-273b-4993-b4cc-9f0e8f9d9957",
@@ -102,7 +102,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 4,
     "text": "З якою максимальною швидкістю можуть рухатися легкові автомобілі по дорогах для автомобілів (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
-    "imageResId": "image_s12_q4",
+    "imageResId": "image_s12_q004",
     "answerOptionList": [
       {
         "id": "c12a86b3-e9c2-4463-bd79-758b975f784a",
@@ -135,7 +135,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 5,
     "text": "З якою максимальною швидкістю допускається рух легкових автомобілів на дорогах з окремими проїзними частинами, що відокремлені одна від одної розділювальною смугою (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
-    "imageResId": "image_s12_q5",
+    "imageResId": "image_s12_q005",
     "answerOptionList": [
       {
         "id": "83bf5621-701b-4d64-98f3-d29217fa3b98",
@@ -168,7 +168,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 6,
     "text": "З якою максимальною швидкістю допускається рух на цій дорозі легкового автомобіля, якщо він рухається за межами населеного пункту (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
-    "imageResId": "image_s12_q6",
+    "imageResId": "image_s12_q006",
     "answerOptionList": [
       {
         "id": "a96cd64a-643e-4044-95f2-6fdc1d6aea8b",
@@ -207,7 +207,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 7,
     "text": "Яка максимальна швидкість встановлена для автомобіля в цьому місці (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
-    "imageResId": "image_s12_q7",
+    "imageResId": "image_s12_q007",
     "answerOptionList": [
       {
         "id": "ecd22578-1303-4a8d-8c61-6dfe055bd447",
@@ -234,7 +234,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 8,
     "text": "Яка максимальна швидкість встановлена для легкових автомобілів на цій дорозі за межами населених пунктів (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
-    "imageResId": "image_s12_q8",
+    "imageResId": "image_s12_q008",
     "answerOptionList": [
       {
         "id": "01d457f8-e421-4d32-bc48-aa9c79aded22",
@@ -273,7 +273,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 9,
     "text": "З якою максимальною швидкістю дозволено рух білому автомобілю на дорозі за межами населених пунктів?",
-    "imageResId": "image_s12_q9",
+    "imageResId": "image_s12_q009",
     "answerOptionList": [
       {
         "id": "34f5dc1e-6975-4b27-b2e4-217a504cceed",
@@ -306,7 +306,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 10,
     "text": "З якою максимальною швидкістю дозволено буксирування транспортним засобам на автомагістралях?",
-    "imageResId": "image_s12_q10",
+    "imageResId": "image_s12_q010",
     "answerOptionList": [
       {
         "id": "d7f633fb-bb20-4bfe-b552-dc3e916ba6dc",
@@ -339,7 +339,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 11,
     "text": "З якою максимальною швидкістю дозволено рух червоного автомобіля?",
-    "imageResId": "image_s12_q11",
+    "imageResId": "image_s12_q011",
     "answerOptionList": [
       {
         "id": "4d82ac3c-9c4c-4731-ae9d-213641d80d9d",
@@ -378,7 +378,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 12,
     "text": "У яких випадках за допомогою дорожніх знаків вводяться тимчасові обмеження швидкості руху?",
-    "imageResId": "image_s12_q12",
+    "imageResId": "image_s12_q012",
     "answerOptionList": [
       {
         "id": "752a5bc0-060b-42fb-b78c-51f6e631fa6a",
@@ -417,7 +417,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 13,
     "text": "Кому з водіїв дозволено рух з більш високою швидкістю?",
-    "imageResId": "image_s12_q13",
+    "imageResId": "image_s12_q013",
     "answerOptionList": [
       {
         "id": "d056a33f-06a3-4f9c-b170-801e130f5c89",
@@ -444,7 +444,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 14,
     "text": "З якою максимальною швидкістю дозволено рух у житлових і пішохідних зонах?",
-    "imageResId": "image_s12_q14",
+    "imageResId": "image_s12_q014",
     "answerOptionList": [
       {
         "id": "14e2578c-706f-471b-ab01-4949284b8001",
@@ -477,7 +477,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 15,
     "text": "Швидкість руху в темну пору доби та в умовах недостатньої видимості повинна бути такою, щоб водій:",
-    "imageResId": "image_s12_q15",
+    "imageResId": "image_s12_q015",
     "answerOptionList": [
       {
         "id": "3a8acc14-174a-45c6-802d-989b2784752f",
@@ -504,7 +504,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 16,
     "text": "Рухаючись по дорозі, водій виявив перешкоду для руху. Як він повинен вчинити в такій ситуації?",
-    "imageResId": "image_s12_q16",
+    "imageResId": "image_s12_q016",
     "answerOptionList": [
       {
         "id": "7221a3dd-ba8c-4434-8059-de0f3f7c6c28",
@@ -531,7 +531,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 17,
     "text": "Яку максимальну швидкість руху встановлено в населених пунктах, позначених даним дорожнім знаком?",
-    "imageResId": "image_s12_q17",
+    "imageResId": "image_s12_q017",
     "answerOptionList": [
       {
         "id": "51801db8-4aac-483f-bc45-7bdc655a6141",
@@ -564,7 +564,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 18,
     "text": "З якою максимальною швидкістю дозволено рух після проїзду цього знака?",
-    "imageResId": "image_s12_q18",
+    "imageResId": "image_s12_q018",
     "answerOptionList": [
       {
         "id": "400f177d-8e20-4c8f-a1cf-f5146c013316",
@@ -597,7 +597,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 19,
     "text": "З якою максимальною швидкістю дозволено рух на дорогах з розділювальною смугою в населених пунктах?",
-    "imageResId": "image_s12_q19",
+    "imageResId": "image_s12_q019",
     "answerOptionList": [
       {
         "id": "6e15ba39-6f55-4c78-874f-8841db8c8894",
@@ -636,7 +636,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 20,
     "text": "З якою максимальною швидкістю дозволено рух автомобіля в зображеній ситуації?",
-    "imageResId": "image_s12_q20",
+    "imageResId": "image_s12_q020",
     "answerOptionList": [
       {
         "id": "57e5b87e-04da-4605-b1ae-29b23b1cc76f",
@@ -1155,7 +1155,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 39,
     "text": "Максимальна швидкість під час руху у житловій зоні становить 30 км/год?",
-    "imageResId": "image_s12_q39",
+    "imageResId": "image_s12_q039",
     "answerOptionList": [
       {
         "id": "89a5a930-7a8e-4bf1-bf44-3d6ac9a2f747",
@@ -1196,7 +1196,7 @@
     "sectionId": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "order": 41,
     "text": "Водій транспортного засобу, що рухається зі швидкістю 68 км/год, наближаючись до наведеного дорожнього знака повинен:",
-    "imageResId": "image_s12_q41",
+    "imageResId": "image_s12_q041",
     "answerOptionList": [
       {
         "id": "23fa9f93-0329-43e6-b890-77d3062d937f",

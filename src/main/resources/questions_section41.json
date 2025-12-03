@@ -4,7 +4,7 @@
     "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 1,
     "text": "Мотоциклом вважається:",
-    "imageResId": "image_s41_q1",
+    "imageResId": "image_s41_q001",
     "answerOptionList": [
       {
         "id": "95c851d3-65c4-40ec-a06e-210b52690ca3",
@@ -37,7 +37,7 @@
     "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 2,
     "text": "Мопедом вважається:",
-    "imageResId": "image_s41_q2",
+    "imageResId": "image_s41_q002",
     "answerOptionList": [
       {
         "id": "73ec7137-2ad1-45cf-a7b6-af2a70c17dff",

@@ -4,7 +4,7 @@
     "sectionId": "280ad55a-a854-411f-8ad5-5aa854e11f38",
     "order": 1,
     "text": "Як у цій ситуації ви визначаєте порядок руху?",
-    "imageResId": "image_s38_q1",
+    "imageResId": "image_s38_q001",
     "answerOptionList": [
       {
         "id": "89dcbcb6-7bd6-4726-b39d-eea5e4ac949d",
@@ -31,7 +31,7 @@
     "sectionId": "280ad55a-a854-411f-8ad5-5aa854e11f38",
     "order": 2,
     "text": "Якими будуть ваші дії, якщо вантажний автомобіль не зменшує швидкість, виїжджаючи на міст?",
-    "imageResId": "image_s38_q2",
+    "imageResId": "image_s38_q002",
     "answerOptionList": [
       {
         "id": "a3a92c9d-d278-4f06-b069-7902a5e3b15f",
@@ -58,7 +58,7 @@
     "sectionId": "280ad55a-a854-411f-8ad5-5aa854e11f38",
     "order": 3,
     "text": "Якими будуть ваші дії, якщо вантажний автомобіль декілька разів увімкнув дальнє світло?",
-    "imageResId": "image_s38_q3",
+    "imageResId": "image_s38_q003",
     "answerOptionList": [
       {
         "id": "be20d253-ec1f-455b-8ef0-320861954a49",

@@ -4,7 +4,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 1,
     "text": "Трамвайна колія – елемент дороги, призначений для руху рейкових транспортних засобів, який обмежується по ширині:",
-    "imageResId": "image_s1_q1",
+    "imageResId": "image_s1_q001",
     "answerOptionList": [
       {
         "id": "89a157c5-c894-4abf-963b-a1130e162827",
@@ -161,7 +161,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 7,
     "text": "Поздовжня смуга на проїзній частині завширшки щонайменше 2,75 м, що позначена або не позначена дорожньою розміткою і призначена для руху нерейкових транспортних засобів це:",
-    "imageResId": "image_s1_q7",
+    "imageResId": "image_s1_q007",
     "answerOptionList": [
       {
         "id": "a8dc2772-566e-4d39-b916-b8371c12fc55",
@@ -332,7 +332,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 14,
     "text": "Доріжка з покриттям, призначена для руху пішоходів, виконана в межах дороги чи поза нею і позначена наведеним дорожнім знаком це:",
-    "imageResId": "image_s1_q14",
+    "imageResId": "image_s1_q014",
     "answerOptionList": [
       {
         "id": "61ec0970-c9fb-4ecf-9c6d-57d9482eaa60",
@@ -419,7 +419,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 18,
     "text": "На якому з наведених малюнків зображено перехрестя:",
-    "imageResId": "image_s1_q18",
+    "imageResId": "image_s1_q018",
     "answerOptionList": [
       {
         "id": "2e55ef44-cbaf-4d23-a598-ca0477f62129",
@@ -440,7 +440,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 19,
     "text": "На якому малюнку зображено в’їзд на прилеглу територію:",
-    "imageResId": "image_s1_q19",
+    "imageResId": "image_s1_q019",
     "answerOptionList": [
       {
         "id": "59ed639f-d31f-46f3-8215-f4dc1f69ff3f",
@@ -501,7 +501,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 22,
     "text": "Показаний на малюнку поворот дороги відповідає терміну:",
-    "imageResId": "image_s1_q22",
+    "imageResId": "image_s1_q022",
     "answerOptionList": [
       {
         "id": "0082462d-0b3d-438d-9380-5893bda71e44",
@@ -522,7 +522,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 23,
     "text": "Як називається даний маневр?",
-    "imageResId": "image_s1_q23",
+    "imageResId": "image_s1_q023",
     "answerOptionList": [
       {
         "id": "c13b1574-3449-4076-8d70-f1bb17e6f8de",
@@ -581,7 +581,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 25,
     "text": "Недостатньою видимістю вважається:",
-    "imageResId": "image_s1_q25",
+    "imageResId": "image_s1_q025",
     "answerOptionList": [
       {
         "id": "7f9312ce-88d4-4851-9546-06f40dc5d03a",
@@ -614,7 +614,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 26,
     "text": "Доріжка з покриттям поза межами проїзної частини вулиці та/або дороги, розташована окремо чи суміжно з тротуаром або пішохідною доріжкою, що призначена для руху на велосипедах, і позначена дорожнім знаком та горизонтальною розміткою, як показано на малюнку, це:",
-    "imageResId": "image_s1_q26",
+    "imageResId": "image_s1_q026",
     "answerOptionList": [
       {
         "id": "face463d-49fc-4152-90a7-cae838178f85",
@@ -641,7 +641,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 27,
     "text": "Як називається доріжка зображена на наведеному малюнку?",
-    "imageResId": "image_s1_q27",
+    "imageResId": "image_s1_q027",
     "answerOptionList": [
       {
         "id": "7c44d258-fe7d-48ec-b88f-01711634a33f",
@@ -668,7 +668,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 28,
     "text": "Доріжка з покриттям поза межами проїзної частини вулиці та/або дороги, розташована окремо чи суміжно з тротуаром або пішохідною доріжкою, і позначена дорожнім знаком та горизонтальною розміткою, як показано на малюку, призначена для руху:",
-    "imageResId": "image_s1_q28",
+    "imageResId": "image_s1_q028",
     "answerOptionList": [
       {
         "id": "5de93567-78d4-4443-87e8-0cbb90dbc3f4",
@@ -695,7 +695,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 29,
     "text": "Смуга, призначена для руху на велосипедах у межах проїзної частини вулиці та/або дороги, яка позначена дорожнім знаком 5.88 та відповідною горизонтальною дорожньою розміткою це:",
-    "imageResId": "image_s1_q29",
+    "imageResId": "image_s1_q029",
     "answerOptionList": [
       {
         "id": "0524fe8e-9969-45bd-b9b3-6c87737ee3c0",
@@ -904,7 +904,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 37,
     "text": "На якому з наведених малюнків зображена автомобільна дорога?",
-    "imageResId": "image_s1_q37",
+    "imageResId": "image_s1_q037",
     "answerOptionList": [
       {
         "id": "d20f5ab9-b274-4594-b76c-a6a3bdb109c8",
@@ -1269,7 +1269,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 51,
     "text": "Розділювальна смуга призначена:",
-    "imageResId": "image_s1_q51",
+    "imageResId": "image_s1_q051",
     "answerOptionList": [
       {
         "id": "d7016bf3-8955-4ddf-aaf9-00bd29af4811",
@@ -1296,7 +1296,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 52,
     "text": "Який елемент автомобільної дороги зображено на наведеному малюнку?",
-    "imageResId": "image_s1_q52",
+    "imageResId": "image_s1_q052",
     "answerOptionList": [
       {
         "id": "1dd60e85-8649-46a6-b7a0-aa5dc0e7927f",
@@ -1329,7 +1329,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 53,
     "text": "Чи призначена розділювальна смуга для руху або стоянки транспортних засобів?",
-    "imageResId": "image_s1_q53",
+    "imageResId": "image_s1_q053",
     "answerOptionList": [
       {
         "id": "d9cef763-ba3b-47c1-bff4-ad692084c22b",
@@ -1370,7 +1370,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 55,
     "text": "Чи зобов’язані водії бути особливо уважними до велосипедистів?",
-    "imageResId": "image_s1_q55",
+    "imageResId": "image_s1_q055",
     "answerOptionList": [
       {
         "id": "dc0368c8-45e9-4ae4-9f80-9fdb2c8e93f2",
@@ -1391,7 +1391,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 56,
     "text": "Особи, які ведуть мотоцикл прирівнюються до:",
-    "imageResId": "image_s1_q56",
+    "imageResId": "image_s1_q056",
     "answerOptionList": [
       {
         "id": "14ac4d5c-d4d3-4722-bcc7-4d513c38240c",
@@ -1418,7 +1418,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 57,
     "text": "Особи, які ведуть мотоцикл прирівнюються до пішоходів?",
-    "imageResId": "image_s1_q57",
+    "imageResId": "image_s1_q057",
     "answerOptionList": [
       {
         "id": "29a0e9af-b4b9-44cb-9b77-8ac092f6d0e1",
@@ -1439,7 +1439,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 58,
     "text": "Чи прирівнюються до пішоходів особи, які везуть дитячий візок?",
-    "imageResId": "image_s1_q58",
+    "imageResId": "image_s1_q058",
     "answerOptionList": [
       {
         "id": "9730b700-e5c6-4ed6-b859-3e10f866d22d",
@@ -1460,7 +1460,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 59,
     "text": "Особи, які рухаються у кріслах колісних, є учасниками дорожнього руху?",
-    "imageResId": "image_s1_q59",
+    "imageResId": "image_s1_q059",
     "answerOptionList": [
       {
         "id": "c65fc672-c5a0-44f4-893a-ed870a5fac4a",
@@ -1599,7 +1599,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 65,
     "text": "У наведеному випадку суцільна лінія дорожньої розмітки вважається межею проїзної частини та узбіччя?",
-    "imageResId": "image_s1_q65",
+    "imageResId": "image_s1_q065",
     "answerOptionList": [
       {
         "id": "1ead613e-e3ad-44ec-8dd5-8f9a9ed1ec52",
@@ -1620,7 +1620,7 @@
     "sectionId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 66,
     "text": "На наведеному малюнку зображено узбіччя?",
-    "imageResId": "image_s1_q66",
+    "imageResId": "image_s1_q066",
     "answerOptionList": [
       {
         "id": "19b5d438-379e-466d-b416-90e7e072c04a",

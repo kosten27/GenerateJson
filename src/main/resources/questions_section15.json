@@ -4,7 +4,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 1,
     "text": "У якому місці водієві дозволено зупинку?",
-    "imageResId": "image_s15_q1",
+    "imageResId": "image_s15_q001",
     "answerOptionList": [
       {
         "id": "ee00dbe2-d0c1-449e-8479-4022c25ff5da",
@@ -37,7 +37,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 2,
     "text": "Чи має право водій зупинитися в цьому місці?",
-    "imageResId": "image_s15_q2",
+    "imageResId": "image_s15_q002",
     "answerOptionList": [
       {
         "id": "2900e00e-06f1-4ff3-b0c2-035e1118a3a6",
@@ -64,7 +64,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 3,
     "text": "На якому з місць водієві синього автомобіля дозволено виконати зупинку?",
-    "imageResId": "image_s15_q3",
+    "imageResId": "image_s15_q003",
     "answerOptionList": [
       {
         "id": "3310458d-ce06-498f-a7c7-7dab95f2a842",
@@ -103,7 +103,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 4,
     "text": "Хто з водіїв, виконуючи зупинку, порушив Правила дорожнього руху?",
-    "imageResId": "image_s15_q4",
+    "imageResId": "image_s15_q004",
     "answerOptionList": [
       {
         "id": "f307c6a5-4170-470c-be6d-ff21ddbc0852",
@@ -136,7 +136,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 5,
     "text": "На якому з місць водієві легкового автомобіля дозволено зупинитися?",
-    "imageResId": "image_s15_q5",
+    "imageResId": "image_s15_q005",
     "answerOptionList": [
       {
         "id": "a46afb0c-2740-4d60-aa2e-128da74406b8",
@@ -169,7 +169,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 6,
     "text": "Хто з водіїв порушує правила зупинки?",
-    "imageResId": "image_s15_q6",
+    "imageResId": "image_s15_q006",
     "answerOptionList": [
       {
         "id": "097a0354-42dc-4fe1-bc88-72dbfca742f2",
@@ -208,7 +208,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 7,
     "text": "Який автомобіль зупинився з порушенням Правил дорожнього руху на дорозі з одностороннім рухом?",
-    "imageResId": "image_s15_q7",
+    "imageResId": "image_s15_q007",
     "answerOptionList": [
       {
         "id": "d745289a-d76e-4cf6-b551-90de138ea5ab",
@@ -247,7 +247,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 8,
     "text": "Хто з водіїв порушив Правила дорожнього руху, виконуючи зупинку?",
-    "imageResId": "image_s15_q8",
+    "imageResId": "image_s15_q008",
     "answerOptionList": [
       {
         "id": "61250ce8-6be1-4f35-a8f0-1beba209dbb5",
@@ -280,7 +280,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 9,
     "text": "У якому з місць водієві дозволено виконати зупинку?",
-    "imageResId": "image_s15_q9",
+    "imageResId": "image_s15_q009",
     "answerOptionList": [
       {
         "id": "d74e3f44-befd-496a-ac58-d8a19fbea0bd",
@@ -307,7 +307,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 10,
     "text": "Чи дозволено водієві жовтого автомобіля зупинитися в цьому місці?",
-    "imageResId": "image_s15_q10",
+    "imageResId": "image_s15_q010",
     "answerOptionList": [
       {
         "id": "01a81422-12d8-4630-be75-b8cbf49add4f",
@@ -334,7 +334,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 11,
     "text": "Чи дозволено зупинитися в цьому місці для посадки пасажирів?",
-    "imageResId": "image_s15_q11",
+    "imageResId": "image_s15_q011",
     "answerOptionList": [
       {
         "id": "57719700-57f5-4b32-aa3f-ca3c48dd8a17",
@@ -361,7 +361,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 12,
     "text": "Чи дозволено водієві зупинитися на мості в цьому місці?",
-    "imageResId": "image_s15_q12",
+    "imageResId": "image_s15_q012",
     "answerOptionList": [
       {
         "id": "54a29a72-4721-4d6a-a1e9-830302d1e794",
@@ -388,7 +388,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 13,
     "text": "Чи дозволено водієві білого автомобіля зупинитися для посадки пасажира в цьому місці?",
-    "imageResId": "image_s15_q13",
+    "imageResId": "image_s15_q013",
     "answerOptionList": [
       {
         "id": "04804dfe-585a-4677-98b5-179e8a48608d",
@@ -415,7 +415,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 14,
     "text": "Хто з водіїв порушив Правила дорожнього руху, виконавши зупинку?",
-    "imageResId": "image_s15_q14",
+    "imageResId": "image_s15_q014",
     "answerOptionList": [
       {
         "id": "274fd22f-65e2-4c9d-8fef-4f09ba7f9f1b",
@@ -442,7 +442,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 15,
     "text": "У якому місці водієві легкового автомобіля дозволено зупинитися?",
-    "imageResId": "image_s15_q15",
+    "imageResId": "image_s15_q015",
     "answerOptionList": [
       {
         "id": "1543b6ae-663a-4a43-b5a0-1e4fcb99f6d0",
@@ -481,7 +481,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 16,
     "text": "За яких умов водієві дозволено зупинитися в цьому місці?",
-    "imageResId": "image_s15_q16",
+    "imageResId": "image_s15_q016",
     "answerOptionList": [
       {
         "id": "9a687f2b-c948-4627-9e4f-ae8c91227d88",
@@ -508,7 +508,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 17,
     "text": "Чи дозволено водієві зупинитися в цьому місці?",
-    "imageResId": "image_s15_q17",
+    "imageResId": "image_s15_q017",
     "answerOptionList": [
       {
         "id": "9b9ada3e-987a-4fd7-a0b7-e7edfaa60965",
@@ -529,7 +529,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 18,
     "text": "Яка мінімальна відстань має бути між транспортним засобом, що зупинився, і протилежним краєм проїзної частини, щоб зупинка була виконана без порушень Правил дорожнього руху?",
-    "imageResId": "image_s15_q18",
+    "imageResId": "image_s15_q018",
     "answerOptionList": [
       {
         "id": "81cfd76f-99f5-4dd4-a7df-0771ce440c02",
@@ -568,7 +568,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 19,
     "text": "У яких випадках, згідно з Правилами дорожнього руху, на проїзній частині дозволяється установка предметів, що перешкоджають проїзду або паркуванню транспортних засобів?",
-    "imageResId": "image_s15_q19",
+    "imageResId": "image_s15_q019",
     "answerOptionList": [
       {
         "id": "10bc116a-6f07-4145-9cf3-53c8052f5035",
@@ -601,7 +601,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 20,
     "text": "Чи дозволена стоянка білого автомобіля в цьому місці?",
-    "imageResId": "image_s15_q20",
+    "imageResId": "image_s15_q020",
     "answerOptionList": [
       {
         "id": "4da76446-9f80-4f96-8dfe-3e1e5e4d4425",
@@ -622,7 +622,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 21,
     "text": "Чи дозволена стоянка автомобіля в цьому місці?",
-    "imageResId": "image_s15_q21",
+    "imageResId": "image_s15_q021",
     "answerOptionList": [
       {
         "id": "1983520f-be7e-4cb9-9625-1f6a9b41d3cc",
@@ -649,7 +649,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 22,
     "text": "Чи дозволено водієві чорного автомобіля виконати стоянку в цьому місці дороги, що знаходиться за межами населених пунктів, якщо оглядовість в одному з напрямків менше 100 м?",
-    "imageResId": "image_s15_q22",
+    "imageResId": "image_s15_q022",
     "answerOptionList": [
       {
         "id": "6b871024-732b-4bc7-854c-12c767e39968",
@@ -676,7 +676,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 23,
     "text": "У якому місці водієві легкового автомобіля дозволено виконати стоянку?",
-    "imageResId": "image_s15_q23",
+    "imageResId": "image_s15_q023",
     "answerOptionList": [
       {
         "id": "c2039f19-d034-4d4d-8eb4-90b3e104756a",
@@ -709,7 +709,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 24,
     "text": "Хто з водіїв правильно виконує стоянку?",
-    "imageResId": "image_s15_q24",
+    "imageResId": "image_s15_q024",
     "answerOptionList": [
       {
         "id": "21a15cbd-3fc2-4c75-8e01-fb4d7d8cba92",
@@ -748,7 +748,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 25,
     "text": "Чим може бути зумовлена зупинка, щоб вона вважалася вимушеною?",
-    "imageResId": "image_s15_q25",
+    "imageResId": "image_s15_q025",
     "answerOptionList": [
       {
         "id": "f03b23d7-55e4-4577-a4ac-4f3dbf582578",
@@ -787,7 +787,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 26,
     "text": "Хто з водіїв порушив правила зупинки в місці виїзду з двору?",
-    "imageResId": "image_s15_q26",
+    "imageResId": "image_s15_q026",
     "answerOptionList": [
       {
         "id": "4e1ed8f7-613b-47b1-95ce-cb93d75d3afe",
@@ -826,7 +826,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 27,
     "text": "Чи дозволена зупинка транспортних засобів один навпроти одного, як показано на малюнку?",
-    "imageResId": "image_s15_q27",
+    "imageResId": "image_s15_q027",
     "answerOptionList": [
       {
         "id": "9f304ad1-ce1a-4655-ba13-8fc06525f9f3",
@@ -847,7 +847,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 28,
     "text": "Чи може водій виконати посадку (висадку) пасажирів у зоні виконання дорожніх робіт?",
-    "imageResId": "image_s15_q28",
+    "imageResId": "image_s15_q028",
     "answerOptionList": [
       {
         "id": "1656bd24-de40-49a3-8bfd-28687a557b09",
@@ -868,7 +868,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 29,
     "text": "На якій відстані до позначеного місця виконання дорожніх робіт заборонено зупинку транспортних засобів?",
-    "imageResId": "image_s15_q29",
+    "imageResId": "image_s15_q029",
     "answerOptionList": [
       {
         "id": "89c20fc3-9de0-47c8-8a56-32afdcaf0215",
@@ -895,7 +895,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 30,
     "text": "Чи дозволено водієві зупинитися в цьому місці?",
-    "imageResId": "image_s15_q30",
+    "imageResId": "image_s15_q030",
     "answerOptionList": [
       {
         "id": "4728972e-0511-4d75-8818-23d8944f3e06",
@@ -916,7 +916,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 31,
     "text": "Хто з водіїв, виконуючи зупинку, порушує Правила дорожнього руху?",
-    "imageResId": "image_s15_q31",
+    "imageResId": "image_s15_q031",
     "answerOptionList": [
       {
         "id": "6de4737b-ae50-41bb-91e7-7b731c968f15",
@@ -943,7 +943,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 32,
     "text": "Чи має право водій легкового автомобіля виконати зупинку в цьому місці?",
-    "imageResId": "image_s15_q32",
+    "imageResId": "image_s15_q032",
     "answerOptionList": [
       {
         "id": "fc50e3b1-fdd8-475d-9969-55a1e12cba67",
@@ -964,7 +964,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 33,
     "text": "Чи дозволяється водієві зеленого автомобіля зупинитися в цьому місці без необхідності посадки (висадки) пасажирів, якщо це не вимагається Правилами дорожнього руху?",
-    "imageResId": "image_s15_q33",
+    "imageResId": "image_s15_q033",
     "answerOptionList": [
       {
         "id": "f212bd32-ecab-469f-8418-38d8a33e203a",
@@ -985,7 +985,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 34,
     "text": "Який транспортний засіб поставлено на стоянку неправильно?",
-    "imageResId": "image_s15_q34",
+    "imageResId": "image_s15_q034",
     "answerOptionList": [
       {
         "id": "29df046e-1b3c-4f04-9176-75a2125075bc",
@@ -1012,7 +1012,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 35,
     "text": "Чи правильно водій червоного автомобіля виконує посадку (висадку) пасажирів?",
-    "imageResId": "image_s15_q35",
+    "imageResId": "image_s15_q035",
     "answerOptionList": [
       {
         "id": "e36f2aa3-5c8f-44eb-ad5d-83fa7eb90e71",
@@ -1033,7 +1033,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 36,
     "text": "У якому місці цієї дороги з одностороннім рухом водієві легкового автомобіля дозволено виконати зупинку?",
-    "imageResId": "image_s15_q36",
+    "imageResId": "image_s15_q036",
     "answerOptionList": [
       {
         "id": "6881e576-873d-413c-9011-3eaf4650dac6",
@@ -1072,7 +1072,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 37,
     "text": "Який з водіїв правильно зупинив свій транспортний засіб на дорозі з двостороннім рухом за межами населеного пункту?",
-    "imageResId": "image_s15_q37",
+    "imageResId": "image_s15_q037",
     "answerOptionList": [
       {
         "id": "d8c40b2e-0193-48c3-a692-a1c1094ce4d1",
@@ -1099,7 +1099,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 38,
     "text": "На якому з малюнків транспортні засоби поставлені правильно на дорогах у населених пунктах?",
-    "imageResId": "image_s15_q38",
+    "imageResId": "image_s15_q038",
     "answerOptionList": [
       {
         "id": "bfea8b8a-f076-442e-8c64-3c1e03f501ca",
@@ -1126,7 +1126,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 39,
     "text": "На якому з малюнків показана дорога з двостороннім рухом у населеному пункті, на якій водій може поставити транспортний засіб на стоянку або зупинку на лівому боці?",
-    "imageResId": "image_s15_q39",
+    "imageResId": "image_s15_q039",
     "answerOptionList": [
       {
         "id": "8ee8ac72-b74e-4d93-8706-31994659b2f0",
@@ -1159,7 +1159,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 40,
     "text": "Кому з водіїв дозволено поставити свій транспортний засіб на лівому боці дороги, після проїзду цих дорожніх знаків?",
-    "imageResId": "image_s15_q40",
+    "imageResId": "image_s15_q040",
     "answerOptionList": [
       {
         "id": "4a0aa132-2c63-4805-8560-36e57127b775",
@@ -1186,7 +1186,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 41,
     "text": "У якому місці повинен зупинитися водій червоного автомобіля?",
-    "imageResId": "image_s15_q41",
+    "imageResId": "image_s15_q041",
     "answerOptionList": [
       {
         "id": "fa1db69e-e1cf-4997-9ea5-3547ee16982e",
@@ -1213,7 +1213,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 42,
     "text": "У якому місці водію червоного автомобіля дозволено зупинити транспортний засіб на дорозі в населеному пункті?",
-    "imageResId": "image_s15_q42",
+    "imageResId": "image_s15_q042",
     "answerOptionList": [
       {
         "id": "d86b27e4-7b4a-41d1-b8a8-3c2cc294be40",
@@ -1240,7 +1240,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 43,
     "text": "У якому місці водій червоного автомобіля повинен зупинити транспортний засіб на дорозі за межами населених пунктів?",
-    "imageResId": "image_s15_q43",
+    "imageResId": "image_s15_q043",
     "answerOptionList": [
       {
         "id": "81cc40d1-37eb-4540-8f66-bc3dac9f04d7",
@@ -1273,7 +1273,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 44,
     "text": "Хто з водіїв зупинився неправильно?",
-    "imageResId": "image_s15_q44",
+    "imageResId": "image_s15_q044",
     "answerOptionList": [
       {
         "id": "52c3b04d-f23c-4914-9462-20e243f6c0b5",
@@ -1300,7 +1300,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 45,
     "text": "Які транспортні засоби поставлені з порушенням Правил дорожнього руху?",
-    "imageResId": "image_s15_q45",
+    "imageResId": "image_s15_q045",
     "answerOptionList": [
       {
         "id": "d8238488-67fd-4e95-ae10-294ca0ad8cc7",
@@ -1333,7 +1333,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 46,
     "text": "У якому місці дороги водій може зупинити свій транспортний засіб, якщо на узбіччях зупинка і стоянка неможливі, а спеціально відведені місця відсутні?",
-    "imageResId": "image_s15_q46",
+    "imageResId": "image_s15_q046",
     "answerOptionList": [
       {
         "id": "cdf3eb56-13ff-43f0-8076-3ef294a721bc",
@@ -1360,7 +1360,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 47,
     "text": "У якому місці водій може виконати зупинку?",
-    "imageResId": "image_s15_q47",
+    "imageResId": "image_s15_q047",
     "answerOptionList": [
       {
         "id": "073890eb-9f65-420a-a7c5-183f3e6dc375",
@@ -1399,7 +1399,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 48,
     "text": "Чи дозволено водієві синього автомобіля зупинитися в цьому місці?",
-    "imageResId": "image_s15_q48",
+    "imageResId": "image_s15_q048",
     "answerOptionList": [
       {
         "id": "94dfd969-4a0d-4236-857d-8344c15c60db",
@@ -1420,7 +1420,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 49,
     "text": "Який транспортний засіб поставлено на стоянку з порушенням Правил дорожнього руху в цьому місці?",
-    "imageResId": "image_s15_q49",
+    "imageResId": "image_s15_q049",
     "answerOptionList": [
       {
         "id": "6c3806df-1459-4f40-ba67-777dcd778d0c",
@@ -1459,7 +1459,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 50,
     "text": "Які транспортні засоби дозволено ставити в місцях, позначених дорожніми знаками «Місце для стоянки» або «Зона стоянки», встановленими з такими табличками?",
-    "imageResId": "image_s15_q50",
+    "imageResId": "image_s15_q050",
     "answerOptionList": [
       {
         "id": "8f86a4e5-b86d-4a5e-bd1d-14550a99c4bc",
@@ -1498,7 +1498,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 51,
     "text": "У якому місці водієві легкового автомобіля дозволено виконати зупинку або стоянку в цій ситуації?",
-    "imageResId": "image_s15_q51",
+    "imageResId": "image_s15_q051",
     "answerOptionList": [
       {
         "id": "e908a870-1b7a-4456-b8cc-3a969d87fcf3",
@@ -1525,7 +1525,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 52,
     "text": "Чи правильно на підйомі поставлений білий автомобіль, якщо оглядовість в напрямку руху менше 100 м?",
-    "imageResId": "image_s15_q52",
+    "imageResId": "image_s15_q052",
     "answerOptionList": [
       {
         "id": "42610329-a117-43aa-896f-1f05b4d1cfcd",
@@ -1552,7 +1552,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 53,
     "text": "Чи правильно водій фіолетового автомобіля поставив транспортний засіб?",
-    "imageResId": "image_s15_q53",
+    "imageResId": "image_s15_q053",
     "answerOptionList": [
       {
         "id": "75b5c79a-10c9-49b8-b610-f79fa9c65a02",
@@ -1579,7 +1579,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 54,
     "text": "Який транспортний засіб правильно поставлено на дорозі з одностороннім рухом, якщо відомо, що обидва автомобілі не перешкоджають руху інших транспортних засобів?",
-    "imageResId": "image_s15_q54",
+    "imageResId": "image_s15_q054",
     "answerOptionList": [
       {
         "id": "dbd2774e-a203-4bdd-b034-709c81403e7a",
@@ -2690,7 +2690,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 90,
     "text": "Чи дозволена стоянка чорного автомобіля в цьому місці?",
-    "imageResId": "image_s15_q90",
+    "imageResId": "image_s15_q090",
     "answerOptionList": [
       {
         "id": "35492a8f-85ce-4610-851d-28b634754dc4",
@@ -2711,7 +2711,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 91,
     "text": "Чи дозволено водієві сірого автомобіля зупинитись у цьому місці?",
-    "imageResId": "image_s15_q91",
+    "imageResId": "image_s15_q091",
     "answerOptionList": [
       {
         "id": "5c7b9093-97e0-4730-9cb4-82082f872df2",
@@ -2732,7 +2732,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 92,
     "text": "Хто з водіїв, виконуючи зупинку, порушив Правила дорожнього руху?",
-    "imageResId": "image_s15_q92",
+    "imageResId": "image_s15_q092",
     "answerOptionList": [
       {
         "id": "0c23c824-4eb9-40fd-b0ed-dae4f37576d6",
@@ -2759,7 +2759,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 93,
     "text": "Чи має право водій білого автомобіля виконати зупинку у цьому місці?",
-    "imageResId": "image_s15_q93",
+    "imageResId": "image_s15_q093",
     "answerOptionList": [
       {
         "id": "a53dd162-e6eb-433e-b8fa-916fd8d52157",
@@ -2780,7 +2780,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 94,
     "text": "Чи дозволено водієві сірого автомобіля зупинитись у цьому місці?",
-    "imageResId": "image_s15_q94",
+    "imageResId": "image_s15_q094",
     "answerOptionList": [
       {
         "id": "5ab28860-8df2-45a3-9926-f2388e9970a4",
@@ -2801,7 +2801,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 95,
     "text": "Чи порушив водій чорного автомобіля правила зупинки?",
-    "imageResId": "image_s15_q95",
+    "imageResId": "image_s15_q095",
     "answerOptionList": [
       {
         "id": "4ba97434-b2e1-4d60-aa38-382f6d8ab753",
@@ -2822,7 +2822,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 96,
     "text": "Чи дозволена стоянка автомобіля в цьому місці?",
-    "imageResId": "image_s15_q96",
+    "imageResId": "image_s15_q096",
     "answerOptionList": [
       {
         "id": "9674c575-d61f-435b-bd65-60208e594892",
@@ -2849,7 +2849,7 @@
     "sectionId": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "order": 97,
     "text": "Чи дозволено водієві чорного автомобіля зупинитись так як показано на малюнку?",
-    "imageResId": "image_s15_q97",
+    "imageResId": "image_s15_q097",
     "answerOptionList": [
       {
         "id": "4550129c-dbaf-4c5f-b7f5-0835e9aee36f",
