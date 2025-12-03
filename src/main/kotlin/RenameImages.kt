@@ -19,7 +19,7 @@ fun main() {
                 .forEach { part ->
                     val (questionNumber, imageNumber) = part.split("-")
                     val originalImageName = "image_${imageNumber}.jpg"
-                    val newImageName = "image_s${sectionId}_q${questionNumber}.jpg"
+                    val newImageName = "image_s${sectionId}_q${questionNumber.padStart(3, '0')}.jpg"
                     val bytes = File("src/main/resources/original_images/${originalImageName}").readBytes()
                     File("src/main/resources/renamed_images/${newImageName}").writeBytes(bytes)
                 }
