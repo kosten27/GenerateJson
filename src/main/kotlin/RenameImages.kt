@@ -7,13 +7,13 @@ fun main() {
     val sectionRegex = Regex("""^(\d+(.\d)?):(.*)$""")
 
     lines.forEach { line ->
-        val match = sectionRegex.matchEntire(line) ?: return
+        val match = sectionRegex.matchEntire(line) ?: return@forEach
 
         val sectionId = match.groupValues[1].replace(".", "_")
         val raw = match.groupValues[3].trim()
 
         if (raw.isEmpty()) {
-            return
+            return@forEach
         } else {
             raw.split(",")
                 .forEach { part ->
