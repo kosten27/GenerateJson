@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "84f7ca64-edd5-4e05-939f-db5a86062561",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 1,
+    "text": "Яку максимальну кількість пасажирів, враховуючи місце водія має право перевозити водій мікроавтобуса?",
+    "imageResId": "image_t53_q001",
+    "answerOptionList": [
+      {
+        "id": "4a45e8e3-04df-4119-ab0d-aca8c68f1f2a",
+        "position": 1,
+        "text": "Не більше дев'ятнадцяти.",
+        "isCorrect": false
+      },
+      {
+        "id": "40a7263c-836d-4bea-b85c-0b3b0a1d90e8",
+        "position": 2,
+        "text": "Не більше сімнадцяти.",
+        "isCorrect": true
+      },
+      {
+        "id": "d3e03b17-a055-4f8b-8735-931360fd9cbe",
+        "position": 3,
+        "text": "Не більше шістнадцяти.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6d441e5d-cefc-42ff-bafe-6e50d1e1d05f",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 2,
+    "text": "Виберіть правильну відповідь.",
+    "answerOptionList": [
+      {
+        "id": "8ec74d9f-e697-41f6-a7c9-314aa107d227",
+        "position": 1,
+        "text": "Після замінигальмівнихколодокзодногобокунеобхідноперевірити тисквресиверах.",
+        "isCorrect": false
+      },
+      {
+        "id": "a23b30d0-865d-4525-b5aa-5b6c8ada56b5",
+        "position": 2,
+        "text": "У разі більшого зношення однієї фрикційної накладки, ніж іншої, їх необхідно поміняти місцями для рівномірного зношення.",
+        "isCorrect": false
+      },
+      {
+        "id": "64d87724-9b3f-44bf-93a7-487ef3a1b197",
+        "position": 3,
+        "text": "Під час заміни гальмівних колодок з одного боку треба замінити колодки і з іншого боку.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3208d8cc-722d-4a9d-b151-90a1b1f9f7b9",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 3,
+    "text": "Що може стати наслідком повного зносу фрикційних накладок гальмівних колодок?",
+    "answerOptionList": [
+      {
+        "id": "d58b24f0-f52f-4164-afb6-0b1b0eebbba1",
+        "position": 1,
+        "text": "Різке зменшення ефективностігальмівногомеханізму.",
+        "isCorrect": true
+      },
+      {
+        "id": "0e9a9fda-5226-4e4d-ab37-a52e0b8693fc",
+        "position": 2,
+        "text": "Перегрів гальмівногомеханізму.",
+        "isCorrect": false
+      },
+      {
+        "id": "c6d6d279-c85e-4d0c-aa85-b535ee54b03c",
+        "position": 3,
+        "text": "Втрата керованості автомобіля.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "91b77720-8dc4-4a53-926b-704f422087a9",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 4,
+    "text": "Яку функцію виконує обмежувальний клапан тиску в пневматичному приводі гальмівної системи передньої осі?",
+    "answerOptionList": [
+      {
+        "id": "d706e44c-357b-4ad2-b054-166287266277",
+        "position": 1,
+        "text": "Зменшує величинуходупередньої осі.",
+        "isCorrect": false
+      },
+      {
+        "id": "18fa3c4e-bd87-4924-a236-d73755100f68",
+        "position": 2,
+        "text": "Обмежує кут повороту коліс передньої осі.",
+        "isCorrect": false
+      },
+      {
+        "id": "076b98dd-d4a0-4798-a62b-734892222059",
+        "position": 3,
+        "text": "Зменшує тиск вгальмівних камерахпередньої осі.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a92fb850-2aab-411e-8dbe-a7e8afd22b97",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 5,
+    "text": "Для чого потрібен прискорювальний клапан в пневматичному приводі гальмівної системи?",
+    "answerOptionList": [
+      {
+        "id": "d24fa025-7ed8-45cb-bb33-6d65b2a46fe7",
+        "position": 1,
+        "text": "Збільшення динаміки розгонуавтомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "fb860590-6288-4b6c-a11b-97e290da520d",
+        "position": 2,
+        "text": "Збільшення швидкостіскидання зайвого тиску.",
+        "isCorrect": false
+      },
+      {
+        "id": "ee4d9cbe-e0b1-4c4b-bf91-d2ec9eaacdd8",
+        "position": 3,
+        "text": "Прискорення спрацьовування задніх гальмівних механізмів.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "7ba31b5a-04a7-4d20-acc1-cde19ccbd59f",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 6,
+    "text": "Які гальмівні механізми задіяні підчас увімкнення гірського гальма?",
+    "answerOptionList": [
+      {
+        "id": "dc1a4b60-021b-413f-b621-69d9ad46523e",
+        "position": 1,
+        "text": "Тільки передні.",
+        "isCorrect": false
+      },
+      {
+        "id": "f379ffd4-a015-426d-9781-00c50b855f4a",
+        "position": 2,
+        "text": "Тільки задні.",
+        "isCorrect": false
+      },
+      {
+        "id": "11bee90d-05e0-4c44-8550-45c15cf80cd3",
+        "position": 3,
+        "text": "Передні й задні.",
+        "isCorrect": false
+      },
+      {
+        "id": "141ab7b3-2e6c-4b73-8a9d-a607acfd2f07",
+        "position": 4,
+        "text": "Гальмівнімеханізми не задіяні.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0fa83dec-c29b-4f6c-9d50-f91e733c9895",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 7,
+    "text": "Що таке ресивер?",
+    "answerOptionList": [
+      {
+        "id": "668556c5-fba7-47cb-9281-6c0871eeeac8",
+        "position": 1,
+        "text": "З'єднувальний механізм у пневматичному урухомнику гальм.",
+        "isCorrect": false
+      },
+      {
+        "id": "c7c856ab-252f-47e1-a273-51720cb15733",
+        "position": 2,
+        "text": "Гальмівна камера заднього гальмівного механізму.",
+        "isCorrect": false
+      },
+      {
+        "id": "4a8018a8-46a0-44c7-b65f-1b6812cbb914",
+        "position": 3,
+        "text": "Балон для зберігання стисненого повітря гальмівної системи.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2dfcae5a-a24c-4757-9001-87c173d3259b",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 8,
+    "text": "Куди дівається повітря після відпускання педалі гальма?",
+    "answerOptionList": [
+      {
+        "id": "706f3230-3a51-40e6-b077-1988d717a433",
+        "position": 1,
+        "text": "Стравлюється в атмосферу.",
+        "isCorrect": true
+      },
+      {
+        "id": "9e80f73d-986c-4547-a609-4d2f39d54c41",
+        "position": 2,
+        "text": "Потрапляє назад в систему.",
+        "isCorrect": false
+      },
+      {
+        "id": "9e898bf2-7c01-47a9-a845-8c210c827d6f",
+        "position": 3,
+        "text": "Подається у впускний колектор двигуна.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ccf50e60-30e0-4a41-819c-88be2d67588b",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 9,
+    "text": "До якого вузла підключена педаль гальма у пневматичній гальмівній системі?",
+    "answerOptionList": [
+      {
+        "id": "26b3c53a-b0ca-4ba6-ac42-905da3778df5",
+        "position": 1,
+        "text": "До головного гальмівного циліндра.",
+        "isCorrect": false
+      },
+      {
+        "id": "5e520aba-f413-4a38-9fd3-2bf1eda60036",
+        "position": 2,
+        "text": "До гальмівного крану.",
+        "isCorrect": true
+      },
+      {
+        "id": "baa9700e-3598-43a2-9fa1-8cfaf1314b2e",
+        "position": 3,
+        "text": "Безпосередньо до гальмівної камери.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f8fdeda0-3d4a-4d66-9882-74ce07889aba",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 10,
+    "text": "У чому основна перевага гідравлічної гальмівної системи перед пневматичною гальмівною системою?",
+    "answerOptionList": [
+      {
+        "id": "3cce6095-7cff-4117-b0c1-fb2d828c4ef2",
+        "position": 1,
+        "text": "Відсутність гальмівної рідини.",
+        "isCorrect": false
+      },
+      {
+        "id": "d0204426-235d-4914-b110-9692b53ce8f8",
+        "position": 2,
+        "text": "Зменшення загальної маси деталей гальмівної системи.",
+        "isCorrect": false
+      },
+      {
+        "id": "7f91e119-2c75-4892-9448-5fdd8f2b986c",
+        "position": 3,
+        "text": "Швидкість спрацьовування гальмівних механізмів.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "87af43c8-b253-4280-a85b-6f4f3e4409fe",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 11,
+    "text": "Чи дозволено змішувати охолоджувальні рідини різних кольорів?",
+    "answerOptionList": [
+      {
+        "id": "07272bea-c148-463b-a964-f22903085f1a",
+        "position": 1,
+        "text": "Дозволено, тільки в пропорції 1/2.",
+        "isCorrect": false
+      },
+      {
+        "id": "9aff2256-9b96-4883-bb2f-f67e6c29af7d",
+        "position": 2,
+        "text": "Дозволено, тільки в пропорції 1/4.",
+        "isCorrect": false
+      },
+      {
+        "id": "f49d9070-db13-489c-8fda-f31311b4ba48",
+        "position": 3,
+        "text": "Заборонено.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fb72eaf8-6c12-4401-9b7e-593f12fa1370",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 12,
+    "text": "Як позначиться на автомобілі порушення герметичності гальмівної камери з одного боку під час гальмування?",
+    "answerOptionList": [
+      {
+        "id": "e691c500-8ba6-4e1d-a318-84ee76c613d2",
+        "position": 1,
+        "text": "Ніяк не позначиться.",
+        "isCorrect": false
+      },
+      {
+        "id": "feaa5e98-2b59-40b0-b126-ce437e42689b",
+        "position": 2,
+        "text": "Буде чутно сильне шипіння.",
+        "isCorrect": false
+      },
+      {
+        "id": "9094e799-2101-4c9c-a539-897d39f48338",
+        "position": 3,
+        "text": "Буде відчуватися відведення автомобіля.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "50f0a393-6e65-449f-b8c9-54c6e8972bd7",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 13,
+    "text": "Як визначити за краплиною моторної оливи потрапляння в систему мащення охолоджувальної рідини?",
+    "answerOptionList": [
+      {
+        "id": "95ce1348-0a4c-4d5e-b5ae-8049e011d7bc",
+        "position": 1,
+        "text": "Моторна олива стає молочного кольору.",
+        "isCorrect": true
+      },
+      {
+        "id": "02bc6309-c2cb-445a-b47e-6bd3091fcb33",
+        "position": 2,
+        "text": "Моторна олива стає фіолетового кольору.",
+        "isCorrect": false
+      },
+      {
+        "id": "63d950c7-5f0c-4f1b-8c79-4652fc1dbe05",
+        "position": 3,
+        "text": "Визначити неможливо.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6859b269-a131-4391-96f8-8e5e58884e63",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 14,
+    "text": "Транспортним засобом категорії D1 вважається механічний транспортний засіб, конструктивно призначений для перевезення не більше:",
+    "answerOptionList": [
+      {
+        "id": "26390559-7f7f-4d10-9fc3-a6c5850b6abc",
+        "position": 1,
+        "text": "16 пасажирів на сидіннях, крім водія.",
+        "isCorrect": true
+      },
+      {
+        "id": "ddcde689-2f54-4a09-8193-a1ff797f4ed3",
+        "position": 2,
+        "text": "18 пасажирів на сидіннях, крім водія.",
+        "isCorrect": false
+      },
+      {
+        "id": "39ec38fb-821f-4390-a58f-596bb803b3a3",
+        "position": 3,
+        "text": "20 пасажирів на сидіннях, крім водія.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9e0abbff-f159-40ac-a897-98b73767c6dc",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 15,
+    "text": "Під терміном «маршрутний транспортний засіб» мається на увазі:",
+    "answerOptionList": [
+      {
+        "id": "0f6427ad-e2a7-4d34-8be5-a4af940e1119",
+        "position": 1,
+        "text": "Транспортний засіб, що здійснює міжміські перевезення пасажирів громадськими дорогами з зупинками на автобусних станціях в проміжних населених пунктах.",
+        "isCorrect": false
+      },
+      {
+        "id": "a99d6fd4-2c4b-4f81-94ea-f3323ad4a9e1",
+        "position": 2,
+        "text": "Транспортний засіб загального користування (автобус, мікроавтобус, тролейбус, трамвай і таксі), що рухається за встановленим маршрутом і має певні місця на дорозі для посадки (висадки) пасажирів.",
+        "isCorrect": true
+      },
+      {
+        "id": "45b0a1db-cf3b-4564-99fc-a62fc9de2887",
+        "position": 3,
+        "text": "Транспортний засіб, призначений для перевезення людей за маршрутами, узгодженими з пасажирами, та з зупинками на їхню вимогу.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "19f4ef3a-d73a-4094-844b-3fa6fa8a9096",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 16,
+    "text": "Чи дозволено перевищувати рівень моторної оливи під час її заміни?",
+    "answerOptionList": [
+      {
+        "id": "3ac2294f-f008-4acb-945c-eac6b007778e",
+        "position": 1,
+        "text": "Ні, не дозволено.",
+        "isCorrect": true
+      },
+      {
+        "id": "b951d21b-4329-4a57-9b5b-3d6493e19eab",
+        "position": 2,
+        "text": "Дозволено — нічого страшного.",
+        "isCorrect": false
+      },
+      {
+        "id": "d8c464fc-44b8-469a-8a4e-3a6d6c313d9d",
+        "position": 3,
+        "text": "Дозволено після капремонту двигуна.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e0b7a1cc-d88e-41a2-9c4b-ca4816fe8364",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 17,
+    "text": "Як часто необхідно зливати воду з фільтра-відстійника на транспортних засобах з дизельними двигунами?",
+    "answerOptionList": [
+      {
+        "id": "59c33565-1e65-412c-a7b8-f26879d31d38",
+        "position": 1,
+        "text": "Кожен день.",
+        "isCorrect": false
+      },
+      {
+        "id": "cc8fcf59-0072-4846-b1a5-cfa342b79ca9",
+        "position": 2,
+        "text": "Раз на два місяці.",
+        "isCorrect": false
+      },
+      {
+        "id": "0d6355e7-dd41-4ee1-8888-28eede6084f1",
+        "position": 3,
+        "text": "Кожен раз під час заміни паливного фільтра.",
+        "isCorrect": true
+      },
+      {
+        "id": "3aea8c31-dbf6-401a-ae78-5bf31518da51",
+        "position": 4,
+        "text": "Через 35 000 км пробігу.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9b713eb4-ceb4-4e04-90cd-caaef0dfa8d9",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 18,
+    "text": "Вкажіть метод визначення причини нестабільних обертів холостого ходу.",
+    "answerOptionList": [
+      {
+        "id": "8a24d1e9-3a0c-479f-b89f-ffa52a7a2033",
+        "position": 1,
+        "text": "Метод зупинки шляхом відключення паливних форсунок по черзі.",
+        "isCorrect": true
+      },
+      {
+        "id": "f3c348a1-ec18-4871-a593-67ada4a53edd",
+        "position": 2,
+        "text": "Метод прослуховування.",
+        "isCorrect": false
+      },
+      {
+        "id": "0d1b1ed5-6355-45fd-8cb2-8c4e9372dfea",
+        "position": 3,
+        "text": "Порівняльний метод.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "578fdb2a-5d23-4a84-b9a7-1e06c99d9c71",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 19,
+    "text": "Вкажіть метод визначення причини, з якої двигун не запускається, коли обертається стартер.",
+    "answerOptionList": [
+      {
+        "id": "ac5c6017-67f7-47fc-9390-599ff781d374",
+        "position": 1,
+        "text": "Візуальний: огляд усіх з'єднань електропроводки.",
+        "isCorrect": false
+      },
+      {
+        "id": "cd83d507-1e9d-4fb6-aa9f-d1e499878a00",
+        "position": 2,
+        "text": "За допомогою спеціального діагностичного сканера помилок.",
+        "isCorrect": false
+      },
+      {
+        "id": "e72d030f-027a-4e53-a5bb-49b6f03b6b56",
+        "position": 3,
+        "text": "Діагностика кожного елемента системи запуску окремо.",
+        "isCorrect": false
+      },
+      {
+        "id": "41bca0ed-8274-4214-a04e-ab8dd5943504",
+        "position": 4,
+        "text": "Усі наведені вище варіанти.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "90ae8503-0a0c-44b8-affe-d0471abce34a",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 20,
+    "text": "Вкажіть метод визначення причини різкого збільшення зусилля на кермовому колесі.",
+    "answerOptionList": [
+      {
+        "id": "850cc334-49b5-4cf6-8fbe-79fad3aa6c08",
+        "position": 1,
+        "text": "Візуальний огляд елементів системи гідропідсилювача рульового керування.",
+        "isCorrect": false
+      },
+      {
+        "id": "f0721cd3-9340-49ae-8e3c-9fa4fd25485d",
+        "position": 2,
+        "text": "Вимірювання робочого тиску в системі гідропідсилювача рульового керування.",
+        "isCorrect": false
+      },
+      {
+        "id": "5631bb76-4b6d-4584-83c8-d3185047cd40",
+        "position": 3,
+        "text": "Діагностика під час руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "2b472683-c172-4993-8fc0-77d6ebcb9ce9",
+        "position": 4,
+        "text": "Варіанти 1 і 2.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "335c5ffa-6172-46cf-ac24-5ad0d88e8b27",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 21,
+    "text": "Вкажіть метод визначення причини надмірного зношення шин керованих коліс.",
+    "answerOptionList": [
+      {
+        "id": "5199623c-30b3-4240-973b-2a4118c2c470",
+        "position": 1,
+        "text": "За допомогою спеціального діагностичного обладнання/стенда.",
+        "isCorrect": true
+      },
+      {
+        "id": "38f14caa-179d-4101-ab97-465d1af70181",
+        "position": 2,
+        "text": "За допомогою візуального огляду.",
+        "isCorrect": false
+      },
+      {
+        "id": "22e0dc73-484c-47c4-b4b3-3883593496d5",
+        "position": 3,
+        "text": "За допомогою підручного інструменту.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "59ec470f-6f50-424e-adc4-b4e02f4d787a",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 22,
+    "text": "Вкажіть методи визначення надмірного зношення гальмівних колодок тільки з одного боку автомобіля.",
+    "answerOptionList": [
+      {
+        "id": "8823a640-687e-4d55-841c-c4939ad3956f",
+        "position": 1,
+        "text": "На слух.",
+        "isCorrect": false
+      },
+      {
+        "id": "cb51b7f1-109d-4dc4-9eea-e9fd5ba16ad3",
+        "position": 2,
+        "text": "За допомогою спеціального діагностичного стенда.",
+        "isCorrect": false
+      },
+      {
+        "id": "a6f64a41-948f-4b9f-9f87-16653619fe02",
+        "position": 3,
+        "text": "За допомогою вимірювального інструмента.",
+        "isCorrect": false
+      },
+      {
+        "id": "aca5389e-332a-4028-8742-db6c45a55f21",
+        "position": 4,
+        "text": "Усі варіанти підходять.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "68fd047d-b4ab-4959-9d65-819163d09ef0",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 23,
+    "text": "Назвіть тип гальмівної системи, що найчастіше застосовується у вантажних автомобілях і автобусах.",
+    "answerOptionList": [
+      {
+        "id": "b983ba29-7db2-446a-a800-46992f069e5f",
+        "position": 1,
+        "text": "Гідравлічна.",
+        "isCorrect": false
+      },
+      {
+        "id": "abcb628e-e185-4a90-8f8e-eaec95d22b99",
+        "position": 2,
+        "text": "Пневматична.",
+        "isCorrect": true
+      },
+      {
+        "id": "9d73e67a-6442-4737-b44f-8902324e8e37",
+        "position": 3,
+        "text": "Механічна.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0b28082a-9f3e-4d41-a700-b0e5a5b074eb",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 24,
+    "text": "Як дізнатися сторону встановлення колеса і шини з направленим малюнком протектора?",
+    "answerOptionList": [
+      {
+        "id": "b111ad7d-a6f5-4add-891e-ab0bc4744f92",
+        "position": 1,
+        "text": "Сторона встановлення в такому випадку не важлива.",
+        "isCorrect": false
+      },
+      {
+        "id": "ca67ca85-2622-4810-b19c-4b8832c855a1",
+        "position": 2,
+        "text": "На боковині шини буде намальована стрілка, що вказує напрямок обертання.",
+        "isCorrect": true
+      },
+      {
+        "id": "9fcba95f-4720-4d24-a250-866f42984e0b",
+        "position": 3,
+        "text": "Напрямок обертання відображає маркування шини.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a6aaa471-d885-4449-a0c9-6abe10f5cadb",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 25,
+    "text": "Назвіть основне призначення системи запалювання.",
+    "answerOptionList": [
+      {
+        "id": "32a8910b-c853-4ce9-af80-d3faf57cb45b",
+        "position": 1,
+        "text": "Займання паливо-повітряної суміші.",
+        "isCorrect": true
+      },
+      {
+        "id": "f658125c-1f09-4cb8-bc71-6eb3e251c02a",
+        "position": 2,
+        "text": "Підігрів повітря.",
+        "isCorrect": false
+      },
+      {
+        "id": "fda8f50d-1dcf-4574-b57d-35e2d0966ae1",
+        "position": 3,
+        "text": "Управління фарами головного освітлення.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "61e8bf2b-95a4-4d49-a9fa-5c9c98562aee",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 26,
+    "text": "Для чого служить стартер?",
+    "answerOptionList": [
+      {
+        "id": "b9e52532-b32a-475a-a3d8-e3f0ca91a1c2",
+        "position": 1,
+        "text": "Для старту автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "456be054-fe5f-4889-914a-e6499585a85d",
+        "position": 2,
+        "text": "Для пересування автомобіля на невелику відстань.",
+        "isCorrect": false
+      },
+      {
+        "id": "3fc6d66a-8d2c-45db-b029-c435feff818d",
+        "position": 3,
+        "text": "Для запуску двигуна.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "05aa8d96-2388-45af-94c2-397628fc1ebd",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 27,
+    "text": "У якій послідовності необхідно від'єднувати клеми від виводів акумуляторної батареї?",
+    "answerOptionList": [
+      {
+        "id": "8c75a58a-aea1-4933-b4c4-8b9711ff1907",
+        "position": 1,
+        "text": "Спочатку негативну, потім позитивну клему.",
+        "isCorrect": true
+      },
+      {
+        "id": "09f5bd54-6d94-4076-9fec-d153e970aa12",
+        "position": 2,
+        "text": "Спочатку позитивну, потім негативну клему.",
+        "isCorrect": false
+      },
+      {
+        "id": "88a53dcb-c2a4-4ebe-b2f9-058903b7fc57",
+        "position": 3,
+        "text": "Послідовність від'єднання не має значення.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a656b40f-dad7-413b-b3b3-abebfe12f2c9",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 28,
+    "text": "Для чого потрібна система охолодження двигуна?",
+    "answerOptionList": [
+      {
+        "id": "7e676cb2-df4a-47ef-a856-475ee804a059",
+        "position": 1,
+        "text": "Відведення тепла від найбільш нагрітих деталей двигуна.",
+        "isCorrect": false
+      },
+      {
+        "id": "b843e123-9a3f-4a42-a9f0-e1bd8d4f2e04",
+        "position": 2,
+        "text": "Підведення тепла до менш нагрітих деталей двигуна.",
+        "isCorrect": false
+      },
+      {
+        "id": "ce763383-824a-4159-94c1-61958869ae6d",
+        "position": 3,
+        "text": "Підтримка температури двигуна в певному робочому діапазоні.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3ff2251d-5e3d-4866-9ce4-f8de369b2b4b",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 29,
+    "text": "Для чого необхідне використання моторної оливи?",
+    "answerOptionList": [
+      {
+        "id": "3f98b4f5-b458-4232-9869-6fb90a1e86b1",
+        "position": 1,
+        "text": "Для поліпшення паливної економічності.",
+        "isCorrect": false
+      },
+      {
+        "id": "31340d35-99cb-4f3d-862b-df0f5c6ec38b",
+        "position": 2,
+        "text": "Тільки для охолодження тертьових деталей.",
+        "isCorrect": false
+      },
+      {
+        "id": "daf2de8d-5b50-4843-8e43-c11bb042ef96",
+        "position": 3,
+        "text": "Для відводу продуктів зносу від тертьових деталей.",
+        "isCorrect": false
+      },
+      {
+        "id": "2896f788-6bc7-48a3-8ce8-9a88dc582d5e",
+        "position": 4,
+        "text": "Для зменшення тертя.",
+        "isCorrect": false
+      },
+      {
+        "id": "23eb4f99-5203-413a-8d18-03ef313869f5",
+        "position": 5,
+        "text": "Відповіді 2, 3, 4.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "6e4892e0-8f30-4178-bd5d-32681a43cccb",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 30,
+    "text": "Для чого рекомендується замінювати моторну оливу в зимовий період?",
+    "answerOptionList": [
+      {
+        "id": "52b7dab4-0a51-4afa-a04b-a0cc3dc2d6d0",
+        "position": 1,
+        "text": "Через холоди в'язкість моторної оливи різко збільшується, і її ефективність знижується.",
+        "isCorrect": true
+      },
+      {
+        "id": "1bcd35ca-813c-4962-bb99-d884e248a222",
+        "position": 2,
+        "text": "Через холоди в'язкість моторної оливи різко зменшується, і її ефективність збільшується.",
+        "isCorrect": false
+      },
+      {
+        "id": "69323e71-8e6d-49c7-aee1-231624e1db14",
+        "position": 3,
+        "text": "Для поліпшення паливної економічності.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "87fb3c1e-6495-4093-b443-c52f7887e3da",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 31,
+    "text": "Звідки в паливній системі дизельного двигуна необхідно періодично зливати воду?",
+    "answerOptionList": [
+      {
+        "id": "cb765961-77bf-4bc6-b25c-9e491df83c7b",
+        "position": 1,
+        "text": "З паливного бака.",
+        "isCorrect": false
+      },
+      {
+        "id": "cbb69cb3-8508-4924-b29e-4894d045a2fc",
+        "position": 2,
+        "text": "З паливних магістралей.",
+        "isCorrect": false
+      },
+      {
+        "id": "05a2b87d-661a-4836-a360-a948041e0a0a",
+        "position": 3,
+        "text": "З паливного фільтра-відстійника.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b6b8000c-edb6-4617-b65c-1a4a4c210299",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 32,
+    "text": "Що включає в себе газорозподільний механізм?",
+    "answerOptionList": [
+      {
+        "id": "8f94265b-a90d-4939-b8f0-092e7feb14f5",
+        "position": 1,
+        "text": "Тільки кулачковий вал.",
+        "isCorrect": false
+      },
+      {
+        "id": "35e94e8d-489d-467f-97bd-68247b1700df",
+        "position": 2,
+        "text": "Тільки клапанний механізм.",
+        "isCorrect": false
+      },
+      {
+        "id": "12494d7f-a895-4955-a284-3c40b441b687",
+        "position": 3,
+        "text": "Кулачковий вал (вали) і клапанні механізми.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "278d2db7-08e9-462e-8301-96a01492571c",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 33,
+    "text": "З яких основних частин складається двигун внутрішнього згоряння?",
+    "answerOptionList": [
+      {
+        "id": "28102c0d-0749-4d39-bef9-7695775e0103",
+        "position": 1,
+        "text": "Головка блоку циліндрів з газорозподільним механізмом.",
+        "isCorrect": false
+      },
+      {
+        "id": "c2273665-1103-4cae-aa52-be3d5ec14ab1",
+        "position": 2,
+        "text": "Блок циліндрів з кривошипно-шатунним механізмом і оливним піддоном.",
+        "isCorrect": false
+      },
+      {
+        "id": "34944383-251f-4ecb-ac69-3d672dc8d366",
+        "position": 3,
+        "text": "З наведених вище частин.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cb258f54-9333-4728-9238-a25e25203b3a",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 34,
+    "text": "Чи потрібна система запалювання для дизельного двигуна?",
+    "answerOptionList": [
+      {
+        "id": "6642c795-0bb3-4ea9-93fd-809a65b31744",
+        "position": 1,
+        "text": "Потрібна обов'язково.",
+        "isCorrect": false
+      },
+      {
+        "id": "26a9577b-fa0a-4fcc-ba6d-c700e04fbefd",
+        "position": 2,
+        "text": "Потрібна частково.",
+        "isCorrect": false
+      },
+      {
+        "id": "1dd90f54-67df-4cb0-bfae-ee460c060c9f",
+        "position": 3,
+        "text": "Не потрібна.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "948eade7-5ef4-4593-bd65-4b1594132e36",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 35,
+    "text": "Для чого необхідна муфта зчеплення в трансмісії?",
+    "answerOptionList": [
+      {
+        "id": "b6c06dc1-8651-4218-8a8d-27857d61c5a3",
+        "position": 1,
+        "text": "Для тимчасового від'єднання двигуна від трансмісії.",
+        "isCorrect": false
+      },
+      {
+        "id": "794926e2-f019-4447-947f-7a9ef3dc5616",
+        "position": 2,
+        "text": "Для плавного приєднання двигуна до трансмісії.",
+        "isCorrect": false
+      },
+      {
+        "id": "53566d37-1d29-457a-8275-e9201aec9951",
+        "position": 3,
+        "text": "Для згладжування вібрацій.",
+        "isCorrect": false
+      },
+      {
+        "id": "7da49215-5a28-4846-9171-23697d7dd8b8",
+        "position": 4,
+        "text": "Усі перелічені вище варіанти.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b6092741-fea0-43df-bcb2-e1bd770e9ebd",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 36,
+    "text": "Для чого здійснюють балансування шин?",
+    "answerOptionList": [
+      {
+        "id": "e826fee9-897d-42fb-889e-15753b894289",
+        "position": 1,
+        "text": "Для запобігання биттю колеса під час руху.",
+        "isCorrect": true
+      },
+      {
+        "id": "4debd6cd-b282-461b-9b35-c4f978e3b45c",
+        "position": 2,
+        "text": "Для зменшення витрати палива.",
+        "isCorrect": false
+      },
+      {
+        "id": "9fed9e2a-2a80-4cde-b66a-c24e847e1663",
+        "position": 3,
+        "text": "Для покращення аеродинамічних показників автомобіля.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "72516160-8a74-4dc2-a9d6-60bdc9d50c52",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 37,
+    "text": "Які бувають типи шин?",
+    "answerOptionList": [
+      {
+        "id": "ee18e1c6-b352-460b-80de-8b578e06e43e",
+        "position": 1,
+        "text": "Штамповані та литі.",
+        "isCorrect": false
+      },
+      {
+        "id": "03997772-edc4-4c7b-b3f0-dfa4d5ebeb40",
+        "position": 2,
+        "text": "Дискові та бездискові.",
+        "isCorrect": false
+      },
+      {
+        "id": "18e8b727-70c6-42de-b638-c1905d9ff926",
+        "position": 3,
+        "text": "Камерні і безкамерні.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "4728a11b-3c06-4603-ba81-32cb8015f470",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 38,
+    "text": "Чи потрібно замінювати оливний фільтр під час заміни моторної оливи?",
+    "answerOptionList": [
+      {
+        "id": "5b539f83-fce3-4592-bc34-f04ba4ca7b8d",
+        "position": 1,
+        "text": "Завжди після зливання моторної оливи необхідно замінювати оливний фільтр.",
+        "isCorrect": true
+      },
+      {
+        "id": "870009d6-abdb-4b0e-b6b4-48113e8d6177",
+        "position": 2,
+        "text": "Якщо знову використовувати злиту оливу, можна не заміняти фільтр.",
+        "isCorrect": false
+      },
+      {
+        "id": "7e2a7c32-9828-4e16-b09e-486b9af0e775",
+        "position": 3,
+        "text": "Можна не замінювати оливний фільтр під час заміни моторної оливи.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f740323c-028a-465f-91cd-51bbcacebeed",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 39,
+    "text": "Що буде, якщо значно перевищити рівень моторної оливи в двигуні?",
+    "answerOptionList": [
+      {
+        "id": "7c20a094-e310-4afe-9fc1-f71bf40b3257",
+        "position": 1,
+        "text": "Нічого не буде, зайва олива вигорить.",
+        "isCorrect": false
+      },
+      {
+        "id": "2160ef20-9b9d-407d-9142-5ace6e1ecfe2",
+        "position": 2,
+        "text": "Впаде потужність двигуна через більший опір обертанню.",
+        "isCorrect": false
+      },
+      {
+        "id": "fd7d09a7-9262-4e4e-8dfc-3bafa65a1d32",
+        "position": 3,
+        "text": "Може пошкодитися оливний насос.",
+        "isCorrect": false
+      },
+      {
+        "id": "f193d6e5-99fe-41ce-82cd-5b48d55520cd",
+        "position": 4,
+        "text": "Через спінювання оливи може впасти її тиск і виникнути оливне голодування.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "990672b0-b193-41ce-bda1-373de7f52de0",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 40,
+    "text": "Який з перелічених нижче варіантів є описом в'язкості моторного масла за SAE?",
+    "answerOptionList": [
+      {
+        "id": "f89b5230-7884-4ad3-8fd4-8b4fa0e2bbcd",
+        "position": 1,
+        "text": "СJ-4.",
+        "isCorrect": false
+      },
+      {
+        "id": "a5486b98-bf6d-47ab-b375-63f25b7ce20e",
+        "position": 2,
+        "text": "5W30.",
+        "isCorrect": true
+      },
+      {
+        "id": "1b8032a6-adf2-442d-a427-945dad323b50",
+        "position": 3,
+        "text": "3V15.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f2f613c8-b97b-463a-97ec-5b047fb0aca3",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 41,
+    "text": "Чи можна змішувати охолоджувальну рідину різних кольорів?",
+    "answerOptionList": [
+      {
+        "id": "a4e844c0-d783-49aa-8ccc-2655cc454886",
+        "position": 1,
+        "text": "Так, можна.",
+        "isCorrect": false
+      },
+      {
+        "id": "9527e740-d22d-4c42-ba1e-501a78ab0170",
+        "position": 2,
+        "text": "Так, можна але в певних пропорціях.",
+        "isCorrect": false
+      },
+      {
+        "id": "704faeca-3709-4eba-96bc-8e4335e3a65c",
+        "position": 3,
+        "text": "Ні, не можна.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8de3a157-f6b0-458b-9d7f-503696254b32",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 42,
+    "text": "Для чого потрібен міжколісний диференціал?",
+    "answerOptionList": [
+      {
+        "id": "1e933a80-562a-4a0a-9c26-1748b478ecdb",
+        "position": 1,
+        "text": "Для поліпшення прохідності.",
+        "isCorrect": false
+      },
+      {
+        "id": "3fc837ec-1a7c-4631-818d-a02d8799f2db",
+        "position": 2,
+        "text": "Для того, щоб колеса під час повороту могли обертатися з різною швидкістю.",
+        "isCorrect": true
+      },
+      {
+        "id": "67f88d33-e66f-49b5-962f-dfbec31013e0",
+        "position": 3,
+        "text": "Для того, щоб колеса під час повороту могли обертатися з однаковою швидкістю.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "63fc8069-2eae-435c-b01c-eff417260a9f",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 43,
+    "text": "Чим загрожує неповне вимкнення зчеплення не до кінця натиснутою педаллю зчеплення?",
+    "answerOptionList": [
+      {
+        "id": "f45963f4-0094-4cb3-a6a6-09f43636bac3",
+        "position": 1,
+        "text": "Нічим не загрожує.",
+        "isCorrect": false
+      },
+      {
+        "id": "e0354db7-392f-48c2-9763-5f8019d49e82",
+        "position": 2,
+        "text": "Надмірним зношенням зубчастих коліс у коробці передач.",
+        "isCorrect": false
+      },
+      {
+        "id": "6d4c67c7-13af-45f2-85a2-f8d68aa91526",
+        "position": 3,
+        "text": "Надмірним зношенням синхронізаторів і зубчастих коліс, якщо вони не синхронізовані.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "4afeaccb-febe-4d63-bf0c-f854215e04b4",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 44,
+    "text": "Що означає поняття «веде зчеплення»?",
+    "answerOptionList": [
+      {
+        "id": "abefb8ac-a26a-45c6-b82f-7285bb7969bd",
+        "position": 1,
+        "text": "Неповне вимкнення зчеплення.",
+        "isCorrect": true
+      },
+      {
+        "id": "c94f3bde-6007-46f5-b990-d5b4e5ef8cff",
+        "position": 2,
+        "text": "Нахил зчеплення.",
+        "isCorrect": false
+      },
+      {
+        "id": "9557880e-a998-4196-834d-36f14ca4dfe9",
+        "position": 3,
+        "text": "Відведення автомобіля через зчеплення.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "dc928e80-3964-4994-bf9d-4891759ed4de",
+    "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "order": 45,
+    "text": "До автопоїздів (транспортних составів) належать:",
+    "answerOptionList": [
+      {
+        "id": "fd7d0457-8365-445a-982c-1a9a1c003c0d",
+        "position": 1,
+        "text": "Два і більше механічних транспортних засоби, з'єднані гнучкою зчіпкою.",
+        "isCorrect": false
+      },
+      {
+        "id": "aa911d80-6813-4259-8b78-86fd867ebbeb",
+        "position": 2,
+        "text": "Два механічних транспортних засоби, з'єднані жорсткою зчіпкою.",
+        "isCorrect": false
+      },
+      {
+        "id": "31093bc9-959f-4c92-8290-d84661015963",
+        "position": 3,
+        "text": "Механічний транспортний засіб, поєднаний з одним або кількома причепами за допомогою зчіпного пристрою.",
+        "isCorrect": true
+      },
+      {
+        "id": "7c4fe281-9561-462a-acf5-793059ad324b",
+        "position": 4,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

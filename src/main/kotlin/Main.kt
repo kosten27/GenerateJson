@@ -15,34 +15,34 @@ import kotlin.uuid.Uuid
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 @OptIn(ExperimentalUuidApi::class, ExperimentalSerializationApi::class)
 fun main() {
-    val sectionJsonString = File("src/main/resources/themes.json").readText()
-    val sectionList = Json.decodeFromString<List<PopulateThemeModel>>(sectionJsonString)
+    val themeJsonString = File("src/main/resources/themes.json").readText()
+    val themeList = Json.decodeFromString<List<PopulateThemeModel>>(themeJsonString)
 
     val questionIds = mutableMapOf<String, Uuid>()
     val questionOptionIds = mutableMapOf<String, Uuid>()
-    val questionsSectionFiles = File("src/main/resources/questions_section_files.txt").readText().split("\n")
-    questionsSectionFiles.forEach { questionsSectionFile ->
-        val questionsSectionText = File("src/main/resources/$questionsSectionFile").readText()
-        val questionList = Json.decodeFromString<List<PopulateQuestionModel>>(questionsSectionText)
-        val currentSectionQuestionIds = questionList.associate { question ->
-            val section = sectionList.find { section ->
-                section.id == question.themeId
+    val themeQuestionFiles = File("src/main/resources/questions_theme_files.txt").readText().split("\n")
+    themeQuestionFiles.forEach { themeQuestionFile ->
+        val themeQuestionText = File("src/main/resources/$themeQuestionFile").readText()
+        val questionList = Json.decodeFromString<List<PopulateQuestionModel>>(themeQuestionText)
+        val currentThemeQuestionIds = questionList.associate { question ->
+            val theme = themeList.find { theme ->
+                theme.id == question.themeId
             }
-            val sectionNumber = section?.let {
+            val themeNumber = theme?.let {
                 it.order.toString() + it.suborder?.let { suborder -> ".$suborder" }.orEmpty()
             }
-            "${sectionNumber}_${question.order}" to Uuid.parse(question.id)
+            "${themeNumber}_${question.order}" to Uuid.parse(question.id)
         }
-        questionIds.putAll(currentSectionQuestionIds)
+        questionIds.putAll(currentThemeQuestionIds)
 
         questionList.forEach { question ->
-            val section = sectionList.find { section ->
-                section.id == question.themeId
+            val theme = themeList.find { theme ->
+                theme.id == question.themeId
             }
-            val sectionNumber = section?.let {
+            val themeNumber = theme?.let {
                 it.order.toString() + it.suborder?.let { suborder -> ".$suborder" }.orEmpty()
             }
-            val questionIdKey = "${sectionNumber}_${question.order}"
+            val questionIdKey = "${themeNumber}_${question.order}"
             val currentQuestionAnswerOptionIds = question.answerOptionList.associate { answerOption ->
                 "${questionIdKey}_${answerOption.position}" to Uuid.parse(answerOption.id)
             }
@@ -50,30 +50,30 @@ fun main() {
         }
     }
 
-    val sectionsWithImagesString = parseSectionsWithImages(File("src/main/resources/question_images.txt").readText())
+    val themeWithImagesString = parseQuestionsWithImages(File("src/main/resources/question_images.txt").readText())
     val answersString = File("src/main/resources/answers.txt").readText().split("\n")
 
-    val answerSectionRegex = Regex("""^(\d*.\d*):(.+)""")
+    val answerThemeRegex = Regex("""^(\d*.\d*):(.+)""")
     val answerPairRegex = Regex("""(\d+)-(\d+)""")
     val answerMap: MutableMap<String, Map<Int, Int>> = mutableMapOf()
     answersString.forEach { line ->
-        if (answerSectionRegex.matches(line)) {
-            val matchResult = answerSectionRegex.find(line)!!
-            val sectionId = matchResult.groupValues[1]
-            val sectionAnswers = answerPairRegex.findAll(matchResult.groupValues[2]).map {
+        if (answerThemeRegex.matches(line)) {
+            val matchResult = answerThemeRegex.find(line)!!
+            val themeId = matchResult.groupValues[1]
+            val themeAnswers = answerPairRegex.findAll(matchResult.groupValues[2]).map {
                 val (a, b) = it.destructured
                 a.toInt() to b.toInt()
             }.toMap()
-            answerMap[sectionId] = sectionAnswers
+            answerMap[themeId] = themeAnswers
         }
     }
 
-    val sections = mutableListOf<Section>()
-    var currentSection: Section? = null
-    var currentSectionWithImages: SectionImages? = null
+    val themes = mutableListOf<Theme>()
+    var currentTheme: Theme? = null
+    var currentThemeWithImages: ThemeImages? = null
     var currentQuestion: Question? = null
 
-    val sectionRegex = Regex("""^(\d+(.\d)?)\.\s+([A-ZА-ЯІЇЄҐ0-9\s'’\-(),]+)$""")
+    val themeRegex = Regex("""^(\d+(.\d)?)\.\s+([A-ZА-ЯІЇЄҐ0-9\s'’\-(),]+)$""")
     val questionRegex = Regex("""^(\d+)\.\s+(.+)$""")
     val answerRegex = Regex("""^(\d+)\)\s+(.+)$""")
 
@@ -82,22 +82,22 @@ fun main() {
         val trimmed = line.trim()
 
         when {
-            // SECTION
-            sectionRegex.matches(trimmed) -> {
-                val match = sectionRegex.find(trimmed)!!
+            // THEME
+            themeRegex.matches(trimmed) -> {
+                val match = themeRegex.find(trimmed)!!
                 val title = match.groupValues[3].trim()
-                val populateSectionModel = sectionList.find { it.title == title }
-                val id = populateSectionModel?.id
-                currentSection = Section(
+                val populateThemeModel = themeList.find { it.title == title }
+                val id = populateThemeModel?.id
+                currentTheme = Theme(
                     id = id?.let { Uuid.parse(id) },
                     order = match.groupValues[1].trim(),
                     title = title
                 )
-                val sectionOrder = populateSectionModel?.let { model ->
+                val themeOrder = populateThemeModel?.let { model ->
                     model.order.toString() + (model.suborder?.let { ".$it" } ?: "")
                 }
-                currentSectionWithImages = sectionsWithImagesString.find { it.sectionOrder == sectionOrder }
-                sections += currentSection!!
+                currentThemeWithImages = themeWithImagesString.find { it.themeOrder == themeOrder }
+                themes += currentTheme!!
                 currentQuestion = null
             }
 
@@ -106,11 +106,11 @@ fun main() {
                 val match = questionRegex.find(trimmed)!!
                 val questionOrder = match.groupValues[1].toInt()
                 var imageResId: String? = null
-                if (currentSectionWithImages?.questionsWithImage?.contains(questionOrder) == true) {
-                    val sectionOrder = currentSectionWithImages?.sectionOrder?.replace(".", "_")
-                    imageResId = "image_s${sectionOrder}_q${questionOrder.toString().padStart(3, '0')}"
+                if (currentThemeWithImages?.questionsWithImage?.contains(questionOrder) == true) {
+                    val themeOrder = currentThemeWithImages?.themeOrder?.replace(".", "_")
+                    imageResId = "image_t${themeOrder}_q${questionOrder.toString().padStart(3, '0')}"
                 }
-                val questionIdKey =  "${currentSection?.order}_${questionOrder}"
+                val questionIdKey =  "${currentTheme?.order}_${questionOrder}"
                 val questionId = questionIds[questionIdKey]
                 currentQuestion = Question(
                     id = questionId ?: Uuid.random(),
@@ -118,35 +118,35 @@ fun main() {
                     text = match.groupValues[2].trim(),
                     imageResId = imageResId
                 )
-                currentSection?.questions?.add(currentQuestion!!)
+                currentTheme?.questions?.add(currentQuestion!!)
             }
 
             // ANSWER
             answerRegex.matches(trimmed) -> {
                 val match = answerRegex.find(trimmed)!!
-                val sectionId = currentSection?.order
+                val themeId = currentTheme?.order
                 val questionNumber = currentQuestion?.order
                 val optionPosition = match.groupValues[1].toInt()
-                val optionIdKey =  "${currentSection?.order}_${currentQuestion?.order}_${optionPosition}"
+                val optionIdKey =  "${currentTheme?.order}_${currentQuestion?.order}_${optionPosition}"
                 val optionId = questionOptionIds[optionIdKey]
                 val answer = Answer(
                     id = optionId ?: Uuid.random(),
                     position = optionPosition,
                     text = match.groupValues[2].trim(),
-                    isCorrect = answerMap[sectionId]?.get(questionNumber) == optionPosition
+                    isCorrect = answerMap[themeId]?.get(questionNumber) == optionPosition
                 )
                 currentQuestion?.answerOptionList?.add(answer)
             }
         }
 
     }
-    val generatedData = sections.associate { section ->
-        val sectionNumber = section.order.replace(".", "_")
-        val fileName = "questions_section${sectionNumber}.json"
-        val questions = section.questions.map { question ->
+    val generatedData = themes.associate { theme ->
+        val themeNumber = theme.order.replace(".", "_")
+        val fileName = "questions_theme${themeNumber}.json"
+        val questions = theme.questions.map { question ->
             PopulateQuestionModel(
                 id = question.id.toString(),
-                themeId = section.id.toString(),
+                themeId = theme.id.toString(),
                 order = question.order,
                 text = question.text,
                 imageResId = question.imageResId,
@@ -173,18 +173,18 @@ fun main() {
 
 }
 
-fun parseSectionsWithImages(input: String): List<SectionImages> {
+fun parseQuestionsWithImages(input: String): List<ThemeImages> {
     val lines = input.trim().lines()
-    val sectionRegex = Regex("""^(\d+(.\d)?):(.*)$""")
+    val themeRegex = Regex("""^(\d+(.\d)?):(.*)$""")
 
     return lines.mapNotNull { line ->
-        val match = sectionRegex.matchEntire(line) ?: return@mapNotNull null
+        val match = themeRegex.matchEntire(line) ?: return@mapNotNull null
 
-        val sectionId = match.groupValues[1]
+        val themeId = match.groupValues[1]
         val raw = match.groupValues[3].trim()
 
         if (raw.isEmpty()) {
-            SectionImages(sectionId, emptyList())
+            ThemeImages(themeId, emptyList())
         } else {
             val questions = raw.split(",")
                 .flatMap { part ->
@@ -196,17 +196,17 @@ fun parseSectionsWithImages(input: String): List<SectionImages> {
                     }
                 }
 
-            SectionImages(sectionId, questions)
+            ThemeImages(themeId, questions)
         }
     }
 }
 
-data class SectionImages(
-    val sectionOrder: String,
+data class ThemeImages(
+    val themeOrder: String,
     val questionsWithImage: List<Int>
 )
 
-data class Section(
+data class Theme(
     val id: Uuid?,
     val order: String,
     val title: String,
