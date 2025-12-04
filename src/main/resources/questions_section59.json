@@ -1,7 +1,7 @@
 [
   {
     "id": "ec86eeee-934a-421c-8ac8-1a5819aebf85",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 1,
     "text": "При русі заднім ходом на автомобілі з причепом:",
     "answerOptionList": [
@@ -21,7 +21,7 @@
   },
   {
     "id": "cf7b39d2-bdd8-412d-bcb9-f83c1d0fabab",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 2,
     "text": "При русі заднім ходом на автомобілі з причепом:",
     "answerOptionList": [
@@ -41,7 +41,7 @@
   },
   {
     "id": "ff2c1eb3-4948-4c26-b029-41089c05eb54",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 3,
     "text": "Рухаючись на автомобілі з причепом, які дії Ви повинні виконати, щоб запобігти його перекидання?",
     "answerOptionList": [
@@ -67,7 +67,7 @@
   },
   {
     "id": "fe47f6d7-e84a-46d5-b86b-9c458a3340a0",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 4,
     "text": "Що найчастіше призводить до перекидання причепа.",
     "answerOptionList": [
@@ -99,7 +99,7 @@
   },
   {
     "id": "cae9c278-01df-437b-ab93-68899f2f0c23",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 5,
     "text": "Під час руху з причепом, для обгону інших транспортних засобів необхідно:",
     "answerOptionList": [
@@ -125,7 +125,7 @@
   },
   {
     "id": "28987d34-12a6-49a9-a5ad-8a6419743296",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 6,
     "text": "Перед кожним виїздом з причепом необхідно:",
     "answerOptionList": [
@@ -157,7 +157,7 @@
   },
   {
     "id": "91fed793-fedf-4034-bf55-c6581a5258ee",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 7,
     "text": "При поворотах колеса причепа рухаються:",
     "answerOptionList": [
@@ -183,7 +183,7 @@
   },
   {
     "id": "b8f7367d-c4d1-4cbc-a896-6ea18521a56f",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 8,
     "text": "Перевищувати максимальну швидкість, зазначену в технічній документації причепа:",
     "answerOptionList": [
@@ -209,7 +209,7 @@
   },
   {
     "id": "d61e6a92-9b09-44e8-beda-391cb86338df",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 9,
     "text": "Правильно завантажений причіп, якщо:",
     "answerOptionList": [
@@ -235,7 +235,7 @@
   },
   {
     "id": "46b42e46-4bef-43e6-8aeb-4b4a94678245",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 10,
     "text": "Завантажений причіп:",
     "answerOptionList": [
@@ -261,7 +261,7 @@
   },
   {
     "id": "f7deac3c-be1d-42f8-8d23-ec1ba1188f73",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 11,
     "text": "По якій траєкторії рухається причіп легкового автомобіля при проходженні повороту?",
     "answerOptionList": [
@@ -287,7 +287,7 @@
   },
   {
     "id": "8694b27f-cc61-4af0-87b9-0e7bb1902e2b",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 12,
     "text": "Як змінюється довжина гальмівного шляху легкового автомобіля при русі з причепом, що не має гальмівної системи?",
     "answerOptionList": [
@@ -313,7 +313,7 @@
   },
   {
     "id": "98312b22-0c3b-46a5-9d8e-d5588bdf32ef",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 13,
     "text": "За дотримання яких умов дозволена експлуатація транспортного состава у складі автобуса і причепа?",
     "answerOptionList": [
@@ -339,7 +339,7 @@
   },
   {
     "id": "4898dc13-660a-4bfa-9afc-de3800d6c3ea",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 14,
     "text": "За дотримання яких з умов дозволяється експлуатація транспортних составів у складі автомобіля і причепа?",
     "answerOptionList": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "0b5df173-589d-4407-ac48-cbc6a50a64d1",
-    "sectionId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
+    "themeId": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
     "order": 15,
     "text": "Що рекомендується при першому досвіді керування автомобілем з причепом:",
     "answerOptionList": [

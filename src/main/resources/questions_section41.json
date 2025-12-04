@@ -1,7 +1,7 @@
 [
   {
     "id": "70f661b9-53c9-4d37-af0a-4e6385d87634",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 1,
     "text": "Мотоциклом вважається:",
     "imageResId": "image_s41_q001",
@@ -34,7 +34,7 @@
   },
   {
     "id": "0f976df0-1eff-430c-af7a-1fa93242ed14",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 2,
     "text": "Мопедом вважається:",
     "imageResId": "image_s41_q002",
@@ -55,7 +55,7 @@
   },
   {
     "id": "6625d71f-94c7-4cf5-929b-e6b567ede9ef",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 3,
     "text": "Як часто рекомендують перевіряти зчеплення мотоцикла?",
     "answerOptionList": [
@@ -81,7 +81,7 @@
   },
   {
     "id": "3c481760-09dd-440d-9f2a-0026daeea8cf",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 4,
     "text": "Коли на задньому сидінні мотоцикла є пасажир, як це позначається на ходових якостях мотоцикла?",
     "answerOptionList": [
@@ -101,7 +101,7 @@
   },
   {
     "id": "5461c837-ab8e-4ed7-80b0-fa81134e63d0",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 5,
     "text": "Для чого необхідно вимірювати густину гальмівної рідини в процесі обслуговування транспортного засобу?",
     "answerOptionList": [
@@ -127,7 +127,7 @@
   },
   {
     "id": "73b59c16-267c-4ecc-bd2a-fad5d340bee6",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 6,
     "text": "Що обов'язково необхідно зробити після тривалої поїздки на мотоциклі (мопеді) під дощем?",
     "answerOptionList": [
@@ -153,7 +153,7 @@
   },
   {
     "id": "c80ea77d-e5a3-4b00-afa3-4ed9d06a4d05",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 7,
     "text": "Під час проїзду забрудненої ділянки на мотоциклі з повітряним охолодженням двигуна потрібно...",
     "answerOptionList": [
@@ -179,7 +179,7 @@
   },
   {
     "id": "d3aa219b-0d5e-42c8-a197-391c91f49100",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 8,
     "text": "Що сприяє недопущенню неконтрольованого биття колеса на швидкості (вобблінгу)?",
     "answerOptionList": [
@@ -211,7 +211,7 @@
   },
   {
     "id": "e248f1ea-7b66-41c5-a444-3ad5c972de5b",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 9,
     "text": "До чого може призвести недостатній тиск повітря в шинах коліс?",
     "answerOptionList": [
@@ -237,7 +237,7 @@
   },
   {
     "id": "662f07ed-c65f-44b0-ad6e-ea7a94e7c97d",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 10,
     "text": "Як часто рекомендують перевіряти рівень моторної оливи?",
     "answerOptionList": [
@@ -263,7 +263,7 @@
   },
   {
     "id": "956d4ffd-f3e7-4bf4-920b-d13d69dfda41",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 11,
     "text": "Вкажіть, що потрібно перевірити перед початком руху.",
     "answerOptionList": [
@@ -289,7 +289,7 @@
   },
   {
     "id": "cf554811-8647-4298-a65b-e4d02e9f2167",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 12,
     "text": "Як може вплинути розтягнення ланцюга з часом на процес експлуатації мотоцикла?",
     "answerOptionList": [
@@ -315,7 +315,7 @@
   },
   {
     "id": "df8c7d0e-7c20-4046-b315-e7c60cdfd629",
-    "sectionId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
+    "themeId": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
     "order": 13,
     "text": "Чому заднє колесо мотоцикла при гальмуванні більш схильне до блокування, ніж переднє?Так як при гальмуванні заднє колесо:",
     "answerOptionList": [

@@ -1,7 +1,7 @@
 [
   {
     "id": "c3cfe246-ee73-4cff-b2d1-801837dbb2b1",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 1,
     "text": "Чи зобов'язані водії та пасажири мотоциклів і мопедів бути в застебнутих мотошоломах?",
     "imageResId": "image_s43_q001",
@@ -28,7 +28,7 @@
   },
   {
     "id": "da6916cd-f29e-4e84-89a7-6e71fc531f58",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 2,
     "text": "Які зовнішні світлові пристрої повинні бути ввімкнені на мопедах і велосипедах під час руху в темний час доби незалежно від ступеня освітлення дороги?",
     "answerOptionList": [
@@ -54,7 +54,7 @@
   },
   {
     "id": "19512c44-aec7-47ff-8a40-76f5c5cd5a50",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 3,
     "text": "Які з перерахованих транспортних засобів дозволяється експлуатувати без вогнегасника?",
     "answerOptionList": [
@@ -86,7 +86,7 @@
   },
   {
     "id": "f3e6300b-ae3b-431a-b3be-f32ebefb993b",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 4,
     "text": "Ви, рухаючись на мотоциклі, потрапили в порив сильного вітру. Ваші дії:",
     "answerOptionList": [
@@ -124,7 +124,7 @@
   },
   {
     "id": "178b9520-5184-43c4-b195-5d4f5184182a",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 5,
     "text": "У мокру погоду або в дощ найкраще гальмувати:",
     "answerOptionList": [
@@ -162,7 +162,7 @@
   },
   {
     "id": "16366533-8f48-49e8-bf38-cc1806f209ea",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 6,
     "text": "При їзді по дорогах з гравійним покриттям на мотоциклі (мопеді) потрібно:",
     "answerOptionList": [
@@ -200,7 +200,7 @@
   },
   {
     "id": "0781e139-d9ba-4eef-a5a2-fc6a64f20eb8",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 7,
     "text": "При їзді по гравійним дорогам, керуючи мотоциклом, Ви повинні:",
     "answerOptionList": [
@@ -238,7 +238,7 @@
   },
   {
     "id": "c881adc1-a3db-4f10-a9bd-78fd055768c3",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 8,
     "text": "Щоб водію мотоцикла (мопеда) знизити швидкість на гравійній дорозі, потрібно:",
     "answerOptionList": [
@@ -270,7 +270,7 @@
   },
   {
     "id": "d182a67f-7019-47cb-a27c-81ec3039dac2",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 9,
     "text": "У момент повороту на перехресті ви розумієте, що під колесами мотоцикла знаходиться пісок або гравій. Ваші дії:",
     "answerOptionList": [
@@ -302,7 +302,7 @@
   },
   {
     "id": "a7f49404-6449-41c5-a64b-1e2aa8509a07",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 10,
     "text": "Якщо водію мотоцикла (мопеда) на швидкості необхідно зробити швидкий маневр вліво для ухилення від перешкоди, потрібно:",
     "answerOptionList": [
@@ -334,7 +334,7 @@
   },
   {
     "id": "8bade251-4426-4b18-841a-d6d25733975b",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 11,
     "text": "Що потрібно зробити, якщо ви проїхали по купі сміття на мотоциклі (мопеді):",
     "answerOptionList": [
@@ -366,7 +366,7 @@
   },
   {
     "id": "693a4888-5def-432b-8cff-dbb32a78d68b",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 12,
     "text": "При перетині залізничного переїзду:",
     "answerOptionList": [
@@ -398,7 +398,7 @@
   },
   {
     "id": "736f8c3d-1ac5-4585-a262-a1047636f11c",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 13,
     "text": "Якщо на вашому шляху переїзд з металевих листів:",
     "answerOptionList": [
@@ -430,7 +430,7 @@
   },
   {
     "id": "bb46e158-e56e-41ce-a186-adf9602d7b4d",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 14,
     "text": "Найкращий спосіб проїхати ділянку на мотоциклі (мопеді) зі знятим асфальтом:",
     "answerOptionList": [
@@ -462,7 +462,7 @@
   },
   {
     "id": "7077a60d-438c-4dd3-976a-3d3d70288239",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 15,
     "text": "Що слід враховувати і як правильно діяти водію мотоцикла перетинаючи ділянки доріг з дорожньою розміткою (пішохідні переходи і т.д.):",
     "answerOptionList": [
@@ -494,7 +494,7 @@
   },
   {
     "id": "7e67068e-c70f-4807-9201-efce09be6050",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 16,
     "text": "Як ви повинні вчинити, якщо під час руху відмовив у роботі спідометр на мотоциклі?",
     "answerOptionList": [
@@ -520,7 +520,7 @@
   },
   {
     "id": "33aa27f7-f653-48cf-8014-ab61215b8e8d",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 17,
     "text": "У якому місці водій мотоцикла повинен зупинити свій транспортний засіб на залізничному переїзді?",
     "answerOptionList": [
@@ -546,7 +546,7 @@
   },
   {
     "id": "e1f474e2-d440-4de4-a167-32c7d3ac19a3",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 18,
     "text": "Чим повинен керуватися водій мотоцикла під час проїзду залізничного переїзду?",
     "answerOptionList": [
@@ -584,7 +584,7 @@
   },
   {
     "id": "5f90ea38-d18e-481b-89ce-fbe4bcfc6c7d",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 19,
     "text": "За яких умов дозволено перевозити дітей на задньому сидінні мотоцикла та мопеда?",
     "answerOptionList": [
@@ -610,7 +610,7 @@
   },
   {
     "id": "f6899e7e-ccde-4f8b-8c3b-473eda414314",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 20,
     "text": "Що з переліченого екіпірування для водіїв транспортних засобів категорій А, А1 є обов'язковим до застосування?",
     "answerOptionList": [
@@ -636,7 +636,7 @@
   },
   {
     "id": "e94faa1c-e459-49bd-8d86-0de04614c3e3",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 21,
     "text": "Що з переліченого екіпірування водіям транспортних засобів категорій А, А1 рекомендується до застосування?",
     "answerOptionList": [
@@ -662,7 +662,7 @@
   },
   {
     "id": "279fff59-da81-4479-ad38-6ee38bd42bbc",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 22,
     "text": "Чи обов'язково застібати мотошолом під час руху зі швидкістю до 15 км/год.?",
     "answerOptionList": [
@@ -688,7 +688,7 @@
   },
   {
     "id": "39f5add5-08b8-471d-9949-45f138a436b5",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 23,
     "text": "Чи можна знімати мотошолом під час руху?",
     "answerOptionList": [
@@ -714,7 +714,7 @@
   },
   {
     "id": "d47c4766-3014-49b6-8137-26ef822afaee",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 24,
     "text": "Чи можна перевозити пасажирів без мотошоломів?",
     "answerOptionList": [
@@ -740,7 +740,7 @@
   },
   {
     "id": "f038094f-07f4-4fc2-a83f-863797dd8a12",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 25,
     "text": "Чи варто враховувати обмежену видимість мотоцикла в дзеркалі автомобіля, що їде попереду, під час виконання обгону або об'їзду?",
     "answerOptionList": [
@@ -766,7 +766,7 @@
   },
   {
     "id": "bc3e3d14-9b15-40a5-a2e8-d7455600365e",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 26,
     "text": "Що варто враховувати мотоциклістові під час під'їзду до автопоїзда?",
     "answerOptionList": [
@@ -792,7 +792,7 @@
   },
   {
     "id": "12f0f526-de74-4277-9dc9-3bc145f7ef3c",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 27,
     "text": "Що дозволяється робити мотоциклістові в разі затору?",
     "answerOptionList": [
@@ -818,7 +818,7 @@
   },
   {
     "id": "bac2df2a-57fc-415a-abb8-bebe0d980309",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 28,
     "text": "Що зобов'язаний зробити водій мотоцикла перед виїздом?",
     "answerOptionList": [
@@ -844,7 +844,7 @@
   },
   {
     "id": "28196511-eb2f-4dfd-be71-f2062d22d9d0",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 29,
     "text": "Для забезпечення безпеки дорожнього руху водій мотоцикла зобов'язаний...",
     "answerOptionList": [
@@ -882,7 +882,7 @@
   },
   {
     "id": "4a8c3686-487e-4920-834d-89f63041bc1e",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 30,
     "text": "Як ви повинні вчинити в ситуації, коли автомобіль, що їде перед вами, спочатку почав знижувати швидкість, а потім і зовсім зупинився перед нерегульованим пішохідним переходом?",
     "answerOptionList": [
@@ -908,7 +908,7 @@
   },
   {
     "id": "1c7ccb1d-76ee-4663-91c5-bc73c5bb7c8a",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 31,
     "text": "На якій відстані до зустрічного транспортного засобу необхідно переключити дальнє світло на ближнє в темний час доби рухаючись на мотоциклі?",
     "answerOptionList": [
@@ -940,7 +940,7 @@
   },
   {
     "id": "3748bb8b-77c1-4793-9329-d26efadc2bd0",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 32,
     "text": "Як повинен вчинити водій мотоцикла, який рухається з дальнім світлом фар у темний час доби, якщо водії зустрічних транспортних засобів, що знаходяться на відстані більше ніж 250 м, періодично перемикають світло фар?",
     "answerOptionList": [
@@ -966,7 +966,7 @@
   },
   {
     "id": "89811420-bfb2-47af-a62d-91de95bbf87c",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 33,
     "text": "Водії мотоциклів та мопедів можуть перетинати залізничні колії лише:",
     "answerOptionList": [
@@ -1004,7 +1004,7 @@
   },
   {
     "id": "143ea92c-efee-4ccb-a8b3-622439fa818d",
-    "sectionId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
+    "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 34,
     "text": "Ви рухалися на мотоциклі без коляски. Тепер Ви пересіли на мотоцикл з коляскою (коляска справа, без гальм). Що зміниться?",
     "answerOptionList": [

@@ -2,7 +2,7 @@
 
 package org.example
 
-import PopulateSectionModel
+import PopulateThemeModel
 import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.json.Json
 import tech.uniapp.pdr.launch.domain.model.PopulateAnswerOptionModel
@@ -15,8 +15,8 @@ import kotlin.uuid.Uuid
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 @OptIn(ExperimentalUuidApi::class, ExperimentalSerializationApi::class)
 fun main() {
-    val sectionJsonString = File("src/main/resources/sections.json").readText()
-    val sectionList = Json.decodeFromString<List<PopulateSectionModel>>(sectionJsonString)
+    val sectionJsonString = File("src/main/resources/themes.json").readText()
+    val sectionList = Json.decodeFromString<List<PopulateThemeModel>>(sectionJsonString)
 
     val questionIds = mutableMapOf<String, Uuid>()
     val questionOptionIds = mutableMapOf<String, Uuid>()
@@ -26,7 +26,7 @@ fun main() {
         val questionList = Json.decodeFromString<List<PopulateQuestionModel>>(questionsSectionText)
         val currentSectionQuestionIds = questionList.associate { question ->
             val section = sectionList.find { section ->
-                section.id == question.sectionId
+                section.id == question.themeId
             }
             val sectionNumber = section?.let {
                 it.order.toString() + it.suborder?.let { suborder -> ".$suborder" }.orEmpty()
@@ -37,7 +37,7 @@ fun main() {
 
         questionList.forEach { question ->
             val section = sectionList.find { section ->
-                section.id == question.sectionId
+                section.id == question.themeId
             }
             val sectionNumber = section?.let {
                 it.order.toString() + it.suborder?.let { suborder -> ".$suborder" }.orEmpty()
@@ -146,7 +146,7 @@ fun main() {
         val questions = section.questions.map { question ->
             PopulateQuestionModel(
                 id = question.id.toString(),
-                sectionId = section.id.toString(),
+                themeId = section.id.toString(),
                 order = question.order,
                 text = question.text,
                 imageResId = question.imageResId,
