@@ -198,7 +198,7 @@ fun main() {
         val lastQuestionOrder = theme.questions.last().order
         val questionNumberInLastStage = lastQuestionOrder % 10
         val stages = (1..lastQuestionOrder step 10)
-            .filter { i -> questionNumberInLastStage >= 5 || i < lastQuestionOrder - questionNumberInLastStage }
+            .filter { i -> questionNumberInLastStage >= 5 || i < lastQuestionOrder - questionNumberInLastStage || lastQuestionOrder < 5}
             .mapIndexed { index, i ->
 //            if (questionNumberInLastStage < 5 && i > lastQuestionOrder - questionNumberInLastStage) {
 //                return@mapIndexed
