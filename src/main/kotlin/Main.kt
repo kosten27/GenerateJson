@@ -3,11 +3,14 @@
 package org.example
 
 import PopulateThemeModel
+import PopulatedQuestionRange
 import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.json.Json
 import tech.uniapp.pdr.launch.domain.model.PopulateAnswerOptionModel
 import tech.uniapp.pdr.launch.domain.model.PopulateQuestionModel
+import tech.uniapp.pdr.launch.domain.model.PopulateStageModel
 import java.io.File
+import kotlin.math.min
 import kotlin.uuid.ExperimentalUuidApi
 import kotlin.uuid.Uuid
 
@@ -17,6 +20,24 @@ import kotlin.uuid.Uuid
 fun main() {
     val themeJsonString = File("src/main/resources/themes.json").readText()
     val themeList = Json.decodeFromString<List<PopulateThemeModel>>(themeJsonString)
+
+    val stageIds = mutableMapOf<String, Uuid>()
+    val themeStageFiles = File("src/main/resources/stages_theme_files.txt").readText().split("\n")
+    themeStageFiles.forEach { themeStageFile ->
+        val themeStageText = File("src/main/resources/$themeStageFile").readText()
+        val stageList = Json.decodeFromString<List<PopulateStageModel>>(themeStageText)
+        val currentThemeStageIds = stageList.associate { stage ->
+            val theme = themeList.find { theme ->
+                theme.id == stage.themeId
+            }
+            val themeNumber = theme?.let {
+                it.order.toString() + it.suborder?.let { suborder -> ".$suborder" }.orEmpty()
+            }
+            "${themeNumber}_${stage.order}" to Uuid.parse(stage.id)
+        }
+        stageIds.putAll(currentThemeStageIds)
+
+    }
 
     val questionIds = mutableMapOf<String, Uuid>()
     val questionOptionIds = mutableMapOf<String, Uuid>()
@@ -140,7 +161,7 @@ fun main() {
         }
 
     }
-    val generatedData = themes.associate { theme ->
+    val generatedQuestionData = themes.associate { theme ->
         val themeNumber = theme.order.replace(".", "_")
         val fileName = "questions_theme${themeNumber}.json"
         val questions = theme.questions.map { question ->
@@ -166,7 +187,32 @@ fun main() {
         prettyPrint = true
         prettyPrintIndent = "  "
     }
-    generatedData.forEach { (fileName, questions) ->
+    generatedQuestionData.forEach { (fileName, questions) ->
+        val questionsEncodedJson = prettyPrintJson.encodeToString(questions)
+        File("src/main/resources/$fileName").writeText(questionsEncodedJson)
+    }
+
+    val generatedStageData = themes.associate { theme ->
+        val themeNumber = theme.order.replace(".", "_")
+        val fileName = "stages_theme${themeNumber}.json"
+        val lastQuestionOrder = theme.questions.last().order
+        val stages = (1..lastQuestionOrder step 10).mapIndexed { index, i ->
+            val stageOrder = index + 1
+            val stageIdKey =  "${currentTheme?.order}_${stageOrder}"
+            val stageId = stageIds[stageIdKey] ?: Uuid.random()
+            PopulateStageModel(
+                id = stageId.toString(),
+                themeId = theme.id.toString(),
+                order = stageOrder,
+                questionRange = PopulatedQuestionRange(
+                    from = i,
+                    to = min(i + 9, lastQuestionOrder)
+                ),
+            )
+        }
+        fileName to stages
+    }
+    generatedStageData.forEach { (fileName, questions) ->
         val questionsEncodedJson = prettyPrintJson.encodeToString(questions)
         File("src/main/resources/$fileName").writeText(questionsEncodedJson)
     }
@@ -210,7 +256,19 @@ data class Theme(
     val id: Uuid?,
     val order: String,
     val title: String,
-    val questions: MutableList<Question> = mutableListOf()
+    val questions: MutableList<Question> = mutableListOf(),
+    val stages: MutableList<Stage> = mutableListOf()
+)
+
+data class Stage(
+    val id: Uuid,
+    val order: Int,
+    val questionRange: QuestionRange
+)
+
+data class QuestionRange(
+    val from: Int,
+    val to: Int
 )
 
 data class Question(
