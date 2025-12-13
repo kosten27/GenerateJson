@@ -14,15 +14,6 @@
     "order": 2,
     "questionRange": {
       "from": 11,
-      "to": 20
-    }
-  },
-  {
-    "id": "4695d028-0a6b-4466-9e69-19931a48d487",
-    "themeId": "1d004d36-1edc-4431-804d-361edc043149",
-    "order": 3,
-    "questionRange": {
-      "from": 21,
       "to": 21
     }
   }

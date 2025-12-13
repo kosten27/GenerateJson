@@ -23,15 +23,6 @@
     "order": 3,
     "questionRange": {
       "from": 21,
-      "to": 30
-    }
-  },
-  {
-    "id": "2dc48ae8-e4f1-4c59-9ed9-544e62f41814",
-    "themeId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
-    "order": 4,
-    "questionRange": {
-      "from": 31,
       "to": 34
     }
   }

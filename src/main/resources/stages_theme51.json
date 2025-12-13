@@ -32,15 +32,6 @@
     "order": 4,
     "questionRange": {
       "from": 31,
-      "to": 40
-    }
-  },
-  {
-    "id": "e3d60f84-659d-4884-970f-04f559198914",
-    "themeId": "b2310cbe-952c-4fbe-b10c-be952c3fbec4",
-    "order": 5,
-    "questionRange": {
-      "from": 41,
       "to": 43
     }
   }

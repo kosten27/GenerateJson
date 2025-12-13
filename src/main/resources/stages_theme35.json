@@ -149,15 +149,6 @@
     "order": 17,
     "questionRange": {
       "from": 161,
-      "to": 170
-    }
-  },
-  {
-    "id": "e7d19df8-37e2-4e70-b86f-15f05869d7ec",
-    "themeId": "1e524429-5d15-4bd5-9244-295d150bd5db",
-    "order": 18,
-    "questionRange": {
-      "from": 171,
       "to": 171
     }
   }

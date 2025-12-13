@@ -196,9 +196,21 @@ fun main() {
         val themeNumber = theme.order.replace(".", "_")
         val fileName = "stages_theme${themeNumber}.json"
         val lastQuestionOrder = theme.questions.last().order
-        val stages = (1..lastQuestionOrder step 10).mapIndexed { index, i ->
+        val questionNumberInLastStage = lastQuestionOrder % 10
+        val stages = (1..lastQuestionOrder step 10)
+            .filter { i -> questionNumberInLastStage >= 5 || i < lastQuestionOrder - questionNumberInLastStage }
+            .mapIndexed { index, i ->
+//            if (questionNumberInLastStage < 5 && i > lastQuestionOrder - questionNumberInLastStage) {
+//                return@mapIndexed
+//            }
+
+            val questionRangeTo = if (questionNumberInLastStage < 5 && (i + 9) == (lastQuestionOrder - questionNumberInLastStage)) { // one stage before last
+                lastQuestionOrder
+            } else {
+                min(i + 9, lastQuestionOrder)
+            }
             val stageOrder = index + 1
-            val stageIdKey =  "${currentTheme?.order}_${stageOrder}"
+            val stageIdKey =  "${theme.order}_${stageOrder}"
             val stageId = stageIds[stageIdKey] ?: Uuid.random()
             PopulateStageModel(
                 id = stageId.toString(),
@@ -206,7 +218,7 @@ fun main() {
                 order = stageOrder,
                 questionRange = PopulatedQuestionRange(
                     from = i,
-                    to = min(i + 9, lastQuestionOrder)
+                    to = questionRangeTo
                 ),
             )
         }

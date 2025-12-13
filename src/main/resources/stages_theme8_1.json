@@ -68,15 +68,6 @@
     "order": 8,
     "questionRange": {
       "from": 71,
-      "to": 80
-    }
-  },
-  {
-    "id": "a4486333-2a95-45d0-bb48-9646af4fae95",
-    "themeId": "b3387248-0afe-4f11-b872-480afe0f116e",
-    "order": 9,
-    "questionRange": {
-      "from": 81,
       "to": 84
     }
   }
