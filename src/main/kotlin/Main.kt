@@ -133,8 +133,11 @@ fun main() {
             }
             themeRegex.matches(trimmed) -> {
                 val match = themeRegex.find(trimmed)!!
+                val splitOrder = match.groupValues[1].trim().split(".")
+                val order = splitOrder.first().toInt()
+                val suborder = if (splitOrder.size > 1) splitOrder[1].toInt() else null
                 val title = match.groupValues[3].trim()
-                val populateThemeModel = themeList.find { it.title == title }
+                val populateThemeModel = themeList.find { it.order == order && it.suborder == suborder  }
                 val id = populateThemeModel?.id
                 currentTheme = Theme(
                     id = id?.let { Uuid.parse(id) },

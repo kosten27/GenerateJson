@@ -4,7 +4,7 @@ import kotlinx.serialization.Serializable
 data class PopulateQuestionModel(
     val id: String,
     val themeId: String,
-    val sourceOrder: Int,
+    val sourceOrder: Int? = null,
     val order: Int,
     val text: String,
     val imageResId: String? = null,
