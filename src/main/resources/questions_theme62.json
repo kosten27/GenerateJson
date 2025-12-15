@@ -2,6 +2,7 @@
   {
     "id": "998b2d03-de00-4e98-8773-e899e464e980",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 1,
     "order": 1,
     "text": "З якою максимальною швидкістю дозволено рух тролейбусів на дорогах в населених пунктах?",
     "answerOptionList": [
@@ -40,6 +41,7 @@
   {
     "id": "df477557-f8d1-41fd-9362-9c100f6427fd",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 2,
     "order": 2,
     "text": "Водій тролейбуса зобов'язаний:",
     "answerOptionList": [
@@ -72,6 +74,7 @@
   {
     "id": "c2570516-cd60-4f8f-97d5-282b76134a6c",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 3,
     "order": 3,
     "text": "Що з переліченого заборонено водієві трамвая?",
     "answerOptionList": [
@@ -98,6 +101,7 @@
   {
     "id": "561a5f12-5c5c-4efc-98e4-8961746b620e",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 4,
     "order": 4,
     "text": "Що з переліченого заборонено водієві тролейбуса?",
     "answerOptionList": [
@@ -124,6 +128,7 @@
   {
     "id": "3d956c73-7b40-4b76-ab22-62d86c9aad7e",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 5,
     "order": 5,
     "text": "Що з переліченого заборонено водієві трамвая?",
     "answerOptionList": [
@@ -156,6 +161,7 @@
   {
     "id": "2740e3c7-87b3-4e17-80f1-64dc51a39bdb",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 6,
     "order": 6,
     "text": "Що з переліченого заборонено водієві тролейбуса?",
     "answerOptionList": [
@@ -188,6 +194,7 @@
   {
     "id": "b35d319e-8437-4ef9-8a8a-f363a076d49d",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 7,
     "order": 7,
     "text": "Що з переліченого заборонено водієві трамвая?",
     "answerOptionList": [
@@ -214,6 +221,7 @@
   {
     "id": "93cc8ab1-fbe6-473d-8426-dbcc5fdac460",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 8,
     "order": 8,
     "text": "Що з переліченого заборонено водієві тролейбуса?",
     "answerOptionList": [
@@ -240,6 +248,7 @@
   {
     "id": "82461db2-4942-4b52-bc8b-bf2389c131d6",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 9,
     "order": 9,
     "text": "Що з переліченого заборонено водієві тролейбуса?",
     "answerOptionList": [
@@ -266,6 +275,7 @@
   {
     "id": "acaf9dae-14c5-4cdb-9ca7-39a78b8791d4",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 10,
     "order": 10,
     "text": "Водій трамвая зобов'язаний мати при собі:",
     "answerOptionList": [
@@ -292,6 +302,7 @@
   {
     "id": "99974060-090a-4471-9e8f-075c9608b8f0",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 11,
     "order": 11,
     "text": "Водій тролейбуса зобов'язаний мати при собі:",
     "answerOptionList": [
@@ -318,6 +329,7 @@
   {
     "id": "467d6c10-d6a5-474d-9519-6de3ec3607f0",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 12,
     "order": 12,
     "text": "Які правильні дії повинен виконати водій трамвая у тому разі, якщо в ДТП є потерпілі?",
     "answerOptionList": [
@@ -350,6 +362,7 @@
   {
     "id": "aff3b46b-9515-4764-beb0-8efd167753ea",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 13,
     "order": 13,
     "text": "Які правильні дії повинен виконати водій тролейбуса у тому разі, якщо в ДТП є потерпілі?",
     "answerOptionList": [
@@ -382,6 +395,7 @@
   {
     "id": "3691c682-5981-4bda-8c07-3e05980b3d78",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 14,
     "order": 14,
     "text": "Чи повинен водій трамвая евакуювати пасажирів у разі ДТП?",
     "answerOptionList": [
@@ -414,6 +428,7 @@
   {
     "id": "2bd8469d-954f-4f00-90c3-43600d24d994",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 15,
     "order": 15,
     "text": "Чи повинен водій тролейбуса евакуювати пасажирів у разі ДТП?",
     "answerOptionList": [
@@ -446,6 +461,7 @@
   {
     "id": "0b735de4-c2ec-4795-baf5-fe5605f8c70f",
     "themeId": "f27e56a0-c952-4c94-be56-a0c952ec948f",
+    "sourceOrder": 16,
     "order": 16,
     "text": "Водій трамвая зобов'язаний:",
     "answerOptionList": [

@@ -2,6 +2,7 @@
   {
     "id": "4923b30c-13a4-41cf-9ef4-bad941e0be20",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 1,
     "order": 1,
     "text": "На якому з малюнків показаний обгін?",
     "imageResId": "image_t14_q001",
@@ -29,6 +30,7 @@
   {
     "id": "2ec128df-f5f9-41ff-b737-675094797566",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 2,
     "order": 2,
     "text": "У якому випадку водій білого автомобіля правильно виконав обгін перед залізничним переїздом?",
     "imageResId": "image_t14_q002",
@@ -56,6 +58,7 @@
   {
     "id": "c762cf97-7b54-4741-a83a-cc4494d81bba",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 3,
     "order": 3,
     "text": "Як в цій ситуації вчинити водієві червоного автомобіля, для того щоб обігнати великогабаритний вантажний автомобіль?",
     "imageResId": "image_t14_q003",
@@ -83,6 +86,7 @@
   {
     "id": "67e16846-c557-4987-94da-414142987f5f",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 4,
     "order": 4,
     "text": "Чи може водій виконати обгін після проїзду цих знаків?",
     "imageResId": "image_t14_q004",
@@ -110,6 +114,7 @@
   {
     "id": "3cbfe4fd-7ce4-4772-b9be-e71a71a75eac",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 5,
     "order": 5,
     "text": "Чи дозволено в цій ситуації водієві синього автомобіля виконати обгін білого автомобіля?",
     "imageResId": "image_t14_q005",
@@ -143,6 +148,7 @@
   {
     "id": "172d743e-3ba6-41e0-99da-fea561a75bf3",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 6,
     "order": 6,
     "text": "Чи дозволено обгін у даній ситуації?",
     "imageResId": "image_t14_q006",
@@ -170,6 +176,7 @@
   {
     "id": "3e0b1ca8-ee45-428b-9c49-ed2013490b40",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 7,
     "order": 7,
     "text": "Чи дозволено обгін у даній дорожній ситуації?",
     "imageResId": "image_t14_q007",
@@ -197,6 +204,7 @@
   {
     "id": "62d5c32c-b1e4-4d72-b1fc-9a7ea379652d",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 8,
     "order": 8,
     "text": "Чи дозволяється водієві синього автомобіля почати обгін у цій ситуації?",
     "imageResId": "image_t14_q008",
@@ -224,6 +232,7 @@
   {
     "id": "9173352a-7909-4cdf-abd6-050b0af3d8b9",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 9,
     "order": 9,
     "text": "Чи дозволено водієві обгін у цьому місці?",
     "imageResId": "image_t14_q009",
@@ -257,6 +266,7 @@
   {
     "id": "60ab71d7-fe3e-4efd-8919-843152899c71",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 10,
     "order": 10,
     "text": "Чи дозволено водієві чорного автомобіля виконати обгін у цій ситуації?",
     "imageResId": "image_t14_q010",
@@ -290,6 +300,7 @@
   {
     "id": "3542c778-a4b9-4bf0-a968-beb10bf5cd6b",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 11,
     "order": 11,
     "text": "Чи дозволено водієві сірого автомобіля виконати обгін білого?",
     "imageResId": "image_t14_q011",
@@ -317,6 +328,7 @@
   {
     "id": "708f8ce4-aff6-4ffb-9939-c94005ef537e",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 12,
     "order": 12,
     "text": "Чи дозволено обгін водієві зеленого автомобіля в цій ситуації?",
     "imageResId": "image_t14_q012",
@@ -338,6 +350,7 @@
   {
     "id": "a68aeeed-d84a-4dc4-8d40-e6877f737779",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 13,
     "order": 13,
     "text": "Чи дозволено водієві білого автомобіля виконати обгін у цій ситуації?",
     "imageResId": "image_t14_q013",
@@ -359,6 +372,7 @@
   {
     "id": "49923cec-62ed-4166-860e-4414a14d91a2",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 14,
     "order": 14,
     "text": "Чи дозволено виконати обгін у даній дорожній ситуації?",
     "imageResId": "image_t14_q014",
@@ -392,6 +406,7 @@
   {
     "id": "8cb721f0-5b80-40b5-855f-d15776faf831",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 15,
     "order": 15,
     "text": "Чи дозволено водієві жовтого автомобіля виконати обгін у цій ситуації?",
     "imageResId": "image_t14_q015",
@@ -419,6 +434,7 @@
   {
     "id": "429832db-28d3-4f58-88cb-6fa0cbb5622f",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 16,
     "order": 16,
     "text": "Чи дозволено виконати обгін у цій ситуації?",
     "imageResId": "image_t14_q016",
@@ -446,6 +462,7 @@
   {
     "id": "699ffbb1-81d8-4565-b531-9e5b37d65adc",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 17,
     "order": 17,
     "text": "Чи дозволено водієві виконати обгін транспортних засобів, що рухаються з увімкненими проблисковими маячками оранжевого кольору?",
     "imageResId": "image_t14_q017",
@@ -467,6 +484,7 @@
   {
     "id": "353ccebf-e2d9-4360-b6bf-5ef8b5eaffc9",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 18,
     "order": 18,
     "text": "Чи правильно водій зеленого автомобіля виконав обгін синього автомобіля?",
     "imageResId": "image_t14_q018",
@@ -488,6 +506,7 @@
   {
     "id": "07d34c47-f8ff-4b26-9172-0bd871e56acc",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 19,
     "order": 19,
     "text": "Чи дозволено водієві жовтого автомобіля виконати обгін синього так, як показано на малюнку?",
     "imageResId": "image_t14_q019",
@@ -515,6 +534,7 @@
   {
     "id": "f3890e20-84ca-4597-b34e-7acb90eb97b6",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 20,
     "order": 20,
     "text": "Чи дозволено водієві синього автомобіля обігнати мопед?",
     "imageResId": "image_t14_q020",
@@ -536,6 +556,7 @@
   {
     "id": "498bbfad-dc85-4e6a-b7c5-0d3896baec74",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 21,
     "order": 21,
     "text": "У чому повинен переконатися водій перед початком обгону за відсутності зустрічних транспортних засобів і транспортних засобів, що рухаються позаду?",
     "imageResId": "image_t14_q021",
@@ -563,6 +584,7 @@
   {
     "id": "044c747c-75e1-49de-8478-849e774a78ba",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 22,
     "order": 22,
     "text": "Чи має право водій чорного автомобіля розпочати обгін синього автомобіля?",
     "imageResId": "image_t14_q022",
@@ -584,6 +606,7 @@
   {
     "id": "0b3204da-c282-437a-85e8-d6bf53cc0f62",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 23,
     "order": 23,
     "text": "Чи може водій зеленого автомобіля почати обгін сірого автомобіля?",
     "imageResId": "image_t14_q023",
@@ -605,6 +628,7 @@
   {
     "id": "9b57f8ba-acce-4d3b-a669-825e9ee49141",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 24,
     "order": 24,
     "text": "Чи дозволяється водієві автомобіля виконати обгін мотоцикліста на цьому перехресті?",
     "imageResId": "image_t14_q024",
@@ -632,6 +656,7 @@
   {
     "id": "c31cbbb4-910b-43d3-b2da-a761d50e5879",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 25,
     "order": 25,
     "text": "Як повинен діяти водій чорного автомобіля, що збирається виконувати обгін, в даній ситуації?",
     "imageResId": "image_t14_q025",
@@ -659,6 +684,7 @@
   {
     "id": "8563440c-a143-44fe-b64d-271fde01f11a",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 26,
     "order": 26,
     "text": "Що в даній ситуації повинен зробити водій зеленого автомобіля перед тим, як почати обгін?",
     "imageResId": "image_t14_q026",
@@ -686,6 +712,7 @@
   {
     "id": "14c53144-5767-457c-a48d-ef56510d67b8",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 27,
     "order": 27,
     "text": "Як повинен діяти в даній ситуації водій сірого автомобіля, який збирається виконати обгін?",
     "imageResId": "image_t14_q027",
@@ -707,6 +734,7 @@
   {
     "id": "4a4dabd2-7403-4e18-94ba-60a378f815e6",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 28,
     "order": 28,
     "text": "Чи дозволено водієві білого автомобіля виконати обгін трактора в даній ситуації?",
     "imageResId": "image_t14_q028",
@@ -734,6 +762,7 @@
   {
     "id": "2822859f-bcf9-4496-b2ec-4f77a1e9360a",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 29,
     "order": 29,
     "text": "Як повинен вчинити водій синього автомобіля, що рухається прямо, у даній ситуації?",
     "imageResId": "image_t14_q029",
@@ -755,6 +784,7 @@
   {
     "id": "065c365d-1b1a-4574-90b8-3e266af53993",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 30,
     "order": 30,
     "text": "Чи дозволено у цьому місці водієві білого автомобіля виконати обгін?",
     "imageResId": "image_t14_q030",
@@ -782,6 +812,7 @@
   {
     "id": "4c512eeb-7828-4995-851a-c538628664a4",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 31,
     "order": 31,
     "text": "Чи дозволено водію червоного автомобіля виконати обгін в даному місці дороги?",
     "imageResId": "image_t14_q031",
@@ -803,6 +834,7 @@
   {
     "id": "507c33a5-f6f4-4328-b1f9-832b7fd31f6d",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 32,
     "order": 32,
     "text": "Чи дозволено обгін транспортного засобу, який виконує об'їзд або обгін?",
     "answerOptionList": [
@@ -829,6 +861,7 @@
   {
     "id": "f05d1504-9694-45ba-af53-d44f390ac509",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 33,
     "order": 33,
     "text": "На дорогах з якою мінімальною кількістю смуг для руху в одному напрямку заборонений обгін?",
     "answerOptionList": [
@@ -861,6 +894,7 @@
   {
     "id": "23e6672d-1471-4a88-b917-ff3d4de8caf3",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 34,
     "order": 34,
     "text": "Обгоном вважається:",
     "answerOptionList": [
@@ -893,6 +927,7 @@
   {
     "id": "1f495e43-7fa5-4613-a514-69bde79c5ecd",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 35,
     "order": 35,
     "text": "Чи дозволено водієві обігнати транспортний засіб, що рухається тільки з проблисковим маячком зеленого кольору, і супроводжувані ним транспортні засоби?",
     "answerOptionList": [
@@ -913,6 +948,7 @@
   {
     "id": "d04d94a5-6463-4f33-b025-89e8765692b5",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 36,
     "order": 36,
     "text": "Які дії заборонені водієві транспортного засобу, якого обганяють?",
     "answerOptionList": [
@@ -933,6 +969,7 @@
   {
     "id": "a2d5357a-86ee-4399-83d2-f079a19f3fbb",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 37,
     "order": 37,
     "text": "Чи дозволяється обгін на залізничних переїздах?",
     "answerOptionList": [
@@ -959,6 +996,7 @@
   {
     "id": "c2aef2e9-36be-4096-9226-96aab1084ad4",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 38,
     "order": 38,
     "text": "У яких випадках Вам дозволено обгін на перехресті?",
     "answerOptionList": [
@@ -997,6 +1035,7 @@
   {
     "id": "f6479961-874b-47bd-8548-5493e26b0bbd",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 39,
     "order": 39,
     "text": "На якій відстані від пішохідного переходу заборонений обгін?",
     "answerOptionList": [
@@ -1023,6 +1062,7 @@
   {
     "id": "d44e6764-c7ec-489a-989a-b0c067ddf1ee",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 40,
     "order": 40,
     "text": "Обгін заборонено:",
     "answerOptionList": [
@@ -1061,6 +1101,7 @@
   {
     "id": "a3d7a41c-022a-48c7-9751-78bf13bc1cf0",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 41,
     "order": 41,
     "text": "У чому з переліченого повинен переконатися водій перед тим, як почати обгін:",
     "answerOptionList": [
@@ -1087,6 +1128,7 @@
   {
     "id": "1eff84dc-654b-489b-adf4-88e399851e65",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 42,
     "order": 42,
     "text": "Чи дозволено на перехресті обгін поодиноких транспортних засобів, що рухаються із швидкістю менше 30 км/год.?",
     "answerOptionList": [
@@ -1107,6 +1149,7 @@
   {
     "id": "6c19d2ee-46d7-4672-bd44-88779aff504e",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 43,
     "order": 43,
     "text": "У яких з перелічених місць заборонений обгін?",
     "answerOptionList": [
@@ -1145,6 +1188,7 @@
   {
     "id": "0b028efe-698f-48bd-82ca-9baa39cb6a36",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 44,
     "order": 44,
     "text": "Чи дозволено водієві виконати обгін під час руху в умовах недостатньої видимості?",
     "answerOptionList": [
@@ -1165,6 +1209,7 @@
   {
     "id": "bf420426-1137-4687-8913-31f27589d5c9",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 45,
     "order": 45,
     "text": "Чи дозволено водієві виконати обгін під час руху в умовах туману?",
     "answerOptionList": [
@@ -1185,6 +1230,7 @@
   {
     "id": "c9dbf8e1-9674-4a5c-b64c-7158130f08fc",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 46,
     "order": 46,
     "text": "Яка з перерахованих дій відповідає терміну «обгін»?",
     "answerOptionList": [
@@ -1211,6 +1257,7 @@
   {
     "id": "83f01b66-a277-43cc-882f-a22a5d117462",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 47,
     "order": 47,
     "text": "Чи дозволено Вам розпочати обгін у цій ситуації?",
     "imageResId": "image_t14_q047",
@@ -1232,6 +1279,7 @@
   {
     "id": "5737ed14-b842-49c9-bf70-9de21cdf6cb6",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 48,
     "order": 48,
     "text": "Чи дозволено Вам виконати обгін автомобіля в даному випадку, якщо Ви рухаєтесь на мосту?",
     "imageResId": "image_t14_q048",
@@ -1253,6 +1301,7 @@
   {
     "id": "19d6856d-422f-43e5-b4f6-13005a311a40",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 49,
     "order": 49,
     "text": "Чи дозволено водієві жовтого автомобіля виконати обгін у даному випадку?",
     "imageResId": "image_t14_q049",
@@ -1274,6 +1323,7 @@
   {
     "id": "0f2630d5-25a3-4939-a4c6-1001f0d89c11",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 50,
     "order": 50,
     "text": "Під час обгону інших транспортних засобів вночі необхідно вмикати аварійну світлову сигналізацію:",
     "answerOptionList": [
@@ -1294,6 +1344,7 @@
   {
     "id": "0b977d04-9588-44ca-ae85-d06a24a5b1d8",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 51,
     "order": 51,
     "text": "Під час руху тунелем у світлу пору доби водій транспортного засобу має право виконувати обгін:",
     "imageResId": "image_t14_q051",
@@ -1315,6 +1366,7 @@
   {
     "id": "3dc4c3b2-4363-4e14-b2d3-852bd2096d3f",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 52,
     "order": 52,
     "text": "Чи дозволено Вам здійснити обгін в наведеній ситуації?",
     "imageResId": "image_t14_q052",
@@ -1336,6 +1388,7 @@
   {
     "id": "4648954a-ffa4-4890-b10e-612c20b17f72",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 53,
     "order": 53,
     "text": "У якому випадку дозволено виконати обгін на перехресті?",
     "answerOptionList": [
@@ -1362,6 +1415,7 @@
   {
     "id": "e488f2c6-0256-4a3d-9037-d225b01c8df1",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 54,
     "order": 54,
     "text": "Виконати обгін в тунелі дозволено у випадку:",
     "imageResId": "image_t14_q054",
@@ -1389,6 +1443,7 @@
   {
     "id": "38cb8263-234a-4ea8-aa2c-1cc48f88d995",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 55,
     "order": 55,
     "text": "Чи має право водій виконати обгін у даній дорожній ситуації?",
     "imageResId": "image_t14_q055",
@@ -1422,6 +1477,7 @@
   {
     "id": "2433256c-1951-43c3-9a62-4e0a53a71f8c",
     "themeId": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
+    "sourceOrder": 56,
     "order": 56,
     "text": "Чи дозволено поза населеним пунктом для привертання уваги водія транспортного засобу, що обганяється, подати звуковий сигнал?",
     "imageResId": "image_t14_q056",

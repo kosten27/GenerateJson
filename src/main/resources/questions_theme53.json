@@ -2,6 +2,7 @@
   {
     "id": "84f7ca64-edd5-4e05-939f-db5a86062561",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 1,
     "order": 1,
     "text": "Яку максимальну кількість пасажирів, враховуючи місце водія має право перевозити водій мікроавтобуса?",
     "imageResId": "image_t53_q001",
@@ -29,6 +30,7 @@
   {
     "id": "6d441e5d-cefc-42ff-bafe-6e50d1e1d05f",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 2,
     "order": 2,
     "text": "Виберіть правильну відповідь.",
     "answerOptionList": [
@@ -55,6 +57,7 @@
   {
     "id": "3208d8cc-722d-4a9d-b151-90a1b1f9f7b9",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 3,
     "order": 3,
     "text": "Що може стати наслідком повного зносу фрикційних накладок гальмівних колодок?",
     "answerOptionList": [
@@ -81,6 +84,7 @@
   {
     "id": "91b77720-8dc4-4a53-926b-704f422087a9",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 4,
     "order": 4,
     "text": "Яку функцію виконує обмежувальний клапан тиску в пневматичному приводі гальмівної системи передньої осі?",
     "answerOptionList": [
@@ -107,6 +111,7 @@
   {
     "id": "a92fb850-2aab-411e-8dbe-a7e8afd22b97",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 5,
     "order": 5,
     "text": "Для чого потрібен прискорювальний клапан в пневматичному приводі гальмівної системи?",
     "answerOptionList": [
@@ -133,6 +138,7 @@
   {
     "id": "7ba31b5a-04a7-4d20-acc1-cde19ccbd59f",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 6,
     "order": 6,
     "text": "Які гальмівні механізми задіяні підчас увімкнення гірського гальма?",
     "answerOptionList": [
@@ -165,6 +171,7 @@
   {
     "id": "0fa83dec-c29b-4f6c-9d50-f91e733c9895",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 7,
     "order": 7,
     "text": "Що таке ресивер?",
     "answerOptionList": [
@@ -191,6 +198,7 @@
   {
     "id": "2dfcae5a-a24c-4757-9001-87c173d3259b",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 8,
     "order": 8,
     "text": "Куди дівається повітря після відпускання педалі гальма?",
     "answerOptionList": [
@@ -217,6 +225,7 @@
   {
     "id": "ccf50e60-30e0-4a41-819c-88be2d67588b",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 9,
     "order": 9,
     "text": "До якого вузла підключена педаль гальма у пневматичній гальмівній системі?",
     "answerOptionList": [
@@ -243,6 +252,7 @@
   {
     "id": "f8fdeda0-3d4a-4d66-9882-74ce07889aba",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 10,
     "order": 10,
     "text": "У чому основна перевага гідравлічної гальмівної системи перед пневматичною гальмівною системою?",
     "answerOptionList": [
@@ -269,6 +279,7 @@
   {
     "id": "87af43c8-b253-4280-a85b-6f4f3e4409fe",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 11,
     "order": 11,
     "text": "Чи дозволено змішувати охолоджувальні рідини різних кольорів?",
     "answerOptionList": [
@@ -295,6 +306,7 @@
   {
     "id": "fb72eaf8-6c12-4401-9b7e-593f12fa1370",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 12,
     "order": 12,
     "text": "Як позначиться на автомобілі порушення герметичності гальмівної камери з одного боку під час гальмування?",
     "answerOptionList": [
@@ -321,6 +333,7 @@
   {
     "id": "50f0a393-6e65-449f-b8c9-54c6e8972bd7",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 13,
     "order": 13,
     "text": "Як визначити за краплиною моторної оливи потрапляння в систему мащення охолоджувальної рідини?",
     "answerOptionList": [
@@ -347,6 +360,7 @@
   {
     "id": "6859b269-a131-4391-96f8-8e5e58884e63",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 14,
     "order": 14,
     "text": "Транспортним засобом категорії D1 вважається механічний транспортний засіб, конструктивно призначений для перевезення не більше:",
     "answerOptionList": [
@@ -373,6 +387,7 @@
   {
     "id": "9e0abbff-f159-40ac-a897-98b73767c6dc",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 15,
     "order": 15,
     "text": "Під терміном «маршрутний транспортний засіб» мається на увазі:",
     "answerOptionList": [
@@ -399,6 +414,7 @@
   {
     "id": "19f4ef3a-d73a-4094-844b-3fa6fa8a9096",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 16,
     "order": 16,
     "text": "Чи дозволено перевищувати рівень моторної оливи під час її заміни?",
     "answerOptionList": [
@@ -425,6 +441,7 @@
   {
     "id": "e0b7a1cc-d88e-41a2-9c4b-ca4816fe8364",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 17,
     "order": 17,
     "text": "Як часто необхідно зливати воду з фільтра-відстійника на транспортних засобах з дизельними двигунами?",
     "answerOptionList": [
@@ -457,6 +474,7 @@
   {
     "id": "9b713eb4-ceb4-4e04-90cd-caaef0dfa8d9",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 18,
     "order": 18,
     "text": "Вкажіть метод визначення причини нестабільних обертів холостого ходу.",
     "answerOptionList": [
@@ -483,6 +501,7 @@
   {
     "id": "578fdb2a-5d23-4a84-b9a7-1e06c99d9c71",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 19,
     "order": 19,
     "text": "Вкажіть метод визначення причини, з якої двигун не запускається, коли обертається стартер.",
     "answerOptionList": [
@@ -515,6 +534,7 @@
   {
     "id": "90ae8503-0a0c-44b8-affe-d0471abce34a",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 20,
     "order": 20,
     "text": "Вкажіть метод визначення причини різкого збільшення зусилля на кермовому колесі.",
     "answerOptionList": [
@@ -547,6 +567,7 @@
   {
     "id": "335c5ffa-6172-46cf-ac24-5ad0d88e8b27",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 21,
     "order": 21,
     "text": "Вкажіть метод визначення причини надмірного зношення шин керованих коліс.",
     "answerOptionList": [
@@ -573,6 +594,7 @@
   {
     "id": "59ec470f-6f50-424e-adc4-b4e02f4d787a",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 22,
     "order": 22,
     "text": "Вкажіть методи визначення надмірного зношення гальмівних колодок тільки з одного боку автомобіля.",
     "answerOptionList": [
@@ -605,6 +627,7 @@
   {
     "id": "68fd047d-b4ab-4959-9d65-819163d09ef0",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 23,
     "order": 23,
     "text": "Назвіть тип гальмівної системи, що найчастіше застосовується у вантажних автомобілях і автобусах.",
     "answerOptionList": [
@@ -631,6 +654,7 @@
   {
     "id": "0b28082a-9f3e-4d41-a700-b0e5a5b074eb",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 24,
     "order": 24,
     "text": "Як дізнатися сторону встановлення колеса і шини з направленим малюнком протектора?",
     "answerOptionList": [
@@ -657,6 +681,7 @@
   {
     "id": "a6aaa471-d885-4449-a0c9-6abe10f5cadb",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 25,
     "order": 25,
     "text": "Назвіть основне призначення системи запалювання.",
     "answerOptionList": [
@@ -683,6 +708,7 @@
   {
     "id": "61e8bf2b-95a4-4d49-a9fa-5c9c98562aee",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 26,
     "order": 26,
     "text": "Для чого служить стартер?",
     "answerOptionList": [
@@ -709,6 +735,7 @@
   {
     "id": "05aa8d96-2388-45af-94c2-397628fc1ebd",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 27,
     "order": 27,
     "text": "У якій послідовності необхідно від'єднувати клеми від виводів акумуляторної батареї?",
     "answerOptionList": [
@@ -735,6 +762,7 @@
   {
     "id": "a656b40f-dad7-413b-b3b3-abebfe12f2c9",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 28,
     "order": 28,
     "text": "Для чого потрібна система охолодження двигуна?",
     "answerOptionList": [
@@ -761,6 +789,7 @@
   {
     "id": "3ff2251d-5e3d-4866-9ce4-f8de369b2b4b",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 29,
     "order": 29,
     "text": "Для чого необхідне використання моторної оливи?",
     "answerOptionList": [
@@ -799,6 +828,7 @@
   {
     "id": "6e4892e0-8f30-4178-bd5d-32681a43cccb",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 30,
     "order": 30,
     "text": "Для чого рекомендується замінювати моторну оливу в зимовий період?",
     "answerOptionList": [
@@ -825,6 +855,7 @@
   {
     "id": "87fb3c1e-6495-4093-b443-c52f7887e3da",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 31,
     "order": 31,
     "text": "Звідки в паливній системі дизельного двигуна необхідно періодично зливати воду?",
     "answerOptionList": [
@@ -851,6 +882,7 @@
   {
     "id": "b6b8000c-edb6-4617-b65c-1a4a4c210299",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 32,
     "order": 32,
     "text": "Що включає в себе газорозподільний механізм?",
     "answerOptionList": [
@@ -877,6 +909,7 @@
   {
     "id": "278d2db7-08e9-462e-8301-96a01492571c",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 33,
     "order": 33,
     "text": "З яких основних частин складається двигун внутрішнього згоряння?",
     "answerOptionList": [
@@ -903,6 +936,7 @@
   {
     "id": "cb258f54-9333-4728-9238-a25e25203b3a",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 34,
     "order": 34,
     "text": "Чи потрібна система запалювання для дизельного двигуна?",
     "answerOptionList": [
@@ -929,6 +963,7 @@
   {
     "id": "948eade7-5ef4-4593-bd65-4b1594132e36",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 35,
     "order": 35,
     "text": "Для чого необхідна муфта зчеплення в трансмісії?",
     "answerOptionList": [
@@ -961,6 +996,7 @@
   {
     "id": "b6092741-fea0-43df-bcb2-e1bd770e9ebd",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 36,
     "order": 36,
     "text": "Для чого здійснюють балансування шин?",
     "answerOptionList": [
@@ -987,6 +1023,7 @@
   {
     "id": "72516160-8a74-4dc2-a9d6-60bdc9d50c52",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 37,
     "order": 37,
     "text": "Які бувають типи шин?",
     "answerOptionList": [
@@ -1013,6 +1050,7 @@
   {
     "id": "4728a11b-3c06-4603-ba81-32cb8015f470",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 38,
     "order": 38,
     "text": "Чи потрібно замінювати оливний фільтр під час заміни моторної оливи?",
     "answerOptionList": [
@@ -1039,6 +1077,7 @@
   {
     "id": "f740323c-028a-465f-91cd-51bbcacebeed",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 39,
     "order": 39,
     "text": "Що буде, якщо значно перевищити рівень моторної оливи в двигуні?",
     "answerOptionList": [
@@ -1071,6 +1110,7 @@
   {
     "id": "990672b0-b193-41ce-bda1-373de7f52de0",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 40,
     "order": 40,
     "text": "Який з перелічених нижче варіантів є описом в'язкості моторного масла за SAE?",
     "answerOptionList": [
@@ -1097,6 +1137,7 @@
   {
     "id": "f2f613c8-b97b-463a-97ec-5b047fb0aca3",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 41,
     "order": 41,
     "text": "Чи можна змішувати охолоджувальну рідину різних кольорів?",
     "answerOptionList": [
@@ -1123,6 +1164,7 @@
   {
     "id": "8de3a157-f6b0-458b-9d7f-503696254b32",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 42,
     "order": 42,
     "text": "Для чого потрібен міжколісний диференціал?",
     "answerOptionList": [
@@ -1149,6 +1191,7 @@
   {
     "id": "63fc8069-2eae-435c-b01c-eff417260a9f",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 43,
     "order": 43,
     "text": "Чим загрожує неповне вимкнення зчеплення не до кінця натиснутою педаллю зчеплення?",
     "answerOptionList": [
@@ -1175,6 +1218,7 @@
   {
     "id": "4afeaccb-febe-4d63-bf0c-f854215e04b4",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 44,
     "order": 44,
     "text": "Що означає поняття «веде зчеплення»?",
     "answerOptionList": [
@@ -1201,6 +1245,7 @@
   {
     "id": "dc928e80-3964-4994-bf9d-4891759ed4de",
     "themeId": "3d86beed-c185-43b2-86be-edc18593b23b",
+    "sourceOrder": 45,
     "order": 45,
     "text": "До автопоїздів (транспортних составів) належать:",
     "answerOptionList": [

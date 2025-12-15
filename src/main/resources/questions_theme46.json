@@ -2,6 +2,7 @@
   {
     "id": "c63d27a3-a86a-4184-9da0-2368110be303",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 1,
     "order": 1,
     "text": "В яких випадках водій має право відступати від вимог законодавства?",
     "answerOptionList": [
@@ -28,6 +29,7 @@
   {
     "id": "2c7738da-1b26-46e4-809f-5d618dd646fe",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 2,
     "order": 2,
     "text": "Яка необхідна умова при огляді на предмет алкогольного сп’яніння водія на місці зупинки транспортного засобу?",
     "answerOptionList": [
@@ -60,6 +62,7 @@
   {
     "id": "e6a8f1a0-81f9-47dd-b77f-3577273a26db",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 3,
     "order": 3,
     "text": "При огляді Вашогоавтомобіля необхідною умовою є:",
     "answerOptionList": [
@@ -92,6 +95,7 @@
   {
     "id": "ce8ca954-39bc-439c-bf7a-099b84ffb420",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 4,
     "order": 4,
     "text": "При особистому огляді і огляді речей необхідною умовою є:",
     "answerOptionList": [
@@ -124,6 +128,7 @@
   {
     "id": "373b0e3f-3ee5-4c16-bb29-d130222e654c",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 5,
     "order": 5,
     "text": "За які правопорушення Вас може бути позбавлено права керування транспортним засобом?",
     "answerOptionList": [
@@ -162,6 +167,7 @@
   {
     "id": "bc3650e2-800f-4275-ac0f-0aafebcb0ed8",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 6,
     "order": 6,
     "text": "За які правопорушення Вас можуть позбавити права керування:",
     "answerOptionList": [
@@ -194,6 +200,7 @@
   {
     "id": "bf2e6c18-26b0-4c22-9281-e038108898a1",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 7,
     "order": 7,
     "text": "Адміністративне затримання Національною поліцією проводиться:",
     "answerOptionList": [
@@ -220,6 +227,7 @@
   {
     "id": "065e68c0-d883-4cf5-8a9f-3a78b792ca49",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 8,
     "order": 8,
     "text": "Передача керування транспортним засобом особі, яка не має права керування даним транспортним засобом, тягне за собою:",
     "answerOptionList": [
@@ -252,6 +260,7 @@
   {
     "id": "5ce8680a-2c9f-48f4-b13c-cd99907c21c5",
     "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "sourceOrder": 9,
     "order": 9,
     "text": "Ким проводиться огляд на стан сп’яніння?",
     "answerOptionList": [

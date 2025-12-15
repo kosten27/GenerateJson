@@ -2,6 +2,7 @@
   {
     "id": "1c77504e-313f-4b35-9924-8aac83c0940d",
     "themeId": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
+    "sourceOrder": 1,
     "order": 1,
     "text": "Які види транспортних засобів можна віднести до категорії ВЕ?",
     "imageResId": "image_t57_q001",
@@ -29,6 +30,7 @@
   {
     "id": "5c702b0a-6f38-40a2-b81f-dc57d1f879a8",
     "themeId": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
+    "sourceOrder": 2,
     "order": 2,
     "text": "Вкажіть найбільш поширені види тягово-зчіпних пристроїв вантажних транспортних засобів – тягачів.",
     "answerOptionList": [
@@ -55,6 +57,7 @@
   {
     "id": "ffc8858a-d478-4a55-b177-7733683de48c",
     "themeId": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
+    "sourceOrder": 3,
     "order": 3,
     "text": "За наявності якої несправності дозволяється експлуатація транспортного засобу?",
     "answerOptionList": [
@@ -81,6 +84,7 @@
   {
     "id": "b6faca2b-4929-4a8b-a1ac-6abd6ed11b76",
     "themeId": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
+    "sourceOrder": 4,
     "order": 4,
     "text": "Недостатньою видимістю вважається:",
     "answerOptionList": [
@@ -107,6 +111,7 @@
   {
     "id": "1a1e3169-fe2e-4286-a7f1-4aa8253d7cac",
     "themeId": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
+    "sourceOrder": 5,
     "order": 5,
     "text": "Що з переліченого нижче відповідає терміну «видимість у напрямку руху»?",
     "answerOptionList": [

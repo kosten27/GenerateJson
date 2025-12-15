@@ -2,6 +2,7 @@
   {
     "id": "8a23441e-e4da-4649-93e5-e5da5411340f",
     "themeId": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "sourceOrder": 1,
     "order": 1,
     "text": "Який зі способів буксирування заборонений на гірських дорогах?",
     "imageResId": "image_t28_q001",
@@ -35,6 +36,7 @@
   {
     "id": "388fe95e-6cea-490a-ab37-1bc1e0239eb5",
     "themeId": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "sourceOrder": 2,
     "order": 2,
     "text": "На гірських дорогах і крутих спусках, де зустрічний роз'їзд утруднено, дати дорогу повинен:",
     "answerOptionList": [
@@ -61,6 +63,7 @@
   {
     "id": "c41d157f-8670-44df-8784-510621af4af9",
     "themeId": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "sourceOrder": 3,
     "order": 3,
     "text": "На гірських дорогах і крутих спусках, де зустрічний роз'їзд утруднено, перевагу в русі має:",
     "answerOptionList": [
@@ -87,6 +90,7 @@
   {
     "id": "d6d36ed8-9bd2-4d8a-89ff-d6e97fcf73d9",
     "themeId": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "sourceOrder": 4,
     "order": 4,
     "text": "Під час руху на спуск на вашій смузі руху виникла перешкода. Як ви роз'їдетеся із зустрічним транспортним засобом?",
     "answerOptionList": [
@@ -107,6 +111,7 @@
   {
     "id": "758a9be8-b9f1-47c8-9dcc-57294369880a",
     "themeId": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "sourceOrder": 5,
     "order": 5,
     "text": "Що з перерахованого забороняється на гірських дорогах?",
     "answerOptionList": [
@@ -133,6 +138,7 @@
   {
     "id": "80868a5b-12e6-4f33-9dcf-9327fbca3f98",
     "themeId": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "sourceOrder": 6,
     "order": 6,
     "text": "Під час руху по гірських дорогах водій транспортного засобу повинен:",
     "answerOptionList": [
@@ -159,6 +165,7 @@
   {
     "id": "2cc2cfe5-28f1-4561-9cdb-8fdbe206ebfe",
     "themeId": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "sourceOrder": 7,
     "order": 7,
     "text": "Яким способом/способами дозволено буксирування автомобілів на гірських дорогах?",
     "answerOptionList": [
@@ -191,6 +198,7 @@
   {
     "id": "6375082b-07d6-41c1-871a-24b118c437f5",
     "themeId": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
+    "sourceOrder": 8,
     "order": 8,
     "text": "Чи дозволене буксирування на гірських дорогах під час ожеледиці?",
     "answerOptionList": [
