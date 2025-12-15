@@ -2,13 +2,13 @@
 
 package org.example
 
+import PopulateAnswerOptionModel
+import PopulateQuestionModel
+import PopulateStageModel
 import PopulateThemeModel
 import PopulatedQuestionRange
 import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.json.Json
-import tech.uniapp.pdr.launch.domain.model.PopulateAnswerOptionModel
-import tech.uniapp.pdr.launch.domain.model.PopulateQuestionModel
-import tech.uniapp.pdr.launch.domain.model.PopulateStageModel
 import java.io.File
 import kotlin.math.min
 import kotlin.uuid.ExperimentalUuidApi
@@ -91,6 +91,7 @@ fun main() {
 
     val themes = mutableListOf<Theme>()
     var currentTheme: Theme? = null
+    var currentTheme33Map: Map<String, Theme>? = null
     var currentThemeWithImages: ThemeImages? = null
     var currentQuestion: Question? = null
 
@@ -98,12 +99,38 @@ fun main() {
     val questionRegex = Regex("""^(\d+)\.\s+(.+)$""")
     val answerRegex = Regex("""^(\d+)\)\s+(.+)$""")
 
+    val matchTheme33 = File("src/main/resources/match_theme_33.txt").readText()
+    val parsedMatchTheme33 = parseMatchTheme(matchTheme33)
+
     val text = File("src/main/resources/pdr.txt").readText()
-    text.lines().forEach {line ->
+    text.lines().forEach { line ->
         val trimmed = line.trim()
 
         when {
             // THEME
+            "33. ДОРОЖНІ ЗНАКИ" == trimmed -> {
+                currentTheme33Map = parsedMatchTheme33.keys.sorted().associate { themeOrder ->
+                    val populateThemeModel = themeList.find { "${it.order}.${it.suborder}" == themeOrder }
+                    val id = populateThemeModel?.id
+                    themeOrder to Theme(
+                        id = id?.let { Uuid.parse(id) },
+                        order = themeOrder,
+                        title = ""
+                    )
+                }
+                currentThemeWithImages = themeWithImagesString.find { it.themeOrder == "33" }
+                currentTheme33Map?.let { themes.addAll(it.values) }
+                currentQuestion = null
+                val match = themeRegex.find(trimmed)!!
+                val title = match.groupValues[3].trim()
+                val populateThemeModel = themeList.find { it.title == title }
+                val id = populateThemeModel?.id
+                currentTheme = Theme(
+                    id = id?.let { Uuid.parse(id) },
+                    order = match.groupValues[1].trim(),
+                    title = title
+                )
+            }
             themeRegex.matches(trimmed) -> {
                 val match = themeRegex.find(trimmed)!!
                 val title = match.groupValues[3].trim()
@@ -120,6 +147,7 @@ fun main() {
                 currentThemeWithImages = themeWithImagesString.find { it.themeOrder == themeOrder }
                 themes += currentTheme!!
                 currentQuestion = null
+                currentTheme33Map = null
             }
 
             // QUESTION
@@ -131,15 +159,20 @@ fun main() {
                     val themeOrder = currentThemeWithImages?.themeOrder?.replace(".", "_")
                     imageResId = "image_t${themeOrder}_q${questionOrder.toString().padStart(3, '0')}"
                 }
-                val questionIdKey =  "${currentTheme?.order}_${questionOrder}"
+                val questionTheme = if (currentTheme != null) currentTheme else {
+                    val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(questionOrder) }.map { it.key }.first()
+                    currentTheme33Map?.get(questionThemeOrder)
+                }
+                val questionIdKey =  "${questionTheme?.order}_${questionOrder}"
                 val questionId = questionIds[questionIdKey]
                 currentQuestion = Question(
                     id = questionId ?: Uuid.random(),
+                    sourceOrder = questionOrder,
                     order = questionOrder,
                     text = match.groupValues[2].trim(),
                     imageResId = imageResId
                 )
-                currentTheme?.questions?.add(currentQuestion!!)
+                questionTheme?.questions?.add(currentQuestion!!)
             }
 
             // ANSWER
@@ -168,6 +201,7 @@ fun main() {
             PopulateQuestionModel(
                 id = question.id.toString(),
                 themeId = theme.id.toString(),
+                sourceOrder = question.sourceOrder,
                 order = question.order,
                 text = question.text,
                 imageResId = question.imageResId,
@@ -271,6 +305,29 @@ fun parseQuestionsWithImages(input: String): List<ThemeImages> {
     }
 }
 
+fun parseMatchTheme(input: String): Map<String, List<Int>> {
+    val lines = input.trim().lines()
+    val themeRegex = Regex("""^(\d+(.\d)?):(.*)$""")
+
+    return lines.associate { line ->
+        val match = themeRegex.matchEntire(line)!!
+
+        val subThemeId = match.groupValues[1]
+        val raw = match.groupValues[3].trim()
+
+        val questions = raw.split(",")
+            .flatMap { part ->
+                if (part.contains("-")) {
+                    val (start, end) = part.split("-").map { it.toInt() }
+                    (start..end).toList()
+                } else {
+                    listOf(part.toInt())
+                }
+            }
+        subThemeId to questions
+    }
+}
+
 data class ThemeImages(
     val themeOrder: String,
     val questionsWithImage: List<Int>
@@ -290,6 +347,7 @@ data class QuestionRange(
 
 data class Question(
     val id: Uuid,
+    val sourceOrder: Int,
     val order: Int,
     val text: String,
     val imageResId: String? = null,
