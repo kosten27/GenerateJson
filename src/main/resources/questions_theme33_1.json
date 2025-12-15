@@ -1,0 +1,2673 @@
+[
+  {
+    "id": "67a151f7-8c40-478a-8d60-5a9255cdcc66",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 108,
+    "text": "Що спільного у цих двох дорожніх знаків?",
+    "imageResId": "image_t33_q108",
+    "answerOptionList": [
+      {
+        "id": "105b1fc9-0a98-46d1-b959-b26c4568bbb2",
+        "position": 1,
+        "text": "Застосовуються тільки як тимчасові знаки.",
+        "isCorrect": false
+      },
+      {
+        "id": "786b4d9a-b698-4d4b-aaab-dc5cd8598f9a",
+        "position": 2,
+        "text": "Повторюються в населеному пункті при довгостроковій установці.",
+        "isCorrect": false
+      },
+      {
+        "id": "a727ab2b-2e22-4bc5-afb3-fdd69fe2ce23",
+        "position": 3,
+        "text": "Повинні встановлюватися з двох сторін проїжджої частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "08e6c31e-4f07-4024-80ba-6ab6a4593a17",
+        "position": 4,
+        "text": "Застосовуються тільки зі знаком обмеження швидкості.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3356a7c7-f1a5-408c-aa82-44a5135cdc7e",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 126,
+    "text": "Що спільного у цих двох дорожніх знаків?",
+    "imageResId": "image_t33_q126",
+    "answerOptionList": [
+      {
+        "id": "515a2290-f06b-47f7-94a3-ed19b8402378",
+        "position": 1,
+        "text": "Встановлюються тільки на Т-подібних перехрестях.",
+        "isCorrect": false
+      },
+      {
+        "id": "f19aa4da-9f5d-42e1-a900-a575c141286b",
+        "position": 2,
+        "text": "Не забороняють поворот направо.",
+        "isCorrect": false
+      },
+      {
+        "id": "3c6f373b-7745-4927-b8d5-43bbc238d488",
+        "position": 3,
+        "text": "Завжди дозволяють розворот.",
+        "isCorrect": false
+      },
+      {
+        "id": "c756dac6-a77c-4d7b-aa76-651067c7ce49",
+        "position": 4,
+        "text": "Дозволяють рух прямо для маршрутних транспортних засобів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a22606f7-6983-4ed1-99ab-8830586f8067",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 169,
+    "text": "Зазначений дорожній знак попереджає:",
+    "imageResId": "image_t33_q169",
+    "answerOptionList": [
+      {
+        "id": "342decaf-6a37-4230-9e78-2c90c63cd957",
+        "position": 1,
+        "text": "Про наближення до двох рівнозначних перехресть.",
+        "isCorrect": false
+      },
+      {
+        "id": "3754dbb8-2a93-4517-aee1-513ebb84297d",
+        "position": 2,
+        "text": "Про наближення до двох перехресть, де водій, перед яким встановлено цей знак, перебуває на головній дорозі.",
+        "isCorrect": false
+      },
+      {
+        "id": "2cf21dff-a3c0-46bb-b2c9-92261d8afd4c",
+        "position": 3,
+        "text": "Про наближення до двох перехресть, на першому з яких водій має перевагу в русі.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bb202c9a-2854-4311-923e-2bb5ba150f6a",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 170,
+    "text": "Зображений дорожній знак встановлюється:",
+    "imageResId": "image_t33_q170",
+    "answerOptionList": [
+      {
+        "id": "171da1b5-00e7-4651-840e-d02128d1b1a3",
+        "position": 1,
+        "text": "Безпосередньо перед залізничним переїздом без шлагбаума з однією колією.",
+        "isCorrect": false
+      },
+      {
+        "id": "eeab45de-f7bb-45ed-b229-36b16bbde3d6",
+        "position": 2,
+        "text": "Безпосередньо перед залізничним переїздом без шлагбаума з двома і більше коліями.",
+        "isCorrect": false
+      },
+      {
+        "id": "ab5a70d7-a22c-42d7-a1cb-e12f8091d21f",
+        "position": 3,
+        "text": "На залізничному переїзді зі шлагбаумом з однією колією.",
+        "isCorrect": false
+      },
+      {
+        "id": "5da0ca87-36c9-4a90-b375-d8cde252efd2",
+        "position": 4,
+        "text": "На залізничному переїзді зі шлагбаумом з двома і більше коліями.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4647dd87-df42-41e2-abe6-4947447a535f",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 171,
+    "text": "Який із зображених дорожніх знаків встановлюється безпосередньо перед залізничним переїздом без шлагбаума з двома і більше коліями?",
+    "imageResId": "image_t33_q171",
+    "answerOptionList": [
+      {
+        "id": "212598a3-5f7e-4534-a6ac-ce46beada44d",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "1feda22c-56b9-470c-80d8-0e9ff9634dcc",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "ade8e81c-7403-4801-84f4-86c350b091fd",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "87113330-e8a9-4b00-9508-fcee2ff43656",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "611e80a3-e2bb-452b-9a10-bc0571c9b6ae",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 172,
+    "text": "Який із зображених дорожніх знаків встановлюється першим у разі наближення до залізничного переїзду?",
+    "imageResId": "image_t33_q172",
+    "answerOptionList": [
+      {
+        "id": "99ca71b7-9efe-41ff-aceb-48f0fa363d87",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "b4e2d07d-3781-4803-a573-03c9991828ac",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "9eee1b3a-72f3-44a1-9c66-72d56dcdafba",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2193d925-b9dd-4a33-8683-6d9dff3bd01f",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 173,
+    "text": "Як встановлюють дані дорожні знаки перед залізничним переїздом?",
+    "imageResId": "image_t33_q173",
+    "answerOptionList": [
+      {
+        "id": "838742c3-625f-451b-9cb2-e87341371a74",
+        "position": 1,
+        "text": "Самостійно, на рівномірній відстані між знаками «Залізничний переїзд із шлагбаумом» або «Залізничний переїзд без шлагбаума».",
+        "isCorrect": false
+      },
+      {
+        "id": "14bdf9f6-36da-4b2b-b8d6-9db33de83e6f",
+        "position": 2,
+        "text": "Спільно з першим із знаків «Залізничний переїзд із шлагбаумом» або «Залізничний переїзд без шлагбаума».",
+        "isCorrect": false
+      },
+      {
+        "id": "82c710ed-d1a4-4ca3-913e-0bd2a195d352",
+        "position": 3,
+        "text": "Спільно з другим із знаків «Залізничний переїзд із шлагбаумом» або «Залізничний переїзд без шлагбаума».",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f6fabeb1-2323-4265-a6e7-aeee9bd3920c",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 174,
+    "text": "Який із зображених дорожніх знаків встановлюється останнім у разі наближення до залізничного переїзду?",
+    "imageResId": "image_t33_q174",
+    "answerOptionList": [
+      {
+        "id": "e420a2ba-ea56-40c4-bc34-d1a354a09f00",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "976e5585-e807-40cf-b7d9-900153bf75b7",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "7b8a7596-9f82-47be-a682-ee210d008a93",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "13c5649a-f339-4ecb-a041-e94685d70ea8",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 175,
+    "text": "Який із зображених дорожніх знаків попереджає про наближення до нерегульованого пішохідного переходу?",
+    "imageResId": "image_t33_q175",
+    "answerOptionList": [
+      {
+        "id": "46f1832f-cc3e-4d93-aad7-b10c0c74fadc",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "acbaa38a-35c2-4a84-9efb-e3cdaf458c5e",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "90a6deb4-f572-4798-9c93-0b7b1c715ce2",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "e9accbb4-3840-46b0-94f7-7497e5bfe4b9",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "1df62605-edb1-4290-b026-771b8cf90d4d",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e47ec014-e7b1-4dd1-8dd4-44e7b6937666",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 176,
+    "text": "Зображений дорожній знак попереджає про наближення до:",
+    "imageResId": "image_t33_q176",
+    "answerOptionList": [
+      {
+        "id": "dc9a76bf-e2d9-46bf-8110-e86e9209d5fe",
+        "position": 1,
+        "text": "Нерегульованого пішохідного переходу.",
+        "isCorrect": false
+      },
+      {
+        "id": "13e547fe-d006-442b-a95f-3ff6e6eb8d6e",
+        "position": 2,
+        "text": "Будь-якого пішохідного переходу.",
+        "isCorrect": false
+      },
+      {
+        "id": "b925c40f-37a8-439d-aed0-bf875132c856",
+        "position": 3,
+        "text": "Місця перетину велосипедної доріжки.",
+        "isCorrect": false
+      },
+      {
+        "id": "cf7ef20b-f6f6-4a70-afe4-e6f689f8db39",
+        "position": 4,
+        "text": "Місця, на якому можлива поява дітей.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "49c196f5-e6db-44c2-a12f-f4ad419507b8",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 177,
+    "text": "Який із зображених дорожніх знаків встановлюється перед ділянкою дороги, на якій можлива поява дітей з території дитячого закладу, прилеглого безпосередньо до дороги?",
+    "imageResId": "image_t33_q177",
+    "answerOptionList": [
+      {
+        "id": "6fa6ea28-36ce-4b2d-8193-2a909187f9ae",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "cb87eb69-07e6-4394-9ecc-97310880f0a7",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "ad4e7eaf-d245-42ba-89e6-6ae72e12e9d4",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f7ce8b6d-68e5-4f72-9f0f-ed0d9218868c",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 178,
+    "text": "Зображений дорожній знак встановлюється:",
+    "imageResId": "image_t33_q178",
+    "answerOptionList": [
+      {
+        "id": "01546eb9-4255-41e5-93b6-bb1cfadabf4b",
+        "position": 1,
+        "text": "Безпосередньо перед залізничним переїздом без шлагбаума з однією колією.",
+        "isCorrect": false
+      },
+      {
+        "id": "459f24a6-d7ca-4492-b355-45bf7b3234c7",
+        "position": 2,
+        "text": "Безпосередньо перед залізничним переїздом без шлагбаума з двома і більше коліями.",
+        "isCorrect": false
+      },
+      {
+        "id": "3471bbfa-8960-4503-a89a-c44a3cd218ad",
+        "position": 3,
+        "text": "На залізничному переїзді зі шлагбаумом з однією колією.",
+        "isCorrect": false
+      },
+      {
+        "id": "9fcd0c68-7602-42df-acd2-eabca5a57ea9",
+        "position": 4,
+        "text": "На залізничному переїзді зі шлагбаумом з двома і більше коліями.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "abe83fef-94ab-4d96-9071-2423440d539e",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 179,
+    "text": "Який із зображених дорожніх знаків встановлюється безпосередньо перед залізничним переїздом без шлагбаума з однією колією?",
+    "imageResId": "image_t33_q179",
+    "answerOptionList": [
+      {
+        "id": "2a7137be-2984-4486-8841-bc2d9830c04e",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "891217ef-d156-4ede-9c8c-48f1849c8968",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "d6f9f10d-e1b2-408f-9c1e-253a41ab4cf0",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "4bcc6963-dcc4-4ff2-92aa-a7a968c1e085",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3d5f975e-5d52-4adf-810f-0348497dbbb5",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 180,
+    "text": "Про що інформує даний дорожній знак?",
+    "imageResId": "image_t33_q180",
+    "answerOptionList": [
+      {
+        "id": "d56973f5-576a-4a46-83db-605b4a94c7e6",
+        "position": 1,
+        "text": "Про наближення до перехрестя, рух на якому, регулюється світлофором.",
+        "isCorrect": false
+      },
+      {
+        "id": "13ae0e87-0527-4efa-9a29-6a0bef4d7cb0",
+        "position": 2,
+        "text": "Про наближення до пішохідного переходу, рух на якому, регулюється світлофором.",
+        "isCorrect": false
+      },
+      {
+        "id": "bcd57ddb-729b-460b-af54-a8e6172fd46d",
+        "position": 3,
+        "text": "Про наближення до ділянки дороги, рух на якій, регулюється світлофором.",
+        "isCorrect": false
+      },
+      {
+        "id": "ce57a592-ba5a-4e4a-a269-439f21bc0669",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "6c98382d-d0c4-4fd9-8e4e-6e07e50c2fdb",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "52363b9f-e990-47bd-86cb-709d9245679e",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 181,
+    "text": "Зазначений дорожній знак попереджає:",
+    "imageResId": "image_t33_q181",
+    "answerOptionList": [
+      {
+        "id": "8d679a52-bb7a-47af-b52a-b9d00c7404d2",
+        "position": 1,
+        "text": "Про наближення до набережної.",
+        "isCorrect": false
+      },
+      {
+        "id": "c6426847-f7c5-4b68-8e4f-6c9d5175623a",
+        "position": 2,
+        "text": "Про наближення до поромної переправи.",
+        "isCorrect": false
+      },
+      {
+        "id": "d76497b5-1f81-45b5-920f-58997eaaa810",
+        "position": 3,
+        "text": "Про наближення до порту.",
+        "isCorrect": false
+      },
+      {
+        "id": "911d57ef-3e8d-428a-8496-b4d79e0d212e",
+        "position": 4,
+        "text": "Про наближення до розвідного моста.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7faa8942-68ca-4046-9994-0c0c31dc87ac",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 182,
+    "text": "Який з наведених дорожніх знаків попереджає про початок ділянки дороги із зустрічним рухом після одностороннього?",
+    "imageResId": "image_t33_q182",
+    "answerOptionList": [
+      {
+        "id": "fd8183d0-2589-4467-b887-eea1149bb113",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "305b5323-7993-4928-8873-61c94e596a43",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "35afb5ed-f269-4fcc-aecd-10e1cafd6e76",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "dfc803cc-0c7a-4be6-b473-ddf262397769",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "48af90c4-ff98-4e48-8bba-7db35c3569a6",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "70189b73-720f-470e-b6c0-4a90f5044322",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 183,
+    "text": "Даний дорожній знак попереджає:",
+    "imageResId": "image_t33_q183",
+    "answerOptionList": [
+      {
+        "id": "46b659fa-f394-46d1-a5ab-d4d2561f1a29",
+        "position": 1,
+        "text": "Про наближення до ділянки дороги зі смугою для реверсивного руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "4e884b18-4513-4711-a56f-79eabc91f7e9",
+        "position": 2,
+        "text": "Про наближення до ділянки дороги з інтенсивним рухом.",
+        "isCorrect": false
+      },
+      {
+        "id": "6ede585f-ff7a-496a-bfb0-af8013efc661",
+        "position": 3,
+        "text": "Про наближення до ділянки дороги із зустрічним рухом після одностороннього.",
+        "isCorrect": false
+      },
+      {
+        "id": "a501de42-8a7b-49fe-8b3a-5e253c5a197b",
+        "position": 4,
+        "text": "Про наближення до ділянки дороги, на якій починається багатосмугова дорога.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5717e7a4-b806-40d3-9275-62ecc25a1d0a",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 184,
+    "text": "Даний дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q184",
+    "answerOptionList": [
+      {
+        "id": "ccc5888c-dbe9-4606-a724-9bf156f52335",
+        "position": 1,
+        "text": "Місцем виконання дорожніх робіт.",
+        "isCorrect": false
+      },
+      {
+        "id": "0e413e92-8e99-4a5c-b1a3-8f05ba1e6da7",
+        "position": 2,
+        "text": "Залізничним переїздом без шлагбаума.",
+        "isCorrect": false
+      },
+      {
+        "id": "0bf08c3d-307b-4b34-a5dd-c31bfc6625fe",
+        "position": 3,
+        "text": "Залізничним переїздом із шлагбаумом.",
+        "isCorrect": false
+      },
+      {
+        "id": "33cb3d66-5e0c-4104-8338-bc156689fe75",
+        "position": 4,
+        "text": "Місцем перетину дороги з трамвайною колією.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a1418e4e-55b4-4217-b333-1c9fbe59e633",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 185,
+    "text": "Який із зображених дорожніх знаків встановлюється перед залізничним переїздом зі шлагбаумом?",
+    "imageResId": "image_t33_q185",
+    "answerOptionList": [
+      {
+        "id": "a66cbfe0-392f-4224-a04f-7597dd52acab",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "8c2f39e5-47f8-4752-9b5a-743a138e6fac",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "93d42b98-93c9-47d5-8c5a-c2296fbf7aad",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "90b08681-cb3a-4eda-bfbc-2507b60dc07b",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b2eb540b-cb2b-47be-824e-64894c77c6a2",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 186,
+    "text": "Який із зображених дорожніх знаків встановлюється перед залізничним переїздом без шлагбаума?",
+    "imageResId": "image_t33_q186",
+    "answerOptionList": [
+      {
+        "id": "2cc564eb-0328-45f9-a291-b8b33fa11ab3",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "301ef038-e6f9-4bfc-b660-6061ecf6409e",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "c991186e-fad9-4952-8e12-7e90987929f3",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "4230b555-3d7a-4fc9-b871-7280afdb9624",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "808ab25c-6d75-4f45-bbfc-c7289b0b589a",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 187,
+    "text": "У якому місці встановлюється даний дорожній знак?",
+    "imageResId": "image_t33_q187",
+    "answerOptionList": [
+      {
+        "id": "29225e12-7a01-4019-b9e2-732da13aea24",
+        "position": 1,
+        "text": "Перед місцем перетину дороги з трамвайною колією на перехресті з обмеженою оглядовістю.",
+        "isCorrect": false
+      },
+      {
+        "id": "93c24767-3732-44dc-b5bd-fdbbf0dfd637",
+        "position": 2,
+        "text": "Перед залізничним переїздом без шлагбаума.",
+        "isCorrect": false
+      },
+      {
+        "id": "36dd869b-3627-4bd7-8206-f08380c89235",
+        "position": 3,
+        "text": "Перед залізничним переїздом зі шлагбаумом.",
+        "isCorrect": false
+      },
+      {
+        "id": "da5f7d1f-21f9-471c-93f8-2580a9b6835e",
+        "position": 4,
+        "text": "Перед залізничним переїздом без шлагбаума, розташованим за межами населеного пункту.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "50adead3-c223-451e-9467-2531022d877d",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 188,
+    "text": "Зображений дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q188",
+    "answerOptionList": [
+      {
+        "id": "2449afbc-d685-4ffa-9098-45d5e5609aee",
+        "position": 1,
+        "text": "Нерегульованим пішохідним переходом.",
+        "isCorrect": false
+      },
+      {
+        "id": "dc18aa3a-c57a-4b62-af3e-d39335429c56",
+        "position": 2,
+        "text": "Місцем масового скупчення людей.",
+        "isCorrect": false
+      },
+      {
+        "id": "e54deae9-273d-4dac-b5a1-c68df164cc8e",
+        "position": 3,
+        "text": "Ділянкою дороги, на якій можлива поява дітей з території дитячого закладу, прилеглого безпосередньо до дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "afead474-d72c-46c8-a174-6f0b256af36e",
+        "position": 4,
+        "text": "Ділянкою дороги, на якій можливий вихід людей на проїзну частину.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ae43a17f-6b70-47a3-b829-30a2dd91b4ad",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 189,
+    "text": "Зображений дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q189",
+    "answerOptionList": [
+      {
+        "id": "a9c810b9-7a24-4dfc-91bc-44fa219a428a",
+        "position": 1,
+        "text": "Місцем перехрещення з велосипедною доріжкою поза перехрестям.",
+        "isCorrect": false
+      },
+      {
+        "id": "1839e825-ad59-4aa3-bfd6-355accfa537a",
+        "position": 2,
+        "text": "Місцем, поблизу якого проходить велосипедна доріжка.",
+        "isCorrect": false
+      },
+      {
+        "id": "70ee99e5-e71e-40b6-810f-3de0c2434daf",
+        "position": 3,
+        "text": "Ділянкою дороги, на якій можлива поява велосипедистів.",
+        "isCorrect": false
+      },
+      {
+        "id": "98cbb992-f061-4eb7-8524-335a02b4ac66",
+        "position": 4,
+        "text": "Відповіді 1 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fc8cd14a-c63b-4baf-88f2-1b33799364ec",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 190,
+    "text": "Який із зображених знаків встановлюється перед місцем перетину дороги з велосипедною доріжкою поза перехрестям?",
+    "imageResId": "image_t33_q190",
+    "answerOptionList": [
+      {
+        "id": "12dae33d-b757-4e8d-8f7b-687b11af966c",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "75a29288-361b-4284-90d9-b74215c3c061",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "ee40e638-51f6-4bad-aef6-10ffaea2d6b6",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "4b4c0b98-85da-495e-ab8c-a7f70288f738",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a53c4cee-9aad-4afb-ad65-0e9bde198e30",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 191,
+    "text": "Зображеними дорожніми знаками позначають:",
+    "imageResId": "image_t33_q191",
+    "answerOptionList": [
+      {
+        "id": "26d7b7e5-7ba3-4f8c-9498-56dfc21e53e0",
+        "position": 1,
+        "text": "Ділянку дороги з двома і більше розташованими один за одним небезпечними поворотами.",
+        "isCorrect": false
+      },
+      {
+        "id": "979aa8e7-86c4-4cb3-8e17-f236a6948d98",
+        "position": 2,
+        "text": "Звуження дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "8c4003a6-099d-4c67-9377-b665784f7320",
+        "position": 3,
+        "text": "Напрямок повороту.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c8b6f26a-31f1-45c2-b9e2-c76158742a5f",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 192,
+    "text": "Який із зображених дорожніх знаків повторюється перед небезпечною ділянкою дороги за межами населених пунктів?",
+    "imageResId": "image_t33_q192",
+    "answerOptionList": [
+      {
+        "id": "48c3163c-d838-48cb-9606-19b06442cf07",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7ee8a6c9-edba-48b3-bcb6-ca021348348a",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "2f3e6bbd-caea-4242-84f5-1a8eba25cb00",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "71576622-5898-4f79-8bb2-039fd22ff526",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "eee0c192-adc4-483b-9585-96d684b2aeb2",
+        "position": 5,
+        "text": "Усі зображені дорожні знаки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b3faeeb5-08cc-4556-9d88-102353ef9c59",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 193,
+    "text": "Який із зображених дорожніх знаків повторюється перед небезпечною ділянкою дороги за межами населених пунктів?",
+    "imageResId": "image_t33_q193",
+    "answerOptionList": [
+      {
+        "id": "ab65815e-17be-4f8a-b57e-50261f8b6e2c",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "c2343d37-0d09-4090-9417-999d91f225d8",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "b06f153b-9180-4e35-8ed2-853ce5d41881",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "42403cab-ecd5-47c3-9fc3-b4f796d4844b",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "44f00ed2-2e8d-4547-b1a0-aef5e126427b",
+        "position": 5,
+        "text": "Усі зображені дорожні знаки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7c08986c-1a57-4278-8c3d-b1a99bfc1e79",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 194,
+    "text": "Який із зображених дорожніх знаків повторюється перед небезпечними ділянками дороги в населених пунктах?",
+    "imageResId": "image_t33_q194",
+    "answerOptionList": [
+      {
+        "id": "825f6cff-41b2-46db-8562-90c74c2d8d0f",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "1abcbb7f-2e15-4bde-9522-278761f2be97",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "ef6bf841-fb33-4a47-a279-032522531d0a",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "80740232-b36d-4311-857c-25ca994af47b",
+        "position": 4,
+        "text": "Знаки 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "c0b7e35e-5385-4fad-9434-a9ae1dad0913",
+        "position": 5,
+        "text": "Знаки 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f43177d4-5cc3-4c35-a73a-b02accabede0",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 195,
+    "text": "Які із зображених дорожніх знаків є тимчасовими?",
+    "imageResId": "image_t33_q195",
+    "answerOptionList": [
+      {
+        "id": "92355288-fd07-4498-89af-91ffec537112",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "22bc2ce4-11d7-4a3c-bbe1-6d48dec21120",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "c601d6dd-f538-4c06-b740-18fa5b3c9448",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "1ee1b54a-9ec9-41ab-9e3a-edb7cd068927",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "573a796e-4ee7-4867-8a1a-43f043370dca",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 199,
+    "text": "Який з перелічених знаків встановлюється безпосередньо перед небезпечною ділянкою дороги?",
+    "imageResId": "image_t33_q199",
+    "answerOptionList": [
+      {
+        "id": "0a357834-2636-4669-85c3-712228c228db",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "dbdb76ec-df58-4f1e-b6f8-de1aee79a051",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "2857d3a0-0468-4bc4-bcb0-0c5bc1a1f69c",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "a22f1356-e332-48af-a3e7-a6bd3901bf35",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "de0928aa-edae-4f27-b678-81885afb0502",
+        "position": 5,
+        "text": "Знаки 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "037e0a0d-10d3-46ce-a89b-a7af256954b2",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 200,
+    "text": "Який із зображених знаків може бути встановлено безпосередньо перед небезпечною ділянкою дороги?",
+    "imageResId": "image_t33_q200",
+    "answerOptionList": [
+      {
+        "id": "32c7e7ef-babd-465e-9f4c-843aef8a2dad",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "80affb43-727b-419e-8a63-c5eea81885ce",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "e0fac051-5a5b-47af-9d08-79818b0b9e73",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "3292ce87-3205-40aa-b4f5-97007535ec44",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "404bd93f-9c30-461d-bd9e-cba82d98d4ae",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4d080e28-41f0-4ac7-9b11-e1ab41417e8f",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 201,
+    "text": "Зображений дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q201",
+    "answerOptionList": [
+      {
+        "id": "12e84eca-82ca-42be-b6a9-3feb7c7e289c",
+        "position": 1,
+        "text": "Ділянкою дороги, на якій можлива поява диких тварин.",
+        "isCorrect": false
+      },
+      {
+        "id": "ebcc1545-ad37-42aa-8b61-712b458f71e1",
+        "position": 2,
+        "text": "Ділянкою дороги, на якій можлива поява будь-яких тварин.",
+        "isCorrect": false
+      },
+      {
+        "id": "97fbdc57-8bab-4a5f-8d5c-2fb901cd94b7",
+        "position": 3,
+        "text": "Ділянкою дороги, на якій можлива поява худоби.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4830484a-772c-4570-b5cd-a086a7a3d602",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 202,
+    "text": "Зображений дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q202",
+    "answerOptionList": [
+      {
+        "id": "c1c5633d-23bd-47a8-945c-be522be323d9",
+        "position": 1,
+        "text": "Ділянкою дороги, на якій можлива поява худоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "a7ba9f57-d8c2-49de-a76f-3b39f2947dc2",
+        "position": 2,
+        "text": "Ділянкою дороги, на якій можлива поява будь-яких тварин.",
+        "isCorrect": false
+      },
+      {
+        "id": "23b7b7dd-aba7-4e88-8ed4-41e9c2895899",
+        "position": 3,
+        "text": "Ділянкою дороги, на якій можлива поява диких тварин.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "09010796-03fd-4b95-a69a-cc751bd6e584",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 203,
+    "text": "Зображений дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q203",
+    "answerOptionList": [
+      {
+        "id": "f060255f-999c-4bc9-8cf7-6594a5be3a3d",
+        "position": 1,
+        "text": "Ділянкою дороги, на якій є нерівності проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "b40cd72b-0bd9-4fe4-8a5d-98f4bd6064be",
+        "position": 2,
+        "text": "Ділянкою дороги, на якій обмежено дорожній рух.",
+        "isCorrect": false
+      },
+      {
+        "id": "cdd6c986-8204-4265-854a-3555ee8586b7",
+        "position": 3,
+        "text": "Ділянкою дороги, на якій виконують дорожні роботи.",
+        "isCorrect": false
+      },
+      {
+        "id": "6bbc7323-e99a-4b09-8a2f-fcf4d9024904",
+        "position": 4,
+        "text": "Відповіді 1 і 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "f4b39d02-1482-4f9c-85ad-1e2792a1c318",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d33f9a2f-319f-4b04-a28b-afffdd153786",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 204,
+    "text": "На якій відстані від місця виконання короткотермінових дорожніх робіт на проїзній частині в населеному пункті може бути встановлено знак «Дорожні роботи»?",
+    "imageResId": "image_t33_q204",
+    "answerOptionList": [
+      {
+        "id": "eea9e2e5-cced-4008-bc1d-ad1ab31ac0b5",
+        "position": 1,
+        "text": "50—100 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "47399fb6-010f-477b-9b45-eff54933eefa",
+        "position": 2,
+        "text": "150—300 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "af9c9701-5f2f-47d5-8ae8-ba697e6f389c",
+        "position": 3,
+        "text": "10—15 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "a2f6739d-b192-4615-b187-7e105bf74727",
+        "position": 4,
+        "text": "Безпосередньо перед таким місцем.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4cf98caf-9a18-4a8c-a166-12f7678877d7",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 205,
+    "text": "Зображений дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q205",
+    "answerOptionList": [
+      {
+        "id": "ecc4a2c6-6ec4-41bb-8c2c-b088d94b2f43",
+        "position": 1,
+        "text": "Ділянкою дороги, на якій проходять ремонтні роботи.",
+        "isCorrect": false
+      },
+      {
+        "id": "853ae5c4-02a5-4504-a0c4-2b085a135923",
+        "position": 2,
+        "text": "Ділянкою дороги, де звуження проїзної частини спричиняє затори в дорожньому русі.",
+        "isCorrect": false
+      },
+      {
+        "id": "44639847-acd1-43c2-b06c-8b7cc6c72614",
+        "position": 3,
+        "text": "Ділянкою дороги з інтенсивним рухом.",
+        "isCorrect": false
+      },
+      {
+        "id": "7a3a341c-f249-4cde-a452-f6cf00935845",
+        "position": 4,
+        "text": "Ділянкою дороги з багатосмуговим рухом.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d258fe7d-9821-44b9-bddf-95cacdc8c9fb",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 206,
+    "text": "Який із зображених дорожніх знаків попереджає про наближення до ділянки (місця) концентрації дорожньо-транспортних пригод?",
+    "imageResId": "image_t33_q206",
+    "answerOptionList": [
+      {
+        "id": "68c955e5-1c73-4025-9ec0-9e0e7fbac30f",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "0d07e675-9a19-42ae-93d5-d100f2be47f9",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "5b3bbf3b-8bb7-48ed-949c-529ed28927f2",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "0c496a84-ea21-469b-9e10-1e86142f8576",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "15b890ec-c27f-4775-8c6a-4b5438384a46",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 207,
+    "text": "Зображений дорожній знак попереджає водіїв:",
+    "imageResId": "image_t33_q207",
+    "answerOptionList": [
+      {
+        "id": "9c77ce4d-cb50-41ed-b9b8-f6e5e814f933",
+        "position": 1,
+        "text": "Про наближення до ділянки дороги у місці, де геометричні параметри проїзної частини, радіуси вертикальних і горизонтальних кривих тощо не відповідають вимогам будівельних норм.",
+        "isCorrect": false
+      },
+      {
+        "id": "bdef7b9b-a44c-44e7-867a-8a888e5296b5",
+        "position": 2,
+        "text": "Про наближення до місця, де звуження проїзної частини спричиняє затори в дорожньому русі.",
+        "isCorrect": false
+      },
+      {
+        "id": "1ff9ccdb-0b6c-4451-b989-ce2e43bdf8d2",
+        "position": 3,
+        "text": "Правильні обидва варіанти.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a6701103-fe12-4230-89a9-63ecb3fa9c52",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 208,
+    "text": "Даний дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q208",
+    "answerOptionList": [
+      {
+        "id": "bc9394d4-20b9-4592-bad2-bccf727f38ef",
+        "position": 1,
+        "text": "Місцем проведення дорожніх робіт.",
+        "isCorrect": false
+      },
+      {
+        "id": "455180f5-6b3f-4d44-971e-f025086dfe73",
+        "position": 2,
+        "text": "Місцем звуження дороги з обох боків.",
+        "isCorrect": false
+      },
+      {
+        "id": "73304fe7-313a-4c79-9938-b42093448ed8",
+        "position": 3,
+        "text": "Місцем, де звуження проїзної частини спричиняє затори в дорожньому русі.",
+        "isCorrect": false
+      },
+      {
+        "id": "3d0cd00d-fd55-4f5e-973b-b9aedaf9a7b1",
+        "position": 4,
+        "text": "Місцем, де дорога з удосконаленим покриттям переходить у гравійну або ґрунтову дорогу.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5dbeba2a-353b-4550-8d4d-39a6269d6224",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 210,
+    "text": "У даній ситуації ви маєте перевагу:",
+    "imageResId": "image_t33_q210",
+    "answerOptionList": [
+      {
+        "id": "3d2acbd5-2823-41e6-b243-2334e355f5e3",
+        "position": 1,
+        "text": "Тільки на першому перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "9ff39bdd-0527-406a-b375-8c5f44b87b7c",
+        "position": 2,
+        "text": "Тільки на другому перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "fd314628-fe2e-4636-81ba-7cb21d2cce85",
+        "position": 3,
+        "text": "На обох перехрестях.",
+        "isCorrect": false
+      },
+      {
+        "id": "7c987456-ad72-4d6d-844a-7df64b658357",
+        "position": 4,
+        "text": "На обох перехрестях ви взагалі не маєте переваги.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3241380e-b195-4d21-bee0-42756161a582",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 211,
+    "text": "Дорожні роботи – це:",
+    "imageResId": "image_t33_q211",
+    "answerOptionList": [
+      {
+        "id": "ed8fade1-ba43-442d-8f84-5d1307486f55",
+        "position": 1,
+        "text": "Роботи, пов'язані з інженерним облаштуванням, установкою (ремонтом, заміною) технічних засобів організації дорожнього руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "2c2ea030-3cd7-46b9-aea8-0d75c160ce2c",
+        "position": 2,
+        "text": "Роботи, пов'язані з будівництвом, реконструкцією, ремонтом чи утриманням автомобільної дороги (вулиці), штучних споруд, споруд дорожнього водовідводу.",
+        "isCorrect": false
+      },
+      {
+        "id": "56632311-7512-427f-9b8e-e0e681966800",
+        "position": 3,
+        "text": "Відповіді, зазначені в пунктах 1, 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fb541c68-4120-4e5a-bdb7-7145b3688093",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 212,
+    "text": "На що вказує даний дорожній знак?",
+    "imageResId": "image_t33_q212",
+    "answerOptionList": [
+      {
+        "id": "42e711e3-5b38-459c-b8f9-7edc5c919abf",
+        "position": 1,
+        "text": "На напрямок звуження проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "33449a0f-cd17-4fb0-a58a-7b22d663d20c",
+        "position": 2,
+        "text": "На напрямок руху на Т-подібних перехрестях.",
+        "isCorrect": false
+      },
+      {
+        "id": "b1baca40-f11c-40c8-9b5f-61423de97d65",
+        "position": 3,
+        "text": "На напрямок руху на розгалуженнях доріг.",
+        "isCorrect": false
+      },
+      {
+        "id": "9dcf0a18-37f5-4b7e-9ecf-76b9ba65d172",
+        "position": 4,
+        "text": "На напрямок об'їзду ділянки дороги, що ремонтується.",
+        "isCorrect": false
+      },
+      {
+        "id": "cb4ce33d-ab48-4cc2-945b-143470e9e64a",
+        "position": 5,
+        "text": "Відповіді 2, 3 і 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4274a17d-c899-4992-a978-17c03770a34e",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 213,
+    "text": "Який з наведених дорожніх знаків вказує напрямок повороту?",
+    "imageResId": "image_t33_q213",
+    "answerOptionList": [
+      {
+        "id": "9422f1f7-381d-4fdf-99f8-026692c1c484",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7f8b3df4-e782-4817-82eb-b6e438e3961d",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "554e363f-9b42-4a39-a780-809924a3af83",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "4d491e53-e349-4dc3-889c-3ac2dda6cb2c",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "05516d19-b570-4d44-8655-4b3a6f7518d1",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 214,
+    "text": "Де встановлюється даний дорожній знак?",
+    "imageResId": "image_t33_q214",
+    "answerOptionList": [
+      {
+        "id": "e6e486ab-32d8-4a34-86b4-c5da1909e827",
+        "position": 1,
+        "text": "Перед ділянкою дороги з підвищеною слизькістю проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "b6e2419f-86e9-4382-946d-3ee8e81962b8",
+        "position": 2,
+        "text": "Перед небезпечним поворотом дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "694903ed-f777-4bdb-bec9-543af36f40a2",
+        "position": 3,
+        "text": "Перед звуженням дороги з обох боків.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "32a6aec9-94ec-4c93-ae35-11aa15282c79",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 215,
+    "text": "Який з наведених дорожніх знаків попереджає про звуження дороги з правого боку?",
+    "imageResId": "image_t33_q215",
+    "answerOptionList": [
+      {
+        "id": "93d5f825-ef90-4bd8-a869-b60ab1fb663e",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "ff32b1ef-0e41-4bc2-abb5-880e4d7b8b94",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "769ac1a5-cd02-47b1-afae-ad169a089027",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "c0063cc3-51df-4311-bdd9-8c47b59d122f",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e6a7416a-3b61-4519-82b5-9fc495149090",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 216,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q216",
+    "answerOptionList": [
+      {
+        "id": "fce9810b-197b-48cf-a59a-4e4c3f7217ed",
+        "position": 1,
+        "text": "Про звуження дороги праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "abbebf32-8c9c-42d9-8c14-3261075a5be1",
+        "position": 2,
+        "text": "Про звуження дороги ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "0cf44cc6-6eaf-4eee-8661-a83087fe695d",
+        "position": 3,
+        "text": "Про закінчення дороги з розділювальною смугою.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ca577182-e78b-42ce-89a0-3eeff3851e2e",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 217,
+    "text": "Який з наведених дорожніх знаків встановлюється перед крутим підйомом?",
+    "imageResId": "image_t33_q217",
+    "answerOptionList": [
+      {
+        "id": "e45a61e4-d3f8-4738-95c0-167ef8829a91",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "e54974eb-0cff-4714-a9d4-ae2804e7fd30",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "8aa761f5-126e-4982-9e2b-63a2d2a75af1",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "1cf7093b-a686-4225-a46d-1b0c8387a3fd",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "991d926e-949a-49c6-8d00-d1a23751cd3d",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 218,
+    "text": "Який з наведених дорожніх знаків встановлюється перед крутим спуском?",
+    "imageResId": "image_t33_q218",
+    "answerOptionList": [
+      {
+        "id": "e6c92548-7ff8-42a9-a1f4-3667b4d7555f",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "5fc3da54-165e-43e2-a5e5-cb8a220886a7",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "a1845784-f079-45dc-8774-47cb1f6bf9de",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a2438bc7-7093-42e6-ba34-19dbf67abc33",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 219,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q219",
+    "answerOptionList": [
+      {
+        "id": "7b1d3131-020a-4792-b7ee-115f9a5ead6a",
+        "position": 1,
+        "text": "Про наближення до крутого спуску.",
+        "isCorrect": false
+      },
+      {
+        "id": "357508f8-5b10-4cf5-9eb3-993060227901",
+        "position": 2,
+        "text": "Про наближення до крутого підйому.",
+        "isCorrect": false
+      },
+      {
+        "id": "e174b94e-5264-44f0-bbf2-bfb3944ad74c",
+        "position": 3,
+        "text": "Про наближення до аварійно небезпечної ділянки дороги.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "93917a3d-d7db-4327-9547-5f65d985b972",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 220,
+    "text": "У якому з місць встановлюється даний дорожній знак?",
+    "imageResId": "image_t33_q220",
+    "answerOptionList": [
+      {
+        "id": "6aed631a-d01d-4c98-b1b7-38ddc4ee42ff",
+        "position": 1,
+        "text": "У місцях дороги з небезпечним узбіччям.",
+        "isCorrect": false
+      },
+      {
+        "id": "a552ed64-94a5-45bf-bcce-b7daafd83177",
+        "position": 2,
+        "text": "У місцях дороги, де можливі сильний вітер або раптові його пориви.",
+        "isCorrect": false
+      },
+      {
+        "id": "5fa858d7-fe0f-4cdc-91e7-2b44e785b0cb",
+        "position": 3,
+        "text": "У місцях напрямку повороту дороги.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f2dae1b1-7648-4fcc-8ec3-8e5f2b6e8cf8",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 221,
+    "text": "Де встановлюється даний дорожній знак?",
+    "imageResId": "image_t33_q221",
+    "answerOptionList": [
+      {
+        "id": "d6746bc6-2967-4052-92ba-8615ab912a0c",
+        "position": 1,
+        "text": "У місцях звуження дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "8fabad63-f6b6-40e0-9b4f-565cc7943f09",
+        "position": 2,
+        "text": "На затяжних підйомах.",
+        "isCorrect": false
+      },
+      {
+        "id": "1db013a5-1786-4e58-8e0f-2d81e5394fd0",
+        "position": 3,
+        "text": "У місцях напрямку повороту дороги з обмеженою оглядовістю.",
+        "isCorrect": false
+      },
+      {
+        "id": "c5323543-c9a2-4dde-aa17-f8a6d855de12",
+        "position": 4,
+        "text": "У місцях об’їзду центра перехрестя з круговим рухом.",
+        "isCorrect": false
+      },
+      {
+        "id": "516f7ddd-3068-4b36-b677-2b87347a2ced",
+        "position": 5,
+        "text": "Відповіді 3 і 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "20c52676-28af-43bd-9415-0423c9cbb289",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 222,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q222",
+    "answerOptionList": [
+      {
+        "id": "05facf58-3ab8-4333-9928-7513c416b496",
+        "position": 1,
+        "text": "Про наближення до небезпечного повороту праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "55047a2a-c90e-4d7b-bac1-b5801dcb2a51",
+        "position": 2,
+        "text": "Про наближення до небезпечного повороту ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "9904ec3d-7aef-42e8-a919-f1dba1e1b21b",
+        "position": 3,
+        "text": "Про наявність в'їзду з прилеглої території.",
+        "isCorrect": false
+      },
+      {
+        "id": "d530d70d-ec43-47fc-947e-029c9790d264",
+        "position": 4,
+        "text": "Про наявність двох поворотів, що йдуть один за одним.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c9e2d80c-7be1-442e-a161-5f7f666b005a",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 223,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q223",
+    "answerOptionList": [
+      {
+        "id": "89446f64-208f-4702-8859-6fc090d0ca0a",
+        "position": 1,
+        "text": "Про наближення до небезпечного повороту праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "fe989460-11c4-475a-a619-a9f56b4053b6",
+        "position": 2,
+        "text": "Про наближення до небезпечного повороту ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "9fde902f-20e0-4f8f-95cb-32cb1d01bbdc",
+        "position": 3,
+        "text": "Про наявність в'їзду з прилеглої території.",
+        "isCorrect": false
+      },
+      {
+        "id": "3649dc8a-2e33-45f8-9061-7e38a1160ee7",
+        "position": 4,
+        "text": "Про наявність двох поворотів, що йдуть один за одним.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "827de35b-b0b4-4642-a400-fb48fdce1e70",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 224,
+    "text": "Який із зображених дорожніх знаків попереджає про заокруглення з обмеженою оглядовістю?",
+    "imageResId": "image_t33_q224",
+    "answerOptionList": [
+      {
+        "id": "a25c2e26-8daa-45cb-ae0d-4fc3ece5de54",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "106791b1-f283-460f-b67f-4fba4daedac2",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "27b6157f-bc67-44f3-baaa-26812fd788ee",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "ba275d82-2d28-4a39-9d64-de9209576397",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2a6ca99d-7a88-406e-8116-444654624cf2",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 225,
+    "text": "Який із перелічених дорожніх знаків вказує водію про наближення до небезпечного повороту дороги?",
+    "imageResId": "image_t33_q225",
+    "answerOptionList": [
+      {
+        "id": "a8edb094-7e4b-4ade-bc26-4efe9b24bee6",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "21ff5cd6-6d27-42ce-a0c2-3101768e4135",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "64536f4e-7174-40c3-b67c-43e836e9c920",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "e62b23f8-b8ed-40fa-b46c-5db80208299c",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "93f35ca8-091b-45fe-b191-d3606b6b6605",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 226,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q226",
+    "answerOptionList": [
+      {
+        "id": "ecbf922a-437e-4ff1-a1ef-677e6abd1511",
+        "position": 1,
+        "text": "Про наявність з'їзду в прилеглу територію.",
+        "isCorrect": false
+      },
+      {
+        "id": "1a281cb9-0d70-4d72-a48c-01c5ebb69f43",
+        "position": 2,
+        "text": "Про наближення до ділянки дороги з небезпечним поворотом.",
+        "isCorrect": false
+      },
+      {
+        "id": "2a8d032e-5e81-4a74-9207-4cd7909eb3d0",
+        "position": 3,
+        "text": "Про наближення до ділянки дороги з двома небезпечними поворотами – з першим праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "1b4054ab-6283-414d-be08-291139ce624e",
+        "position": 4,
+        "text": "Про наближення до ділянки дороги з двома небезпечними поворотами – з першим ліворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b2f90aeb-b44d-4b65-980f-83586ae10851",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 227,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q227",
+    "answerOptionList": [
+      {
+        "id": "c467d80b-912b-4b33-b03c-b38476e1ccd8",
+        "position": 1,
+        "text": "Про наближення до ділянки дороги з двома і більше небезпечними поворотами – з першим ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "6461abba-cb50-4fc9-97c6-899d5094c944",
+        "position": 2,
+        "text": "Про наближення до слизької ділянки дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "3f3ac3e1-29b0-4dcd-a7e2-f1801f5942fb",
+        "position": 3,
+        "text": "Про наближення до небезпечного повороту дороги.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f246227e-018b-4518-8aba-5b2abf71225e",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 229,
+    "text": "Який із вказаних дорожніх знаків встановлюється перед ділянкою дороги з двома небезпечними поворотами, розташованими один за одним?",
+    "imageResId": "image_t33_q229",
+    "answerOptionList": [
+      {
+        "id": "44d0a6d4-1c58-4212-a4d1-d068e1d98963",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "ee1aaba8-9422-4aca-b26e-9493c6f5c646",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "28c9347c-ef23-4097-99bc-40a7c7548463",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "9931c417-3e13-4809-b5ca-841cea79a68c",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7f602d4d-c134-4cd5-9c1d-3e564758dc33",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 230,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q230",
+    "answerOptionList": [
+      {
+        "id": "55e82f97-f8d5-4d69-a602-d2d41710617e",
+        "position": 1,
+        "text": "Про те, що дорога виходить на берег водойми або набережну.",
+        "isCorrect": false
+      },
+      {
+        "id": "e1ac8b60-556e-49f0-b644-c6aed49da32c",
+        "position": 2,
+        "text": "Про те, що дорога виходить на поромну переправу.",
+        "isCorrect": false
+      },
+      {
+        "id": "1524ccf6-e83a-48b6-94a5-84e55f2a47c1",
+        "position": 3,
+        "text": "Про те, що дорога проходить через розвідний міст.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b24cb3f0-cd48-45b0-b37c-1c2d8faab1ec",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 231,
+    "text": "Про що попереджає даний дорожній знак у поєднанні з табличкою?",
+    "imageResId": "image_t33_q231",
+    "answerOptionList": [
+      {
+        "id": "30aa89c1-0950-4d33-8718-7ff4eec94c22",
+        "position": 1,
+        "text": "Про те, що дорога проходить поблизу поромної переправи.",
+        "isCorrect": false
+      },
+      {
+        "id": "fa9919df-d754-4b15-bcd7-ff0130141d00",
+        "position": 2,
+        "text": "Про те, що дорога виходить на берег водойми або набережну.",
+        "isCorrect": false
+      },
+      {
+        "id": "f921d421-b741-47be-86fc-0b386200c641",
+        "position": 3,
+        "text": "Про те, що дорога виходить на поромну переправу.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "721eddc4-a797-4072-8c75-df28dcd7d43e",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 232,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q232",
+    "answerOptionList": [
+      {
+        "id": "d0dae2b7-7916-46f0-b3e9-ee524806282b",
+        "position": 1,
+        "text": "Про наближення до споруди, що не має штучного освітлення, оглядовість в'їзного порталу якої обмежена або на під'їзді до якої звужена проїзна частина.",
+        "isCorrect": false
+      },
+      {
+        "id": "947f0cce-0d06-4dee-9bee-0fcb743ec0ca",
+        "position": 2,
+        "text": "Про наближення до мосту.",
+        "isCorrect": false
+      },
+      {
+        "id": "27e560d0-9d63-4027-a2e3-bdc9fd59d3ad",
+        "position": 3,
+        "text": "Про наближення до шляхопроводу.",
+        "isCorrect": false
+      },
+      {
+        "id": "edbc77cd-97a3-4cdc-ad0e-fb44828c207e",
+        "position": 4,
+        "text": "Про наближення до залізничного переїзду.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d800155d-8490-4c9c-a045-e6789e355ac2",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 233,
+    "text": "Який із зображених дорожніх знаків попереджає про наближення до перехрестя з круговим рухом?",
+    "imageResId": "image_t33_q233",
+    "answerOptionList": [
+      {
+        "id": "9773751d-23aa-424b-a284-f97a5c32f56d",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "1ea3bb60-4714-46f3-a14d-6b9cd5e18a4a",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "20057a93-a9f0-4f8b-9006-2e1ed0e7f4aa",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "887f742a-a9d8-4f15-a8bb-ac69fc8b70d0",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "710dca1f-3762-4afb-b3d5-aef5bef24148",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 234,
+    "text": "Який із зображених дорожніх знаків встановлюється перед перетином дороги з трамвайною колією на перехресті з обмеженою оглядовістю?",
+    "imageResId": "image_t33_q234",
+    "answerOptionList": [
+      {
+        "id": "8c1767b5-f659-45c6-9f18-a79fea3b8dc5",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7386491d-f78e-4491-ad4c-ee243d428273",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "d3df2a8c-a251-43cd-bcda-b5beed7fbcb9",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "481878df-ffb4-46a9-8d0f-ec7f91c57795",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f7d8fa74-0d9f-4a98-97df-0dc8394b3c7f",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 235,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q235",
+    "answerOptionList": [
+      {
+        "id": "c722309e-c574-41ba-9228-1851e0e804d0",
+        "position": 1,
+        "text": "Про наближення до перехрестя нерівнозначних доріг.",
+        "isCorrect": false
+      },
+      {
+        "id": "63dedfb2-ecd8-4e27-9414-d01c3f7a810b",
+        "position": 2,
+        "text": "Про наближення до перехрестя, на якому необхідно дати дорогу.",
+        "isCorrect": false
+      },
+      {
+        "id": "774500a4-c886-493e-ade3-29c2f5a7eb67",
+        "position": 3,
+        "text": "Про наближення до перехрестя, на якому водій має перевагу в русі.",
+        "isCorrect": false
+      },
+      {
+        "id": "2dc5dd37-cec9-44fc-8e6c-e39244840d1a",
+        "position": 4,
+        "text": "Про наближення до перехрестя рівнозначних доріг.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "902023fa-211e-4c34-8bcb-59f7c8d75f75",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 236,
+    "text": "Який із зображених дорожніх знаків встановлюється перед перехрестям рівнозначних доріг?",
+    "imageResId": "image_t33_q236",
+    "answerOptionList": [
+      {
+        "id": "7022a8c5-f8ae-4274-aad5-b518dc5e9654",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "dfc38506-fe3a-4f48-a245-444c9164d03a",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "91f49d2e-e54a-4cad-9f6e-9c5a521eec1a",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "c7193549-0d41-4e97-95cb-f1089fa16c9d",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "adcfb7fe-21ab-4570-9ef7-409b9106e6a3",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 237,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q237",
+    "answerOptionList": [
+      {
+        "id": "f333bdd7-0f8f-4882-b870-514df536a04a",
+        "position": 1,
+        "text": "Про наближення до перехрестя рівнозначних доріг.",
+        "isCorrect": false
+      },
+      {
+        "id": "5f6a0bb8-4006-43f1-8406-441c07e472f0",
+        "position": 2,
+        "text": "Про наближення до перехрестя нерівнозначних доріг.",
+        "isCorrect": false
+      },
+      {
+        "id": "c8114cdb-b7bb-490e-8e3e-de823afb8850",
+        "position": 3,
+        "text": "Про наближення до місця перетину з прилеглою територією.",
+        "isCorrect": false
+      },
+      {
+        "id": "b43cd962-2a5e-407c-9d2e-7d49b545063e",
+        "position": 4,
+        "text": "Про наближення до залізничного переїзду.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1dfd5aaf-43fe-463f-ab54-b9598f326bed",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 238,
+    "text": "Який із зображених дорожніх знаків встановлюється при наближенні до перехрестя із другорядною дорогою?",
+    "imageResId": "image_t33_q238",
+    "answerOptionList": [
+      {
+        "id": "8363e76e-d48c-4db3-a383-a4f64fd5ac38",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "9bda940a-4062-45f5-a0e1-b6bf4a692694",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "2a9f0383-8d26-45c9-8707-54c85400d6f0",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "fa73af1c-a30d-4b64-b8a7-f3654614faea",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bef83672-2e74-4379-9dfb-e833a6a54ac1",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 239,
+    "text": "Чи маєте ви перевагу в русі на найближчому перехресті?",
+    "imageResId": "image_t33_q239",
+    "answerOptionList": [
+      {
+        "id": "1de9bd7d-8886-46ad-a32c-d44ea9462f26",
+        "position": 1,
+        "text": "Не маєте.",
+        "isCorrect": false
+      },
+      {
+        "id": "9a22080f-140c-4f50-b1ba-3cd4221082a5",
+        "position": 2,
+        "text": "Маєте, тільки якщо встановлено знак «Головна дорога».",
+        "isCorrect": false
+      },
+      {
+        "id": "d3123a27-6442-47a8-8cec-444e3f2b63bf",
+        "position": 3,
+        "text": "Маєте в будь-якому разі.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "898e0cae-99a4-42ee-92e8-c0b9802633c6",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 240,
+    "text": "Даний дорожній знак попереджає:",
+    "imageResId": "image_t33_q240",
+    "answerOptionList": [
+      {
+        "id": "944a4578-4899-4bea-a523-b51ef7be16f1",
+        "position": 1,
+        "text": "Про наближення до перехрестя з обмеженою оглядовістю.",
+        "isCorrect": false
+      },
+      {
+        "id": "47a5e58f-7800-4f71-a6b3-f0cbd185e81d",
+        "position": 2,
+        "text": "Про наближення до перехрестя рівнозначних доріг.",
+        "isCorrect": false
+      },
+      {
+        "id": "eee88723-5fdb-45fa-b4d2-9af1f5b198bb",
+        "position": 3,
+        "text": "Про наближення до перехрестя, на якому другорядна дорога прилягає з правого боку.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8d492460-8bb7-4566-bcf2-d4bee93fc5b0",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 241,
+    "text": "Даний дорожній знак встановлюється перед ділянками дороги:",
+    "imageResId": "image_t33_q241",
+    "answerOptionList": [
+      {
+        "id": "8199f845-20d0-4384-a93b-2a8b84fb2070",
+        "position": 1,
+        "text": "Які проходять поблизу аеропорту.",
+        "isCorrect": false
+      },
+      {
+        "id": "4fa47657-cf12-415d-87ab-0b9c49891d29",
+        "position": 2,
+        "text": "Які проходять поблизу аеродромів.",
+        "isCorrect": false
+      },
+      {
+        "id": "cfa09c69-b6ad-4547-96e4-87cb57420221",
+        "position": 3,
+        "text": "Які проходять поблизу аеродромів або над якими літаки чи вертольоти пролітають на невеликій висоті.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5b42558b-3cf7-4230-acfe-9a37c37161d8",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 242,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q242",
+    "answerOptionList": [
+      {
+        "id": "8951ad06-dc05-4d83-b8d9-d27465e23b6f",
+        "position": 1,
+        "text": "Попереду ділянка дороги, яка проходить поблизу злітно-посадкових смуг.",
+        "isCorrect": false
+      },
+      {
+        "id": "0dae7d1d-81e6-4011-9ef0-03ab56da4d9c",
+        "position": 2,
+        "text": "Попереду ділянка дороги, на якій можливі сильний боковий вітер або його раптові пориви.",
+        "isCorrect": false
+      },
+      {
+        "id": "da18a11a-ae7f-4716-b174-7081e67cab0f",
+        "position": 3,
+        "text": "Попереду ділянка дороги, яка проходить поблизу набережної.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f0453018-fd47-4adc-b792-9efd41e19b66",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 243,
+    "text": "Де встановлюється даний дорожній знак?",
+    "imageResId": "image_t33_q243",
+    "answerOptionList": [
+      {
+        "id": "0969ed9d-141f-40af-9582-94b7ff0e815c",
+        "position": 1,
+        "text": "Перед ділянкою дороги з вибоїнами.",
+        "isCorrect": false
+      },
+      {
+        "id": "ce6d1c94-2643-4165-8d8f-37f189480dac",
+        "position": 2,
+        "text": "Перед ділянкою дороги зі штучно створюваними буграми в місцях, де необхідно примусово обмежити швидкість руху транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "b8f20412-faca-4d8d-b277-1f604f05e6b2",
+        "position": 3,
+        "text": "Перед ділянкою дороги з нерівністю проїзної частини – хвилястості, напливи, спучування.",
+        "isCorrect": false
+      },
+      {
+        "id": "43d11d98-ffde-48a4-972e-e01768c6f30e",
+        "position": 4,
+        "text": "Перед ділянкою дороги, на якій узбіччя підвищене, занижене, зруйноване, а також якщо на узбіччі виконують ремонтні роботи.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "58d3d447-404f-4ebe-bb8c-e18860cdddeb",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 244,
+    "text": "Даний дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q244",
+    "answerOptionList": [
+      {
+        "id": "8d1222f7-7546-4c40-b6c7-437bf32682f1",
+        "position": 1,
+        "text": "Ділянкою дороги, що має нерівності проїзної частини – хвилястості, напливи, спучування.",
+        "isCorrect": false
+      },
+      {
+        "id": "307ae040-f714-4a9a-bba7-e8b4a75367e2",
+        "position": 2,
+        "text": "Ділянкою дороги з вибоїнами чи просіданням дорожнього покриття на проїзній частині.",
+        "isCorrect": false
+      },
+      {
+        "id": "b144660f-09cf-4dc7-a8b8-9b8ab3b511bb",
+        "position": 3,
+        "text": "Штучно створюваними буграми в місцях, де необхідно примусово обмежити швидкість руху транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "0174979e-ed9c-4c16-a75b-58c8f6a5d1eb",
+        "position": 4,
+        "text": "Ділянкою дороги з буграми, напливами чи неплавним стикуванням конструкцій мостів.",
+        "isCorrect": false
+      },
+      {
+        "id": "548a3f38-dfba-46e1-b78f-a2f00cb1badb",
+        "position": 5,
+        "text": "Відповіді 3 і 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8c286abb-65f2-4d21-800f-fd309ccd43d7",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 245,
+    "text": "Даний дорожній знак встановлюється перед:",
+    "imageResId": "image_t33_q245",
+    "answerOptionList": [
+      {
+        "id": "2567e0fc-12d7-4d5c-ad2c-2275d476e096",
+        "position": 1,
+        "text": "Штучно створюваними буграми в місцях, де необхідно примусово обмежити швидкість руху транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "3cd0ca00-1502-41a8-8415-84cf957dbfcd",
+        "position": 2,
+        "text": "Ділянками доріг з вибоїнами чи просіданням дорожнього покриття на проїзній частині.",
+        "isCorrect": false
+      },
+      {
+        "id": "f3fad678-5fa3-4f0b-a4d0-8ac715d6db88",
+        "position": 3,
+        "text": "Ділянками доріг з буграми, напливами чи неплавним стикуванням конструкцій мостів.",
+        "isCorrect": false
+      },
+      {
+        "id": "846361b6-9eb3-4553-9e73-050bd12783e1",
+        "position": 4,
+        "text": "Ділянками доріг, на яких можливе викидання гравію, щебеню і т. д. з-під коліс транспортних засобів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9be522fa-b04b-4c8a-9470-c08db30ef377",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 246,
+    "text": "Який з наведених дорожніх знаків встановлюється перед ділянками доріг з вибоїнами чи просіданням дорожнього покриття?",
+    "imageResId": "image_t33_q246",
+    "answerOptionList": [
+      {
+        "id": "e8ba3372-e875-4492-ae03-534e4469f312",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "67f50cda-0bfc-448a-b45e-463d8a34344b",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "972bf6ad-eb40-401e-81f1-313b06d7b21c",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "6c624ca1-c6ff-4348-94de-74d6e6c7572a",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "191c4be3-592e-460e-bb6b-3c1e34c7b3be",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 247,
+    "text": "Який з наведених дорожніх знаків попереджає, що попереду ділянка дороги з підвищеною слизькістю проїзної частини?",
+    "imageResId": "image_t33_q247",
+    "answerOptionList": [
+      {
+        "id": "5c8b14ff-7271-4875-a475-5fe26e4de37c",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "2bdd2559-4fa9-4376-85eb-8cd72e33c3a6",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "0999dddb-726a-4e7e-9b6a-a4ab69a19f28",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "b160d11f-4534-4cb8-8f39-0c975852d1af",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "180f4b8c-9c3b-45c5-b8cf-9f9500949fdd",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 248,
+    "text": "Про що попереджає даний дорожній знак?",
+    "imageResId": "image_t33_q248",
+    "answerOptionList": [
+      {
+        "id": "97965097-737f-4b48-877f-078e1dba3870",
+        "position": 1,
+        "text": "Про те, що попереду ділянка дороги з мокрим покриттям.",
+        "isCorrect": false
+      },
+      {
+        "id": "2ba5e7f3-be9d-4a46-9665-38016d36abea",
+        "position": 2,
+        "text": "Про те, що попереду ділянка дороги, заметена снігом.",
+        "isCorrect": false
+      },
+      {
+        "id": "28c0c9cd-8ba6-405a-a0f8-3b2d6d7eaaa0",
+        "position": 3,
+        "text": "Про те, що попереду ділянка дороги, що має нерівності проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "dd97c945-6831-416c-ad75-9264db859a3e",
+        "position": 4,
+        "text": "Попереду ділянка дороги, на якій можливе викидання гравію, щебеню тощо з-під коліс транспортних засобів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "733a1ca9-aa6a-4e60-ae30-38dfa70cc00b",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 249,
+    "text": "Даний дорожній знак встановлюється перед ділянками дороги, на яких:",
+    "imageResId": "image_t33_q249",
+    "answerOptionList": [
+      {
+        "id": "82b617e4-6cfb-4d65-91f6-9b9cf028de1e",
+        "position": 1,
+        "text": "Підвищене, занижене, зруйноване узбіччя або на узбіччі виконують ремонтні роботи.",
+        "isCorrect": false
+      },
+      {
+        "id": "e35171cf-66c9-4b65-b2d9-0bb63f5cbbaf",
+        "position": 2,
+        "text": "Можливе викидання гравію, щебеню тощо з-під коліс транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "518a18f9-ef45-4f17-af9e-02f3227d863e",
+        "position": 3,
+        "text": "Виконуються дорожні роботи.",
+        "isCorrect": false
+      },
+      {
+        "id": "40ac53bb-9d49-490b-99c1-2b2f85995563",
+        "position": 4,
+        "text": "Є нерівності проїзної частини – хвилястості, напливи, спучування.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c9be733a-1a81-4830-b834-5c94b64620df",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 250,
+    "text": "Даний дорожній знак встановлюється перед ділянкою дороги, на якій:",
+    "imageResId": "image_t33_q250",
+    "answerOptionList": [
+      {
+        "id": "09b72566-c9d1-4562-9005-7d979db15144",
+        "position": 1,
+        "text": "Можливі сильний боковий вітер або його раптові пориви.",
+        "isCorrect": false
+      },
+      {
+        "id": "a8763041-9b9f-4918-a513-52260e86dbff",
+        "position": 2,
+        "text": "Можуть бути падіння каміння, обвали, зсуви.",
+        "isCorrect": false
+      },
+      {
+        "id": "d64dd568-cf0b-43c6-9cd9-1caf8d952419",
+        "position": 3,
+        "text": "Можливе викидання гравію, щебеню тощо з-під коліс транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "d5eafbbf-1b65-4319-ad92-50112f72cc73",
+        "position": 4,
+        "text": "Крутий підйом.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e3c7838c-6678-40d8-b7b2-06a137a77eef",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 251,
+    "text": "Даний дорожній знак попереджає:",
+    "imageResId": "image_t33_q251",
+    "answerOptionList": [
+      {
+        "id": "30a06f9d-5417-4336-aa10-68d551ebaac3",
+        "position": 1,
+        "text": "Про наближення до перехрестя з обмеженою оглядовістю.",
+        "isCorrect": false
+      },
+      {
+        "id": "a6d0aaa7-0277-445f-aec0-1357cb491f84",
+        "position": 2,
+        "text": "Про наближення до перехрестя рівнозначних доріг.",
+        "isCorrect": false
+      },
+      {
+        "id": "81b175a5-ba6a-44f1-81f2-0bd0d8d1b711",
+        "position": 3,
+        "text": "Про наближення до прилягання другорядної дороги з лівого боку.",
+        "isCorrect": false
+      },
+      {
+        "id": "6268286c-a9b9-4eb0-bf0a-4fc709263462",
+        "position": 4,
+        "text": "Про наближення до місця, де дорога звужується зліва.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f3c1f64d-958e-4dc4-8485-f9b2a2818ad7",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 336,
+    "text": "Попереджувальні знаки встановлюють до початку небезпечної ділянки поза населеними пунктами на відстані:",
+    "answerOptionList": [
+      {
+        "id": "4900c4b7-e70c-421e-a711-f5ecabf038f2",
+        "position": 1,
+        "text": "150 – 200 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "0876f462-b523-48c2-a1d5-b7e695989756",
+        "position": 2,
+        "text": "100 – 300 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "78fa5343-d015-4d1d-9b25-7419b695e058",
+        "position": 3,
+        "text": "150 – 300 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "cbcf24d1-8de2-4de0-a471-d4cf72a5e129",
+        "position": 4,
+        "text": "50 – 100 м.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0a1e37c4-b582-484b-a8dc-c64abe3a89ed",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 337,
+    "text": "Попереджувальні знаки встановлюють до початку небезпечної ділянки в населених пунктах на відстані:",
+    "answerOptionList": [
+      {
+        "id": "c3c75c24-79e7-4a44-be1a-31e7c606dd0a",
+        "position": 1,
+        "text": "10 – 50 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "6a937412-97d5-4a1e-a5be-c647207c6a7f",
+        "position": 2,
+        "text": "50 – 100 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "8ca110c0-ec25-4e24-b1f4-cc356122c754",
+        "position": 3,
+        "text": "150 – 300 м.",
+        "isCorrect": false
+      },
+      {
+        "id": "250d4a64-55d0-433a-b468-813bb7b41666",
+        "position": 4,
+        "text": "20 – 50 м.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bca0f613-d06f-4e43-a017-9c803a7afcc3",
+    "themeId": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
+    "order": 341,
+    "text": "Вказаний дорожній знак попереджає про наближення до:",
+    "imageResId": "image_t33_q341",
+    "answerOptionList": [
+      {
+        "id": "58bc1f48-d7a4-4cea-8eda-c9c66808a7c0",
+        "position": 1,
+        "text": "Місця (ділянки) концентрації дорожньо-транспортних пригод.",
+        "isCorrect": false
+      },
+      {
+        "id": "7b2bc76e-0b6c-476c-b960-b34e3b4c90a2",
+        "position": 2,
+        "text": "Залізничного переїзду.",
+        "isCorrect": false
+      },
+      {
+        "id": "524f81ba-4b33-4858-bd82-61ab35c2b93d",
+        "position": 3,
+        "text": "Ділянки, де можливе падіння каміння.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

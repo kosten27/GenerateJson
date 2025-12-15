@@ -1,0 +1,143 @@
+[
+  {
+    "id": "5ac5302a-6de2-4f3e-be1b-c78f9646cea9",
+    "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
+    "order": 96,
+    "text": "Який із зображених дорожніх знаків інформує про наявність на дорозі обладнаного місця відпочинку?",
+    "imageResId": "image_t33_q096",
+    "answerOptionList": [
+      {
+        "id": "89acda8c-b239-48a8-a77b-07d24dc537a5",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "baa28b43-cc0e-4c6c-90f9-ee70b96fc45b",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "be854efc-afb3-4720-bafe-674929ab25d2",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "3355267e-25af-42d2-85a0-a397a652cd15",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "09fd0a20-212a-44a3-990f-b61f727930cd",
+    "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
+    "order": 99,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q099",
+    "answerOptionList": [
+      {
+        "id": "8e4472bc-45e9-4fb0-958c-3ffa379d7380",
+        "position": 1,
+        "text": "Пункт технічного обслуговування.",
+        "isCorrect": false
+      },
+      {
+        "id": "af9656c7-4b57-4d12-ac27-cbd8a496ad16",
+        "position": 2,
+        "text": "Електрозарядні станції.",
+        "isCorrect": false
+      },
+      {
+        "id": "2aaf9fe2-e0b0-43dd-aea9-67b0ad44a2f4",
+        "position": 3,
+        "text": "Автозаправні та електрозарядні станції.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "982f11bb-0215-4fb9-aa80-96de45862e7d",
+    "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
+    "order": 100,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q100",
+    "answerOptionList": [
+      {
+        "id": "a15acf6e-7caf-48d0-a371-f548a455fe1b",
+        "position": 1,
+        "text": "Пункт технічного обслуговування.",
+        "isCorrect": false
+      },
+      {
+        "id": "d81df4d8-20e6-488a-bc81-160cb57709f2",
+        "position": 2,
+        "text": "Електрозарядні станції.",
+        "isCorrect": false
+      },
+      {
+        "id": "7c4f4eba-7af1-4502-be65-e6f9a79692f7",
+        "position": 3,
+        "text": "Автозаправні та електрозарядні станції.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "af3046d4-69ab-4d7a-905b-3d67a01a66dc",
+    "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
+    "order": 102,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q102",
+    "answerOptionList": [
+      {
+        "id": "cd14e5ed-5a6e-4313-a7e9-08c014c7c7c4",
+        "position": 1,
+        "text": "Про місце розташування телефону громадського користування.",
+        "isCorrect": false
+      },
+      {
+        "id": "6c87ae4a-0604-4f9e-a4d9-8cd55f1f1071",
+        "position": 2,
+        "text": "Про місце розташування телефону для виклику аварійних служб.",
+        "isCorrect": false
+      },
+      {
+        "id": "9a256ce6-9831-40fe-ac27-1cbb3a7aa53c",
+        "position": 3,
+        "text": "Про місце розташування відділення зв'язку.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ad72c414-6f0f-4b30-b791-707db9ef7427",
+    "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
+    "order": 103,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q103",
+    "answerOptionList": [
+      {
+        "id": "60ba79b4-1018-48e8-84e9-33d4fa119850",
+        "position": 1,
+        "text": "Про місце розташування газозаправної станції.",
+        "isCorrect": false
+      },
+      {
+        "id": "258482d1-3b38-47a6-9a1f-46b9f1050b96",
+        "position": 2,
+        "text": "Про місце розташування спільної автозаправної станції.",
+        "isCorrect": false
+      },
+      {
+        "id": "96a71c37-4be9-44e1-8178-713ede69278c",
+        "position": 3,
+        "text": "Про місце розташування автозаправної станції одного виду пального.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

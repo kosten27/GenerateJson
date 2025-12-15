@@ -1,0 +1,2326 @@
+[
+  {
+    "id": "feb17a13-2b30-47a8-8c53-48a00ea5ffe2",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 2,
+    "text": "Який із зображених дорожніх знаків скасовує обмеження мінімальної швидкості руху?",
+    "imageResId": "image_t33_q002",
+    "answerOptionList": [
+      {
+        "id": "b1cb2565-b028-492a-aa1f-b87fe8177292",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "9e8c91e3-1158-4a01-b9cf-8290a037e503",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "68bf6234-022c-4cd1-ac00-50a9aa7a78e1",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "d172af1c-5a56-45b9-8d58-cef254f24005",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3bd4e7f5-7c13-4e6e-928b-e614c7b1bd10",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 43,
+    "text": "На кого (які транспортні засоби) не поширюється дія зображеного дорожнього знака?",
+    "imageResId": "image_t33_q043",
+    "answerOptionList": [
+      {
+        "id": "b1ab11c3-9101-46f7-b1fd-5f0e25fc3ce6",
+        "position": 1,
+        "text": "На таксі, що здійснюють посадку або висадку пасажирів (розвантаження чи завантаження вантажу).",
+        "isCorrect": false
+      },
+      {
+        "id": "f6c01566-3163-4114-9f4a-2d2f9af4ec01",
+        "position": 2,
+        "text": "На транспортні засоби, що рухаються за встановленими маршрутами.",
+        "isCorrect": false
+      },
+      {
+        "id": "aab0d559-8bab-4ba2-8858-3bf6ec5113d9",
+        "position": 3,
+        "text": "На водіїв з інвалідністю, що керують мотоколяскою або автомобілем, позначеними розпізнавальним знаком «Водій з інвалідністю».",
+        "isCorrect": false
+      },
+      {
+        "id": "d7cb07bb-2f27-414a-b683-c1d29e5ae03a",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "a767ba90-3f1e-46cb-a7b8-b4b94fe94afb",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3aa4cf26-77ac-4b25-9c7f-c01ca3999877",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 44,
+    "text": "На кого (які транспортні засоби) не поширюється дія зображеного дорожнього знака?",
+    "imageResId": "image_t33_q044",
+    "answerOptionList": [
+      {
+        "id": "5ab68fe0-0f11-4641-ad2f-11708dab70bf",
+        "position": 1,
+        "text": "На таксі з увімкненим таксометром.",
+        "isCorrect": false
+      },
+      {
+        "id": "31921cff-18e4-458d-b636-e7c0c519ee87",
+        "position": 2,
+        "text": "На автомобілі, що належать громадянам, які проживають у зоні дії знака.",
+        "isCorrect": false
+      },
+      {
+        "id": "719fde7b-59d9-4f55-bddd-d0e229eefc0d",
+        "position": 3,
+        "text": "На водії з інвалідністю, що керують мотоколясками або автомобілями, позначеними розпізнавальним знаком «Водій з інвалідністю».",
+        "isCorrect": false
+      },
+      {
+        "id": "7e060ec0-563a-459a-95be-1e553f7c5443",
+        "position": 4,
+        "text": "Відповіді 1 і 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "53941409-541d-4514-9aed-8930808a1d56",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a1100493-d539-449a-a25a-3b8f6a4daee2",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 46,
+    "text": "Чи дозволено водіям транспортних засобів виконувати посадку або висадку пасажирів у зоні дії зображеного знака?",
+    "imageResId": "image_t33_q046",
+    "answerOptionList": [
+      {
+        "id": "572ad46b-b097-4861-a064-e7e1bba799d9",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "d7e85ffa-0e6a-4b16-a3e1-ab4d616ff095",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "944f86b0-7a30-4886-8339-e840e9dd802a",
+        "position": 3,
+        "text": "Дозволено на час до 5 хвилин.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "afd5c3ba-3726-4a29-9349-f6bda8fc6a00",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 49,
+    "text": "Який із зображених знаків забороняє стоянку тільки в непарні числа місяця?",
+    "imageResId": "image_t33_q049",
+    "answerOptionList": [
+      {
+        "id": "5a8127b9-c317-4002-bb38-7db84c385270",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7ce446dc-067e-4f5f-b249-2c7fdebb0fb0",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "2f45c0f5-1a1b-4d32-b72e-f783070ad712",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "81158b48-4c2f-483b-82e5-958da1c45485",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b4aef897-2396-4543-adf8-7899f532e12c",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 50,
+    "text": "Який із зображених знаків забороняє стоянку тільки в парні числа місяця?",
+    "imageResId": "image_t33_q050",
+    "answerOptionList": [
+      {
+        "id": "ca130de0-fd40-49a9-9a9b-0ecb2ad9cfd7",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "29e7813a-ccb4-440a-903a-218b86b994c9",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "7a4e7d60-b1d9-44da-992f-1e4d8790da2d",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "9b430800-a3b1-4072-9101-bac03e97291d",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "41fcbd24-5403-47e2-9aac-2703c1dd90c0",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 51,
+    "text": "Який час дається водіям для перестановки транспортних засобів з одного боку дороги на другий у разі одночасного встановлення зображених дорожніх знаків?",
+    "imageResId": "image_t33_q051",
+    "answerOptionList": [
+      {
+        "id": "fd7f53b1-8c3e-4b91-b145-b26ce75f2f8f",
+        "position": 1,
+        "text": "З 17:00 до 23:00.",
+        "isCorrect": false
+      },
+      {
+        "id": "1828fcd5-250e-4a64-800a-6d3d0c469573",
+        "position": 2,
+        "text": "З 19:00 до 24:00.",
+        "isCorrect": false
+      },
+      {
+        "id": "aa4266aa-bddc-4139-a3c0-34754c43e1fc",
+        "position": 3,
+        "text": "З 7:00 до 24:00.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b592b653-8bff-473b-a7dc-bfac1cee6c40",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 53,
+    "text": "Зображений дорожній знак забороняє:",
+    "imageResId": "image_t33_q053",
+    "answerOptionList": [
+      {
+        "id": "ebada0a8-60e4-4327-8075-8a89d3060f68",
+        "position": 1,
+        "text": "Зупинку і стоянку всіх транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "a22ccc14-6719-4f98-9e33-13811a89f96e",
+        "position": 2,
+        "text": "Зупинку транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "2a30f481-ecf0-498c-8921-ba927bc37ef5",
+        "position": 3,
+        "text": "Стоянку транспортних засобів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0f56b965-8fb8-4bc8-930a-102ca9934a09",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 55,
+    "text": "З якою дорожньою розміткою може застосовуватися дорожній знак «Зупинка заборонена»?",
+    "imageResId": "image_t33_q055",
+    "answerOptionList": [
+      {
+        "id": "fc65be0a-3631-410b-ab62-18c0d83d237f",
+        "position": 1,
+        "text": "З жовтою переривчастою лінією розмітки, яка наноситься біля краю проїзної частини або по верху бордюру.",
+        "isCorrect": false
+      },
+      {
+        "id": "2b95ff50-b07c-4916-b090-a3654ece7858",
+        "position": 2,
+        "text": "З жовтою суцільною лінією розмітки, яка наноситься біля краю проїзної частини або по верху бордюру.",
+        "isCorrect": false
+      },
+      {
+        "id": "a44aa426-fa82-4145-811a-756560a153e7",
+        "position": 3,
+        "text": "З білою переривчастою лінією розмітки, яка наноситься біля краю проїзної частини або по верху бордюру.",
+        "isCorrect": false
+      },
+      {
+        "id": "abe902d3-8841-4cb6-9839-817a0a19ce39",
+        "position": 4,
+        "text": "З білою суцільною лінією розмітки, яка наноситься біля краю проїзної частини або по верху бордюру.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "68a0bfed-b23e-4100-a78c-0752c91e768b",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 63,
+    "text": "Дія якого із зображених дорожніх знаків поширюється тільки на той бік дороги, над яким він встановлений?",
+    "imageResId": "image_t33_q063",
+    "answerOptionList": [
+      {
+        "id": "b5dad082-bcc8-4d8b-863a-e289cdacec22",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "c4804e0f-b75a-49b3-8cfb-8d0003bd9891",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "c5d1d24d-7743-4c9d-8ac2-40f130d74aeb",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "12e1f33b-321d-424b-aae4-16aedd069de3",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "4adb76b1-310a-42a3-9146-b690139133bb",
+        "position": 5,
+        "text": "Усі перелічені вище знаки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a2ede744-cce0-4ca8-9881-642761b9b82a",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 64,
+    "text": "Зображений дорожній знак:",
+    "imageResId": "image_t33_q064",
+    "answerOptionList": [
+      {
+        "id": "bc4b01e9-4cc4-46c0-aad9-b22e692046f0",
+        "position": 1,
+        "text": "Забороняє стоянку всіх транспортних засобів на тому боці дороги, на якому він встановлений.",
+        "isCorrect": false
+      },
+      {
+        "id": "be494734-d972-45cb-bf83-01c44ad4b413",
+        "position": 2,
+        "text": "Не дозволяє зупинку всіх транспортних засобів на тому боці дороги, на якому він встановлений.",
+        "isCorrect": false
+      },
+      {
+        "id": "5d63430d-3481-4222-8bf5-9a7ad530cb84",
+        "position": 3,
+        "text": "Визначає територію в населеному пункті, на якій тривалість стоянки обмежена незалежно від того, чи справляється за це плата.",
+        "isCorrect": false
+      },
+      {
+        "id": "ef3dbebb-9e52-4a0e-ad3e-59b0e3df907a",
+        "position": 4,
+        "text": "Визначає територію в населеному пункті, на якій заборонено зупинку всіх транспортних засобів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "333deb70-7537-444c-b4a8-cf10b0314ff6",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 76,
+    "text": "Який із зображених дорожніх знаків позначає кінець зони обмеженої стоянки, початок якої позначено відповідним дорожнім знаком?",
+    "imageResId": "image_t33_q076",
+    "answerOptionList": [
+      {
+        "id": "4443c5cb-ab55-453a-95a4-2d450c03eb73",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7d8befc4-f3df-4b44-bfe2-13866c955125",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "76025e06-a665-4693-801b-2decf786f9ee",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "b3ba171f-61e3-4f03-927d-32576cfddd69",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "686cc809-c70a-48aa-ba4d-c1e9796688da",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 77,
+    "text": "Зображений дорожній знак встановлюється:",
+    "imageResId": "image_t33_q077",
+    "answerOptionList": [
+      {
+        "id": "e4ff9e1b-8427-48ba-b369-a73e4c500c42",
+        "position": 1,
+        "text": "Перед митними пунктами, біля яких зупинка не обов'язкова.",
+        "isCorrect": false
+      },
+      {
+        "id": "50477abc-9ece-425f-8d49-a922b2e9a3af",
+        "position": 2,
+        "text": "Перед митними пунктами, біля яких зупинка обов'язкова.",
+        "isCorrect": false
+      },
+      {
+        "id": "3ae4e9d0-8aff-4002-b5d3-27d267aa313e",
+        "position": 3,
+        "text": "Перед контрольними пунктами пропуску, біля яких зупинка обов'язкова.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6624f526-3e59-421c-a85b-f5bd31b2c3ab",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 78,
+    "text": "Який із зображених дорожніх знаків забороняє проїзд без обов'язкової зупинки перед контрольними пунктами?",
+    "imageResId": "image_t33_q078",
+    "answerOptionList": [
+      {
+        "id": "1ff1d683-73f7-4276-87d4-ffcb75dfd62c",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "24aacbb7-f80f-4b66-bb27-7506493aa7eb",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "11e0ae1c-f593-44aa-a785-3b8b86722c55",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "a90e922a-0199-4296-a97f-7c084d614eed",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "1e40b0f9-fb93-49e5-839e-2596669ad520",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2f1ffe4b-d2e1-4666-97a0-f2b70e13e4c6",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 79,
+    "text": "Як повинен вчинити водій, проїжджаючи місце, позначене зазначеним дорожнім знаком?",
+    "imageResId": "image_t33_q079",
+    "answerOptionList": [
+      {
+        "id": "28643ceb-c51e-417a-adf0-0f4c91f1820e",
+        "position": 1,
+        "text": "Знизити швидкість і проїхати позначене місце без зупинки.",
+        "isCorrect": false
+      },
+      {
+        "id": "fa046a9a-7ea6-40a6-ae58-44dbfa4ac9f4",
+        "position": 2,
+        "text": "Знизити швидкість і проїхати позначене місце, зупинившись тільки на вимогу регулювальника.",
+        "isCorrect": false
+      },
+      {
+        "id": "79939415-6431-4dd5-919e-4a70710c5a5d",
+        "position": 3,
+        "text": "Обов'язково зупинитися перед позначеним місцем.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "02ae90a4-f780-4e07-92aa-db0eba7c3aa9",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 80,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q080",
+    "answerOptionList": [
+      {
+        "id": "9e186f3c-fb75-40b9-aa9c-1c2026ebd895",
+        "position": 1,
+        "text": "Кінець дії всіх раніше встановлених дорожніх знаків.",
+        "isCorrect": false
+      },
+      {
+        "id": "2bf429bc-6314-4543-9005-01167da71c52",
+        "position": 2,
+        "text": "Кінець дії всіх заборон і обмежень, запроваджених Правилами дорожнього руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "c4ea19f4-15f3-4cc1-a11a-6b2759689745",
+        "position": 3,
+        "text": "Кінець дії всіх заборон і обмежень, запроваджених деякими заборонними дорожніми знаками.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "71be050e-58a7-4680-ad3a-837229034b95",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 81,
+    "text": "Чи дозволено рух водієві в зону дії даного дорожнього знака, якщо водій там проживає або обслуговує підприємства, які розташовані в цій зоні?",
+    "imageResId": "image_t33_q081",
+    "answerOptionList": [
+      {
+        "id": "91148731-2ad1-4904-9cae-36924f64476f",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "3b59f547-01e8-4896-ac79-da9953b8b554",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "76486cc3-43f8-4aa8-969c-3514def4e0d1",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 107,
+    "text": "Який із зображених дорожніх знаків забороняє в’їзд усіх транспортних засобів (крім транспортних засобів, що рухаються за встановленими маршрутами)?",
+    "imageResId": "image_t33_q107",
+    "answerOptionList": [
+      {
+        "id": "d4137773-ed8f-43b0-b7a2-d6c34d71c4c1",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "dcbcd421-0d40-49a6-be09-7a278c123b1a",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "bac246ab-8e24-47d8-915e-057f6a7016b6",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "6e61b1e9-e2cb-406d-8e9c-a8cab0735799",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "fca16edb-8850-4fef-a46a-f4dfbe0b7da5",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0575d297-4be0-4648-9748-860c4fd69435",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 253,
+    "text": "Представлений дорожній знак забороняє рух:",
+    "imageResId": "image_t33_q253",
+    "answerOptionList": [
+      {
+        "id": "2c09f7bb-b57f-4a7d-9df8-bba4080d217b",
+        "position": 1,
+        "text": "Гужових возів (саней).",
+        "isCorrect": false
+      },
+      {
+        "id": "964cf293-a0bb-48b6-a111-a6251e12096d",
+        "position": 2,
+        "text": "Тварин під сідлом або в'юком і прогін худоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "b31faaa6-5b2d-43ea-af30-925dbaf376db",
+        "position": 3,
+        "text": "Рух пішоходів.",
+        "isCorrect": false
+      },
+      {
+        "id": "2bbdefc6-3780-487a-af0a-03eb95f1b971",
+        "position": 4,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "9c2017c2-726d-44eb-bb8b-822570fdf4b3",
+        "position": 5,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f61a1bc6-a9cb-400d-9fb6-f61adc43351a",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 254,
+    "text": "У якому із зазначених напрямків Вам дозволено рух у зображеній ситуації?",
+    "imageResId": "image_t33_q254",
+    "answerOptionList": [
+      {
+        "id": "6bba44ae-b5a0-43fb-9c36-dd7cd34298c8",
+        "position": 1,
+        "text": "У напрямку А.",
+        "isCorrect": false
+      },
+      {
+        "id": "d5924414-faf3-46fc-bc6c-e992deaaa215",
+        "position": 2,
+        "text": "У напрямках В і Б.",
+        "isCorrect": false
+      },
+      {
+        "id": "1c23a695-d287-4c01-8c20-bc6bff747499",
+        "position": 3,
+        "text": "У напрямках А і Б.",
+        "isCorrect": false
+      },
+      {
+        "id": "01cf57c8-4538-40da-837a-6357a5a5b733",
+        "position": 4,
+        "text": "У напрямках А і В.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0ad576b6-5503-4aef-96ad-164d12d0cd70",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 255,
+    "text": "По якій із зображених траєкторій Вам дозволено повернути праворуч?",
+    "imageResId": "image_t33_q255",
+    "answerOptionList": [
+      {
+        "id": "c313c989-e42e-48c3-a49f-004fa18885e5",
+        "position": 1,
+        "text": "У напрямку А.",
+        "isCorrect": false
+      },
+      {
+        "id": "3662ccbb-33df-4896-a4b0-82a353b02478",
+        "position": 2,
+        "text": "У напрямку Б.",
+        "isCorrect": false
+      },
+      {
+        "id": "1e0860d4-b43b-4e1e-9ca6-9ba814ba7d95",
+        "position": 3,
+        "text": "У будь-якому із зазначених напрямків.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b707c66d-708a-4a84-a1fd-5e3ad0036a8b",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 256,
+    "text": "Чи дозволено Вам виконати розворот на зображеному перехресті?",
+    "imageResId": "image_t33_q256",
+    "answerOptionList": [
+      {
+        "id": "25df3aa5-1d66-4de3-b85c-d4f39ea2e3c8",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "b7658c64-b8b7-4f89-b9b0-7b1cc9d1dbf7",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "814acb0f-691e-467d-bc92-ebbd403a74a4",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 257,
+    "text": "По якій з траєкторій Вам дозволено повернути ліворуч?",
+    "imageResId": "image_t33_q257",
+    "answerOptionList": [
+      {
+        "id": "3f30ef5e-8e02-41ef-99de-233d58b54e27",
+        "position": 1,
+        "text": "По траєкторії А.",
+        "isCorrect": false
+      },
+      {
+        "id": "944d13e2-78ef-483f-a94b-77924dda5730",
+        "position": 2,
+        "text": "По траєкторії Б.",
+        "isCorrect": false
+      },
+      {
+        "id": "6ca2bfbe-900a-4d56-ac0b-e76ca3cf67c8",
+        "position": 3,
+        "text": "По траєкторіях А і Б.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7ac403f7-128b-46dd-a2cd-8cf4ae9bb8a3",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 258,
+    "text": "По якій з траєкторій Вам дозволено рух у зображеній ситуації?",
+    "imageResId": "image_t33_q258",
+    "answerOptionList": [
+      {
+        "id": "3108ba63-a719-4d54-83d8-056b28c4762d",
+        "position": 1,
+        "text": "По траєкторії В.",
+        "isCorrect": false
+      },
+      {
+        "id": "20a03d87-616f-4a84-909c-7fc77c3d4c48",
+        "position": 2,
+        "text": "По траєкторіях А, Б і В.",
+        "isCorrect": false
+      },
+      {
+        "id": "fef334e2-80a1-4979-994f-7f6a2a448559",
+        "position": 3,
+        "text": "По траєкторіях Б і В.",
+        "isCorrect": false
+      },
+      {
+        "id": "cc8866b7-491a-456a-a8c0-1cb0b69d8069",
+        "position": 4,
+        "text": "По траєкторіях А і В.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cd46c14d-1667-4dbc-a023-53b601d2aa7d",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 259,
+    "text": "Чи дозволено Вам повернути ліворуч у зображеній ситуації?",
+    "imageResId": "image_t33_q259",
+    "answerOptionList": [
+      {
+        "id": "3c08f70f-8ddb-4359-8fe6-efcb21f26f7a",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "35e7d1cd-424c-46d3-844e-ae978510dfc8",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9d95cc3e-f1fc-4039-942c-07da23554010",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 260,
+    "text": "По якій з траєкторій Вам дозволено виконати розворот у зображеній ситуації?",
+    "imageResId": "image_t33_q260",
+    "answerOptionList": [
+      {
+        "id": "99bc43bd-99c2-435e-8c5b-a88fabc60421",
+        "position": 1,
+        "text": "По траєкторії А.",
+        "isCorrect": false
+      },
+      {
+        "id": "8e523974-ac52-4be7-9149-8e8544b86a55",
+        "position": 2,
+        "text": "По траєкторії Б.",
+        "isCorrect": false
+      },
+      {
+        "id": "cd63146e-b197-47b5-bf73-cbf99d6b97af",
+        "position": 3,
+        "text": "По будь-якій траєкторії.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f421b114-c62c-4afc-8d21-1cdf8a722375",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 261,
+    "text": "Який із зображених дорожніх знаків забороняє розворот?",
+    "imageResId": "image_t33_q261",
+    "answerOptionList": [
+      {
+        "id": "47059ce3-b4ba-430b-9a60-97e862da69fe",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7e60d327-6c6b-40a5-b5eb-4b1a499d03b3",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "515c76f0-91d8-4dc1-ba53-8ed23df51ae6",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "a095a5b6-d6c2-4988-8c1f-aff95b42b134",
+        "position": 4,
+        "text": "Знаки 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "54937672-b85d-4e99-9e58-6f07f50a81b4",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 262,
+    "text": "З якою метою може бути встановлений даний дорожній знак?",
+    "imageResId": "image_t33_q262",
+    "answerOptionList": [
+      {
+        "id": "e4127390-0140-4f53-b07e-edebb296c545",
+        "position": 1,
+        "text": "З метою запобігання зустрічному руху транспортних засобів на ділянках доріг з одностороннім рухом.",
+        "isCorrect": false
+      },
+      {
+        "id": "ac1c6bef-fc82-4209-bc88-a07819bb417f",
+        "position": 2,
+        "text": "З метою запобігання виїзду транспортних засобів назустріч загальному потоку на двосмуговій дорозі зі смугою руху для маршрутного транспорту.",
+        "isCorrect": false
+      },
+      {
+        "id": "bc08fb9d-6ee0-4bf4-a6c7-82c84a783b8a",
+        "position": 3,
+        "text": "З метою організації відокремленого в'їзду і виїзду на майданчиках, що використовуються для стоянки транспортних засобів, автозаправних станціях і т. д.",
+        "isCorrect": false
+      },
+      {
+        "id": "6cf85e83-0972-45a6-9544-cd2c5db0d9bd",
+        "position": 4,
+        "text": "З метою запобігання в'їзду на окрему смугу руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "af8be0b4-bd81-4bd0-9c71-555dcbc56981",
+        "position": 5,
+        "text": "Відповіді 1, 2, 3 і 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9f8d988b-6070-403c-92a3-8f9cea62a251",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 264,
+    "text": "Який із зображених дорожніх знаків забороняє рух транспортних засобів, що перевозять вибухові та легкозаймисті вантажі?",
+    "imageResId": "image_t33_q264",
+    "answerOptionList": [
+      {
+        "id": "218603ea-5882-4ed9-acb2-9461bdca2c29",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "45792338-4552-49c6-ba6d-d6e898087445",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "cab587fa-fa1b-4f6e-900f-5b842d905a14",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "fe46d41d-618e-444a-99e3-fb46afcfdecb",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "4325ae4f-db57-4390-8604-e7e12bc8d74a",
+        "position": 5,
+        "text": "Знаки 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7aa66cea-9411-4a3c-9281-f5afba0e727a",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 265,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_t33_q265",
+    "answerOptionList": [
+      {
+        "id": "34cca4c6-9db3-4e31-98ec-cfbc78cb1d44",
+        "position": 1,
+        "text": "Транспортних засобів, що перевозять речовини, які забруднюють навколишнє середовище.",
+        "isCorrect": false
+      },
+      {
+        "id": "a1c8474b-475c-4e73-b418-665bb9b69de6",
+        "position": 2,
+        "text": "Транспортних засобів, що перевозять великовагові вантажі.",
+        "isCorrect": false
+      },
+      {
+        "id": "78566ec2-38e5-430e-aa86-2c2e1f035c3f",
+        "position": 3,
+        "text": "Транспортних засобів, що перевозять небезпечні вантажі.",
+        "isCorrect": false
+      },
+      {
+        "id": "6e7553a5-0a1c-4840-83d9-b6db5b784dd0",
+        "position": 4,
+        "text": "Транспортних засобів, що перевозять вибухові та легкозаймисті вантажі.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c227ab16-3665-4535-8ec8-85d08bb462d0",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 266,
+    "text": "Який із зображених дорожніх знаків забороняє рух транспортних засобів, маса яких перевищує 7 т?",
+    "imageResId": "image_t33_q266",
+    "answerOptionList": [
+      {
+        "id": "ef847859-b8ec-4c94-b289-3d776e0882be",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "c52c7e1e-f02c-4764-8f5b-d16f1e89f580",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "3e51b1a6-24dd-427c-a5b0-1898cacd9d3d",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "49da8f50-a19b-48d3-a5e3-95421dcbd90c",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "aeb23a6a-ed43-445c-b186-3209eee41b57",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 267,
+    "text": "Чи дозволено в зображеній ситуації рух автопоїзду, маса якого понад 18 т?",
+    "imageResId": "image_t33_q267",
+    "answerOptionList": [
+      {
+        "id": "9e8cfc09-0f12-4057-9f28-4851227ec9c0",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "ef4526b2-b660-4aea-809d-f952c227241d",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ad9e7646-3144-4603-8b6c-e999caf204d5",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 268,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_t33_q268",
+    "answerOptionList": [
+      {
+        "id": "4da8d774-7667-41ee-9fc9-7fb3336229b0",
+        "position": 1,
+        "text": "Вантажних автомобілів, габаритна ширина яких (з вантажем чи без нього) більша від зазначеної на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "a0b77ba8-6fe1-4c0e-a0b1-1a415e80e4a0",
+        "position": 2,
+        "text": "Автобусів, ширина яких більша від зазначеної на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "009c8d6f-8dae-4717-b2b4-d7134c50ef52",
+        "position": 3,
+        "text": "Тракторів і самохідних машин та механізмів, габаритна ширина яких (з вантажем чи без нього) більша від зазначеної на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "e8412e02-af5c-4e05-943d-9aebc9143f83",
+        "position": 4,
+        "text": "Усіх транспортних засобів, габаритна ширина яких (з вантажем чи без нього) більша від зазначеної на знакові.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "591c762a-3792-46c1-9f06-e95dbc47c9c3",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 269,
+    "text": "Чи дозволено Вам у зображеній ситуації рух прямо?",
+    "imageResId": "image_t33_q269",
+    "answerOptionList": [
+      {
+        "id": "4512eb6e-3a3f-40ea-a6a0-ec1fcc1ed7ac",
+        "position": 1,
+        "text": "Дозволено, якщо Ви там проживаєте.",
+        "isCorrect": false
+      },
+      {
+        "id": "2d21dbbe-2b25-476d-8c8b-7b901236f062",
+        "position": 2,
+        "text": "Дозволено, якщо Ви обслуговуєте підприємства, що там розташовані.",
+        "isCorrect": false
+      },
+      {
+        "id": "1833207f-83d5-4e5b-b0cd-28752f0d68ef",
+        "position": 3,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "830dca24-d839-4305-b9f8-5815e5238535",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eda5292a-8a5f-4b1d-8f9a-3d4349dfe783",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 272,
+    "text": "Дія зображених дорожніх знаків поширюється:",
+    "imageResId": "image_t33_q272",
+    "answerOptionList": [
+      {
+        "id": "02da92ec-fbc4-43b2-b61c-f68aab001e09",
+        "position": 1,
+        "text": "На ділянку дороги від місця встановлення до найближчого перехрестя за ним.",
+        "isCorrect": false
+      },
+      {
+        "id": "1feaf66f-4553-4ab3-88eb-9d87f4ec17d9",
+        "position": 2,
+        "text": "На перехрещення проїзних частин та інші місця, перед якими встановлено один із цих знаків.",
+        "isCorrect": false
+      },
+      {
+        "id": "1178c7bf-02cb-49b2-a65a-5ecfbecb33c9",
+        "position": 3,
+        "text": "У населених пунктах, де немає перехресть, – до кінця населеного пункту.",
+        "isCorrect": false
+      },
+      {
+        "id": "571db25e-136a-4fbf-acea-cf5b8915b20c",
+        "position": 4,
+        "text": "Відповіді 1 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c0325bb7-7701-44f2-b648-602291156b1a",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 273,
+    "text": "Зображений дорожній знак забороняє:",
+    "imageResId": "image_t33_q273",
+    "answerOptionList": [
+      {
+        "id": "017dc696-1c58-4341-a768-19d1a155d147",
+        "position": 1,
+        "text": "Обгін усіх транспортних засобів, крім поодиноких, що рухаються зі швидкістю менш ніж 30 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "aa32ff32-5914-49d2-8a74-ff864ee37ff2",
+        "position": 2,
+        "text": "Обгін усіх транспортних засобів, крім поодиноких, що рухаються зі швидкістю менш ніж 40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "0fb364ae-900a-4ca7-8b52-3b9a417f8fb9",
+        "position": 3,
+        "text": "Обгін усіх транспортних засобів, крім велосипедів і гужових возів.",
+        "isCorrect": false
+      },
+      {
+        "id": "e5807b3c-e3e5-4352-9be0-e1c506a996e3",
+        "position": 4,
+        "text": "Обгін усіх вантажних автомобілів і тракторів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a1e2719e-7673-4ca0-9bb8-5bf9b23ba17f",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 274,
+    "text": "Чи дозволено водієві синього автомобіля виконати обгін вантажного автомобіля, що рухається зі швидкістю 50 км/год.?",
+    "imageResId": "image_t33_q274",
+    "answerOptionList": [
+      {
+        "id": "dd614fe1-2ca3-40a1-840c-c22a6318bc86",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "fe6e3841-5716-46eb-af4e-97f94ec207aa",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "304da13c-ebbb-409a-b286-54c843c2b5f5",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 275,
+    "text": "Який із зображених дорожніх знаків забороняє рух з більшою швидкістю, ніж зазначено на знакові?",
+    "imageResId": "image_t33_q275",
+    "answerOptionList": [
+      {
+        "id": "d1f2c507-21f3-4f46-9ccf-3a523c131dc3",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "02e11eb3-f109-47c3-934d-71ae181635bf",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "02b5dbf6-268a-4922-9397-8aeae2a8bf75",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "e05d699f-b9e0-4820-b448-94f944431d55",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "9e71e85a-2cee-4343-9795-4864ec639a71",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "de3cff7a-14ff-4f3d-997a-56a407307c5e",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 276,
+    "text": "Який із зображених дорожніх знаків запроваджує обмеження максимальної швидкості руху?",
+    "imageResId": "image_t33_q276",
+    "answerOptionList": [
+      {
+        "id": "8eddef2a-373c-4504-be6a-a15dbf6b336c",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "bd7b6ea6-8461-42c8-9a6e-80b71d636e04",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "961e07fd-1234-485b-acf8-a6658165dffe",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "de42896e-5332-404b-8234-46eba497428c",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bb3f60bf-862c-481d-914c-72351d8e9189",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 277,
+    "text": "Зображений дорожній знак має таке значення:",
+    "imageResId": "image_t33_q277",
+    "answerOptionList": [
+      {
+        "id": "218bf519-92bc-4f8c-a65b-ef253d2acd95",
+        "position": 1,
+        "text": "Заборонено рух транспортних засобів зі швидкістю не меншою, ніж зазначено на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "48400983-3503-4f82-badf-65888693c913",
+        "position": 2,
+        "text": "Заборонено рух транспортних засобів зі швидкістю, що перевищує зазначену на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "35e98454-b409-4cc9-b748-7c72fae7cda4",
+        "position": 3,
+        "text": "Заборонено рух транспортних засобів, загальна фактична маса яких перевищує зазначену на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "571c0ec5-9856-45ce-83e1-222786ce61ea",
+        "position": 4,
+        "text": "Заборонено рух транспортних засобів, довжина яких (з вантажем чи без нього) перевищує зазначену на знакові.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "71af12fe-30c3-4077-a78f-4868be67c75a",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 278,
+    "text": "Який із зображених дорожніх знаків позначає кінець зони дії знака «Обмеження максимальної швидкості»?",
+    "imageResId": "image_t33_q278",
+    "answerOptionList": [
+      {
+        "id": "2e336997-5199-4632-9358-a5fe40bda184",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "d84bed73-477a-4490-9279-4eb530cc1ec8",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "524077c1-ab7f-4167-85de-e3022e0f00b6",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "d640ec62-e80b-4e2f-99c5-b472724bda4d",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d614b836-c0a6-4aea-80fd-e2db0aad9dba",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 279,
+    "text": "Який із зображених дорожніх знаків позначає кінець дії обмеження максимальної швидкості руху, встановленого відповідним дорожнім знаком?",
+    "imageResId": "image_t33_q279",
+    "answerOptionList": [
+      {
+        "id": "75ea54e1-cabf-48d0-9e7e-71a270c75dad",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "b77488d1-dac6-427e-8f79-4f0858589f6d",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "a2ce3513-8c74-46ef-acf7-ba99f290ed8b",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "613876b3-9185-4645-af71-2769352cf199",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "98cbd729-01d1-47ea-b557-2013d81c9bc7",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 280,
+    "text": "Зображений дорожній знак має таке значення:",
+    "imageResId": "image_t33_q280",
+    "answerOptionList": [
+      {
+        "id": "fa52a6d8-e7c7-48b6-911f-5e8ae24c2a3b",
+        "position": 1,
+        "text": "На ділянці дороги, перед якою встановлений, забороняє рух зі швидкістю, що перевищує зазначену на знакові.",
+        "isCorrect": false
+      },
+      {
+        "id": "6d16bfd5-954c-4692-a443-2fce16fd8429",
+        "position": 2,
+        "text": "У зоні, на в'їзді в яку встановлений, забороняє рух зі швидкістю, що перевищує зазначену на знакові.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "94cf0992-32a9-4c03-b6f6-b5fc9d71b93e",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 281,
+    "text": "Який із зображених дорожніх знаків позначає кінець зони дії знака «Зона обмеження максимальної швидкості»?",
+    "imageResId": "image_t33_q281",
+    "answerOptionList": [
+      {
+        "id": "5d4dca60-afb9-46c4-8e61-e6e0a545f0b7",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "28b12ec5-59ed-4ceb-8434-6bf36139ffb1",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "8a0579ab-e9b1-4f64-9603-841af2baebb9",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "2b1ccc61-fe4b-4bb9-b52e-7a12f7956356",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "6996d08f-54ce-498f-a347-8f9ed3eb3e38",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e90cf7ff-2f75-40ad-aaec-3aa8d7b7e920",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 282,
+    "text": "Чи дозволено в зоні дії зображеного дорожнього знака користуватися звуковим сигналом?",
+    "imageResId": "image_t33_q282",
+    "answerOptionList": [
+      {
+        "id": "a72350ac-5bf1-402e-9b1e-c6b5cf13e3d4",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "764732b9-6eb3-4905-b2b5-0d2c27b6401b",
+        "position": 2,
+        "text": "Дозволено тільки для привернення уваги водія під час обгону транспортного засобу.",
+        "isCorrect": false
+      },
+      {
+        "id": "99aaf726-1990-4f80-9228-b832e563fdcc",
+        "position": 3,
+        "text": "Дозволено тільки в тому разі, коли без цього неможливо запобігти дорожньо-транспортній пригоді.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "47d3000b-e40c-4376-b3d5-4baa25582de1",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 283,
+    "text": "Чи дозволено водієві трактора виконати обгін у зображеній ситуації, якщо автомобіль, що їде попереду, рухається зі швидкістю менш ніж 30 км/год.?",
+    "imageResId": "image_t33_q283",
+    "answerOptionList": [
+      {
+        "id": "b394b747-cf2f-40a2-9a81-ddc905b3be42",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "05fdf4d4-d796-49d1-be1a-cfde0794d3cf",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "82d94002-9108-4c44-a0c2-88c333c9a090",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 284,
+    "text": "На які транспортні засоби поширюється дія зображеного дорожнього знака?",
+    "imageResId": "image_t33_q284",
+    "answerOptionList": [
+      {
+        "id": "fb4b1d3a-ac76-4de5-b3f0-912bb2eeadb1",
+        "position": 1,
+        "text": "На всі вантажні автомобілі та трактори.",
+        "isCorrect": false
+      },
+      {
+        "id": "4b3158af-c00a-4d50-8933-e5d806564e09",
+        "position": 2,
+        "text": "На вантажні автомобілі з дозволеною максимальною масою понад 3,5 т, а також на трактори.",
+        "isCorrect": false
+      },
+      {
+        "id": "50db8705-701e-4c34-8f0c-1fa85ebda909",
+        "position": 3,
+        "text": "На всі транспортні засоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "89c80b55-6255-4498-a589-5f328f2d14a5",
+        "position": 4,
+        "text": "На трактори.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "787b2085-f7c9-40b7-9eb7-ad3b34e3f0d3",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 285,
+    "text": "Чи дозволено Вам у даній ситуації виконати обгін вантажного автомобіля з причепом, що рухається зі швидкістю менш ніж 30 км/год.?",
+    "imageResId": "image_t33_q285",
+    "answerOptionList": [
+      {
+        "id": "014ab226-f0e8-4a04-9465-acedb939c442",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "e99ad171-0b48-4ced-8e6a-14c59d15f515",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "483c42b7-377a-42ba-9dc0-efc75c86ac9a",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 286,
+    "text": "За якої з умов Вам буде дозволено виконати обгін вантажного автомобіля в зображеній ситуації?",
+    "imageResId": "image_t33_q286",
+    "answerOptionList": [
+      {
+        "id": "d97f198d-f5b8-48fa-bea5-771afd92753b",
+        "position": 1,
+        "text": "Якщо вантажний автомобіль рухається зі швидкістю менш ніж 40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "4b24e742-fe78-47f4-8efe-94af51fabcc7",
+        "position": 2,
+        "text": "Обгін у зображеній ситуації суворо заборонений.",
+        "isCorrect": false
+      },
+      {
+        "id": "012675e0-ef2e-4926-9110-48732d676885",
+        "position": 3,
+        "text": "Якщо вантажний автомобіль рухається зі швидкістю менш ніж 30 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c121ac0c-338b-4340-afb0-90f83b69b599",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 288,
+    "text": "Чи дозволено водієві сірого автомобіля виконати обгін у зображеній ситуації?",
+    "imageResId": "image_t33_q288",
+    "answerOptionList": [
+      {
+        "id": "f411572c-3eed-4e82-855c-00272024f7c1",
+        "position": 1,
+        "text": "Дозволено, якщо швидкість транспорту, який обганяють, менш ніж 40 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "46e3247a-78f2-4cf4-8c99-6e277cadd066",
+        "position": 2,
+        "text": "Обгін у зображеній ситуації заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "788278b6-6ee4-4492-a9fb-58aa9681faa4",
+        "position": 3,
+        "text": "Дозволено, якщо швидкість транспорту, який обганяють, менш ніж 30 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a9218158-ce1f-490b-b81b-8ebf343ed5d7",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 289,
+    "text": "Зображений на малюнку дорожній знак забороняє:",
+    "imageResId": "image_t33_q289",
+    "answerOptionList": [
+      {
+        "id": "ba85242c-5afd-4be5-b4d6-2f1be5c68a64",
+        "position": 1,
+        "text": "Обгін усіх транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "f2f031c0-5f16-46d7-8808-cf5ec084b3b1",
+        "position": 2,
+        "text": "Обгін усіх транспортних засобів, крім поодиноких, що рухаються із швидкістю менше 30 км/год.",
+        "isCorrect": false
+      },
+      {
+        "id": "fcf04713-93cb-4edf-8ba7-5bfdf1d2f7f4",
+        "position": 3,
+        "text": "Випередження усіх транспортних засобів, крім поодиноких, що рухаються із швидкістю менше 30 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a50bc48f-e539-4550-afa3-ff623ff1d5b9",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 290,
+    "text": "На які види транспортних засобів не поширюється дія зображеного дорожнього знака?",
+    "imageResId": "image_t33_q290",
+    "answerOptionList": [
+      {
+        "id": "641d1cb3-b042-4544-bc63-4895a0b6b698",
+        "position": 1,
+        "text": "На механічні транспортні засоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "75314ccc-2e4e-410e-85e7-8c2b2423d070",
+        "position": 2,
+        "text": "На немеханічні транспортні засоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "816497ee-85e5-4f9c-913e-a5ae9c600cd1",
+        "position": 3,
+        "text": "Дія зображеного дорожнього знака поширюється на всі без винятку транспортні засоби.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "74b43ba8-a53f-4c7e-8afb-d3cda7decc2d",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 291,
+    "text": "Який із зображених дорожніх знаків забороняє обгін усім транспортним засобам?",
+    "imageResId": "image_t33_q291",
+    "answerOptionList": [
+      {
+        "id": "90c55939-5ca0-4a70-ae83-6a11d2442edc",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "31da3761-6430-42c0-ada7-205aaa1e1b1b",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "122cc13b-6160-4a2b-9667-d98c3524a7d8",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "2f67f514-04fc-47f3-bb5f-17f81b53ec59",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "f4bec48f-4b12-4001-9c14-40d9598bd6b8",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "11586311-65fd-41b2-afa8-406f48cc2d62",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 292,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q292",
+    "answerOptionList": [
+      {
+        "id": "157a6283-0d7a-4283-885a-85c960ba0c8c",
+        "position": 1,
+        "text": "Кінець зони дії знака «Обгін вантажним автомобілям заборонено».",
+        "isCorrect": false
+      },
+      {
+        "id": "4ee405c1-0858-407a-98d5-69d9a8ade383",
+        "position": 2,
+        "text": "Кінець дії всіх заборон і обмежень, запроваджених заборонними дорожніми знаками.",
+        "isCorrect": false
+      },
+      {
+        "id": "d09a51c2-6a0f-4f01-bd87-5df92e88cf6d",
+        "position": 3,
+        "text": "Кінець зони дії знака «Обгін заборонено».",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "11c8f8cf-6661-46de-a4cc-32a533efec30",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 293,
+    "text": "Який із зображених дорожніх знаків забороняє зупинку транспортних засобів?",
+    "imageResId": "image_t33_q293",
+    "answerOptionList": [
+      {
+        "id": "79e39c01-e504-4d6a-8eb4-cca0a00f59d8",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "49d9292f-c903-4206-9a83-a8c8b6a32a02",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "1ed32efc-5c96-4964-a0eb-0a2cee648b7c",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "f1e7e450-01d2-4ea4-ba1e-86e15f70fe91",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "c245f09d-2971-489c-bf64-f37df5299c1f",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4236d18c-4e2a-4862-ad47-6f95c5968202",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 314,
+    "text": "У якому з випадків водіям транспортних засобів дозволено в'їзд у зону, позначену даними дорожніми знаками?",
+    "imageResId": "image_t33_q314",
+    "answerOptionList": [
+      {
+        "id": "6ca70b13-a3c1-4ec0-a52a-a0315be65d54",
+        "position": 1,
+        "text": "Якщо транспортний засіб належить громадянину, який проживає в зазначеній зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "54ac0eee-3445-4dbb-981c-b3d3a64ea192",
+        "position": 2,
+        "text": "Якщо транспортний засіб належить громадянину, який працює в зазначеній зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "e81ecf17-a2cd-4e3e-bd8b-53faaace5261",
+        "position": 3,
+        "text": "Якщо транспортний засіб належить громадянину, який обслуговує підприємства або громадян у зазначеній зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "ce70cf15-ec6f-4b73-ab30-31a1def62195",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "9878b836-46c1-4458-9878-8d584e17d6e6",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3133e265-a323-4dc0-93b3-1e80b8d1eb78",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 315,
+    "text": "Чи дозволено Вам транзитний рух прямо через позначену зону?",
+    "imageResId": "image_t33_q315",
+    "answerOptionList": [
+      {
+        "id": "0fcf2234-f6ba-450b-a790-5ca4551b599e",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "85b53a49-e02c-4225-974e-7d473819cacf",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bb7cec84-f8b8-4c5f-b772-3bf08dc9eb5b",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 316,
+    "text": "Яким транспортним засобам заборонено рух у зоні дії даного дорожнього знака?",
+    "imageResId": "image_t33_q316",
+    "answerOptionList": [
+      {
+        "id": "34bfaf1e-719f-4117-a508-f5b20a7f2b26",
+        "position": 1,
+        "text": "Усім автомобілям і тракторам із причепами.",
+        "isCorrect": false
+      },
+      {
+        "id": "715d0dfd-7e78-41e1-84b9-ac091a2e4c74",
+        "position": 2,
+        "text": "Вантажним автомобілям і тракторам із причепами будь-якого типу.",
+        "isCorrect": false
+      },
+      {
+        "id": "def5c3ab-b791-48c4-ad80-6dbb1e935d8b",
+        "position": 3,
+        "text": "Транспортним засобам, які виконують буксирування механічних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "87db6018-5ae6-45e7-8c63-bfff8fff4905",
+        "position": 4,
+        "text": "Відповіді 1 і 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "bfc90fb5-506b-4419-b5c6-cabef7cc21f5",
+        "position": 5,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b5f6b3e9-c971-4a4b-94d3-3522d155c0e3",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 317,
+    "text": "Чи дозволено рух легкового автомобіля прямо в даній ситуації?",
+    "imageResId": "image_t33_q317",
+    "answerOptionList": [
+      {
+        "id": "829b032b-11bd-43bc-80d1-4bd2922c1230",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "c69dbed5-faaf-4cd0-8aa9-62334277f330",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1b0f1790-bbad-4751-ab38-dc7b3269d0e3",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 318,
+    "text": "Чи дозволено буксирування прямо?",
+    "imageResId": "image_t33_q318",
+    "answerOptionList": [
+      {
+        "id": "8c14d93a-dd7c-4af0-b8d2-67304ee2be4b",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "b85c01ea-3a7e-4308-b311-e4f6c74f0903",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "41b80c1a-150b-4ab0-bff5-1bce7aa19f71",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 319,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_t33_q319",
+    "answerOptionList": [
+      {
+        "id": "29ec1ec3-1dc4-4f99-9916-eb7c3fede7dc",
+        "position": 1,
+        "text": "Тракторів.",
+        "isCorrect": false
+      },
+      {
+        "id": "6260a6ca-bc09-4c98-a6c8-96e8c409517b",
+        "position": 2,
+        "text": "Самохідних машин і механізмів.",
+        "isCorrect": false
+      },
+      {
+        "id": "b00e3154-2a58-4448-97d4-e34230d474b9",
+        "position": 3,
+        "text": "Вантажних автомобілів і транспортних составів з дозволеною максимальною масою понад 3,5 т.",
+        "isCorrect": false
+      },
+      {
+        "id": "06f3e769-9a8a-4c70-b680-55ae2e4904c9",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "faf3cad3-69f2-4804-b4f8-6bce9d08c082",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cc500fa6-f814-438a-a724-5464277fe0fc",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 320,
+    "text": "Дія зображеного дорожнього знака поширюється на:",
+    "imageResId": "image_t33_q320",
+    "answerOptionList": [
+      {
+        "id": "1c819274-e6ca-4650-a09f-ae0e40bbc72d",
+        "position": 1,
+        "text": "Мотоцикли та мопеди.",
+        "isCorrect": false
+      },
+      {
+        "id": "74dc087f-92d5-4be1-b72d-8630de3cb5ca",
+        "position": 2,
+        "text": "Мотоцикли, мопеди і велосипеди з підвісними двигунами.",
+        "isCorrect": false
+      },
+      {
+        "id": "aa732610-c13b-4aa0-ba89-2bfc9d4275e0",
+        "position": 3,
+        "text": "Мопеди.",
+        "isCorrect": false
+      },
+      {
+        "id": "ec2b3798-3e2c-4f96-9456-c263d5bfd667",
+        "position": 4,
+        "text": "Мопеди і велосипеди з підвісними двигунами.",
+        "isCorrect": false
+      },
+      {
+        "id": "5995b8b2-e23a-458b-a47e-b6970ccffc45",
+        "position": 5,
+        "text": "Мопеди і велосипеди.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0425a644-17af-4d32-b4cb-9f457f8dbe8c",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 321,
+    "text": "Зображений дорожній знак забороняє рух:",
+    "imageResId": "image_t33_q321",
+    "answerOptionList": [
+      {
+        "id": "1a6a52a4-1e2a-4eac-8e65-ac66dabdaa35",
+        "position": 1,
+        "text": "Велосипедів, мопедів і мотоциклів.",
+        "isCorrect": false
+      },
+      {
+        "id": "a4bddbe8-7d73-46e9-bddb-7fad14c94fd3",
+        "position": 2,
+        "text": "Велосипедів і мопедів.",
+        "isCorrect": false
+      },
+      {
+        "id": "9644fd4d-c214-4516-9e7e-1bda7405b57c",
+        "position": 3,
+        "text": "Велосипедів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "195b0934-a2bb-44e5-a22b-309fcde7a9d9",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 323,
+    "text": "Який із знаків забороняє рух пішоходів?",
+    "imageResId": "image_t33_q323",
+    "answerOptionList": [
+      {
+        "id": "2e77dc90-2a7d-486c-8bfd-e51aa173f485",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "587a9239-4c45-4c64-9763-721599cd4ac0",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "2113afb2-9d2d-4677-915f-e62fdfec12db",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "47196027-65e4-4f4c-b61a-c874441bebdd",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "6d6df53f-8444-408f-b861-58f92667a282",
+        "position": 5,
+        "text": "Знаки 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6e58818b-90d0-437d-b20c-02bcba56c573",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 326,
+    "text": "Чи дозволено Вам рух прямо до місця роботи, яке знаходиться відразу за знаком?",
+    "imageResId": "image_t33_q326",
+    "answerOptionList": [
+      {
+        "id": "d5a91c90-5b11-491b-b7fc-774994012dea",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "31a42631-3766-465e-a5a3-08c0a9fcd063",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "53de1ab6-e56f-46a9-a188-7e1cdb898831",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 327,
+    "text": "Чи дозволено водію з інвалідністю в даній ситуації в'їзд у позначену дорожніми знаками зону за відсутності інших під'їздів?",
+    "imageResId": "image_t33_q327",
+    "answerOptionList": [
+      {
+        "id": "b71d1c21-03d3-439f-95d8-29f1fa993e6d",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "235c4f49-7494-4df9-a817-649300962147",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f2a917d0-6ddf-413b-ad4f-aca44fa23b35",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 328,
+    "text": "Чи дозволено Вам рух у позначену дорожніми знаками зону за умови, що Ви працюєте в позначеній зоні?",
+    "imageResId": "image_t33_q328",
+    "answerOptionList": [
+      {
+        "id": "27169903-30db-4526-bd07-6d9bedcb5a68",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "2b295323-6dc7-4415-8684-16ebbdb3a43c",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a8f35a2d-3d41-4443-b798-e5b585d9f27c",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 329,
+    "text": "Чи дозволено Вам в'їзд у позначену дорожніми знаками зону, якщо Ви обслуговуєте підприємство, розташоване в ній, за умови, що відсутні інші під'їзди?",
+    "imageResId": "image_t33_q329",
+    "answerOptionList": [
+      {
+        "id": "912fefbe-f5a6-437d-a932-16e4ba059107",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "dd19f784-b45c-4da9-a236-d64a45a6794b",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "36d412ce-957e-4b11-a48c-527f5d26b0e4",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 330,
+    "text": "На які з перелічених транспортних засобів не поширює свою дію даний дорожній знак?",
+    "imageResId": "image_t33_q330",
+    "answerOptionList": [
+      {
+        "id": "4dfa0aa4-1516-4782-a690-72ce6623c77e",
+        "position": 1,
+        "text": "На мопеди.",
+        "isCorrect": false
+      },
+      {
+        "id": "245e4ce7-f2e4-4f4c-af73-1878104a7b1b",
+        "position": 2,
+        "text": "На велосипеди.",
+        "isCorrect": false
+      },
+      {
+        "id": "4f5590d8-3490-44c5-b318-bd9d0d8ba9f3",
+        "position": 3,
+        "text": "На мотоцикли.",
+        "isCorrect": false
+      },
+      {
+        "id": "c3ecda45-4b93-4bb1-9acf-e6d1b41276c5",
+        "position": 4,
+        "text": "На квадроцикли.",
+        "isCorrect": false
+      },
+      {
+        "id": "f8a78971-355c-4019-a2c4-075a99f223ab",
+        "position": 5,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "98b5b82a-caad-4519-a063-715734752db2",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 331,
+    "text": "На які з перелічених транспортних засобів поширює дію цей дорожній знак?",
+    "imageResId": "image_t33_q331",
+    "answerOptionList": [
+      {
+        "id": "3ec2a52d-4058-406d-a24c-36d90fd421c2",
+        "position": 1,
+        "text": "На автомобілі.",
+        "isCorrect": false
+      },
+      {
+        "id": "bfd54c25-8494-49dd-95b3-14a101617e6d",
+        "position": 2,
+        "text": "На мотоцикли.",
+        "isCorrect": false
+      },
+      {
+        "id": "0b088778-b7b6-4183-8545-640050aa732a",
+        "position": 3,
+        "text": "На мопеди.",
+        "isCorrect": false
+      },
+      {
+        "id": "f69b139c-c527-418c-a564-ccf7171d3e8a",
+        "position": 4,
+        "text": "На автобуси.",
+        "isCorrect": false
+      },
+      {
+        "id": "1973e02e-79f8-4acf-8fdd-5f25e500ed46",
+        "position": 5,
+        "text": "Відповіді 1, 2, 3 і 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "31b03ec0-9862-454b-bb01-6b41f2518399",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 332,
+    "text": "Хто з учасників дорожнього руху порушує Правила дорожнього руху в даній ситуації за умови, що водій таксі везе пасажира, який проживає в зазначеній зоні?",
+    "imageResId": "image_t33_q332",
+    "answerOptionList": [
+      {
+        "id": "fe6a6d9c-f798-4bc5-8f92-30c48011acaf",
+        "position": 1,
+        "text": "Людина, що керує гужовим возом.",
+        "isCorrect": false
+      },
+      {
+        "id": "78aa2cad-5993-4791-bc71-e3f0adbbaae1",
+        "position": 2,
+        "text": "Велосипедист.",
+        "isCorrect": false
+      },
+      {
+        "id": "aee9c82c-1dc8-4d82-ae45-ec64505ccf90",
+        "position": 3,
+        "text": "Водій мопеда.",
+        "isCorrect": false
+      },
+      {
+        "id": "070b67ce-dcda-49b4-9ff3-6b1631304356",
+        "position": 4,
+        "text": "Водій таксі, що везе пасажира, який проживає в цій зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "5253e0b1-6adc-4a4e-a1e3-6c1cf359cb1c",
+        "position": 5,
+        "text": "Ніхто не порушує.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bf424376-71d4-4120-ac84-ba718b8c4c14",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 333,
+    "text": "Даний дорожній знак не поширює свою дію:",
+    "imageResId": "image_t33_q333",
+    "answerOptionList": [
+      {
+        "id": "a4999edf-e2f9-4aa2-a7d8-6bf8422812a3",
+        "position": 1,
+        "text": "На транспортні засоби, що обслуговують громадян чи належать громадянам, які проживають або працюють у позначеній зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "20c87d65-224c-4d3b-bf7d-136e3760026c",
+        "position": 2,
+        "text": "На транспортні засоби, що обслуговують підприємства, які розташовані в позначеній зоні.",
+        "isCorrect": false
+      },
+      {
+        "id": "f3d8d217-fb0d-4fda-9ea1-fa49efcd7d1b",
+        "position": 3,
+        "text": "На транспортні засоби, що рухаються за встановленими маршрутами.",
+        "isCorrect": false
+      },
+      {
+        "id": "632315fb-db8a-4d50-bd31-b8ef34580fbc",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "ed7c12a3-c1b5-4c5d-b1b4-80d9ccade333",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "51832a1f-3e7f-467e-b2bb-009fb5d17a84",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 334,
+    "text": "Який із зображених дорожніх знаків забороняє рух пішоходів з ручними візками?",
+    "imageResId": "image_t33_q334",
+    "answerOptionList": [
+      {
+        "id": "a61c4058-53d5-40f9-a043-619e59692d3c",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "e3184727-e88c-495c-a2da-5b58a9de60ca",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "f3a7519a-270a-4949-8112-0eca56efeb09",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "9b402be4-e031-435e-b214-53e5f6c9696d",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "02698e27-1bdd-4754-92bd-7cc157dce71b",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fe048a69-69ea-4e2e-9e20-61e507de1210",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 335,
+    "text": "З якою дорожньою розміткою може застосовуватися дорожній знак «Стоянку заборонено»?",
+    "answerOptionList": [
+      {
+        "id": "20dff0f9-ed1a-4213-8f31-61474082ee31",
+        "position": 1,
+        "text": "З жовтою переривчастою лінією розмітки, яка наноситься біля краю проїзної частини або по верху бордюру.",
+        "isCorrect": false
+      },
+      {
+        "id": "6f873b72-a4cf-4b87-8eed-469b40570224",
+        "position": 2,
+        "text": "З жовтою суцільною лінією розмітки, яка наноситься біля краю проїзної частини або по верху бордюру.",
+        "isCorrect": false
+      },
+      {
+        "id": "c5cbeb06-262d-4f33-954e-0a79835feb72",
+        "position": 3,
+        "text": "З білою переривчастою лінією розмітки, яка наноситься біля краю проїзної частини або по верху бордюру.",
+        "isCorrect": false
+      },
+      {
+        "id": "1d81b57a-ba36-4e74-b022-7564e6501c95",
+        "position": 4,
+        "text": "З білою суцільною лінією розмітки, яка наноситься біля краю проїзної частини або по верху бордюру.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6dd4e606-2221-41d3-a0bf-77941c0f9c27",
+    "themeId": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
+    "order": 342,
+    "text": "Зображений дорожній знак:",
+    "imageResId": "image_t33_q342",
+    "answerOptionList": [
+      {
+        "id": "20ee82a8-9174-4e9a-856e-521c336033c5",
+        "position": 1,
+        "text": "Забороняє рух зазначених на ньому транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "d80384f7-6197-4be6-b492-b1b85191f3c7",
+        "position": 2,
+        "text": "Забороняє обгін зазначених на ньому транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "b18a66b9-6553-4c8e-a399-d4b035763c0a",
+        "position": 3,
+        "text": "Забороняє рух усіх транспортних засобів.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,2819 @@
+[
+  {
+    "id": "722a37b8-3151-410f-a55a-7762c14504a2",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 3,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q003",
+    "answerOptionList": [
+      {
+        "id": "39f2e84c-e7ac-40d1-b472-8091022aa49d",
+        "position": 1,
+        "text": "Початок ділянки дороги, на якій встановлено особливий режим руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "1cd80245-312b-4b5d-a044-b7617c743dc5",
+        "position": 2,
+        "text": "Початок ділянки дороги, що належить до автомагістралі (дороги, на якій діють особливі умови дорожнього руху, передбачені розділом 27 Правил дорожнього руху).",
+        "isCorrect": false
+      },
+      {
+        "id": "53863f84-cad6-45bc-917d-e1ce46397002",
+        "position": 3,
+        "text": "Початок ділянки дороги, яка за режимом руху належить до доріг для автомобілів.",
+        "isCorrect": false
+      },
+      {
+        "id": "17e42470-0c01-4d04-bced-8c97ba6214da",
+        "position": 4,
+        "text": "Початок ділянки дороги, рух на якій дозволено тільки механічним транспортним засобам.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b4bb51c7-4285-4373-a62f-1c4379ef9d3c",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 4,
+    "text": "Який із зображених дорожніх знаків встановлюється на початку автомагістралі?",
+    "imageResId": "image_t33_q004",
+    "answerOptionList": [
+      {
+        "id": "8a694caa-4e9f-4f61-94d2-5e54d47e726c",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "512bfebc-f39b-426d-a157-373c9573690e",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "38b21e41-0a2a-4343-93b0-d4c41d00b6c3",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "a33e5925-3c4b-45cc-8fc8-58a7afa46f87",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "1cfe4484-f68c-4220-8117-c7cc42ecebdf",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8637d5f9-91f0-4c9e-b2d5-ac601c17cf29",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 5,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q005",
+    "answerOptionList": [
+      {
+        "id": "9a14d637-90aa-4712-9cad-412218649e03",
+        "position": 1,
+        "text": "Кінець дороги для автомобілів.",
+        "isCorrect": false
+      },
+      {
+        "id": "d34b12e2-75f4-4f5a-9307-8b8777383b8b",
+        "position": 2,
+        "text": "Кінець автомагістралі.",
+        "isCorrect": false
+      },
+      {
+        "id": "64e09b78-730a-4b52-88dc-fee0216c3646",
+        "position": 3,
+        "text": "Кінець обмеження мінімальної швидкості руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "51a9c1fe-92af-4c4e-89b5-a482025ce737",
+        "position": 4,
+        "text": "Кінець дії вимог, що стосуються руху в населених пунктах.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9f46c7a4-7bd7-4fae-9b3e-936790edede4",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 6,
+    "text": "Чи дозволено водієві синього автомобіля виконати розворот, як показано на малюнку?",
+    "imageResId": "image_t33_q006",
+    "answerOptionList": [
+      {
+        "id": "4e67b995-b2ce-4cca-bed7-d67297129242",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "e806a756-a02c-4b76-a68d-5dfd5fa8e6b1",
+        "position": 2,
+        "text": "Дозволено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "13746200-c809-4ea8-a742-a273efb170ea",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 7,
+    "text": "Зображеним дорожнім знаком позначається:",
+    "imageResId": "image_t33_q007",
+    "answerOptionList": [
+      {
+        "id": "e7079a99-f5b2-47a1-ab54-7c9d2477f722",
+        "position": 1,
+        "text": "Дорога, на якій по одній або кількох смугах напрямок руху може змінюватися на протилежний.",
+        "isCorrect": false
+      },
+      {
+        "id": "673e640c-c41b-45e1-a04d-8806c28778bd",
+        "position": 2,
+        "text": "Дозволений напрямок руху транспортних засобів по смузі.",
+        "isCorrect": false
+      },
+      {
+        "id": "46a5ab98-93b3-45cf-879f-cf26845d4a5c",
+        "position": 3,
+        "text": "Дорога або відокремлена проїзна частина, по якій рух транспортних засобів по всій ширині здійснюється лише в одному напрямку.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ff374036-13c2-46d1-9375-c676a4edff6d",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 8,
+    "text": "Який із зображених дорожніх знаків встановлюється на початку дороги або відокремленої проїзної частини, по всій ширині якої рух транспортних засобів здійснюється тільки в одному напрямку?",
+    "imageResId": "image_t33_q008",
+    "answerOptionList": [
+      {
+        "id": "26acc4b1-250b-4e5c-b727-81b3ee6aec67",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7971190c-be26-4bc5-bb86-dd5f38596fb1",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "67c11f6c-adff-42cb-9d8a-0b07935640f0",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "5dc578b5-9aa5-46e1-84a7-40424c5e8097",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "65fc41d4-bcc2-443e-92ef-0b2a7ad75d81",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6de934ee-017a-4085-a286-38683e68c3a2",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 9,
+    "text": "Що з переліченого заборонено водіям на зображеній дорозі?",
+    "imageResId": "image_t33_q009",
+    "answerOptionList": [
+      {
+        "id": "6a696061-d09c-4534-87ba-46f7231be33b",
+        "position": 1,
+        "text": "Розворот.",
+        "isCorrect": false
+      },
+      {
+        "id": "ad9a6767-91b6-446a-9554-493f03c1e799",
+        "position": 2,
+        "text": "Рух заднім ходом, крім випадків, коли неможливо під'їхати до об'єкта іншим способом.",
+        "isCorrect": false
+      },
+      {
+        "id": "0b1b15b0-3efc-47c6-a746-e4103df41603",
+        "position": 3,
+        "text": "Зупинка і стоянка біля лівого краю проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "91915c3f-6fd0-40f4-b7a7-35a530dd8d92",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "24e98fe5-10af-4611-b88a-ae48bfe804bd",
+        "position": 5,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "491667ad-5b99-42c1-bc50-d39830c5522a",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 21,
+    "text": "Який із зображених дорожніх знаків позначає кінець дороги з одностороннім рухом?",
+    "imageResId": "image_t33_q021",
+    "answerOptionList": [
+      {
+        "id": "b5bb1065-e908-4a14-8f80-4c1d0061c0b2",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "53cfe59e-5eb6-408c-8b8f-23715f98548f",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "1177f24f-febf-432e-a0e3-c1f3114754f0",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "96c58e18-e3e0-4ae0-a264-9811b5517d1a",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "d1888d1f-4292-49ed-a2be-018155e6871c",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7cbcd786-bf57-4fea-a06a-e2f7964f61f0",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 22,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q022",
+    "answerOptionList": [
+      {
+        "id": "31f834f2-b778-46c5-b189-411647602786",
+        "position": 1,
+        "text": "Кінець ділянки дороги, на одній або кількох смугах якої напрямок руху може змінюватися на протилежний.",
+        "isCorrect": false
+      },
+      {
+        "id": "5c579489-711d-4685-85f3-3ef490e1b4a4",
+        "position": 2,
+        "text": "Кінець смуги для руху маршрутних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "745459ea-0ef0-4578-acab-67a9f41a921b",
+        "position": 3,
+        "text": "Кінець дороги з розділювальною смугою.",
+        "isCorrect": false
+      },
+      {
+        "id": "f3f8087e-cb62-4308-8c29-ccf6ebf9d4a2",
+        "position": 4,
+        "text": "Кінець дороги або відокремленої проїзної частини, по всій ширині якої рух транспортних засобів здійснюється тільки в одному напрямку.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "befddcc6-01ee-44df-886c-5bdbe371ea92",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 23,
+    "text": "Зображений дорожній знак вказує:",
+    "imageResId": "image_t33_q023",
+    "answerOptionList": [
+      {
+        "id": "55d52eb5-0ab3-4bb4-9d8f-db5a37be2869",
+        "position": 1,
+        "text": "Початок ділянки дороги з двостороннім рухом після одностороннього.",
+        "isCorrect": false
+      },
+      {
+        "id": "9a99824c-2ad9-4a02-a60c-32a3176633d3",
+        "position": 2,
+        "text": "Початок ділянки дороги з одностороннім рухом.",
+        "isCorrect": false
+      },
+      {
+        "id": "1fe714fd-2d80-4396-9e15-3b428daba904",
+        "position": 3,
+        "text": "Початок ділянки дороги, де на одній або кількох смугах напрямок руху може змінюватися на протилежний.",
+        "isCorrect": false
+      },
+      {
+        "id": "f75b184d-e869-478e-a511-f9167d2bfe16",
+        "position": 4,
+        "text": "Початок окремої смуги для руху маршрутних транспортних засобів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a1fe8f68-a6e9-41a7-88b8-3c6c484cc6c9",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 24,
+    "text": "Який із зображених дорожніх знаків інформує про початок ділянки дороги, де на одній або кількох смугах напрямок руху може змінюватися на протилежний?",
+    "imageResId": "image_t33_q024",
+    "answerOptionList": [
+      {
+        "id": "0c474845-2582-43fe-837a-8f298c6fb373",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "0093f566-8483-464d-919b-1673c9afc206",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "6d5099a6-acc0-46a0-b844-ee3129b9d6ec",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "39cc13c8-3538-47b5-a8b1-16e34ec4d408",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "862e2942-98d9-4f26-a0b8-7fdd5f1e4a22",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "602672b5-3ac4-48f9-83ca-416c15c9996c",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 25,
+    "text": "Який із зображених дорожніх знаків інформує про кінець ділянки дороги, де на одній або кількох смугах напрямок руху може змінюватися на протилежний?",
+    "imageResId": "image_t33_q025",
+    "answerOptionList": [
+      {
+        "id": "294b22e2-7176-4092-a355-0e23311a7d58",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "98eeed34-842e-4dbc-90ed-e65a117e41db",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "aa30790b-74d2-4960-811c-5a3466a6d6a1",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "85fa767c-3661-4507-b13e-e9ace04bb189",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "54bacf29-7b32-4893-8773-f43ace418413",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b230fac3-97e6-44d0-98cc-e12cd88aa4ba",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 26,
+    "text": "Зображений дорожній знак вказує:",
+    "imageResId": "image_t33_q026",
+    "answerOptionList": [
+      {
+        "id": "75bd7528-ba4b-4f7c-9fb9-7d8df2666c1a",
+        "position": 1,
+        "text": "Дозволені напрямки руху на перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "dafb9f86-dc17-412f-aa4c-e8702ef32592",
+        "position": 2,
+        "text": "Те, що на дорозі, яка перетинається, двосторонній рух.",
+        "isCorrect": false
+      },
+      {
+        "id": "d7a98389-1695-40f4-9d78-19d4bf4c6a94",
+        "position": 3,
+        "text": "Напрямок руху по смузі для маршрутних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "a7638c60-0967-4d8f-8423-162f87d2e25e",
+        "position": 4,
+        "text": "На виїзд на дорогу з реверсивним рухом.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ff589736-961a-40e6-b14d-9d1216ece274",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 27,
+    "text": "Зображений дорожній знак вказує:",
+    "imageResId": "image_t33_q027",
+    "answerOptionList": [
+      {
+        "id": "8f175519-d74a-403b-95ce-54e5d4961404",
+        "position": 1,
+        "text": "Те, що смуга використовується для руху тільки певних видів транспортних засобів у зазначених напрямках.",
+        "isCorrect": false
+      },
+      {
+        "id": "1ed94a39-eb61-42be-8b18-a664ee59dbc1",
+        "position": 2,
+        "text": "Кількість смуг на перехресті і дозволені напрямки руху на кожній з них.",
+        "isCorrect": false
+      },
+      {
+        "id": "b734d1d4-b86a-4790-86a2-38edf336f517",
+        "position": 3,
+        "text": "Обидва варіанти правильні.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "210a048a-f133-46fc-b8dd-6029330c6508",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 28,
+    "text": "Який із зображених дорожніх знаків показує кількість смуг на перехресті й дозволені напрямки руху на кожній з них?",
+    "imageResId": "image_t33_q028",
+    "answerOptionList": [
+      {
+        "id": "b76572df-5995-4e4c-8272-d139e54b29bb",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "c5f6191f-f64e-4eb0-b8ab-be49ccc1d0ba",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "61286e0a-6af0-4ec7-91f3-db3317312b4d",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "6b4c2cfb-0bdd-41c1-971d-da60e6a77dfb",
+        "position": 4,
+        "text": "Знаки 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "227e027a-3da4-40d2-924e-04db00000af0",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 29,
+    "text": "Зображений дорожній знак вказує:",
+    "imageResId": "image_t33_q029",
+    "answerOptionList": [
+      {
+        "id": "a719a4bf-bcbd-4c43-9e23-e0b937fd25ad",
+        "position": 1,
+        "text": "Початок дороги, по всій ширині якої рух транспортних засобів здійснюється тільки в одному напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "11940c8c-86cd-44bc-bb4d-3d60f78366b2",
+        "position": 2,
+        "text": "Дозволений напрямок руху транспортних засобів на перехресті, дія знака поширюється на всю ширину проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "fee1b8fe-fc8a-436d-8c4b-84182781a847",
+        "position": 3,
+        "text": "Дозволений напрямок руху по смузі, над якою його встановлено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7fb1a5df-012b-4fc0-9a16-bb151203b43b",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 30,
+    "text": "Зображений дорожній знак вказує:",
+    "imageResId": "image_t33_q030",
+    "answerOptionList": [
+      {
+        "id": "d74c98c9-c989-4f11-a281-22c446a117a1",
+        "position": 1,
+        "text": "Дозволені напрямки руху транспортних засобів по смугах на перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "ef1e7455-e5b9-4909-84b4-17be9b7a254c",
+        "position": 2,
+        "text": "Дозволені напрямки руху транспортних засобів по реверсивній смузі.",
+        "isCorrect": false
+      },
+      {
+        "id": "4393a4a0-fca7-4e51-8d75-1c2be355793f",
+        "position": 3,
+        "text": "Те, що смуга використовується для руху тільки певних видів транспортних засобів у зазначених напрямках.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "39665523-471e-4606-a853-13afde6955b4",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 31,
+    "text": "Який із зображених дорожніх знаків встановлюється в кінці смуги, призначеної тільки для транспортних засобів, що рухаються за встановленими маршрутами попутно із загальним потоком транспортних засобів?",
+    "imageResId": "image_t33_q031",
+    "answerOptionList": [
+      {
+        "id": "b6fccc01-3e03-4b63-ac41-ac4e733059be",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "25675e79-f2e8-4c2f-b971-1b171fba48c3",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "4fefb875-d332-4dfa-96da-e4efae59b0ce",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "c2d1fa60-a572-46b9-9fe7-44391d6dbb4c",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "2040ff93-6664-4a56-9ac7-68778d6a45f4",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "285832bb-4daf-4e6c-9e0d-c037d65f7482",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 32,
+    "text": "Дія зображеного дорожнього знака поширюється:",
+    "imageResId": "image_t33_q032",
+    "answerOptionList": [
+      {
+        "id": "1fe22f8e-bfbf-4e9f-92de-df8eb8f49e2b",
+        "position": 1,
+        "text": "Тільки на праву смугу, коли знак встановлено по центру над дорогою.",
+        "isCorrect": false
+      },
+      {
+        "id": "b0997465-466d-4539-a08f-385936671604",
+        "position": 2,
+        "text": "Тільки на ту смугу, над якою його встановлено.",
+        "isCorrect": false
+      },
+      {
+        "id": "00740eb6-b61e-4b15-b681-38744493ecd8",
+        "position": 3,
+        "text": "Тільки на праву смугу, коли знак встановлено праворуч від дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "390d18d4-f963-4287-a3df-6da366d10835",
+        "position": 4,
+        "text": "Усі наведені вище відповіді.",
+        "isCorrect": false
+      },
+      {
+        "id": "9a27b3a1-61cb-4c84-b7df-99b8cf0a4f56",
+        "position": 5,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "743478aa-fb48-4024-839d-aaf408327ddb",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 33,
+    "text": "Який із зображених дорожніх знаків позначає смугу призначену для руху транспортних засобів, що рухаються за встановленими маршрутами, та велосипедистів, якщо рух такою смугою здійснюється попутно загальному потоку транспортних засобів ?",
+    "imageResId": "image_t33_q033",
+    "answerOptionList": [
+      {
+        "id": "6ca86006-dcd1-4ef4-a60b-edfbcb19cb26",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "96b86f1d-2bff-46ad-82ea-ba7670c6caf7",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "f8810453-3c19-48e2-b2ae-721f35387d19",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "4856b0f3-a6c7-4912-9897-b9694809493f",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "aca5de42-675e-4de0-a997-0c57ef98259f",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "94ee88b6-361b-49de-bafc-360def94dd94",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 34,
+    "text": "Чи дозволено Вам повернути ліворуч у зображеній ситуації?",
+    "imageResId": "image_t33_q034",
+    "answerOptionList": [
+      {
+        "id": "8fbe913a-02fa-49db-a02f-a5fb530e09c2",
+        "position": 1,
+        "text": "Заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "de05ae55-e231-42cc-901b-28678b16cc2d",
+        "position": 2,
+        "text": "Дозволено тільки в другий проїзд.",
+        "isCorrect": false
+      },
+      {
+        "id": "6e338e78-efe0-4b1a-a995-c49a4eb5a82d",
+        "position": 3,
+        "text": "Дозволено тільки в обидва проїзди.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7d32c058-99ed-4421-a0bf-fe128787e550",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 35,
+    "text": "Чи дозволено Вам виконати розворот у зображеній ситуації?",
+    "imageResId": "image_t33_q035",
+    "answerOptionList": [
+      {
+        "id": "d8e2b3ce-0d52-42a3-90df-9a31a654254e",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "66e125c2-7104-4268-a789-6786c5ae9ba5",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0d81a8f3-6387-4b91-8615-e2328c7b5172",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 36,
+    "text": "У яких напрямках Вам дозволено рух у зображеній ситуації?",
+    "imageResId": "image_t33_q036",
+    "answerOptionList": [
+      {
+        "id": "23bcff0f-01b2-49d3-a565-3fed8357db65",
+        "position": 1,
+        "text": "Ліворуч або у зворотному напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "6743ddcd-e29a-4031-a4d5-dc8b4ed6a729",
+        "position": 2,
+        "text": "Тільки ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "67d17dee-68d6-4863-9e09-376c8b3ae691",
+        "position": 3,
+        "text": "Прямо, ліворуч або у зворотному напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "a98025e6-84ab-4d69-9654-c9b88776ae09",
+        "position": 4,
+        "text": "Прямо або ліворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cc5a7dc7-d05d-44d5-86cc-982a2b3185ee",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 37,
+    "text": "Зображений дорожній знак вказує:",
+    "imageResId": "image_t33_q037",
+    "answerOptionList": [
+      {
+        "id": "af03fe4f-6259-4d33-b311-6d4e3dc98341",
+        "position": 1,
+        "text": "Дозволений напрямок руху – тільки ліворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "f9d286b8-0e82-4d22-b760-5c632ba11518",
+        "position": 2,
+        "text": "Напрямок головної дороги на перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "d8f58bad-f02f-4765-bd4b-854539720356",
+        "position": 3,
+        "text": "Напрямок руху на дорозі, що перетинається, якщо на ній організовано односторонній рух.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "053da257-e76f-4bb1-b904-402267baf4b1",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 38,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q038",
+    "answerOptionList": [
+      {
+        "id": "ff34e117-e81d-4ab7-989f-0ff30d778c0d",
+        "position": 1,
+        "text": "Дорогу, на якій рух транспортних засобів здійснюється по двох зустрічних смугах.",
+        "isCorrect": false
+      },
+      {
+        "id": "aeed72f7-2908-41db-a728-6e14a8af9c09",
+        "position": 2,
+        "text": "Дорогу, на якій рух транспортних засобів здійснюється за встановленим маршрутом по спеціально відведеній смузі, розташованій з правого боку проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "30a9bbc1-3de2-4aff-8fde-4a360b3b86bf",
+        "position": 3,
+        "text": "Дорогу, на якій по спеціально відведеній смузі здійснюється рух транспортних засобів за встановленим маршрутом, мопедів, мотоциклів (за винятком мотоциклів з боковим причепом, мотоколясок, триколісних транспортних засобів) та велосипедистів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a15655a9-4ceb-4446-83fa-cc74d6eaf6f7",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 39,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q039",
+    "answerOptionList": [
+      {
+        "id": "7a42b0ee-b86f-4778-a65e-dc80908caef4",
+        "position": 1,
+        "text": "Кінець дороги, на якій по спеціально відведеній смузі здійснюється рух транспортних засобів за встановленим маршрутом, мопедів, мотоциклів (за винятком мотоциклів з боковим причепом, мотоколясок, триколісних транспортних засобів) та велосипедистів.",
+        "isCorrect": false
+      },
+      {
+        "id": "dfbf89f8-6208-418c-9c1f-af7573379ecc",
+        "position": 2,
+        "text": "Кінець дороги, на якій рух транспортних засобів здійснюється за встановленим маршрутом по спеціально відведеній смузі, розташованій з правого боку проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "71e579a4-0ae0-4f89-9102-a556d158b829",
+        "position": 3,
+        "text": "Кінець дороги, на якій рух транспортних засобів здійснюється по двох зустрічних смугах.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "917b3278-c6f4-4829-acef-eca88384eea1",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 40,
+    "text": "У якому з напрямків дозволено рух водієві білого автомобіля в зображеній ситуації?",
+    "imageResId": "image_t33_q040",
+    "answerOptionList": [
+      {
+        "id": "38f6936b-879e-474f-bac3-012f4d95045c",
+        "position": 1,
+        "text": "У напрямку А.",
+        "isCorrect": false
+      },
+      {
+        "id": "08ffb509-6286-4a58-9d1a-a98e4e0cf557",
+        "position": 2,
+        "text": "У напрямку А, Б або В.",
+        "isCorrect": false
+      },
+      {
+        "id": "c8ec6d2c-be9a-41bb-8da3-80777c1f76c0",
+        "position": 3,
+        "text": "У напрямку А, Б, або Г.",
+        "isCorrect": false
+      },
+      {
+        "id": "4ab134a1-2309-4eba-b478-b28b7256420d",
+        "position": 4,
+        "text": "У напрямку А або Г.",
+        "isCorrect": false
+      },
+      {
+        "id": "3b850dcf-1ee9-4874-a6db-84baa49e4824",
+        "position": 5,
+        "text": "У будь-якому з напрямків.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0b29836a-9731-4d65-8377-f167b6608895",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 41,
+    "text": "У якому з напрямків дозволено рух водієві білого автомобіля в зображеній ситуації?",
+    "imageResId": "image_t33_q041",
+    "answerOptionList": [
+      {
+        "id": "8e913373-d8ec-4c36-899b-25b87584d812",
+        "position": 1,
+        "text": "У напрямку Б або В.",
+        "isCorrect": false
+      },
+      {
+        "id": "359c7743-b293-4859-a849-4bba2bd82911",
+        "position": 2,
+        "text": "У напрямку Б, В або Г.",
+        "isCorrect": false
+      },
+      {
+        "id": "e354de5b-238c-4a19-a8d5-718a0f4b0c3b",
+        "position": 3,
+        "text": "У напрямку А, Б, або Г.",
+        "isCorrect": false
+      },
+      {
+        "id": "ac843792-aa2b-45f0-8155-60c9de7ba757",
+        "position": 4,
+        "text": "У напрямку В або Г.",
+        "isCorrect": false
+      },
+      {
+        "id": "52899244-9028-4b6d-b963-fbfeabd1b008",
+        "position": 5,
+        "text": "У будь-якому з напрямків.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d74dd1b8-df0c-459e-8008-c94aa479e900",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 42,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q042",
+    "answerOptionList": [
+      {
+        "id": "acc7461d-3ee0-41fe-9f62-ca7d40061a99",
+        "position": 1,
+        "text": "Про початок смуги гальмування з правого боку.",
+        "isCorrect": false
+      },
+      {
+        "id": "99011ca1-72c2-4028-b6b4-94bb8ba3041f",
+        "position": 2,
+        "text": "Про початок додаткової смуги руху на підйомі.",
+        "isCorrect": false
+      },
+      {
+        "id": "9e27464a-f2ae-4e01-908d-a89f41e15d16",
+        "position": 3,
+        "text": "Про дозволені напрямки руху транспортних засобів на перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "c5f317e0-da06-4272-aa0d-6d9c90101c5d",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ea25480b-1967-4b19-a10c-9427031e266b",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 85,
+    "text": "Який із зображених дорожніх знаків інформує про напрямок руху до зазначених на ньому пам'яток?",
+    "imageResId": "image_t33_q085",
+    "answerOptionList": [
+      {
+        "id": "1b52ae41-7968-46f5-b7f3-e72203104f28",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "c087860c-06d9-40fc-a21e-1aeea7fb1053",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "7196f6d2-d642-491b-92f4-32e8df3164d1",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "5cb98b46-0b77-483e-b5c6-57fbda79ef02",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ecc64bc1-9603-45fd-be00-8214f213c214",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 97,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q097",
+    "answerOptionList": [
+      {
+        "id": "5e7c9b52-8049-4982-8d05-854fe6201209",
+        "position": 1,
+        "text": "Про місце розташування залізничного вокзалу.",
+        "isCorrect": false
+      },
+      {
+        "id": "0534c59e-8944-4f99-9442-2f3892de9a08",
+        "position": 2,
+        "text": "Про місце розташування пункту зупинки поїздів.",
+        "isCorrect": false
+      },
+      {
+        "id": "9a3e7d23-fcec-4fb8-894c-2fef9a11ac41",
+        "position": 3,
+        "text": "Про місце розташування метро.",
+        "isCorrect": false
+      },
+      {
+        "id": "ccefa93d-e47c-4766-9178-ff85e5244c44",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3680f435-7965-43f7-a9ed-ea910abd46a8",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 98,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q098",
+    "answerOptionList": [
+      {
+        "id": "f54a5a0d-5de4-46ce-bcc6-19451ff34ac3",
+        "position": 1,
+        "text": "Про початок місця зупинки автобусів.",
+        "isCorrect": false
+      },
+      {
+        "id": "a0302ac9-abe2-42d1-8305-b2e0ef01aca2",
+        "position": 2,
+        "text": "Про місце розташування автовокзалу або автостанції.",
+        "isCorrect": false
+      },
+      {
+        "id": "02917411-07ed-49bd-8171-53b14281506b",
+        "position": 3,
+        "text": "Обидві відповіді правильні.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8281ca05-6843-4408-b712-e5b982c89e60",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 101,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q101",
+    "answerOptionList": [
+      {
+        "id": "27ffda5e-ce3e-44be-86eb-defbc620956a",
+        "position": 1,
+        "text": "Про наближення до поста Національної поліції.",
+        "isCorrect": false
+      },
+      {
+        "id": "37803fcb-1716-4ae8-bb4d-ae41c99b5027",
+        "position": 2,
+        "text": "Про можливе здійснення контролю за порушенням Правил дорожнього руху за допомогою спеціальних технічних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "f239115e-0f00-408c-9cdd-16d977e453b9",
+        "position": 3,
+        "text": "Про наближення до місця фіксації швидкості руху.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e169b334-75e5-4890-94c1-96d25ecc8d27",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 110,
+    "text": "Що спільного у цих двох дорожніх знаків?",
+    "imageResId": "image_t33_q110",
+    "answerOptionList": [
+      {
+        "id": "a0a9b739-e546-47ab-81ef-103e9983f1ec",
+        "position": 1,
+        "text": "Інформують про дорогу з одностороннім рухом.",
+        "isCorrect": false
+      },
+      {
+        "id": "e99c53b9-82e6-4288-9d47-f70e0c3cd034",
+        "position": 2,
+        "text": "Інформують про дозволені напрямки руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "dfc78736-62dc-43d8-86c9-388d6a0ca5c8",
+        "position": 3,
+        "text": "Інформують про заборонені напрямки руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "7624a5f5-5eb8-48c6-bce9-10988fd14aa9",
+        "position": 4,
+        "text": "Інформують про рух по одній смузі.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e48ac91d-a1fa-4366-8603-b8452efb4482",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 111,
+    "text": "Що спільного у цих двох дорожніх знаків?",
+    "imageResId": "image_t33_q111",
+    "answerOptionList": [
+      {
+        "id": "e9d7068c-0061-4fad-817e-82af4ad669d6",
+        "position": 1,
+        "text": "Дозволяють розворот.",
+        "isCorrect": false
+      },
+      {
+        "id": "5187aa45-c208-4f5a-8487-0d9ed8ca8ae6",
+        "position": 2,
+        "text": "Забороняють розворот.",
+        "isCorrect": false
+      },
+      {
+        "id": "34999933-d02a-4ac0-bdf8-5ba9d05e2172",
+        "position": 3,
+        "text": "Дозволяють поворот праворуч.",
+        "isCorrect": false
+      },
+      {
+        "id": "87b2afaf-0fe4-4508-99d9-7ef4b786f10f",
+        "position": 4,
+        "text": "Забороняють поворот праворуч.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "12207a17-3f39-4d73-91bb-8b7add4ebbdd",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 112,
+    "text": "Що спільного у цих двох дорожніх знаків?",
+    "imageResId": "image_t33_q112",
+    "answerOptionList": [
+      {
+        "id": "f0d995ac-b9f0-4382-91e6-20dd0bf4b4fa",
+        "position": 1,
+        "text": "Інформують про зустрічну смугу руху для маршрутних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "6f448609-521d-488a-9434-b8c9df55dcc1",
+        "position": 2,
+        "text": "Інформують про попутну смугу руху для маршрутних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "6604ae8a-d7cc-42fb-a327-83e5ff4615ce",
+        "position": 3,
+        "text": "Інформують про смугу руху для маршрутних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "2c8756c3-aa4a-4f27-af90-13eeb1f72f52",
+        "position": 4,
+        "text": "Інформують про дорогу з одностороннім рухом.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "56c56b22-6fe3-4657-aa89-54dcd773402d",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 113,
+    "text": "Що спільного у цих двох дорожніх знаків?",
+    "imageResId": "image_t33_q113",
+    "answerOptionList": [
+      {
+        "id": "23d91416-7c37-4440-b0e4-31b41e2722a2",
+        "position": 1,
+        "text": "Встановлюються перед перехрестями.",
+        "isCorrect": false
+      },
+      {
+        "id": "d4cce122-819d-4082-ac23-0e2d044a07a7",
+        "position": 2,
+        "text": "Інформують про кількість смуг попутного напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "8c47f3ee-d5d9-47ca-ad9a-9f2e1d3ecbc3",
+        "position": 3,
+        "text": "Інформують про кількість смуг на проїзній частині.",
+        "isCorrect": false
+      },
+      {
+        "id": "7ee0b227-ec06-4fd4-b31f-2130fd86a8d1",
+        "position": 4,
+        "text": "Вказують дозволений рух по смугах.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3e103c51-2f89-4bd8-acfa-3ecc3d65aa6b",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 114,
+    "text": "Який із зображених дорожніх знаків позначає кінець зони стоянки?",
+    "imageResId": "image_t33_q114",
+    "answerOptionList": [
+      {
+        "id": "4e878015-203a-46d9-ab76-cfcf5b0d7686",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "d28d541e-72f6-4bf6-b575-57684fc17e31",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "e3157d71-0ad6-4b8d-ab78-ed2c7d183292",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "bbf0bc86-e464-48c6-8246-86e868330d66",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "ab194061-2f6b-43b5-89e0-2c90b8d6810c",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e4916d91-7656-4a7b-a434-7252efb361ec",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 127,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q127",
+    "answerOptionList": [
+      {
+        "id": "19f145b8-f6f9-4c9d-8d21-883753855e4b",
+        "position": 1,
+        "text": "Про початок смуги гальмування.",
+        "isCorrect": false
+      },
+      {
+        "id": "8b92eb0c-e519-4588-9e21-8ce2738bc32e",
+        "position": 2,
+        "text": "Про мінімально допустиму швидкість на лівій смузі, що веде на підйом.",
+        "isCorrect": false
+      },
+      {
+        "id": "b30ab7f9-9b54-4e95-81ea-1fd74ba5b125",
+        "position": 3,
+        "text": "Про наявність смуги призначеної для руху транспортних засобів, що рухаються за встановленими маршрутами.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d12d999d-9588-4b85-ac78-70532e7869ba",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 128,
+    "text": "Зображений дорожній знак вказує:",
+    "imageResId": "image_t33_q128",
+    "answerOptionList": [
+      {
+        "id": "5e2eadf1-cddf-4785-aea4-927743df4716",
+        "position": 1,
+        "text": "Дозволені напрямки руху на перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "dd59eeb2-74ff-4c5c-9081-61696ed451ab",
+        "position": 2,
+        "text": "Дороги, які не мають наскрізного проїзду.",
+        "isCorrect": false
+      },
+      {
+        "id": "fb854894-9611-4cf5-a8de-468ea766993d",
+        "position": 3,
+        "text": "Дороги, рух по яких заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "de913c0c-1372-4317-acc7-3fdac1d965df",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 129,
+    "text": "Чи повинні Ви під час руху прямо дати дорогу мотоциклу?",
+    "imageResId": "image_t33_q129",
+    "answerOptionList": [
+      {
+        "id": "8324f6d2-d793-4853-8eb1-5d42e537b9cc",
+        "position": 1,
+        "text": "Не повинні.",
+        "isCorrect": false
+      },
+      {
+        "id": "390263c1-ed9f-47c2-b92e-4a1ee8a6ab55",
+        "position": 2,
+        "text": "Повинні.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "db44e228-a37a-4891-8b17-6f9b888c25ca",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 130,
+    "text": "Який із зображених дорожніх знаків вказує рекомендовану швидкість руху?",
+    "imageResId": "image_t33_q130",
+    "answerOptionList": [
+      {
+        "id": "ee02bbef-e04e-4c80-97ca-b0f0dbfbdf89",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "907aad91-4d3e-48fd-b1e5-404421920893",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "4b0b61e1-d9ac-4e0f-a415-2309e8fbacc9",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "1db4eabb-4290-449c-ad3c-e65e4de7e1f7",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "92fb3347-a2a0-4c16-b71e-52d1c2a56e02",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d940b50b-50f5-4aa6-bd5d-262f27ccfef3",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 131,
+    "text": "Зображений дорожній знак застосовується для:",
+    "imageResId": "image_t33_q131",
+    "answerOptionList": [
+      {
+        "id": "fedaf9e2-1b55-477b-8261-2812ea6016c9",
+        "position": 1,
+        "text": "Зазначення швидкості, з якою рекомендується рух на даній ділянці дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "c07cf4dd-4a72-4b9b-b1fc-6af096a9dec8",
+        "position": 2,
+        "text": "Зазначення обмеження максимальної швидкості на даній ділянці дороги.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "70d0d9a6-6b9d-471b-8008-44b30fcd22e3",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 132,
+    "text": "Який із зображених дорожніх знаків інформує про початок житлової зони?",
+    "imageResId": "image_t33_q132",
+    "answerOptionList": [
+      {
+        "id": "d4ff1455-8a6f-48d8-8e2d-08d62bf80c0b",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "8aab1b96-a816-4e3f-91a9-c6b6eafb019f",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "d25297fe-6e9c-4792-b9f5-8699d555daed",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "3cfa3e6f-2b85-48dd-a70a-82f4e07cab50",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "357a4246-b33e-4d90-a040-ee4332f150d5",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "25b76d18-00d5-438a-9b29-2301db32541a",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 133,
+    "text": "Про що інформує зображений дорожній знак?",
+    "imageResId": "image_t33_q133",
+    "answerOptionList": [
+      {
+        "id": "752c3954-3a54-4c1e-a235-724865a91657",
+        "position": 1,
+        "text": "Про в'їзд на територію, яка є пішохідною зоною.",
+        "isCorrect": false
+      },
+      {
+        "id": "acb109d2-9c1e-4ebd-9da7-9f839d021e75",
+        "position": 2,
+        "text": "Про в'їзд на прилеглу територію.",
+        "isCorrect": false
+      },
+      {
+        "id": "1b883019-b289-4a5b-8715-fa09c1f00507",
+        "position": 3,
+        "text": "Про в'їзд на територію, що є житловою зоною.",
+        "isCorrect": false
+      },
+      {
+        "id": "82a832e1-76b7-4d11-8fb8-98ebb0e094b2",
+        "position": 4,
+        "text": "Відповіді 1 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a6c62185-a9d1-474e-9bd4-2c9c7c5114ce",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 134,
+    "text": "Який із зображених дорожніх знаків позначає кінець житлової зони?",
+    "imageResId": "image_t33_q134",
+    "answerOptionList": [
+      {
+        "id": "2638205e-051d-49d4-b7e0-13f8f74b80f1",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7c8396d1-2b27-46b2-8c07-4355d2cee3d1",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "82d4c980-2957-4c78-b1d9-f1e8e0ef29c2",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "1f3e2d13-f01a-42e4-ba6e-db5e479c8a5c",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "e47f97a6-f782-44c5-949f-b2ba51980f5c",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "566d2f6c-7c2b-40be-af45-142efaa97c8f",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 135,
+    "text": "Про що інформує зображений дорожній знак?",
+    "imageResId": "image_t33_q135",
+    "answerOptionList": [
+      {
+        "id": "e322232e-3b72-46e8-9d65-88d2ac6debcd",
+        "position": 1,
+        "text": "Про в'їзд на територію, яка є пішохідною зоною.",
+        "isCorrect": false
+      },
+      {
+        "id": "49db25d6-86ea-473f-a8d3-4a7455ce6e45",
+        "position": 2,
+        "text": "Про в'їзд на прилеглу територію.",
+        "isCorrect": false
+      },
+      {
+        "id": "411a6c8c-b426-4bb0-932d-4b664bbeaadf",
+        "position": 3,
+        "text": "Про в'їзд на територію, що є житловою зоною.",
+        "isCorrect": false
+      },
+      {
+        "id": "ba76b3ed-d9e6-4d36-ab5d-37030d4a87a4",
+        "position": 4,
+        "text": "Відповіді 1 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "78b276ef-2826-47cb-952a-dea57249b83a",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 136,
+    "text": "Чи дозволено Вам рух прямо в зображеній ситуації?",
+    "imageResId": "image_t33_q136",
+    "answerOptionList": [
+      {
+        "id": "82a42c7d-d298-409c-9100-49f868d6cd70",
+        "position": 1,
+        "text": "Дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "6e675608-9e45-42a2-a192-2fed8fedac6f",
+        "position": 2,
+        "text": "Заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2497a417-ea76-4de9-8c80-3b9d2b9f1cfb",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 137,
+    "text": "Зображені дорожні знаки вказують:",
+    "imageResId": "image_t33_q137",
+    "answerOptionList": [
+      {
+        "id": "0c0e6071-40c4-4c59-8952-3580efa15563",
+        "position": 1,
+        "text": "Рекомендований напрямок руху для вантажних автомобілів.",
+        "isCorrect": false
+      },
+      {
+        "id": "2b51be3c-dadd-4cc9-8a25-e6189ab855e4",
+        "position": 2,
+        "text": "Рекомендований напрямок руху для самохідних машин.",
+        "isCorrect": false
+      },
+      {
+        "id": "d2f2e4f3-4cca-4313-ad31-f02b41214488",
+        "position": 3,
+        "text": "Обов'язкові напрямки руху для вантажних автомобілів і самохідних машин.",
+        "isCorrect": false
+      },
+      {
+        "id": "7b6c43f4-357f-4af4-9e55-2ca60bb987bf",
+        "position": 4,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bc75ed07-3710-46c2-9c0d-dc8967ecda87",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 138,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q138",
+    "answerOptionList": [
+      {
+        "id": "1bdf622a-d787-4855-af1d-bd5a6093e74a",
+        "position": 1,
+        "text": "Зону за довжиною для розвороту транспортних засобів; поворот ліворуч у такому місці дозволено.",
+        "isCorrect": false
+      },
+      {
+        "id": "fc4aa598-aebc-4b58-bc1b-86fe6fbce9ba",
+        "position": 2,
+        "text": "Зону за довжиною для розвороту тільки вантажних транспортних засобів; поворот ліворуч у такому місці заборонено.",
+        "isCorrect": false
+      },
+      {
+        "id": "50c18d56-5a07-48c7-a50b-d792fec9dcb1",
+        "position": 3,
+        "text": "Зону за довжиною для розвороту транспортних засобів; поворот ліворуч у такому місці заборонено.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "61d04043-5b62-4062-ab10-5756e554640a",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 139,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q139",
+    "answerOptionList": [
+      {
+        "id": "37abffc4-b7fc-4376-8359-3f143e0e7873",
+        "position": 1,
+        "text": "Про початок додаткової смуги зліва або початок смуги гальмування перед перехрестям для повороту ліворуч або розвороту.",
+        "isCorrect": false
+      },
+      {
+        "id": "b0ada007-ccba-41e6-a671-ad12bc9e40ce",
+        "position": 2,
+        "text": "Про дозволені напрямки руху транспортних засобів на перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "b97624b0-d9bb-4c08-bfcb-1611f6a68550",
+        "position": 3,
+        "text": "Відповіді 1 і 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8787428c-ff41-43f0-92ca-e3567a61ea68",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 140,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q140",
+    "answerOptionList": [
+      {
+        "id": "24027676-a492-4650-b12d-9e126494d9c3",
+        "position": 1,
+        "text": "Про наявність смуги для розгону транспортних засобів, яка прилягає з правого боку до проїзної частини.",
+        "isCorrect": false
+      },
+      {
+        "id": "b1b9f1cb-f791-4d86-92ea-b7c69dfdcd81",
+        "position": 2,
+        "text": "Про прилягання справа до проїзної частини смуги, по якій здійснюється рух транспортних засобів у тому ж напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "13ad74dd-1374-42d5-b1ca-46e9b5356003",
+        "position": 3,
+        "text": "Про закінчення додаткової смуги або смуги розгону справа.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "99f73eb5-c07b-4db3-8049-0553497542c6",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 141,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q141",
+    "answerOptionList": [
+      {
+        "id": "c952cc97-6bd8-477b-8790-6e040d5f0d33",
+        "position": 1,
+        "text": "Про прилягання справа до проїзної частини смуги, по якій здійснюється рух транспортних засобів у тому ж напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "2d603dc6-87d9-462a-9fdc-e41460f53e0b",
+        "position": 2,
+        "text": "Про закінчення смуги для розгону.",
+        "isCorrect": false
+      },
+      {
+        "id": "403ab986-0e46-49cc-96a9-a16d1230d0c1",
+        "position": 3,
+        "text": "Про закінчення смуги, призначеної для руху в даному напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "d367f408-88ad-4a77-9caf-09a29c1ea8e5",
+        "position": 4,
+        "text": "Відповіді 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "dd2bfa5e-b5ed-4911-bfad-a948e821e933",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 142,
+    "text": "Який із зображених дорожніх знаків інформує водіїв про місце, де смуга для розгону прилягає до основної смуги руху на одному рівні з правого боку?",
+    "imageResId": "image_t33_q142",
+    "answerOptionList": [
+      {
+        "id": "bd55363d-5a33-461c-85cb-3cc1e36a909a",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "0e466d13-88b1-4bb1-acdc-1d1111ca536d",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "60a6bafc-ade9-434f-b084-26a21a3d0927",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "ca37e13f-6cac-4ed5-a775-0297921d3e71",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "e45a3bd7-b7d5-4f12-bca5-a655d2e94c80",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "82b86b8a-04c5-49e6-b538-0604b63de120",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 143,
+    "text": "Який із зображених дорожніх знаків інформує про те, що додаткова смуга руху прилягає до основної смуги руху на одному рівні з правого боку?",
+    "imageResId": "image_t33_q143",
+    "answerOptionList": [
+      {
+        "id": "07663520-ca2b-4735-a587-133002ff5a54",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "7fd37f3e-27c5-4aa5-a4f1-509f525a6c41",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "350c2bc7-9dce-4a75-8098-dcda444e8992",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "08c95e3e-2380-4b33-938f-9c05408dc6c0",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "92014bf9-c3ef-409b-9dd1-b0ccfa5677ab",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7343444f-bcd3-4ab3-850d-2ac446d091e0",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 144,
+    "text": "Який із зображених дорожніх знаків показує напрямок об'їзду закритої для руху ділянки проїзної частини на дорозі з розділювальною смугою?",
+    "imageResId": "image_t33_q144",
+    "answerOptionList": [
+      {
+        "id": "4659fc2b-2b5a-4ac8-b246-5cf82be2249e",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "bc63f532-3ec0-42f9-b6a2-0fd6d201a68d",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "66423cb3-c184-4b19-a08e-55e3ab7d0583",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "7d5bd9e3-b121-411a-aae5-02df73f48b72",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fb0dc1da-8229-45bb-b2c0-aadef916a020",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 145,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q145",
+    "answerOptionList": [
+      {
+        "id": "a78da6d1-0587-45fb-a406-76f2b2b580ff",
+        "position": 1,
+        "text": "Про напрямок руху для повернення на проїзну частину праворуч після об'їзду закритої для руху ділянки проїзної частини дороги з розділювальною смугою.",
+        "isCorrect": false
+      },
+      {
+        "id": "5bb9bb80-d1f2-4945-9909-b9e1c304c9c3",
+        "position": 2,
+        "text": "Про маршрут руху на перехресті в разі заборони окремих маневрів або про дозволені напрямки руху на складному перехресті.",
+        "isCorrect": false
+      },
+      {
+        "id": "3e8dc9f0-bf52-45a3-a40d-69b27b35ffb1",
+        "position": 3,
+        "text": "Про маршрут об'їзду ділянки дороги, яка тимчасово закрита для руху.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ea34658a-f90a-4cd8-99ef-7a0ecdadf318",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 146,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q146",
+    "answerOptionList": [
+      {
+        "id": "f17931b5-dfb6-4dbb-8222-873179dce63b",
+        "position": 1,
+        "text": "Про наближення до повороту дороги, на якому є в’їзд на прилеглу територію.",
+        "isCorrect": false
+      },
+      {
+        "id": "b4ed5b97-26b9-41ee-b929-227439b0fb7f",
+        "position": 2,
+        "text": "Про початок смуги гальмування.",
+        "isCorrect": false
+      },
+      {
+        "id": "f75f48df-d9d7-4650-9160-c7a8fde2d37e",
+        "position": 3,
+        "text": "Про розташування смуги, спеціально підготовленої для аварійної зупинки транспортних засобів у разі відмови гальмівної системи.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f4030737-1d24-4452-8ab8-6c24ee062a54",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 147,
+    "text": "Який із зображених дорожніх знаків позначає кінець пішохідної зони?",
+    "imageResId": "image_t33_q147",
+    "answerOptionList": [
+      {
+        "id": "368a3568-0c45-45e1-b3b4-407ba093660c",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "75a40634-e84e-48f7-a2b4-8fd78f317a2a",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "fd40f9f0-9642-46df-ac47-84fabdb7c184",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "dc388881-6f52-42f7-91d9-cc48992377ba",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "9ef26982-0b3d-4d84-983c-e87d0060dda9",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4ee19c73-fa54-4d49-a64f-0ab05f8429ba",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 148,
+    "text": "Зображеними дорожніми знаками позначаються:",
+    "imageResId": "image_t33_q148",
+    "answerOptionList": [
+      {
+        "id": "da7acfdb-935e-46cf-ada9-3f6a4efe3371",
+        "position": 1,
+        "text": "Місця, призначені для руху пішоходів по проїзній частині.",
+        "isCorrect": false
+      },
+      {
+        "id": "af2ec3e6-7be3-4170-bca5-86de88d87a01",
+        "position": 2,
+        "text": "Підземні пішохідні переходи.",
+        "isCorrect": false
+      },
+      {
+        "id": "e25a4f2e-d5a6-43c5-bd6c-b9a7023654b9",
+        "position": 3,
+        "text": "Надземні пішохідні переходи.",
+        "isCorrect": false
+      },
+      {
+        "id": "fec72cd4-3973-4794-bbc1-7f6c768c3f50",
+        "position": 4,
+        "text": "Пішохідні доріжки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "11c717ff-9611-4810-bbd6-94649b80d59c",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 149,
+    "text": "Зображений дорожній знак інформує:",
+    "imageResId": "image_t33_q149",
+    "answerOptionList": [
+      {
+        "id": "911ada19-50e6-4da2-b4ae-bfc498adb961",
+        "position": 1,
+        "text": "Про можливість використання дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "0e73b33a-1569-4ceb-9fbf-a1fa09ba1992",
+        "position": 2,
+        "text": "Про відстань до населених пунктів.",
+        "isCorrect": false
+      },
+      {
+        "id": "75398614-49af-49dd-a87e-14a14c88f662",
+        "position": 3,
+        "text": "Про швидкісні обмеження, що запроваджують на даній дорозі.",
+        "isCorrect": false
+      },
+      {
+        "id": "f3de3841-6995-4d01-9a93-453faf62cda1",
+        "position": 4,
+        "text": "Про загальні обмеження швидкості та строк застосування денних ходових вогнів (ближнього світла фар).",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1eadef07-a797-47e6-88d1-fae04a80f1a7",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 150,
+    "text": "На якому із зображених дорожніх знаків може змінюватися інформація?",
+    "imageResId": "image_t33_q150",
+    "answerOptionList": [
+      {
+        "id": "f1964486-c0a7-4780-a877-5a0186d084f3",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "cfe0b90c-48a4-441c-abe8-e999ecd9b8da",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "bd4c8d15-49c5-4bce-92db-f77c1d9899d5",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "2805112c-a716-4958-ab1a-bef34800c938",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "df7e6993-5307-47a7-a20a-c0bfe4eaf9a8",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cdf13a00-cc3a-404f-a045-317da479a628",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 151,
+    "text": "Зображений дорожній знак встановлюється:",
+    "imageResId": "image_t33_q151",
+    "answerOptionList": [
+      {
+        "id": "cb58be2b-10d7-4ce0-9f44-6e708c9ac6f3",
+        "position": 1,
+        "text": "В населеному пункті.",
+        "isCorrect": false
+      },
+      {
+        "id": "0a557913-4078-4577-8135-81249f0709cb",
+        "position": 2,
+        "text": "Поза населеним пунктом.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b1320cf2-c70b-45c2-9592-55a1747d85ba",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 152,
+    "text": "Який із дорожніх знаків інформує про номер і напрямок маршруту (дороги)?",
+    "imageResId": "image_t33_q152",
+    "answerOptionList": [
+      {
+        "id": "c66c01f5-b359-4e06-846b-99c43b1727bd",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "e6a44cc6-658c-44d1-8d7f-5f259b4f16cf",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "b412b51d-1405-45fe-b57f-62d011669dc6",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1f2845f8-ef7d-4c60-9852-e4644b356237",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 153,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q153",
+    "answerOptionList": [
+      {
+        "id": "19457d43-d96a-4a61-87fe-59c8ee803211",
+        "position": 1,
+        "text": "Початок населеного пункту, в якому діють вимоги Правил дорожнього руху, що визначають порядок руху в населених пунктах.",
+        "isCorrect": false
+      },
+      {
+        "id": "5d2c91e6-afb5-4a24-8370-6d7333526fec",
+        "position": 2,
+        "text": "Початок населеного пункту, в якому на даній дорозі не діють вимоги Правил дорожнього руху, що визначають порядок руху в населених пунктах.",
+        "isCorrect": false
+      },
+      {
+        "id": "c001c7b6-25a7-4bb0-a12a-e426eec4bd8c",
+        "position": 3,
+        "text": "Межу, де починається забудова безпосередньо поблизу проїзної частини (за умови наявності такої забудови). Означає обмеження максимальної дозволеної швидкості до 50 км/год.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f19e9b70-8306-431f-9151-c1e34490aa9d",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 154,
+    "text": "Який із зображених дорожніх знаків застосовується в населених пунктах, для виділення межі закінчення забудови населеного пункту, розташованої безпосередньо поблизу проїзної частини (за умови подальшої відсутності такої забудови)?",
+    "imageResId": "image_t33_q154",
+    "answerOptionList": [
+      {
+        "id": "af76cccb-8d42-460a-91c8-fef9b2893403",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "86ce599f-9e39-4f46-a602-f9a502cf4871",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "8d25e01a-fee0-4b32-82e1-80fc26fb6d31",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "05de756c-8f80-446c-bd81-46149f814b31",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      },
+      {
+        "id": "8a6d608e-ee3f-4d62-9729-d1a0d62ddd55",
+        "position": 5,
+        "text": "Знак 5.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2847ff87-b8d5-4908-99a6-d07e29f0187a",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 155,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q155",
+    "answerOptionList": [
+      {
+        "id": "fb74d294-7d70-43a7-abd1-cdc67fbb0266",
+        "position": 1,
+        "text": "Те, що за цим знаком тимчасово змінено схему руху і (або) встановлено нові дорожні знаки.",
+        "isCorrect": false
+      },
+      {
+        "id": "0d7ae835-1f0e-4075-abbe-6d61bae88cf5",
+        "position": 2,
+        "text": "Те, що за цим знаком на постійній основі змінено схему руху і (або) встановлено нові дорожні знаки.",
+        "isCorrect": false
+      },
+      {
+        "id": "38b7f556-910f-48ba-8fa1-687cfa638407",
+        "position": 3,
+        "text": "Обидві відповіді правильні.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cb1f79f9-7e39-44f2-9b84-8a0d205e714b",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 156,
+    "text": "Який із зображених дорожніх знаків інформує про місце розташування аеропорту?",
+    "imageResId": "image_t33_q156",
+    "answerOptionList": [
+      {
+        "id": "0635df84-67ec-4cee-83b6-4dba7ade17e9",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "96ee315b-1f3d-4674-b327-8602035780fc",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "47ed05cc-390b-426b-a494-3ba2de9f79ec",
+        "position": 3,
+        "text": "Знак 3",
+        "isCorrect": false
+      },
+      {
+        "id": "fe176b30-490b-41b2-beed-845992e39320",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "31a41635-21ad-4782-8275-434dff8f1ce0",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 157,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q157",
+    "answerOptionList": [
+      {
+        "id": "14d400e3-7da5-424a-8b09-bd496e2fabdb",
+        "position": 1,
+        "text": "Початок населеного пункту, в якому діють вимоги даних Правил дорожнього руху, що визначають порядок руху в населених пунктах.",
+        "isCorrect": false
+      },
+      {
+        "id": "5ebc3116-0593-4afc-b12f-238191a23aeb",
+        "position": 2,
+        "text": "Початок населеного пункту, в якому на даній дорозі не діють вимоги Правил дорожнього руху, що визначають порядок руху в населених пунктах.",
+        "isCorrect": false
+      },
+      {
+        "id": "76735b6e-5939-4fba-83b6-4167c43075d4",
+        "position": 3,
+        "text": "Початок забудови населеного пункту безпосередньо біля проїзної частини.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "650cfeb4-b3f6-4f8e-81c2-09780df683e1",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 158,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q158",
+    "answerOptionList": [
+      {
+        "id": "c96dd703-b75c-4595-a2e1-4fe56cca61fb",
+        "position": 1,
+        "text": "Початок населеного пункту, в якому діють вимоги Правил дорожнього руху, що визначають порядок руху в населених пунктах.",
+        "isCorrect": false
+      },
+      {
+        "id": "d6f8216a-4161-4275-b389-481d7732888d",
+        "position": 2,
+        "text": "Початок населеного пункту, в якому не діють вимоги Правил дорожнього руху, що визначають порядок руху в населених пунктах.",
+        "isCorrect": false
+      },
+      {
+        "id": "a814a75e-abf2-4682-ad7f-3770eb0eff07",
+        "position": 3,
+        "text": "Початок щільної забудови безпосередньо біля проїзної частини.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "09a689ed-44b2-4dc5-9da2-c08419ade792",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 159,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q159",
+    "answerOptionList": [
+      {
+        "id": "8d6e964c-c3b6-47f5-873d-71d881e89e41",
+        "position": 1,
+        "text": "Початок посадкового майданчика автобуса.",
+        "isCorrect": false
+      },
+      {
+        "id": "b99e1a49-4ea0-42a8-9390-eac4f58b57b8",
+        "position": 2,
+        "text": "Початок смуги для руху маршрутних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "41229fc0-504b-4d87-9614-0840df372921",
+        "position": 3,
+        "text": "Початок смуги для руху тільки автобусів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b51f1ee9-a98f-4b12-b7de-428a90dacc92",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 160,
+    "text": "Якими із зображених дорожніх знаків позначаються місця, призначені для переходу пішоходами по проїзній частині?",
+    "imageResId": "image_t33_q160",
+    "answerOptionList": [
+      {
+        "id": "dd0e7fc8-eec1-4a61-9504-49faa85e47bf",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "437830c5-8dd3-492a-a679-bb1a44bedf59",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "ba7e7aac-c68a-4b3a-99b4-1b776914d388",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "9bebdb17-fd8a-4d37-b396-aa9edbe962dc",
+        "position": 4,
+        "text": "Знаки 1, 2, 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "10605d23-222d-48e6-8b3e-0d15fb3e7705",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 161,
+    "text": "Зображеним дорожнім знаком позначаються:",
+    "imageResId": "image_t33_q161",
+    "answerOptionList": [
+      {
+        "id": "cad0e748-dee7-4fdf-a16e-375ded8fb0b2",
+        "position": 1,
+        "text": "Місця, призначені для руху пішоходів по проїзній частині.",
+        "isCorrect": false
+      },
+      {
+        "id": "0876ee6b-3525-4bbc-8875-f384a17437b8",
+        "position": 2,
+        "text": "Підземні пішохідні переходи.",
+        "isCorrect": false
+      },
+      {
+        "id": "30aee75c-9b14-478d-bdc8-aeb155bd129e",
+        "position": 3,
+        "text": "Надземні пішохідні переходи.",
+        "isCorrect": false
+      },
+      {
+        "id": "b36c2e66-21a0-4041-813e-ea563eacd52d",
+        "position": 4,
+        "text": "Пішохідні доріжки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4550cd1a-7160-4660-88ae-125f03d73add",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 162,
+    "text": "Зображеним дорожнім знаком позначаються:",
+    "imageResId": "image_t33_q162",
+    "answerOptionList": [
+      {
+        "id": "94f3f5c1-dbe5-44b6-b7e5-8cc9d4e31332",
+        "position": 1,
+        "text": "Місця, призначені для руху пішоходів по проїзній частині.",
+        "isCorrect": false
+      },
+      {
+        "id": "46fa5269-0cc0-4817-8e68-276decbc6ded",
+        "position": 2,
+        "text": "Підземні пішохідні переходи.",
+        "isCorrect": false
+      },
+      {
+        "id": "7266eb48-add9-4935-aa68-d1c30832bc68",
+        "position": 3,
+        "text": "Надземні пішохідні переходи.",
+        "isCorrect": false
+      },
+      {
+        "id": "c52f0a7e-7cf6-4030-9104-373dccff2537",
+        "position": 4,
+        "text": "Пішохідні доріжки.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8c1a8fdd-1296-4abd-9ef2-7978bda27074",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 163,
+    "text": "Зображений дорожній знак застосовується:",
+    "imageResId": "image_t33_q163",
+    "answerOptionList": [
+      {
+        "id": "756dfc30-d6af-497e-b181-4c555fcbc627",
+        "position": 1,
+        "text": "Для позначення місць і майданчиків під накриттям для стоянки транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "522ac1df-32a6-4e98-9c07-1783a2057453",
+        "position": 2,
+        "text": "Для позначення місць і майданчиків для стоянки транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "15a4b40b-31f1-47ee-b533-9b7058418a33",
+        "position": 3,
+        "text": "Для позначення місць і майданчиків з дахом для стоянки транспортних засобів, де є можливість пересадки на маршрутні транспортні засоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "2b09df71-3511-4c90-8015-70984384bd17",
+        "position": 4,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "88d84910-bc41-4fdc-89cf-241ba0d335c7",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 164,
+    "text": "Зображений дорожній знак застосовується:",
+    "imageResId": "image_t33_q164",
+    "answerOptionList": [
+      {
+        "id": "9bcaed78-28b1-45d8-a7e6-4209a8ab4752",
+        "position": 1,
+        "text": "Для позначення критих (підземних та надземних) стоянок.",
+        "isCorrect": false
+      },
+      {
+        "id": "c0fe7528-d77e-48cb-8442-bc068b8deb4b",
+        "position": 2,
+        "text": "Для позначення місць і майданчиків для стоянки транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "27109373-448a-4323-acf3-b3780cb77fd3",
+        "position": 3,
+        "text": "Для позначення місць і майданчиків під накриттям для стоянки транспортних засобів, де є можливість пересадки на маршрутні транспортні засоби.",
+        "isCorrect": false
+      },
+      {
+        "id": "7676bd77-6b91-473a-8147-2148869328e4",
+        "position": 4,
+        "text": "Відповіді 1, 2 і 3.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ea127ecd-fb48-4993-be1b-715b013fb983",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 166,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q166",
+    "answerOptionList": [
+      {
+        "id": "e45584f3-1d1e-4aec-8ac2-fd373f68dd13",
+        "position": 1,
+        "text": "Місце для стоянки транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "1becb6ab-db7b-4883-85c4-f1feef6186b8",
+        "position": 2,
+        "text": "Зону, де дозволено стоянку транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "3faf7220-293a-4a48-af50-c338dc384314",
+        "position": 3,
+        "text": "Місце для посадки і висадки пасажирів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "51c57024-3352-479d-b255-1c7446a9ed30",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 167,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q167",
+    "answerOptionList": [
+      {
+        "id": "17e02df1-2860-4d03-80a9-28f7951474e4",
+        "position": 1,
+        "text": "Кінець зони обмеженої стоянки транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "4e30618c-3152-4483-973e-91401ae46176",
+        "position": 2,
+        "text": "Кінець зони стоянки транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "a9bfd332-4d83-4aa2-aa54-93251160f268",
+        "position": 3,
+        "text": "Місце виїзду з майданчика для стоянки транспортних засобів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5f29c724-6822-4372-b6c3-aecdebac0830",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 168,
+    "text": "Який із зображених дорожніх знаків не обмежує швидкість руху транспортних засобів на ділянці дороги, на якій його встановлено?",
+    "imageResId": "image_t33_q168",
+    "answerOptionList": [
+      {
+        "id": "ccb238f5-6234-4917-88d0-8079d4089b5f",
+        "position": 1,
+        "text": "Знак 1.",
+        "isCorrect": false
+      },
+      {
+        "id": "fb4f4ba2-9398-45db-a21c-285702bff8ec",
+        "position": 2,
+        "text": "Знак 2.",
+        "isCorrect": false
+      },
+      {
+        "id": "effae87f-b187-4c4c-bcd3-8f795fe1a26b",
+        "position": 3,
+        "text": "Знак 3.",
+        "isCorrect": false
+      },
+      {
+        "id": "a99e934f-2dfa-4b7e-991a-541040fef382",
+        "position": 4,
+        "text": "Знак 4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3603ee38-98a1-40d7-93d5-2c721173b4e6",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 338,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q338",
+    "answerOptionList": [
+      {
+        "id": "6bc425b5-5f4e-4846-8426-db47d76aa328",
+        "position": 1,
+        "text": "Велосипедну смугу.",
+        "isCorrect": false
+      },
+      {
+        "id": "3c8aa1b9-c4d2-4f67-8a5f-f75ebef98170",
+        "position": 2,
+        "text": "Велосипедну доріжку.",
+        "isCorrect": false
+      },
+      {
+        "id": "41c397f0-3a59-489a-818a-c962f30ab3b7",
+        "position": 3,
+        "text": "Велосипедний переїзд.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "68d46ae7-dc79-4861-8a3c-6541f792a35d",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 339,
+    "text": "Вказаний дорожній знак позначає:",
+    "imageResId": "image_t33_q339",
+    "answerOptionList": [
+      {
+        "id": "4a779741-57c7-472f-94f4-dbaa137b5d50",
+        "position": 1,
+        "text": "Діагональний пішохідний перехід.",
+        "isCorrect": false
+      },
+      {
+        "id": "bd15a30f-99d4-4ec2-9ab6-de2e2b6ef56a",
+        "position": 2,
+        "text": "Підземний пішохідний перехід.",
+        "isCorrect": false
+      },
+      {
+        "id": "2f09fb3b-bbec-45a9-8ad3-43b17baf41e7",
+        "position": 3,
+        "text": "Пішохідну доріжку.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8bad06a9-d73b-45a0-9904-41f11ff78bfc",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 340,
+    "text": "Вказаний дорожній знак позначає:",
+    "imageResId": "image_t33_q340",
+    "answerOptionList": [
+      {
+        "id": "dc3f8fb6-fd3d-44e6-9c01-bf429004e6af",
+        "position": 1,
+        "text": "Початок населеного пункту.",
+        "isCorrect": false
+      },
+      {
+        "id": "7f26dd13-6816-4a68-95b0-687fa59db6d3",
+        "position": 2,
+        "text": "Початок ділянки дороги, що проходить через тунель довжиною 1000 м і більше.",
+        "isCorrect": false
+      },
+      {
+        "id": "a4274c20-beb0-4974-b8c3-c9d80ca4400d",
+        "position": 3,
+        "text": "Початок населеного пункту, де відсутня забудова.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "93763331-18aa-4721-85ec-85c38b6aaba3",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 346,
+    "text": "Зображений дорожній знак позначає виїзд на дорогу, де рух транспортних засобів, що рухаються за встановленими маршрутами, здійснюється спеціально відведеною смугою, позначеною знаком 5.11:",
+    "imageResId": "image_t33_q346",
+    "answerOptionList": [
+      {
+        "id": "edad3479-41ec-45fc-901d-35e116f93a01",
+        "position": 1,
+        "text": "Попутно загальному потоку.",
+        "isCorrect": false
+      },
+      {
+        "id": "7bcb5a90-a2a3-46cb-a470-52b22f5de3f8",
+        "position": 2,
+        "text": "Назустріч загальному потоку.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "207fc90d-e993-4c71-9c91-21463b4417ce",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 347,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q347",
+    "answerOptionList": [
+      {
+        "id": "62cc69d1-cf3c-477c-8845-2fa8a8f42ddf",
+        "position": 1,
+        "text": "Мінімальну швидкість на різних смугах руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "472a25e1-0e3d-4a46-a797-7c5a27ae91bb",
+        "position": 2,
+        "text": "Обмеження максимальної швидкості на різних смугах руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "c9af6ee1-ec82-41e2-8065-b4232a8283df",
+        "position": 3,
+        "text": "Початок додаткової смуги руху.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a6aa4bf9-8bc3-4bf9-a7a7-9853bda4efa1",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 348,
+    "text": "Вказаний дорожній знак позначає:",
+    "imageResId": "image_t33_q348",
+    "answerOptionList": [
+      {
+        "id": "c9099a4d-1188-4461-b1cc-84c141297351",
+        "position": 1,
+        "text": "Мінімальну швидкість на різних смугах руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "0881becb-7813-4fc6-b0d8-8ff0a6c740a6",
+        "position": 2,
+        "text": "Обмеження максимальної швидкості на різних смугах руху.",
+        "isCorrect": false
+      },
+      {
+        "id": "c0807fa7-7f23-4435-a98d-6c980cd59699",
+        "position": 3,
+        "text": "Початок додаткової смуги руху.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "319cb516-2bfa-47e3-b49e-c1d82f46b432",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 349,
+    "text": "Вказаний дорожній знак позначає:",
+    "imageResId": "image_t33_q349",
+    "answerOptionList": [
+      {
+        "id": "f20c7cc7-319b-4665-a726-43e890b248ff",
+        "position": 1,
+        "text": "Місця, де може зупинитися вантажний автомобіль, фургон тощо, виключно на час, необхідний для розвантаження/завантаження.",
+        "isCorrect": false
+      },
+      {
+        "id": "8c4cb380-31df-412e-b022-f36455e6231a",
+        "position": 2,
+        "text": "Місця, призначені для стоянки виключно вантажних транспортних засобів.",
+        "isCorrect": false
+      },
+      {
+        "id": "cffd2d1b-6aff-407b-801d-8239274a477a",
+        "position": 3,
+        "text": "Місця для стоянки транспортних засобів, що здійснюють міжнародні автомобільні перевезення вантажів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "02945336-5ae2-4f41-9ed1-d8d74810928a",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 350,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q350",
+    "answerOptionList": [
+      {
+        "id": "7621990f-a819-476f-bbef-26d68f235dbd",
+        "position": 1,
+        "text": "Місце розташування автовокзалу чи автостанції.",
+        "isCorrect": false
+      },
+      {
+        "id": "fdb2207d-aefc-4dfa-86e9-f4d90d78b345",
+        "position": 2,
+        "text": "Місце розташування морського (річкового) порту чи вокзалу.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7a974afe-4b16-4aa7-ad15-5bc369759dbc",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 351,
+    "text": "Вказаний дорожній знак позначає:",
+    "imageResId": "image_t33_q351",
+    "answerOptionList": [
+      {
+        "id": "bcbab707-fe07-420d-844d-b94429b618ad",
+        "position": 1,
+        "text": "Платну дорогу.",
+        "isCorrect": false
+      },
+      {
+        "id": "d51a79c8-eb6f-4124-9ad3-d7b5c93b046f",
+        "position": 2,
+        "text": "Номер і напрямок дороги.",
+        "isCorrect": false
+      },
+      {
+        "id": "66537897-0b62-4e17-ac89-94f292cd2fb1",
+        "position": 3,
+        "text": "Загальні обмеження швидкості.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c30bdd7a-3076-4ea5-a8d8-248dbd8499ba",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 352,
+    "text": "Вказаний дорожній знак інформує про:",
+    "imageResId": "image_t33_q352",
+    "answerOptionList": [
+      {
+        "id": "5ab93d24-6562-4019-af1a-4562d9f56876",
+        "position": 1,
+        "text": "Зону для пішоходів.",
+        "isCorrect": false
+      },
+      {
+        "id": "49500097-3114-4955-85f4-ddf5747835d9",
+        "position": 2,
+        "text": "Зону для велосипедистів.",
+        "isCorrect": false
+      },
+      {
+        "id": "7e57e907-8d72-4917-82fe-e78d2685be87",
+        "position": 3,
+        "text": "Зону для пішоходів і велосипедистів.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "da52c585-0f25-40fa-b3a4-862f1ec48a93",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 353,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q353",
+    "answerOptionList": [
+      {
+        "id": "46b4ce14-d25e-4d0d-b623-8b335457673f",
+        "position": 1,
+        "text": "Дорогу, на якій по спеціально виділеній і відокремленій розміткою смузі, організовано рух велосипедистів у зустрічному до загального потоку транспортних засобів напрямку.",
+        "isCorrect": false
+      },
+      {
+        "id": "31a13849-ba67-4daf-9804-4aa5857b09ad",
+        "position": 2,
+        "text": "Велосипедну смугу.",
+        "isCorrect": false
+      },
+      {
+        "id": "7820ec09-be10-4562-b7b3-2d4188eea31a",
+        "position": 3,
+        "text": "Місця, де велосипедна доріжка перетинає проїзну частину.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "02e0a81a-652d-41b4-8734-7de7a7d0a993",
+    "themeId": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
+    "order": 356,
+    "text": "Зображений дорожній знак позначає:",
+    "imageResId": "image_t33_q356",
+    "answerOptionList": [
+      {
+        "id": "284bc4a6-09e8-4dff-9915-32261d59a490",
+        "position": 1,
+        "text": "Виїзд на дорогу з одностороннім рухом і зустрічною велосипедною смугою.",
+        "isCorrect": false
+      },
+      {
+        "id": "151268b0-4f0d-40d8-9e8a-1b9eda343760",
+        "position": 2,
+        "text": "Велосипедний переїзд.",
+        "isCorrect": false
+      },
+      {
+        "id": "4c40035c-67ff-4a64-ab36-ff5e3a5fdab7",
+        "position": 3,
+        "text": "Велосипедну смугу.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
