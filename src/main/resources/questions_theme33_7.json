@@ -2,6 +2,7 @@
   {
     "id": "42a7c7a3-ef50-42d2-8edd-33c3d4697972",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 45,
     "order": 45,
     "text": "У якому з місць Ви можете виконати зупинку в зображеній ситуації?",
     "imageResId": "image_t33_q045",
@@ -34,13 +35,14 @@
         "id": "be173c38-0afb-42f9-9148-1ccc65bc8eee",
         "position": 5,
         "text": "У будь-якому місці.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "16a30344-9738-4bb7-baf1-142ed739961d",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 47,
     "order": 47,
     "text": "У якому з місць Ви можете зупинити транспортний засіб для стоянки в зображеній ситуації?",
     "imageResId": "image_t33_q047",
@@ -55,7 +57,7 @@
         "id": "7b044627-cd47-449e-a8d3-45ac4b3ffd5c",
         "position": 2,
         "text": "У місці А, Б або Г.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "b10493ff-f22c-4e84-b3be-a6d69c339024",
@@ -80,6 +82,7 @@
   {
     "id": "0639b388-4e9e-468b-861e-032c357535b1",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 48,
     "order": 48,
     "text": "У якому з місць Вам дозволено виконати стоянку в зображеній ситуації?",
     "imageResId": "image_t33_q048",
@@ -106,7 +109,7 @@
         "id": "b5ddcecb-adc8-47c4-ae32-4c6a4c3bb246",
         "position": 4,
         "text": "У місці Б або В.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "9238d969-bdc0-4acc-a4d4-df85496ceeb8",
@@ -119,6 +122,7 @@
   {
     "id": "f3a33530-b62b-4e3c-a1d9-b13077dc0d2a",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 52,
     "order": 52,
     "text": "Чи дозволено Вам виконати посадку пасажира в зображеній ситуації?",
     "imageResId": "image_t33_q052",
@@ -127,7 +131,7 @@
         "id": "0c375c13-68d0-4880-aa64-8f1bdc6afc51",
         "position": 1,
         "text": "Дозволено.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "5b15fc73-706a-43cb-855d-0f844eea1075",
@@ -140,6 +144,7 @@
   {
     "id": "bf20374c-8843-4dbe-b818-930f51522bb1",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 54,
     "order": 54,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q054",
@@ -160,13 +165,14 @@
         "id": "343e33bb-5200-45b4-9290-ab9d49de6ace",
         "position": 3,
         "text": "Обидва поставлені правильно.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "5bd262fe-12ea-4301-8dfb-6f5da182ef45",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 56,
     "order": 56,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q056",
@@ -187,7 +193,7 @@
         "id": "a963cb90-1ea1-4f57-8039-044ad4a2b735",
         "position": 3,
         "text": "Жовтий.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "771874cc-cce3-4d18-a192-c61ad0e28d06",
@@ -200,6 +206,7 @@
   {
     "id": "09995dc5-2fd3-434f-91a2-09b37b1eeb3e",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 57,
     "order": 57,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q057",
@@ -226,7 +233,7 @@
         "id": "68c9f5a7-9661-4b2c-864a-5d94c0abc05d",
         "position": 4,
         "text": "Червоний.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "30486e16-392e-43fc-9155-54a699a3bc00",
@@ -239,6 +246,7 @@
   {
     "id": "4cc4e2e9-5192-4890-bc21-733d58883dc8",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 58,
     "order": 58,
     "text": "Який водій неправильно зупинив свій транспортний засіб на дорозі за межами населеного пункту?",
     "imageResId": "image_t33_q058",
@@ -253,7 +261,7 @@
         "id": "abc4cac2-f4a5-4f0c-a643-3eeae67bfc9a",
         "position": 2,
         "text": "Водії білого і синього автомобілів.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "6e20655a-52d2-46f9-a55d-3dbb89eeff5b",
@@ -272,6 +280,7 @@
   {
     "id": "75db6a79-f725-4597-a076-c8346b81fbf7",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 59,
     "order": 59,
     "text": "Водій якого автомобіля виконує стоянку з порушенням Правил дорожнього руху?",
     "imageResId": "image_t33_q059",
@@ -292,13 +301,14 @@
         "id": "d42a247d-6c3e-40ab-b7a5-e0c7ef57ede6",
         "position": 3,
         "text": "Обидва водії.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "75fb6d8d-dc1e-4457-8100-9137f4a32436",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 60,
     "order": 60,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q060",
@@ -307,7 +317,7 @@
         "id": "7fa6070f-c4ee-414f-9ba3-12b44893c89d",
         "position": 1,
         "text": "Жовтий і зелений.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "681469f4-0cb7-4629-a84c-36dc76bcabe9",
@@ -332,6 +342,7 @@
   {
     "id": "0b9c6c1a-94d5-4d16-805f-f3b5e6202ef4",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 61,
     "order": 61,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q061",
@@ -364,13 +375,14 @@
         "id": "6e84a9f3-fbb7-4715-8b13-4e0ccd7df8b3",
         "position": 5,
         "text": "Сірий і червоний.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "da058905-a481-424b-9a0d-97aad1616d22",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 62,
     "order": 62,
     "text": "У якому із зазначених місць Ви можете зупинити свій транспортний засіб?",
     "imageResId": "image_t33_q062",
@@ -385,7 +397,7 @@
         "id": "123c20bc-10bd-4485-8137-64132479bbba",
         "position": 2,
         "text": "У місці А, В або Г.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "c80c25d4-bd5e-4533-92df-b8b73b040a8a",
@@ -410,6 +422,7 @@
   {
     "id": "659c4046-0323-4e72-b141-734cfe39686f",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 86,
     "order": 86,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q086",
@@ -430,7 +443,7 @@
         "id": "47c93762-4a3e-4cd5-9b26-f3473380cc50",
         "position": 3,
         "text": "Протяжність небезпечної ділянки або зону дії заборонних та інформаційно-вказівних знаків.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "a197aa11-3d91-4b9f-a794-3d7ff292d9ae",
@@ -443,6 +456,7 @@
   {
     "id": "27c827c0-023f-4d8b-a60c-ea91a1ed0ca9",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 87,
     "order": 87,
     "text": "З яким дорожнім знаком встановлюється зображена табличка?",
     "imageResId": "image_t33_q087",
@@ -475,13 +489,14 @@
         "id": "22d2f42a-dc3b-45c4-9222-ff7a376e268e",
         "position": 5,
         "text": "З будь-яким із перелічених вище знаків.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "78c5ed30-dd83-4f2d-b55e-b197004659ee",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 88,
     "order": 88,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q088",
@@ -502,13 +517,14 @@
         "id": "c6b31de8-8c9a-41e0-82e8-2f04b89d730e",
         "position": 3,
         "text": "Правильні обидві відповіді.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "89a2c49a-61f8-4059-822e-626f608780f7",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 89,
     "order": 89,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q089",
@@ -517,7 +533,7 @@
         "id": "d5a026e7-c709-4d31-8e3a-0d6f941b439e",
         "position": 1,
         "text": "Табличка до дорожнього знаку діє протягом суботніх, недільних і святкових днів.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "c6542c09-4b37-432a-a669-c49a13321782",
@@ -530,6 +546,7 @@
   {
     "id": "ca6d0144-7b2a-4655-bc89-631112082049",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 90,
     "order": 90,
     "text": "Встановлений з якою із зображених табличок дорожній знак діє в усі робочі дні?",
     "imageResId": "image_t33_q090",
@@ -544,7 +561,7 @@
         "id": "1ac156aa-37d5-4350-983c-35af3d2a498d",
         "position": 2,
         "text": "З табличкою 2.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "f6dc5e82-9dd4-442b-8acb-3b750aa84480",
@@ -569,6 +586,7 @@
   {
     "id": "1db280ee-4269-43cd-ae57-a9efe97ed8d4",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 91,
     "order": 91,
     "text": "Дія зображеної таблички поширюється:",
     "imageResId": "image_t33_q091",
@@ -589,7 +607,7 @@
         "id": "4397b3c1-ec5a-48b4-a87b-983186e8168d",
         "position": 3,
         "text": "На вантажні автомобілі, в тому числі з причепами, дозволеною максимальною масою понад 3,5 т.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "63be620e-8eaf-47fa-aa98-cf5f1336a4e5",
@@ -602,6 +620,7 @@
   {
     "id": "9f523480-4382-444b-96e7-c95b769d0a84",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 92,
     "order": 92,
     "text": "У якому з напрямків дозволено рух водієві легкового автомобіля в зображеній ситуації?",
     "imageResId": "image_t33_q092",
@@ -622,7 +641,7 @@
         "id": "50100cfd-d843-4b99-97bf-489b8030b302",
         "position": 3,
         "text": "У напрямках А, Б і В.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "e66d646f-6c53-49b4-8cb6-1159ccec2ad2",
@@ -635,6 +654,7 @@
   {
     "id": "fe90e840-a5b9-4dfa-b03e-d865d0e7a77f",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 93,
     "order": 93,
     "text": "Дія зображеної таблички поширюється:",
     "imageResId": "image_t33_q093",
@@ -643,7 +663,7 @@
         "id": "9a00f938-e3e9-4774-94cd-f2562568ec75",
         "position": 1,
         "text": "На транспортні засоби з причепами.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "5acebe02-63d0-4356-8e62-550a52c222ea",
@@ -662,6 +682,7 @@
   {
     "id": "a9bdf328-16bd-4869-9b3f-d45f3f7aa22c",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 94,
     "order": 94,
     "text": "З яким дорожнім знаком встановлюється зображена табличка?",
     "imageResId": "image_t33_q094",
@@ -688,13 +709,14 @@
         "id": "65d25e9e-4a9a-4c5b-8ea9-9d50fe6e41f5",
         "position": 4,
         "text": "З знаками 1 і 2.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "0fd4cb73-fafb-438d-90db-74f910ba6190",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 95,
     "order": 95,
     "text": "Зображена табличка позначає:",
     "imageResId": "image_t33_q095",
@@ -715,7 +737,7 @@
         "id": "76c19496-e63d-4a37-8df9-3a2163c76491",
         "position": 3,
         "text": "Відповіді 1 і 2.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "a33d3bc5-9785-4f20-b0ea-0dc9c7347a80",
@@ -728,6 +750,7 @@
   {
     "id": "459a7824-d928-4df6-8bf5-ab982a0d4fc0",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 104,
     "order": 104,
     "text": "Табличка до дорожнього знаку діє:",
     "imageResId": "image_t33_q104",
@@ -736,7 +759,7 @@
         "id": "4ed514c7-0885-49fc-940a-9f87b1c8e12e",
         "position": 1,
         "text": "Протягом суботніх, недільних і святкових днів.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "e31c7e74-d951-47b4-ae64-934b28ef5169",
@@ -749,6 +772,7 @@
   {
     "id": "602a26cc-b2cc-4780-960e-d42373ea1f5d",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 105,
     "order": 105,
     "text": "Дія зображеної таблички поширюється:",
     "imageResId": "image_t33_q105",
@@ -775,13 +799,14 @@
         "id": "db0e1f0c-1f7e-4bd5-a64c-e015496554a1",
         "position": 4,
         "text": "На всі транспортні засоби, що перевозять небезпечний вантаж.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "0214fc0d-4f55-49ee-af16-47d93d02ff27",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 106,
     "order": 106,
     "text": "Який транспортний засіб поставлено на стоянку неправильно?",
     "imageResId": "image_t33_q106",
@@ -790,7 +815,7 @@
         "id": "6f15af61-9336-4fa1-a08d-779699199a4b",
         "position": 1,
         "text": "Вантажний автомобіль.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "dd1a7971-ad3c-4920-8a91-dfd0b9fec382",
@@ -809,6 +834,7 @@
   {
     "id": "949d2630-e048-4fc0-a887-c3ae7ec94c0d",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 115,
     "order": 115,
     "text": "З яким із дорожніх знаків можуть бути встановлені зображені таблички?",
     "imageResId": "image_t33_q115",
@@ -835,7 +861,7 @@
         "id": "a7375785-eac4-48f8-94b0-9858fd655241",
         "position": 4,
         "text": "Зі знаком 4.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "21e1fb07-f3b9-4025-bdb6-d733898a67b7",
@@ -848,6 +874,7 @@
   {
     "id": "7a75e731-f86d-4f83-9b51-9e45cc2d7863",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 116,
     "order": 116,
     "text": "Яка з табличок встановлюється із зображеним дорожнім знаком?",
     "imageResId": "image_t33_q116",
@@ -880,13 +907,14 @@
         "id": "bf855ea3-fc8f-4e22-8061-0500c0609e63",
         "position": 5,
         "text": "Усі перелічені вище таблички.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "466f574d-19a4-42ca-9566-0d3199c4090f",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 117,
     "order": 117,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q117",
@@ -895,7 +923,7 @@
         "id": "f46ab60d-2fde-4312-9939-6f7c4015072e",
         "position": 1,
         "text": "Час дії дорожнього знака.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "4b1bf639-f9c3-4c6f-9ba9-dd5d1244f703",
@@ -908,6 +936,7 @@
   {
     "id": "70e34e51-0a80-4c19-b7af-ae90ee816d53",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 118,
     "order": 118,
     "text": "Яка із зображених табличок дозволяє стоянку всіх транспортних засобів способом, вказаним на ній?",
     "imageResId": "image_t33_q118",
@@ -928,7 +957,7 @@
         "id": "3b81d4e6-8034-4ab5-bb44-3ec2deba059f",
         "position": 3,
         "text": "Табличка 3.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "2dafb07d-df8a-4226-bab3-6f2be6e656b6",
@@ -947,6 +976,7 @@
   {
     "id": "f07bacba-021d-4556-bb62-8fda7b9253b7",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 119,
     "order": 119,
     "text": "Зображені таблички, що встановлюються з відповідними дорожніми знаками, вказують:",
     "imageResId": "image_t33_q119",
@@ -955,7 +985,7 @@
         "id": "08a2486d-f423-49e6-a3ce-f0aad4e6e9f9",
         "position": 1,
         "text": "Спосіб поставлення, а також вид транспортного засобу, який може бути поставлено на стоянку.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "acfc38f8-5365-495f-b165-1e9ef7d2ee28",
@@ -974,6 +1004,7 @@
   {
     "id": "02d33fae-8333-4aa8-96fb-6839b9913160",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 120,
     "order": 120,
     "text": "Зображена табличка, яка встановлюється зі знаками «Місце стоянки» або «Зона стоянки», вказує:",
     "imageResId": "image_t33_q120",
@@ -988,7 +1019,7 @@
         "id": "62cce395-f6e0-4e37-8759-1ebe106d5504",
         "position": 2,
         "text": "Те, що залишати на стоянку транспортні засоби дозволено лише з непрацюючим двигуном.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "d872bc05-2b4c-4f59-83ff-4bf14a5d1a6b",
@@ -1001,6 +1032,7 @@
   {
     "id": "acc42a5d-29f4-40a0-9308-36b815897b7f",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 121,
     "order": 121,
     "text": "Яка із зображених табличок вказує, що дозволено залишати транспортні засоби лише з непрацюючим двигуном?",
     "imageResId": "image_t33_q121",
@@ -1021,7 +1053,7 @@
         "id": "0593ab91-4f98-44e3-bb11-f52d0ef8a993",
         "position": 3,
         "text": "Табличка 3.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "bdde8552-2203-4dda-a4d3-2c438d5c2a53",
@@ -1040,6 +1072,7 @@
   {
     "id": "f76aea65-466e-4d75-87af-8a513ae8949c",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 122,
     "order": 122,
     "text": "Зображена табличка визначає:",
     "imageResId": "image_t33_q122",
@@ -1054,7 +1087,7 @@
         "id": "5196ca3d-b040-4666-a07f-3855f03ea1e5",
         "position": 2,
         "text": "Смугу руху, на яку поширюється дія знака або світлофора, з яким вона встановлена.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "11b2dce9-73d3-4e56-a474-8bab79b73e13",
@@ -1067,6 +1100,7 @@
   {
     "id": "adbee024-28ca-4d5b-bb72-3531a992fdab",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 123,
     "order": 123,
     "text": "З яким із дорожніх знаків може бути встановлена зображена табличка?",
     "imageResId": "image_t33_q123",
@@ -1087,7 +1121,7 @@
         "id": "666b4454-256c-4855-aeac-c425bbfb2329",
         "position": 3,
         "text": "Зі знаком 3.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "32da2218-55a9-4ca4-92cf-0df3427bb763",
@@ -1100,6 +1134,7 @@
   {
     "id": "40e16211-09c0-49c3-a0db-e3c40bb07ffc",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 124,
     "order": 124,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q124",
@@ -1114,7 +1149,7 @@
         "id": "283e819e-7684-4801-b7e8-f613d8d92081",
         "position": 2,
         "text": "Те, що послуги надаються лише за плату.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "11e7a073-0176-4250-b5de-8137d5ab9727",
@@ -1127,6 +1162,7 @@
   {
     "id": "66522668-f02a-4469-a739-f26ac93258d8",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 125,
     "order": 125,
     "text": "З яким із дорожніх знаків може бути встановлена зображена табличка?",
     "imageResId": "image_t33_q125",
@@ -1153,7 +1189,7 @@
         "id": "ea2ed4f0-796f-4bc3-a917-9fef94d2e768",
         "position": 4,
         "text": "Зі знаком 4.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "019bc1ce-8498-4208-bebe-78f29731248b",
@@ -1166,6 +1202,7 @@
   {
     "id": "835f0a19-4c3a-4ba5-bdbd-6d5a40a6e416",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 165,
     "order": 165,
     "text": "Зображений дорожній знак в поєднанні з табличкою 7.28.2 застосовується:",
     "imageResId": "image_t33_q165",
@@ -1186,7 +1223,7 @@
         "id": "c03fd542-1cea-49f2-a225-48c8e0173d9c",
         "position": 3,
         "text": "Для позначення стоянки поблизу зупинки маршрутних транспортних засобів.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "43fe0bec-7927-470b-b12d-8cb743935de4",
@@ -1199,6 +1236,7 @@
   {
     "id": "42f68409-30da-4989-a26b-d45dfd7f2909",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 228,
     "order": 228,
     "text": "Про що попереджає даний дорожній знак, встановлений з табличкою?",
     "imageResId": "image_t33_q228",
@@ -1225,13 +1263,14 @@
         "id": "7999e812-51f2-404d-ac54-4c2983a437e4",
         "position": 4,
         "text": "Про наближення до ділянки дороги з дев'ятьма небезпечними поворотами – з першим праворуч.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "dfe4899d-828d-41fb-9c63-671f85a3f311",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 252,
     "order": 252,
     "text": "Який дорожній знак встановлено на найближчому перехресті після знаку дати дорогу з зазначеною табличкою?",
     "imageResId": "image_t33_q252",
@@ -1240,7 +1279,7 @@
         "id": "474092fd-5aa6-43f7-8c54-53b1c9a50857",
         "position": 1,
         "text": "Знак 1.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "ede0e565-6200-4874-bcb3-7051e91e6eca",
@@ -1259,6 +1298,7 @@
   {
     "id": "b4bdd532-82d8-4c40-a172-876e3903bc5b",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 263,
     "order": 263,
     "text": "У якому напрямку Вам дозволено рух у даній ситуації?",
     "imageResId": "image_t33_q263",
@@ -1285,13 +1325,14 @@
         "id": "0445a7d4-d193-46d5-9d91-83f76cd27a85",
         "position": 4,
         "text": "У напрямках А, Б і В.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "08d8e548-bba4-451f-92e6-d67a9eaedbe5",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 270,
     "order": 270,
     "text": "Чи дозволено Вам рух прямо в зображеній ситуації?",
     "imageResId": "image_t33_q270",
@@ -1306,13 +1347,14 @@
         "id": "681bef85-3f58-4879-bfdc-878775606261",
         "position": 2,
         "text": "Дозволено.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "5b23b855-09f4-4f4a-8fae-1da34a0a49bd",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 271,
     "order": 271,
     "text": "У якому напрямку Вам дозволено рух у даній ситуації?",
     "imageResId": "image_t33_q271",
@@ -1339,13 +1381,14 @@
         "id": "55b4b35e-107c-4358-b88d-2ea2442d2206",
         "position": 4,
         "text": "У напрямках А, Б і В.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "2ce90258-85ad-4995-be21-e73f141006a9",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 287,
     "order": 287,
     "text": "За якої з умов дозволено виконати обгін транспортного засобу після проїзду зображеного дорожнього знака, встановленого з табличкою?",
     "imageResId": "image_t33_q287",
@@ -1360,7 +1403,7 @@
         "id": "48c873f9-9125-419f-80d4-bc8bdc35e781",
         "position": 2,
         "text": "Якщо обгін закінчиться не більш ніж через 500 м після проїзду даних дорожніх знаків.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "43cbb288-e117-469e-a42e-6c8cedbc02c5",
@@ -1373,6 +1416,7 @@
   {
     "id": "cdf8a944-4b11-49f5-afce-ce3bf632c9d1",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 305,
     "order": 305,
     "text": "Який дорожній знак встановлено на найближчому перехресті після знаків дати дорогу разом з табличкою?",
     "imageResId": "image_t33_q305",
@@ -1387,7 +1431,7 @@
         "id": "e4dcab6a-a6fb-463f-ae49-d257879e23df",
         "position": 2,
         "text": "Знак 2.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "df226422-93d0-4def-a93e-d17f6cdb5615",
@@ -1400,6 +1444,7 @@
   {
     "id": "7726ec0b-dc03-4fd3-92f1-9df9a2a09670",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 322,
     "order": 322,
     "text": "Чи дозволено велосипедистові повернути праворуч, якщо він обслуговує громадян, які там проживають?",
     "imageResId": "image_t33_q322",
@@ -1408,7 +1453,7 @@
         "id": "8ed79de7-8c3a-44f9-95d9-b03569f71dfd",
         "position": 1,
         "text": "Дозволено.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "c410bc43-1edc-4163-ad0a-acdbd9feddec",
@@ -1421,6 +1466,7 @@
   {
     "id": "6d1c1a0b-e1bb-48fc-a289-53dcc58db241",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 324,
     "order": 324,
     "text": "У якому напрямку дозволено рух трактора в даній ситуації?",
     "imageResId": "image_t33_q324",
@@ -1435,7 +1481,7 @@
         "id": "fb356459-933d-4ef2-8680-90e4512a44c9",
         "position": 2,
         "text": "Б і Г.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "27117413-bf67-4a50-b475-9f521d79992b",
@@ -1460,6 +1506,7 @@
   {
     "id": "2da3abb3-8701-414a-9b17-1a0b600ce305",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 325,
     "order": 325,
     "text": "У якому напрямку дозволено рух велосипедистові на даному перехресті?",
     "imageResId": "image_t33_q325",
@@ -1492,13 +1539,14 @@
         "id": "1555f075-1514-4e47-a4b4-16b486a92562",
         "position": 5,
         "text": "У всіх напрямках.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "b05f132a-c8c7-41b9-aec8-6f41f9658a9c",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 354,
     "order": 354,
     "text": "Зображена табличка застосовується для:",
     "imageResId": "image_t33_q354",
@@ -1507,7 +1555,7 @@
         "id": "73d5b01c-5527-4969-9255-0cd9337ebaeb",
         "position": 1,
         "text": "Інформування водіїв про наявність попереду острівця безпеки і звуження ширини проїзної частини.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "416983f8-22d5-42dd-a1a5-59dd975e9bd8",
@@ -1526,6 +1574,7 @@
   {
     "id": "fbc17023-cafd-47bd-befc-accca73aa095",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 355,
     "order": 355,
     "text": "Зображена табличка застосовується для:",
     "imageResId": "image_t33_q355",
@@ -1540,7 +1589,7 @@
         "id": "5da22387-f504-4525-93de-3e94db2d6cb9",
         "position": 2,
         "text": "Попередження про можливу евакуацію автомобіля без відома власника.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "ae425608-e905-4c6f-91bb-fb1b21a171f2",
@@ -1553,6 +1602,7 @@
   {
     "id": "fbe50ee8-5041-4ef7-9a44-6e55f2bbe3d9",
     "themeId": "d54ec74b-6940-4333-8ec7-4b6940e33368",
+    "sourceOrder": 357,
     "order": 357,
     "text": "Дія даного дорожнього знаку поширюється на:",
     "imageResId": "image_t33_q357",
@@ -1573,7 +1623,7 @@
         "id": "42e87e76-0d5a-4fa1-a6e4-ca7f1157c767",
         "position": 3,
         "text": "Транспортні засоби, що перевозять небезпечні вантажі.».",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   }

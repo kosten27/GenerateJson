@@ -2,6 +2,7 @@
   {
     "id": "af9ccad3-0ef3-40e2-aced-450fdabf831f",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 196,
     "order": 196,
     "text": "Зображений дорожній знак діє:",
     "imageResId": "image_t33_q196",
@@ -16,7 +17,7 @@
         "id": "5d19b34b-a7de-4833-adfe-cb817caf1ae8",
         "position": 2,
         "text": "На нерегульованому перехресті.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "4a1443da-02f5-45f1-91de-b579ccdb04d4",
@@ -29,6 +30,7 @@
   {
     "id": "09682f5d-2241-4dc4-b0c9-bd2d830829bf",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 197,
     "order": 197,
     "text": "Водій правильно виконав вимогу даного дорожнього знака, встановленого на нерегульованому перехресті, якщо:",
     "imageResId": "image_t33_q197",
@@ -43,7 +45,7 @@
         "id": "5b1e8adf-7221-4d48-8d7f-6b9a3a3bece0",
         "position": 2,
         "text": "Знизив швидкість або зупинився, щоб дати дорогу транспортним засобам, що рухаються по головній дорозі.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "edf2eeb4-38e2-485c-973f-b29acb034ff4",
@@ -56,6 +58,7 @@
   {
     "id": "7f180ab0-68aa-4081-9861-53e1696d5b00",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 198,
     "order": 198,
     "text": "Чи є обов'язковою зупинка для виконання вимоги даного дорожнього знака?",
     "imageResId": "image_t33_q198",
@@ -70,13 +73,14 @@
         "id": "c68b5c6c-9a80-478d-9e8a-0635d91ffa4e",
         "position": 2,
         "text": "Необов’язкова.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "8e82a109-1e61-4082-a67e-a86d331e72d9",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 209,
     "order": 209,
     "text": "Який дорожній знак встановлено на дорозі, що перетинається, якщо для вас встановлено даний знак?",
     "imageResId": "image_t33_q209",
@@ -91,7 +95,7 @@
         "id": "1327077c-e243-4537-8ff7-42f4d8201012",
         "position": 2,
         "text": "Знак 2.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "983b3ec9-aacf-42ef-b923-cb0ed80e01b6",
@@ -110,6 +114,7 @@
   {
     "id": "28c5e0ab-0cc2-46f5-b8d4-45ed50065149",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 294,
     "order": 294,
     "text": "Вимога якого із зображених знаків зобов'язує водія транспортного засобу обов'язково зупинитися на нерегульованому перехресті або залізничному переїзді?",
     "imageResId": "image_t33_q294",
@@ -118,7 +123,7 @@
         "id": "8de943cb-b0cb-499c-be47-19c062a67bc3",
         "position": 1,
         "text": "Знак 1.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "f22da714-d90c-478a-bf7b-42e0fecfcc21",
@@ -149,6 +154,7 @@
   {
     "id": "5b0d2399-778c-4de2-8a07-8ee6afccab24",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 295,
     "order": 295,
     "text": "Який із зображених дорожніх знаків надає переважне право проїзду вузької ділянки дороги водієві зустрічного транспортного засобу?",
     "imageResId": "image_t33_q295",
@@ -169,7 +175,7 @@
         "id": "34b90384-c9ff-4e9c-9b90-1de1267f8ed0",
         "position": 3,
         "text": "Знак 3.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "f1b67ebe-5afa-4f21-add3-4e8884f8ec19",
@@ -188,6 +194,7 @@
   {
     "id": "492ef74f-cce7-41cd-ab88-992577d21697",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 296,
     "order": 296,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q296",
@@ -208,7 +215,7 @@
         "id": "8ee9a065-2e11-43d9-b1e0-aa76bfce6bf0",
         "position": 3,
         "text": "На вузьких ділянках дороги, в місцях, де обмежено зустрічний роз'їзд транспортних засобів.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "4a3dab27-1c3c-458b-b1a1-176e55a04afe",
@@ -221,6 +228,7 @@
   {
     "id": "18d8c4b2-9b61-4bc0-84bd-0cd5a6f7d10e",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 297,
     "order": 297,
     "text": "Як ви роз'їдетеся із зустрічним транспортним засобом у даній ситуації?",
     "imageResId": "image_t33_q297",
@@ -235,13 +243,14 @@
         "id": "6e996d58-d65b-48b4-bb42-c6fd2c8228dc",
         "position": 2,
         "text": "Проїдете другим, не маючи переваги.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "ae031a74-955f-42f9-a19f-b9fecd811205",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 298,
     "order": 298,
     "text": "Хто з водіїв має перевагу під час зустрічного роз'їзду в даній ситуації?",
     "imageResId": "image_t33_q298",
@@ -250,7 +259,7 @@
         "id": "469f7979-656e-4301-8317-c71aa621a9cf",
         "position": 1,
         "text": "Водій легкового автомобіля.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "287aacb8-0e9f-4bc1-b403-8924b06f80e2",
@@ -263,6 +272,7 @@
   {
     "id": "82db9b33-4b98-49cb-9d35-f66a084c4881",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 299,
     "order": 299,
     "text": "Який дорожній знак встановлюється зустрічним транспортним засобам, якщо для вас встановлено даний дорожній знак?",
     "imageResId": "image_t33_q299",
@@ -271,7 +281,7 @@
         "id": "cd53bbd2-5482-4bf7-9514-81dabee876d2",
         "position": 1,
         "text": "Знак 1.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "01c3fd3f-d882-4d27-8a44-ca1bcf6e122d",
@@ -302,6 +312,7 @@
   {
     "id": "3826eb60-4265-4aca-8ab6-b1bbed5bcdca",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 300,
     "order": 300,
     "text": "Який із зображених дорожніх знаків надає перевагу стосовно зустрічних транспортних засобів на вузькій ділянці дороги?",
     "imageResId": "image_t33_q300",
@@ -310,7 +321,7 @@
         "id": "608f91a5-5e67-4802-bc06-91c2346fb86a",
         "position": 1,
         "text": "Знак 1.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "6f2c99fc-3de4-420e-8269-eb5c35397cef",
@@ -341,6 +352,7 @@
   {
     "id": "b2ca09b5-b685-4de2-bbb4-257d93db1316",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 301,
     "order": 301,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q301",
@@ -361,7 +373,7 @@
         "id": "1835e8be-ed81-4384-bf05-13cf6b94a7ba",
         "position": 3,
         "text": "На вузьких ділянках дороги, в місцях, де ускладнено зустрічний роз'їзд транспортних засобів.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "884e71e1-6a63-4be6-ac97-b4ecb212d5a6",
@@ -380,6 +392,7 @@
   {
     "id": "fb54dc94-9c83-4bbe-999d-20da9c3f1488",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 302,
     "order": 302,
     "text": "Як ви повинні діяти в даній ситуації при обмеженому зустрічному роз'їзді?",
     "imageResId": "image_t33_q302",
@@ -394,13 +407,14 @@
         "id": "b62e08a9-1648-443b-a5b2-d1fcc5a39c75",
         "position": 2,
         "text": "Маючи перевагу, проїхати першим.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "1b98cea7-2fb3-42ff-91c9-8ea5cc6bf7b3",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 303,
     "order": 303,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q303",
@@ -409,7 +423,7 @@
         "id": "48d67705-12e3-4691-80d1-bf7ef983f248",
         "position": 1,
         "text": "Перед перехрестями, на яких скасовується право першочергового проїзду нерегульованих перехресть.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "73ab2a69-b2ed-4359-970e-b9fd0cefff67",
@@ -422,6 +436,7 @@
   {
     "id": "2ee5f55f-faba-426b-9675-5ff76628e24e",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 304,
     "order": 304,
     "text": "Який із зображених дорожніх знаків скасовує право першочергового проїзду нерегульованих перехресть?",
     "imageResId": "image_t33_q304",
@@ -436,7 +451,7 @@
         "id": "872b4950-381c-4507-974f-aee5fc90aa27",
         "position": 2,
         "text": "Знак 2.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "eb344d5a-4b25-4d4c-95fd-92b5f0cef71c",
@@ -455,6 +470,7 @@
   {
     "id": "3961776e-f078-4568-ab59-a368cead0933",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 306,
     "order": 306,
     "text": "Чи є обов'язковою зупинка для виконання вимог даного знака?",
     "imageResId": "image_t33_q306",
@@ -463,7 +479,7 @@
         "id": "b1ffed71-668f-4d45-b894-d55a8ed82f9c",
         "position": 1,
         "text": "Так.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "d950263b-7214-4ae5-bc7a-f8bc15d1c7eb",
@@ -476,6 +492,7 @@
   {
     "id": "66664823-d387-460e-b295-96e841b4efe9",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 307,
     "order": 307,
     "text": "У якій з відповідей водій правильно виконав вимогу даного дорожнього знака, проїхавши через перехрестя?",
     "imageResId": "image_t33_q307",
@@ -490,7 +507,7 @@
         "id": "a964086f-449b-46a2-81dc-272d7896d8d5",
         "position": 2,
         "text": "Водій зупинився перед знаком «Проїзд без зупинки заборонено» і дав дорогу транспортним засобам, що рухаються по головній дорозі.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "97999767-fc95-4423-a04f-413b4bbd4c97",
@@ -503,6 +520,7 @@
   {
     "id": "6f1aa5cd-833b-457c-a477-a4ba01032cad",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 308,
     "order": 308,
     "text": "Чи повинен водій жовтого автомобіля зупинитися перед стоп-лінією, якщо він вже зупинявся за попутним автомобілем?",
     "imageResId": "image_t33_q308",
@@ -517,13 +535,14 @@
         "id": "3ba5bfb1-e246-4512-bb90-fc9659eaf54f",
         "position": 2,
         "text": "Повинен.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "13ba4e90-2a98-48f6-b293-7decb94a6a81",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 309,
     "order": 309,
     "text": "У якій із зображених ситуацій водій повинен виконати вимогу знака «Проїзд без зупинки заборонено» (у другій ситуації світлофор працює в режимі миготіння жовтого сигналу)?",
     "imageResId": "image_t33_q309",
@@ -538,7 +557,7 @@
         "id": "a9dbbc61-fc49-430e-8add-c22539ca782a",
         "position": 2,
         "text": "У другій ситуації.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "9bab6638-c400-4208-b4a9-ce2f06f49212",
@@ -551,6 +570,7 @@
   {
     "id": "77e2d5ee-9431-44ad-83e8-13d28cf3ca5f",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 310,
     "order": 310,
     "text": "Який із зображених знаків зобов'язує дати дорогу транспортним засобам, що рухаються по дорозі, яка перетинається, на нерегульованих перехрестях?",
     "imageResId": "image_t33_q310",
@@ -571,13 +591,14 @@
         "id": "8c8a2640-b417-445c-b43f-5dc21ee51835",
         "position": 3,
         "text": "Обидва знаки.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "237fb0c0-5030-4b31-a95d-fba5d1de6387",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 311,
     "order": 311,
     "text": "Який із зображених дорожніх знаків надає першочергове право проїзду перед транспортними засобами, що рухаються по дорозі, яка перетинається, на нерегульованих перехрестях?",
     "imageResId": "image_t33_q311",
@@ -598,7 +619,7 @@
         "id": "0f88cfef-aea2-4cbc-b8cf-01e505220816",
         "position": 3,
         "text": "Знак 3.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "e405c000-73aa-4d21-92c4-cb7dc74b5fec",
@@ -617,6 +638,7 @@
   {
     "id": "5cc613dd-b438-49fd-9f4b-a3cb6b97c1a7",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 312,
     "order": 312,
     "text": "Зображений дорожній знак, встановлений на нерегульованому перехресті:",
     "imageResId": "image_t33_q312",
@@ -637,13 +659,14 @@
         "id": "b9dbf4ac-9b67-47de-808a-dd4259a8645f",
         "position": 3,
         "text": "Надає водієві право на першочерговий проїзд перехрестя.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "17078b3d-8b9f-4d02-9f66-c854265fad57",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
+    "sourceOrder": 313,
     "order": 313,
     "text": "Як Ви повинні вчинити в даній ситуації?",
     "imageResId": "image_t33_q313",
@@ -652,7 +675,7 @@
         "id": "7be3c7dd-2b92-463a-9091-7c2b73712ea9",
         "position": 1,
         "text": "Проїхати першим.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "48cd5dfa-d4a1-4861-9953-a18c0ddeca73",

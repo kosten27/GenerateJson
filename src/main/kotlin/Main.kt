@@ -162,7 +162,7 @@ fun main() {
                     val themeOrder = currentThemeWithImages?.themeOrder?.replace(".", "_")
                     imageResId = "image_t${themeOrder}_q${questionOrder.toString().padStart(3, '0')}"
                 }
-                val questionTheme = if (currentTheme != null) currentTheme else {
+                val questionTheme = if (currentTheme33Map == null) currentTheme else {
                     val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(questionOrder) }.map { it.key }.first()
                     currentTheme33Map?.get(questionThemeOrder)
                 }
@@ -181,16 +181,20 @@ fun main() {
             // ANSWER
             answerRegex.matches(trimmed) -> {
                 val match = answerRegex.find(trimmed)!!
-                val themeId = currentTheme?.order
+                val sourceThemeId = currentTheme?.order
                 val questionNumber = currentQuestion?.order
+                val answerTheme = if (currentTheme33Map == null) currentTheme else {
+                    val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(questionNumber) }.map { it.key }.first()
+                    currentTheme33Map?.get(questionThemeOrder)
+                }
                 val optionPosition = match.groupValues[1].toInt()
-                val optionIdKey =  "${currentTheme?.order}_${currentQuestion?.order}_${optionPosition}"
+                val optionIdKey =  "${answerTheme?.order}_${currentQuestion?.order}_${optionPosition}"
                 val optionId = questionOptionIds[optionIdKey]
                 val answer = Answer(
                     id = optionId ?: Uuid.random(),
                     position = optionPosition,
                     text = match.groupValues[2].trim(),
-                    isCorrect = answerMap[themeId]?.get(questionNumber) == optionPosition
+                    isCorrect = answerMap[sourceThemeId]?.get(questionNumber) == optionPosition
                 )
                 currentQuestion?.answerOptionList?.add(answer)
             }

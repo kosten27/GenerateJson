@@ -2,6 +2,7 @@
   {
     "id": "9c38d0ec-1cd3-4839-a67a-dd2b730f12e0",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 1,
     "order": 1,
     "text": "Зображений дорожній знак має таке значення:",
     "imageResId": "image_t33_q001",
@@ -22,13 +23,14 @@
         "id": "baf3621c-7361-419a-928d-82dea428ea52",
         "position": 3,
         "text": "Дозволяє об'їзд перешкоди тільки з лівого боку.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "8c5971e9-bcc3-4bd0-b835-07bb34948d92",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 10,
     "order": 10,
     "text": "Зображений дорожній знак дозволяє рух:",
     "imageResId": "image_t33_q010",
@@ -49,13 +51,14 @@
         "id": "51528914-c832-4246-897a-7e3fa1bf1786",
         "position": 3,
         "text": "Зі швидкістю не меншою від тієї, що вказана на знаку.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "d3b017ba-d9ab-431f-8671-27d8a07c9f86",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 11,
     "order": 11,
     "text": "Яким із зображених знаків позначається доріжка для вершників?",
     "imageResId": "image_t33_q011",
@@ -64,7 +67,7 @@
         "id": "47b577a6-1511-4737-8b6a-349e3b715c9f",
         "position": 1,
         "text": "Знак 1.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "bad7ee7e-f206-447c-b774-3007f57e0fdd",
@@ -89,6 +92,7 @@
   {
     "id": "c953ef60-6821-41be-be03-2ab9a2005c11",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 12,
     "order": 12,
     "text": "Зображений дорожній знак дозволяє рух:",
     "imageResId": "image_t33_q012",
@@ -115,13 +119,14 @@
         "id": "0ca1316e-4b43-40a5-a442-d7c2cd23168f",
         "position": 4,
         "text": "Пішоходів і велосипедистів.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "67b185b9-0e69-4725-8b46-693726802818",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 13,
     "order": 13,
     "text": "З якого боку ви повинні об'їхати перешкоду в зображеній ситуації?",
     "imageResId": "image_t33_q013",
@@ -142,13 +147,14 @@
         "id": "634bc151-4df3-44a9-821c-299635bc56ab",
         "position": 3,
         "text": "З лівого боку.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "7bf0dae8-52af-4e73-8b6b-e0af4d557916",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 14,
     "order": 14,
     "text": "По якій дорозі Вам дозволено рух?",
     "imageResId": "image_t33_q014",
@@ -169,13 +175,14 @@
         "id": "2282ae92-7aa8-4a3b-8db4-b2f87554e0ec",
         "position": 3,
         "text": "По будь-якій дорозі.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "bdf956de-ace3-4cda-a56b-64312ce538be",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 15,
     "order": 15,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q015",
@@ -190,13 +197,14 @@
         "id": "f6275ea4-f0da-410b-b300-1ce3976a1169",
         "position": 2,
         "text": "На перехресті з круговим рухом; вимагає об'їзду клумби в напрямку, показаному стрілками.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "f50efe8f-4fa3-4ace-857c-c3df9a06f5f4",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 16,
     "order": 16,
     "text": "Зображений дорожній знак дозволяє рух:",
     "imageResId": "image_t33_q016",
@@ -229,13 +237,14 @@
         "id": "42165f44-a083-4e7a-8923-56ffe76c66c8",
         "position": 5,
         "text": "Відповіді 1, 2 і 3.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "61f4c965-54a9-43b9-9428-48301f5d6634",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 17,
     "order": 17,
     "text": "Яким транспортним засобам заборонено рух у зону дії зображеного дорожнього знака?",
     "imageResId": "image_t33_q017",
@@ -268,13 +277,14 @@
         "id": "18b71f18-e14a-4804-9034-967ae767ebcf",
         "position": 5,
         "text": "Відповіді 1, 2 і 3.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "b019f2b3-d9fb-41f5-b554-925a08f8b783",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 18,
     "order": 18,
     "text": "У якому з напрямків Вам дозволено рух у зображеній ситуації?",
     "imageResId": "image_t33_q018",
@@ -301,13 +311,14 @@
         "id": "976d8ef5-bb11-4d34-8e6a-c55a8b3492cf",
         "position": 4,
         "text": "У будь-якому напрямку.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "4c91afa3-ac62-409d-ae7e-9050912d054e",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 19,
     "order": 19,
     "text": "Зображений дорожній знак дозволяє рух:",
     "imageResId": "image_t33_q019",
@@ -334,13 +345,14 @@
         "id": "3705910d-703c-4f50-8158-69f8dcc27f3a",
         "position": 4,
         "text": "На велосипедах, а також пішоходам за умови, що поряд немає тротуару або доріжки для руху пішоходів.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "e6418c73-c01a-4b93-a99d-e731a952f035",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 20,
     "order": 20,
     "text": "Кому заборонено рух у зображеній ситуації?",
     "imageResId": "image_t33_q020",
@@ -361,7 +373,7 @@
         "id": "6210c52e-8cc8-4f06-b2a4-8a99ec532a25",
         "position": 3,
         "text": "Водієві мопеда і велосипедистові.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "4fd0a0b7-b170-42b3-83ff-352259a4548c",
@@ -374,6 +386,7 @@
   {
     "id": "40b5f452-3fcc-44eb-8f48-201bd7008817",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 65,
     "order": 65,
     "text": "У якому з напрямків дозволено рух автомобілю в зображеній ситуації?",
     "imageResId": "image_t33_q065",
@@ -382,7 +395,7 @@
         "id": "39802e89-60b5-4dbe-9b81-5e3500ac74b5",
         "position": 1,
         "text": "Тільки праворуч.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "def101b4-d45d-4da7-85f5-a1a7841f3408",
@@ -407,6 +420,7 @@
   {
     "id": "c8180ad3-4fab-4512-9ef8-e10e7e6b80c6",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 66,
     "order": 66,
     "text": "У яких напрямках Вам дозволено рух у зображеній ситуації?",
     "imageResId": "image_t33_q066",
@@ -421,7 +435,7 @@
         "id": "4377d385-6dcb-495b-bc1a-da8121d3b003",
         "position": 2,
         "text": "Ліворуч або на розворот.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "1128bfc1-dbf5-4345-a199-928bb9c64848",
@@ -434,6 +448,7 @@
   {
     "id": "0a202414-f861-457c-b1c3-455cfce65352",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 67,
     "order": 67,
     "text": "Зображений дорожній знак дозволяє рух:",
     "imageResId": "image_t33_q067",
@@ -448,7 +463,7 @@
         "id": "4d1290fd-135c-49f3-8e56-a727061fcb59",
         "position": 2,
         "text": "Ліворуч або на розворот.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "d7019d72-1bb3-432f-9ea4-cb0c5c810f7b",
@@ -461,6 +476,7 @@
   {
     "id": "e725a069-b320-4b71-97c8-e610a2fd8410",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 68,
     "order": 68,
     "text": "У якому з напрямків Вам дозволено рух у зображеній ситуації?",
     "imageResId": "image_t33_q068",
@@ -481,7 +497,7 @@
         "id": "6e28ad76-be22-4da0-91c7-3b919761aae9",
         "position": 3,
         "text": "У напрямку А, Б, В або Г.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "7beaf21f-049e-4546-a7e2-fa05ef15a838",
@@ -494,6 +510,7 @@
   {
     "id": "dc58c9b6-e929-4a07-8474-843c8a74c13e",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 69,
     "order": 69,
     "text": "На які з перелічених транспортних засобів не поширюється дія зображеного дорожнього знака?",
     "imageResId": "image_t33_q069",
@@ -514,7 +531,7 @@
         "id": "4b96e1a4-468e-4a7a-bc1c-56b1cbfa1e71",
         "position": 3,
         "text": "На маршрутні транспортні засоби, що рухаються за встановленим маршрутом.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "a0d3a86e-c459-4d67-bd91-41bf7bf84dcf",
@@ -533,6 +550,7 @@
   {
     "id": "18f05fe9-a73b-456c-b00c-39dd13160cba",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 70,
     "order": 70,
     "text": "Якому транспортному засобу дозволено рух прямо в зображеній ситуації?",
     "imageResId": "image_t33_q070",
@@ -547,7 +565,7 @@
         "id": "5fcfc1ac-b1f8-4c96-905f-d327ef50912f",
         "position": 2,
         "text": "Тільки автобусу, який рухається за встановленим маршрутом.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "c1208def-cccd-49b9-a77b-72a702fa240b",
@@ -560,6 +578,7 @@
   {
     "id": "9054f775-15b4-45ef-9b52-8c7344b5333e",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 71,
     "order": 71,
     "text": "У якому з напрямків дозволено рух легкового автомобіля в зображеній ситуації?",
     "imageResId": "image_t33_q071",
@@ -586,13 +605,14 @@
         "id": "33bcca7e-df82-40c7-96bc-8b83974e2f46",
         "position": 4,
         "text": "У напрямках А, Б і В.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "b0fd4021-741b-4677-a43b-2ab122e97466",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 72,
     "order": 72,
     "text": "Зображений дорожній знак має таке значення:",
     "imageResId": "image_t33_q072",
@@ -613,13 +633,14 @@
         "id": "21e63917-41ac-46f7-887e-b0b6f2dac1a2",
         "position": 3,
         "text": "Дозволяє об'їзд перешкоди тільки з правого боку.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "d679965e-9c97-4a5a-8c41-088555054283",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 73,
     "order": 73,
     "text": "На які з перелічених транспортних засобів не поширюється дія зображеного дорожнього знака?",
     "imageResId": "image_t33_q073",
@@ -640,7 +661,7 @@
         "id": "3c5cb65e-78be-42b2-8a9d-321c9375dbea",
         "position": 3,
         "text": "На маршрутні транспортні засоби, що рухаються за встановленим маршрутом.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "2e53e030-4150-47fd-bcb8-3ca22e1ced86",
@@ -659,6 +680,7 @@
   {
     "id": "79330d4c-32d8-42a1-8d75-a63e29a676d3",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 74,
     "order": 74,
     "text": "У якому напрямку водієві зеленого автомобіля дозволено рух у зображеній ситуації?",
     "imageResId": "image_t33_q074",
@@ -673,7 +695,7 @@
         "id": "d3f931ff-76d9-4763-ba07-257d1de2f333",
         "position": 2,
         "text": "У напрямках А і Б.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "e963acf0-c879-4344-be9e-d0fffedf4e55",
@@ -692,6 +714,7 @@
   {
     "id": "9f2a6b56-8acb-4681-89f9-5e73250c4a74",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 75,
     "order": 75,
     "text": "Чи дозволено Вам виконати розворот у зображеній ситуації?",
     "imageResId": "image_t33_q075",
@@ -706,13 +729,14 @@
         "id": "3f0cd9d5-1ad5-48d8-9f68-28bd79b36ee4",
         "position": 2,
         "text": "Заборонено.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "dcc951bf-606c-4b96-bd20-1fde45e6b669",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 82,
     "order": 82,
     "text": "Чи дозволено Вам повернути ліворуч у зображеній ситуації на перехресті?",
     "imageResId": "image_t33_q082",
@@ -739,13 +763,14 @@
         "id": "8b7e807c-da34-45ea-b48f-3de9185e7e7d",
         "position": 4,
         "text": "Дозволено тільки в другий проїзд.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "5c7294d3-6bd6-4718-998c-c89f07b34029",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 83,
     "order": 83,
     "text": "У якому напрямку Вам дозволено рух у зображеній ситуації?",
     "imageResId": "image_t33_q083",
@@ -760,13 +785,14 @@
         "id": "cb100017-004c-4eb1-8b65-852d46351e0e",
         "position": 2,
         "text": "Тільки прямо.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "95e218f2-c8f4-4e07-bda1-23725c3f99cf",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 84,
     "order": 84,
     "text": "Як Ви повинні вчинити в зображеній ситуації?",
     "imageResId": "image_t33_q084",
@@ -781,7 +807,7 @@
         "id": "33dc6d59-a873-4580-ab12-55622786d989",
         "position": 2,
         "text": "Перестроїтися на праву смугу.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "6e855972-6415-433a-9508-34cb3632ef9c",
@@ -794,6 +820,7 @@
   {
     "id": "809ac766-38c3-4c6e-89f8-881ef0e4c86d",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 109,
     "order": 109,
     "text": "Що спільного у цих двох дорожніх знаків?",
     "imageResId": "image_t33_q109",
@@ -820,13 +847,14 @@
         "id": "eef145dc-3c9b-481d-a9c8-5d5f746228e2",
         "position": 4,
         "text": "Забороняють стоянку.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "6d9d3463-caca-401f-ae61-d26c429758d4",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 343,
     "order": 343,
     "text": "Зображений дорожній знак інформує про:",
     "imageResId": "image_t33_q343",
@@ -847,13 +875,14 @@
         "id": "704c1098-12ce-44e9-8abb-6d85036ea564",
         "position": 3,
         "text": "Суміжну пішохідну та велосипедну доріжки.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
   {
     "id": "184a413b-a233-4d77-9333-1ebcded094e3",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 344,
     "order": 344,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q344",
@@ -862,7 +891,7 @@
         "id": "66e188a7-1677-4c22-9cba-17972cc6979d",
         "position": 1,
         "text": "Рух із застосуванням ланцюгів проти ковзання.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "3e5aa48b-6a91-42c3-9d6c-1be7ec4be177",
@@ -881,6 +910,7 @@
   {
     "id": "a8a8c227-e48f-4023-bf5a-5dd2e5664f99",
     "themeId": "f3345f31-56f0-4e55-b45f-3156f0be5573",
+    "sourceOrder": 345,
     "order": 345,
     "text": "Зображений дорожній знак інформує про дорогу:",
     "imageResId": "image_t33_q345",
@@ -895,7 +925,7 @@
         "id": "92f8c4b8-54f5-4dac-a747-2ad118e90909",
         "position": 2,
         "text": "Для суміщеного руху легкових автомобілів та велосипедистів.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "53d72086-8a7a-4121-aa9d-dd90b66aab43",
