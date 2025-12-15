@@ -7,5 +7,12 @@
       "from": 1,
       "to": 9
     }
+  },
+  {
+    "id": "605141a0-f8d7-43df-a557-381d4f450d3a",
+    "themeId": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
+    "order": 2,
+    "type": "MISTAKES_REVIEW",
+    "questionRange": null
   }
 ]

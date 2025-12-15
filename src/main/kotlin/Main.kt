@@ -216,14 +216,26 @@ fun main() {
                 id = stageId.toString(),
                 themeId = theme.id.toString(),
                 order = stageOrder,
+                type = PopulateStageType.REGULAR,
                 questionRange = PopulatedQuestionRange(
                     from = i,
                     to = questionRangeTo
                 ),
             )
         }
-        fileName to stages
+        val stageOrder = stages.size + 1
+        val stageIdKey =  "${theme.order}_${stageOrder}"
+        val stageId = stageIds[stageIdKey] ?: Uuid.random()
+        val mistakesReviewStage = PopulateStageModel(
+            id = stageId.toString(),
+            themeId = theme.id.toString(),
+            order = stageOrder,
+            type = PopulateStageType.MISTAKES_REVIEW,
+            questionRange = null
+        )
+        fileName to (stages + mistakesReviewStage)
     }
+
     generatedStageData.forEach { (fileName, questions) ->
         val questionsEncodedJson = prettyPrintJson.encodeToString(questions)
         File("src/main/resources/$fileName").writeText(questionsEncodedJson)
@@ -268,14 +280,7 @@ data class Theme(
     val id: Uuid?,
     val order: String,
     val title: String,
-    val questions: MutableList<Question> = mutableListOf(),
-    val stages: MutableList<Stage> = mutableListOf()
-)
-
-data class Stage(
-    val id: Uuid,
-    val order: Int,
-    val questionRange: QuestionRange
+    val questions: MutableList<Question> = mutableListOf()
 )
 
 data class QuestionRange(
