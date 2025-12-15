@@ -3,6 +3,7 @@
     "id": "b8d31581-8db2-4029-9825-f583bd610b2b",
     "themeId": "21f00c43-985f-4d41-b00c-43985fcd41a2",
     "order": 1,
+    "type": "REGULAR",
     "questionRange": {
       "from": 1,
       "to": 10
@@ -12,6 +13,7 @@
     "id": "6dac11d7-d6a8-428b-ac90-6974fc333366",
     "themeId": "21f00c43-985f-4d41-b00c-43985fcd41a2",
     "order": 2,
+    "type": "REGULAR",
     "questionRange": {
       "from": 11,
       "to": 20
@@ -21,6 +23,7 @@
     "id": "fbaf2ba7-8422-4091-98e9-2844b08f6a14",
     "themeId": "21f00c43-985f-4d41-b00c-43985fcd41a2",
     "order": 3,
+    "type": "REGULAR",
     "questionRange": {
       "from": 21,
       "to": 30
@@ -30,6 +33,7 @@
     "id": "b810672f-7834-4f6a-a60c-b35358d7865c",
     "themeId": "21f00c43-985f-4d41-b00c-43985fcd41a2",
     "order": 4,
+    "type": "REGULAR",
     "questionRange": {
       "from": 31,
       "to": 39

@@ -3,6 +3,7 @@
     "id": "1d04422b-407c-40df-b8cf-a039d436cf73",
     "themeId": "362af646-10af-42a8-aaf6-4610af42a872",
     "order": 1,
+    "type": "REGULAR",
     "questionRange": {
       "from": 1,
       "to": 10
@@ -12,6 +13,7 @@
     "id": "7a8ec97f-960b-4f22-996a-a1a4cc2c35bd",
     "themeId": "362af646-10af-42a8-aaf6-4610af42a872",
     "order": 2,
+    "type": "REGULAR",
     "questionRange": {
       "from": 11,
       "to": 18

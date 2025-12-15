@@ -3,6 +3,7 @@
     "id": "09f0e1f9-4027-4a87-bede-0d88ba8994a2",
     "themeId": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
     "order": 1,
+    "type": "REGULAR",
     "questionRange": {
       "from": 1,
       "to": 5
