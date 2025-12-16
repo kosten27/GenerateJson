@@ -3,7 +3,7 @@
     "id": "5ac5302a-6de2-4f3e-be1b-c78f9646cea9",
     "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
     "sourceOrder": 96,
-    "order": 96,
+    "order": 1,
     "text": "Який із зображених дорожніх знаків інформує про наявність на дорозі обладнаного місця відпочинку?",
     "imageResId": "image_t33_q096",
     "answerOptionList": [
@@ -37,7 +37,7 @@
     "id": "09fd0a20-212a-44a3-990f-b61f727930cd",
     "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
     "sourceOrder": 99,
-    "order": 99,
+    "order": 2,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q099",
     "answerOptionList": [
@@ -65,7 +65,7 @@
     "id": "982f11bb-0215-4fb9-aa80-96de45862e7d",
     "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
     "sourceOrder": 100,
-    "order": 100,
+    "order": 3,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q100",
     "answerOptionList": [
@@ -93,7 +93,7 @@
     "id": "af3046d4-69ab-4d7a-905b-3d67a01a66dc",
     "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
     "sourceOrder": 102,
-    "order": 102,
+    "order": 4,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q102",
     "answerOptionList": [
@@ -121,7 +121,7 @@
     "id": "ad72c414-6f0f-4b30-b791-707db9ef7427",
     "themeId": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
     "sourceOrder": 103,
-    "order": 103,
+    "order": 5,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q103",
     "answerOptionList": [

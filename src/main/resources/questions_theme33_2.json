@@ -3,7 +3,7 @@
     "id": "af9ccad3-0ef3-40e2-aced-450fdabf831f",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 196,
-    "order": 196,
+    "order": 1,
     "text": "Зображений дорожній знак діє:",
     "imageResId": "image_t33_q196",
     "answerOptionList": [
@@ -31,7 +31,7 @@
     "id": "09682f5d-2241-4dc4-b0c9-bd2d830829bf",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 197,
-    "order": 197,
+    "order": 2,
     "text": "Водій правильно виконав вимогу даного дорожнього знака, встановленого на нерегульованому перехресті, якщо:",
     "imageResId": "image_t33_q197",
     "answerOptionList": [
@@ -59,7 +59,7 @@
     "id": "7f180ab0-68aa-4081-9861-53e1696d5b00",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 198,
-    "order": 198,
+    "order": 3,
     "text": "Чи є обов'язковою зупинка для виконання вимоги даного дорожнього знака?",
     "imageResId": "image_t33_q198",
     "answerOptionList": [
@@ -81,7 +81,7 @@
     "id": "8e82a109-1e61-4082-a67e-a86d331e72d9",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 209,
-    "order": 209,
+    "order": 4,
     "text": "Який дорожній знак встановлено на дорозі, що перетинається, якщо для вас встановлено даний знак?",
     "imageResId": "image_t33_q209",
     "answerOptionList": [
@@ -115,7 +115,7 @@
     "id": "28c5e0ab-0cc2-46f5-b8d4-45ed50065149",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 294,
-    "order": 294,
+    "order": 5,
     "text": "Вимога якого із зображених знаків зобов'язує водія транспортного засобу обов'язково зупинитися на нерегульованому перехресті або залізничному переїзді?",
     "imageResId": "image_t33_q294",
     "answerOptionList": [
@@ -155,7 +155,7 @@
     "id": "5b0d2399-778c-4de2-8a07-8ee6afccab24",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 295,
-    "order": 295,
+    "order": 6,
     "text": "Який із зображених дорожніх знаків надає переважне право проїзду вузької ділянки дороги водієві зустрічного транспортного засобу?",
     "imageResId": "image_t33_q295",
     "answerOptionList": [
@@ -195,7 +195,7 @@
     "id": "492ef74f-cce7-41cd-ab88-992577d21697",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 296,
-    "order": 296,
+    "order": 7,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q296",
     "answerOptionList": [
@@ -229,7 +229,7 @@
     "id": "18d8c4b2-9b61-4bc0-84bd-0cd5a6f7d10e",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 297,
-    "order": 297,
+    "order": 8,
     "text": "Як ви роз'їдетеся із зустрічним транспортним засобом у даній ситуації?",
     "imageResId": "image_t33_q297",
     "answerOptionList": [
@@ -251,7 +251,7 @@
     "id": "ae031a74-955f-42f9-a19f-b9fecd811205",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 298,
-    "order": 298,
+    "order": 9,
     "text": "Хто з водіїв має перевагу під час зустрічного роз'їзду в даній ситуації?",
     "imageResId": "image_t33_q298",
     "answerOptionList": [
@@ -273,7 +273,7 @@
     "id": "82db9b33-4b98-49cb-9d35-f66a084c4881",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 299,
-    "order": 299,
+    "order": 10,
     "text": "Який дорожній знак встановлюється зустрічним транспортним засобам, якщо для вас встановлено даний дорожній знак?",
     "imageResId": "image_t33_q299",
     "answerOptionList": [
@@ -313,7 +313,7 @@
     "id": "3826eb60-4265-4aca-8ab6-b1bbed5bcdca",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 300,
-    "order": 300,
+    "order": 11,
     "text": "Який із зображених дорожніх знаків надає перевагу стосовно зустрічних транспортних засобів на вузькій ділянці дороги?",
     "imageResId": "image_t33_q300",
     "answerOptionList": [
@@ -353,7 +353,7 @@
     "id": "b2ca09b5-b685-4de2-bbb4-257d93db1316",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 301,
-    "order": 301,
+    "order": 12,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q301",
     "answerOptionList": [
@@ -393,7 +393,7 @@
     "id": "fb54dc94-9c83-4bbe-999d-20da9c3f1488",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 302,
-    "order": 302,
+    "order": 13,
     "text": "Як ви повинні діяти в даній ситуації при обмеженому зустрічному роз'їзді?",
     "imageResId": "image_t33_q302",
     "answerOptionList": [
@@ -415,7 +415,7 @@
     "id": "1b98cea7-2fb3-42ff-91c9-8ea5cc6bf7b3",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 303,
-    "order": 303,
+    "order": 14,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q303",
     "answerOptionList": [
@@ -437,7 +437,7 @@
     "id": "2ee5f55f-faba-426b-9675-5ff76628e24e",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 304,
-    "order": 304,
+    "order": 15,
     "text": "Який із зображених дорожніх знаків скасовує право першочергового проїзду нерегульованих перехресть?",
     "imageResId": "image_t33_q304",
     "answerOptionList": [
@@ -471,7 +471,7 @@
     "id": "3961776e-f078-4568-ab59-a368cead0933",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 306,
-    "order": 306,
+    "order": 16,
     "text": "Чи є обов'язковою зупинка для виконання вимог даного знака?",
     "imageResId": "image_t33_q306",
     "answerOptionList": [
@@ -493,7 +493,7 @@
     "id": "66664823-d387-460e-b295-96e841b4efe9",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 307,
-    "order": 307,
+    "order": 17,
     "text": "У якій з відповідей водій правильно виконав вимогу даного дорожнього знака, проїхавши через перехрестя?",
     "imageResId": "image_t33_q307",
     "answerOptionList": [
@@ -521,7 +521,7 @@
     "id": "6f1aa5cd-833b-457c-a477-a4ba01032cad",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 308,
-    "order": 308,
+    "order": 18,
     "text": "Чи повинен водій жовтого автомобіля зупинитися перед стоп-лінією, якщо він вже зупинявся за попутним автомобілем?",
     "imageResId": "image_t33_q308",
     "answerOptionList": [
@@ -543,7 +543,7 @@
     "id": "13ba4e90-2a98-48f6-b293-7decb94a6a81",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 309,
-    "order": 309,
+    "order": 19,
     "text": "У якій із зображених ситуацій водій повинен виконати вимогу знака «Проїзд без зупинки заборонено» (у другій ситуації світлофор працює в режимі миготіння жовтого сигналу)?",
     "imageResId": "image_t33_q309",
     "answerOptionList": [
@@ -571,7 +571,7 @@
     "id": "77e2d5ee-9431-44ad-83e8-13d28cf3ca5f",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 310,
-    "order": 310,
+    "order": 20,
     "text": "Який із зображених знаків зобов'язує дати дорогу транспортним засобам, що рухаються по дорозі, яка перетинається, на нерегульованих перехрестях?",
     "imageResId": "image_t33_q310",
     "answerOptionList": [
@@ -599,7 +599,7 @@
     "id": "237fb0c0-5030-4b31-a95d-fba5d1de6387",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 311,
-    "order": 311,
+    "order": 21,
     "text": "Який із зображених дорожніх знаків надає першочергове право проїзду перед транспортними засобами, що рухаються по дорозі, яка перетинається, на нерегульованих перехрестях?",
     "imageResId": "image_t33_q311",
     "answerOptionList": [
@@ -639,7 +639,7 @@
     "id": "5cc613dd-b438-49fd-9f4b-a3cb6b97c1a7",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 312,
-    "order": 312,
+    "order": 22,
     "text": "Зображений дорожній знак, встановлений на нерегульованому перехресті:",
     "imageResId": "image_t33_q312",
     "answerOptionList": [
@@ -667,7 +667,7 @@
     "id": "17078b3d-8b9f-4d02-9f66-c854265fad57",
     "themeId": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "sourceOrder": 313,
-    "order": 313,
+    "order": 23,
     "text": "Як Ви повинні вчинити в даній ситуації?",
     "imageResId": "image_t33_q313",
     "answerOptionList": [

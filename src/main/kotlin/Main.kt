@@ -156,22 +156,23 @@ fun main() {
             // QUESTION
             questionRegex.matches(trimmed) -> {
                 val match = questionRegex.find(trimmed)!!
-                val questionOrder = match.groupValues[1].toInt()
+                val sourceQuestionOrder = match.groupValues[1].toInt()
                 var imageResId: String? = null
-                if (currentThemeWithImages?.questionsWithImage?.contains(questionOrder) == true) {
+                if (currentThemeWithImages?.questionsWithImage?.contains(sourceQuestionOrder) == true) {
                     val themeOrder = currentThemeWithImages?.themeOrder?.replace(".", "_")
-                    imageResId = "image_t${themeOrder}_q${questionOrder.toString().padStart(3, '0')}"
+                    imageResId = "image_t${themeOrder}_q${sourceQuestionOrder.toString().padStart(3, '0')}"
                 }
                 val questionTheme = if (currentTheme33Map == null) currentTheme else {
-                    val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(questionOrder) }.map { it.key }.first()
+                    val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(sourceQuestionOrder) }.map { it.key }.first()
                     currentTheme33Map?.get(questionThemeOrder)
                 }
-                val questionIdKey =  "${questionTheme?.order}_${questionOrder}"
+                val currentQuestionOrder = if (currentTheme33Map == null) sourceQuestionOrder else questionTheme?.questions?.size?.plus(1) ?: 1
+                val questionIdKey =  "${questionTheme?.order}_${sourceQuestionOrder}"
                 val questionId = questionIds[questionIdKey]
                 currentQuestion = Question(
                     id = questionId ?: Uuid.random(),
-                    sourceOrder = questionOrder,
-                    order = questionOrder,
+                    sourceOrder = sourceQuestionOrder,
+                    order = currentQuestionOrder,
                     text = match.groupValues[2].trim(),
                     imageResId = imageResId
                 )
@@ -182,13 +183,13 @@ fun main() {
             answerRegex.matches(trimmed) -> {
                 val match = answerRegex.find(trimmed)!!
                 val sourceThemeId = currentTheme?.order
-                val questionNumber = currentQuestion?.order
+                val questionNumber = currentQuestion?.sourceOrder
                 val answerTheme = if (currentTheme33Map == null) currentTheme else {
                     val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(questionNumber) }.map { it.key }.first()
                     currentTheme33Map?.get(questionThemeOrder)
                 }
                 val optionPosition = match.groupValues[1].toInt()
-                val optionIdKey =  "${answerTheme?.order}_${currentQuestion?.order}_${optionPosition}"
+                val optionIdKey =  "${answerTheme?.order}_${currentQuestion?.sourceOrder}_${optionPosition}"
                 val optionId = questionOptionIds[optionIdKey]
                 val answer = Answer(
                     id = optionId ?: Uuid.random(),
