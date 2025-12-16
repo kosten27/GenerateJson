@@ -167,7 +167,7 @@ fun main() {
                     currentTheme33Map?.get(questionThemeOrder)
                 }
                 val currentQuestionOrder = if (currentTheme33Map == null) sourceQuestionOrder else questionTheme?.questions?.size?.plus(1) ?: 1
-                val questionIdKey =  "${questionTheme?.order}_${sourceQuestionOrder}"
+                val questionIdKey =  "${questionTheme?.order}_${currentQuestionOrder}"
                 val questionId = questionIds[questionIdKey]
                 currentQuestion = Question(
                     id = questionId ?: Uuid.random(),
@@ -183,19 +183,19 @@ fun main() {
             answerRegex.matches(trimmed) -> {
                 val match = answerRegex.find(trimmed)!!
                 val sourceThemeId = currentTheme?.order
-                val questionNumber = currentQuestion?.sourceOrder
+                val questionSourceOrder = currentQuestion?.sourceOrder
                 val answerTheme = if (currentTheme33Map == null) currentTheme else {
-                    val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(questionNumber) }.map { it.key }.first()
+                    val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(questionSourceOrder) }.map { it.key }.first()
                     currentTheme33Map?.get(questionThemeOrder)
                 }
                 val optionPosition = match.groupValues[1].toInt()
-                val optionIdKey =  "${answerTheme?.order}_${currentQuestion?.sourceOrder}_${optionPosition}"
+                val optionIdKey =  "${answerTheme?.order}_${currentQuestion?.order}_${optionPosition}"
                 val optionId = questionOptionIds[optionIdKey]
                 val answer = Answer(
                     id = optionId ?: Uuid.random(),
                     position = optionPosition,
                     text = match.groupValues[2].trim(),
-                    isCorrect = answerMap[sourceThemeId]?.get(questionNumber) == optionPosition
+                    isCorrect = answerMap[sourceThemeId]?.get(questionSourceOrder) == optionPosition
                 )
                 currentQuestion?.answerOptionList?.add(answer)
             }
