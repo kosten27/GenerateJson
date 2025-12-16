@@ -4,26 +4,21 @@
     "themeId": "41c18b62-42b7-4630-818b-6242b716307b",
     "order": 1,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 1,
-      "to": 10
-    }
+    "questionRangeFrom": 1,
+    "questionRangeTo": 10
   },
   {
     "id": "2b8186da-a1df-482c-8684-6cb4c3a7ac25",
     "themeId": "41c18b62-42b7-4630-818b-6242b716307b",
     "order": 2,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 11,
-      "to": 16
-    }
+    "questionRangeFrom": 11,
+    "questionRangeTo": 16
   },
   {
     "id": "1cf9900d-393e-46ec-b7d8-46b434adb5f5",
     "themeId": "41c18b62-42b7-4630-818b-6242b716307b",
     "order": 3,
-    "type": "MISTAKES_REVIEW",
-    "questionRange": null
+    "type": "MISTAKES_REVIEW"
   }
 ]

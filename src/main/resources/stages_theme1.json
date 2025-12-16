@@ -4,86 +4,69 @@
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 1,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 1,
-      "to": 10
-    }
+    "questionRangeFrom": 1,
+    "questionRangeTo": 10
   },
   {
     "id": "9bedf070-1619-40db-8722-1f60d9a55b91",
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 2,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 11,
-      "to": 20
-    }
+    "questionRangeFrom": 11,
+    "questionRangeTo": 20
   },
   {
     "id": "0c900e98-7160-4ddf-af3c-32165a867024",
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 3,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 21,
-      "to": 30
-    }
+    "questionRangeFrom": 21,
+    "questionRangeTo": 30
   },
   {
     "id": "a953ffd5-5294-45d2-931e-7d2e5dcd943f",
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 4,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 31,
-      "to": 40
-    }
+    "questionRangeFrom": 31,
+    "questionRangeTo": 40
   },
   {
     "id": "cf123c33-5263-42d8-b265-d72e08d3f4e5",
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 5,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 41,
-      "to": 50
-    }
+    "questionRangeFrom": 41,
+    "questionRangeTo": 50
   },
   {
     "id": "1f841054-9090-4415-ab69-66e8e909da86",
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 6,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 51,
-      "to": 60
-    }
+    "questionRangeFrom": 51,
+    "questionRangeTo": 60
   },
   {
     "id": "cd1eae24-a238-4e00-a265-cdea24f2e991",
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 7,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 61,
-      "to": 70
-    }
+    "questionRangeFrom": 61,
+    "questionRangeTo": 70
   },
   {
     "id": "0f352691-92a9-4252-8548-707b820ad516",
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 8,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 71,
-      "to": 79
-    }
+    "questionRangeFrom": 71,
+    "questionRangeTo": 79
   },
   {
     "id": "930f4474-d192-42ef-b533-446dfc744c40",
     "themeId": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "order": 9,
-    "type": "MISTAKES_REVIEW",
-    "questionRange": null
+    "type": "MISTAKES_REVIEW"
   }
 ]

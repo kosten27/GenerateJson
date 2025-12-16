@@ -259,10 +259,8 @@ fun main() {
                 themeId = theme.id.toString(),
                 order = stageOrder,
                 type = PopulateStageType.REGULAR,
-                questionRange = PopulatedQuestionRange(
-                    from = i,
-                    to = questionRangeTo
-                ),
+                questionRangeFrom = i,
+                questionRangeTo = questionRangeTo
             )
         }
         val stageOrder = stages.size + 1
@@ -273,7 +271,8 @@ fun main() {
             themeId = theme.id.toString(),
             order = stageOrder,
             type = PopulateStageType.MISTAKES_REVIEW,
-            questionRange = null
+            questionRangeFrom = null,
+            questionRangeTo = null
         )
         fileName to (stages + mistakesReviewStage)
     }

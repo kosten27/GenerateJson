@@ -4,16 +4,13 @@
     "themeId": "fefd3aa5-1946-4f5d-bd3a-a51946df5dc0",
     "order": 1,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 1,
-      "to": 13
-    }
+    "questionRangeFrom": 1,
+    "questionRangeTo": 13
   },
   {
     "id": "255be1a3-7a24-4693-9f4a-9ff974518a62",
     "themeId": "fefd3aa5-1946-4f5d-bd3a-a51946df5dc0",
     "order": 2,
-    "type": "MISTAKES_REVIEW",
-    "questionRange": null
+    "type": "MISTAKES_REVIEW"
   }
 ]

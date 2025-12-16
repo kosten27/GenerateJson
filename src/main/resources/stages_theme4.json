@@ -4,36 +4,29 @@
     "themeId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 1,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 1,
-      "to": 10
-    }
+    "questionRangeFrom": 1,
+    "questionRangeTo": 10
   },
   {
     "id": "da6fe543-eef4-44b7-95eb-6c33f681bdcf",
     "themeId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 2,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 11,
-      "to": 20
-    }
+    "questionRangeFrom": 11,
+    "questionRangeTo": 20
   },
   {
     "id": "86836754-e549-4b7f-ab50-03e7063dad1c",
     "themeId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 3,
     "type": "REGULAR",
-    "questionRange": {
-      "from": 21,
-      "to": 26
-    }
+    "questionRangeFrom": 21,
+    "questionRangeTo": 26
   },
   {
     "id": "9370a5f2-7f16-4747-b53d-419c57bd9cca",
     "themeId": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "order": 4,
-    "type": "MISTAKES_REVIEW",
-    "questionRange": null
+    "type": "MISTAKES_REVIEW"
   }
 ]

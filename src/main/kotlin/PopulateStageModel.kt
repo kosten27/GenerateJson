@@ -7,5 +7,6 @@ data class PopulateStageModel(
     val themeId: String,
     val order: Int,
     val type: PopulateStageType? = null,
-    val questionRange: PopulatedQuestionRange?
+    val questionRangeFrom: Int? = null,
+    val questionRangeTo: Int? = null
 )
