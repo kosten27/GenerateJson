@@ -32,7 +32,13 @@ stages_theme29.json
 stages_theme30.json
 stages_theme31.json
 stages_theme32.json
-stages_theme33.json
+stages_theme33_1.json
+stages_theme33_2.json
+stages_theme33_3.json
+stages_theme33_4.json
+stages_theme33_5.json
+stages_theme33_6.json
+stages_theme33_7.json
 stages_theme34.json
 stages_theme35.json
 stages_theme36.json
