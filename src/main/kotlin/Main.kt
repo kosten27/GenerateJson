@@ -9,6 +9,7 @@ import PopulateThemeModel
 import PopulatedQuestionRange
 import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.json.Json
+import tech.uniapp.pdr.stage_test.domain.use_case.SplitQuestionListIntoBatchesUseCase
 import java.io.File
 import kotlin.math.min
 import kotlin.uuid.ExperimentalUuidApi
@@ -18,6 +19,8 @@ import kotlin.uuid.Uuid
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 @OptIn(ExperimentalUuidApi::class, ExperimentalSerializationApi::class)
 fun main() {
+    val splitQuestionListIntoBatches = SplitQuestionListIntoBatchesUseCase()
+
     val themeJsonString = File("src/main/resources/themes.json").readText()
     val themeList = Json.decodeFromString<List<PopulateThemeModel>>(themeJsonString)
 
@@ -237,20 +240,8 @@ fun main() {
     val generatedStageData = themes.associate { theme ->
         val themeNumber = theme.order.replace(".", "_")
         val fileName = "stages_theme${themeNumber}.json"
-        val lastQuestionOrder = theme.questions.last().order
-        val questionNumberInLastStage = lastQuestionOrder % 10
-        val stages = (1..lastQuestionOrder step 10)
-            .filter { i -> questionNumberInLastStage >= 5 || i < lastQuestionOrder - questionNumberInLastStage || lastQuestionOrder < 5}
-            .mapIndexed { index, i ->
-//            if (questionNumberInLastStage < 5 && i > lastQuestionOrder - questionNumberInLastStage) {
-//                return@mapIndexed
-//            }
-
-            val questionRangeTo = if (questionNumberInLastStage < 5 && (i + 9) == (lastQuestionOrder - questionNumberInLastStage)) { // one stage before last
-                lastQuestionOrder
-            } else {
-                min(i + 9, lastQuestionOrder)
-            }
+        val splitQuestionList = splitQuestionListIntoBatches(theme.questions)
+        val stages = splitQuestionList.mapIndexed { index, questionList ->
             val stageOrder = index + 1
             val stageIdKey =  "${theme.order}_${stageOrder}"
             val stageId = stageIds[stageIdKey] ?: Uuid.random()
@@ -259,10 +250,11 @@ fun main() {
                 themeId = theme.id.toString(),
                 order = stageOrder,
                 type = PopulateStageType.REGULAR,
-                questionRangeFrom = i,
-                questionRangeTo = questionRangeTo
+                questionRangeFrom = questionList.first().order,
+                questionRangeTo = questionList.last().order
             )
         }
+
         val stageOrder = stages.size + 1
         val stageIdKey =  "${theme.order}_${stageOrder}"
         val stageId = stageIds[stageIdKey] ?: Uuid.random()

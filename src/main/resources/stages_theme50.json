@@ -5,12 +5,20 @@
     "order": 1,
     "type": "REGULAR",
     "questionRangeFrom": 1,
-    "questionRangeTo": 12
+    "questionRangeTo": 6
   },
   {
     "id": "92adb065-727a-4d36-9ced-5fabc2721446",
     "themeId": "a4428f64-e891-4ff2-828f-64e8915ff2d6",
     "order": 2,
+    "type": "REGULAR",
+    "questionRangeFrom": 7,
+    "questionRangeTo": 12
+  },
+  {
+    "id": "dc88ff87-a9de-45a4-a6df-34aec2c3f820",
+    "themeId": "a4428f64-e891-4ff2-828f-64e8915ff2d6",
+    "order": 3,
     "type": "MISTAKES_REVIEW"
   }
 ]

@@ -45,14 +45,14 @@
     "order": 6,
     "type": "REGULAR",
     "questionRangeFrom": 51,
-    "questionRangeTo": 60
+    "questionRangeTo": 58
   },
   {
     "id": "b8efcc86-4881-4f87-a71b-fb4f489fe59d",
     "themeId": "5fe97969-939e-4739-a979-69939e7739db",
     "order": 7,
     "type": "REGULAR",
-    "questionRangeFrom": 61,
+    "questionRangeFrom": 59,
     "questionRangeTo": 66
   },
   {

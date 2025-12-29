@@ -21,12 +21,20 @@
     "order": 3,
     "type": "REGULAR",
     "questionRangeFrom": 21,
-    "questionRangeTo": 33
+    "questionRangeTo": 27
   },
   {
     "id": "5a1a11ac-b884-40dc-914c-1750b3f50599",
     "themeId": "58b44cff-6155-41ce-b44c-ff615541ce96",
     "order": 4,
+    "type": "REGULAR",
+    "questionRangeFrom": 28,
+    "questionRangeTo": 33
+  },
+  {
+    "id": "793cab76-e82f-4259-8415-73a193582075",
+    "themeId": "58b44cff-6155-41ce-b44c-ff615541ce96",
+    "order": 5,
     "type": "MISTAKES_REVIEW"
   }
 ]
