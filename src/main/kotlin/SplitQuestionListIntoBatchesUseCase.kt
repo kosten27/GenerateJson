@@ -2,7 +2,6 @@ import kotlin.math.min
 
 class SplitQuestionListIntoBatchesUseCase {
     operator fun <T> invoke(list: List<T>): List<List<T>> {
-        val lastBatchQuestionCount = list.size % 10
         val result = (0..<list.size step 10)
             .map { index ->
                 var indexFrom: Int = index
