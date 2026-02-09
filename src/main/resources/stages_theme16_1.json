@@ -21,14 +21,14 @@
     "order": 3,
     "type": "REGULAR",
     "questionRangeFrom": 21,
-    "questionRangeTo": 27
+    "questionRangeTo": 30
   },
   {
     "id": "77de0c5d-fd91-4205-b450-30feda61caea",
     "themeId": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "order": 4,
     "type": "REGULAR",
-    "questionRangeFrom": 28,
+    "questionRangeFrom": 31,
     "questionRangeTo": 34
   },
   {
