@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Мотоциклом вважається:",
     "imageResId": "image_t41_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "95c851d3-65c4-40ec-a06e-210b52690ca3",
@@ -40,6 +41,7 @@
     "order": 2,
     "text": "Мопедом вважається:",
     "imageResId": "image_t41_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "73ec7137-2ad1-45cf-a7b6-af2a70c17dff",

@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q003",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "39f2e84c-e7ac-40d1-b472-8091022aa49d",
@@ -40,6 +41,7 @@
     "order": 2,
     "text": "Який із зображених дорожніх знаків встановлюється на початку автомагістралі?",
     "imageResId": "image_t33_q004",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8a694caa-4e9f-4f61-94d2-5e54d47e726c",
@@ -80,6 +82,7 @@
     "order": 3,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q005",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "9a14d637-90aa-4712-9cad-412218649e03",
@@ -114,6 +117,7 @@
     "order": 4,
     "text": "Чи дозволено водієві синього автомобіля виконати розворот, як показано на малюнку?",
     "imageResId": "image_t33_q006",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4e67b995-b2ce-4cca-bed7-d67297129242",
@@ -136,6 +140,7 @@
     "order": 5,
     "text": "Зображеним дорожнім знаком позначається:",
     "imageResId": "image_t33_q007",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "e7079a99-f5b2-47a1-ab54-7c9d2477f722",
@@ -164,6 +169,7 @@
     "order": 6,
     "text": "Який із зображених дорожніх знаків встановлюється на початку дороги або відокремленої проїзної частини, по всій ширині якої рух транспортних засобів здійснюється тільки в одному напрямку?",
     "imageResId": "image_t33_q008",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "26acc4b1-250b-4e5c-b727-81b3ee6aec67",
@@ -204,6 +210,7 @@
     "order": 7,
     "text": "Що з переліченого заборонено водіям на зображеній дорозі?",
     "imageResId": "image_t33_q009",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6a696061-d09c-4534-87ba-46f7231be33b",
@@ -244,6 +251,7 @@
     "order": 8,
     "text": "Який із зображених дорожніх знаків позначає кінець дороги з одностороннім рухом?",
     "imageResId": "image_t33_q021",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b5bb1065-e908-4a14-8f80-4c1d0061c0b2",
@@ -284,6 +292,7 @@
     "order": 9,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q022",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "31f834f2-b778-46c5-b189-411647602786",
@@ -318,6 +327,7 @@
     "order": 10,
     "text": "Зображений дорожній знак вказує:",
     "imageResId": "image_t33_q023",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "55d52eb5-0ab3-4bb4-9d8f-db5a37be2869",
@@ -352,6 +362,7 @@
     "order": 11,
     "text": "Який із зображених дорожніх знаків інформує про початок ділянки дороги, де на одній або кількох смугах напрямок руху може змінюватися на протилежний?",
     "imageResId": "image_t33_q024",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0c474845-2582-43fe-837a-8f298c6fb373",
@@ -392,6 +403,7 @@
     "order": 12,
     "text": "Який із зображених дорожніх знаків інформує про кінець ділянки дороги, де на одній або кількох смугах напрямок руху може змінюватися на протилежний?",
     "imageResId": "image_t33_q025",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "294b22e2-7176-4092-a355-0e23311a7d58",
@@ -432,6 +444,7 @@
     "order": 13,
     "text": "Зображений дорожній знак вказує:",
     "imageResId": "image_t33_q026",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "75bd7528-ba4b-4f7c-9fb9-7d8df2666c1a",
@@ -466,6 +479,7 @@
     "order": 14,
     "text": "Зображений дорожній знак вказує:",
     "imageResId": "image_t33_q027",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "8f175519-d74a-403b-95ce-54e5d4961404",
@@ -494,6 +508,7 @@
     "order": 15,
     "text": "Який із зображених дорожніх знаків показує кількість смуг на перехресті й дозволені напрямки руху на кожній з них?",
     "imageResId": "image_t33_q028",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b76572df-5995-4e4c-8272-d139e54b29bb",
@@ -528,6 +543,7 @@
     "order": 16,
     "text": "Зображений дорожній знак вказує:",
     "imageResId": "image_t33_q029",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "a719a4bf-bcbd-4c43-9e23-e0b937fd25ad",
@@ -556,6 +572,7 @@
     "order": 17,
     "text": "Зображений дорожній знак вказує:",
     "imageResId": "image_t33_q030",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "d74c98c9-c989-4f11-a281-22c446a117a1",
@@ -584,6 +601,7 @@
     "order": 18,
     "text": "Який із зображених дорожніх знаків встановлюється в кінці смуги, призначеної тільки для транспортних засобів, що рухаються за встановленими маршрутами попутно із загальним потоком транспортних засобів?",
     "imageResId": "image_t33_q031",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b6fccc01-3e03-4b63-ac41-ac4e733059be",
@@ -624,6 +642,7 @@
     "order": 19,
     "text": "Дія зображеного дорожнього знака поширюється:",
     "imageResId": "image_t33_q032",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "1fe22f8e-bfbf-4e9f-92de-df8eb8f49e2b",
@@ -664,6 +683,7 @@
     "order": 20,
     "text": "Який із зображених дорожніх знаків позначає смугу призначену для руху транспортних засобів, що рухаються за встановленими маршрутами, та велосипедистів, якщо рух такою смугою здійснюється попутно загальному потоку транспортних засобів ?",
     "imageResId": "image_t33_q033",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6ca86006-dcd1-4ef4-a60b-edfbcb19cb26",
@@ -704,6 +724,7 @@
     "order": 21,
     "text": "Чи дозволено Вам повернути ліворуч у зображеній ситуації?",
     "imageResId": "image_t33_q034",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8fbe913a-02fa-49db-a02f-a5fb530e09c2",
@@ -732,6 +753,7 @@
     "order": 22,
     "text": "Чи дозволено Вам виконати розворот у зображеній ситуації?",
     "imageResId": "image_t33_q035",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d8e2b3ce-0d52-42a3-90df-9a31a654254e",
@@ -754,6 +776,7 @@
     "order": 23,
     "text": "У яких напрямках Вам дозволено рух у зображеній ситуації?",
     "imageResId": "image_t33_q036",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "23bcff0f-01b2-49d3-a565-3fed8357db65",
@@ -788,6 +811,7 @@
     "order": 24,
     "text": "Зображений дорожній знак вказує:",
     "imageResId": "image_t33_q037",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "af03fe4f-6259-4d33-b311-6d4e3dc98341",
@@ -816,6 +840,7 @@
     "order": 25,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q038",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "ff34e117-e81d-4ab7-989f-0ff30d778c0d",
@@ -844,6 +869,7 @@
     "order": 26,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q039",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "7a42b0ee-b86f-4778-a65e-dc80908caef4",
@@ -872,6 +898,7 @@
     "order": 27,
     "text": "У якому з напрямків дозволено рух водієві білого автомобіля в зображеній ситуації?",
     "imageResId": "image_t33_q040",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "38f6936b-879e-474f-bac3-012f4d95045c",
@@ -912,6 +939,7 @@
     "order": 28,
     "text": "У якому з напрямків дозволено рух водієві білого автомобіля в зображеній ситуації?",
     "imageResId": "image_t33_q041",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8e913373-d8ec-4c36-899b-25b87584d812",
@@ -952,6 +980,7 @@
     "order": 29,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q042",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "acc7461d-3ee0-41fe-9f62-ca7d40061a99",
@@ -986,6 +1015,7 @@
     "order": 30,
     "text": "Який із зображених дорожніх знаків інформує про напрямок руху до зазначених на ньому пам'яток?",
     "imageResId": "image_t33_q085",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1b52ae41-7968-46f5-b7f3-e72203104f28",
@@ -1020,6 +1050,7 @@
     "order": 31,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q097",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "5e7c9b52-8049-4982-8d05-854fe6201209",
@@ -1054,6 +1085,7 @@
     "order": 32,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q098",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "f54a5a0d-5de4-46ce-bcc6-19451ff34ac3",
@@ -1082,6 +1114,7 @@
     "order": 33,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q101",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "27ffda5e-ce3e-44be-86eb-defbc620956a",
@@ -1110,6 +1143,7 @@
     "order": 34,
     "text": "Що спільного у цих двох дорожніх знаків?",
     "imageResId": "image_t33_q110",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a0a9b739-e546-47ab-81ef-103e9983f1ec",
@@ -1144,6 +1178,7 @@
     "order": 35,
     "text": "Що спільного у цих двох дорожніх знаків?",
     "imageResId": "image_t33_q111",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e9d7068c-0061-4fad-817e-82af4ad669d6",
@@ -1178,6 +1213,7 @@
     "order": 36,
     "text": "Що спільного у цих двох дорожніх знаків?",
     "imageResId": "image_t33_q112",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "f0d995ac-b9f0-4382-91e6-20dd0bf4b4fa",
@@ -1212,6 +1248,7 @@
     "order": 37,
     "text": "Що спільного у цих двох дорожніх знаків?",
     "imageResId": "image_t33_q113",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "23d91416-7c37-4440-b0e4-31b41e2722a2",
@@ -1246,6 +1283,7 @@
     "order": 38,
     "text": "Який із зображених дорожніх знаків позначає кінець зони стоянки?",
     "imageResId": "image_t33_q114",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4e878015-203a-46d9-ab76-cfcf5b0d7686",
@@ -1286,6 +1324,7 @@
     "order": 39,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q127",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "19f145b8-f6f9-4c9d-8d21-883753855e4b",
@@ -1314,6 +1353,7 @@
     "order": 40,
     "text": "Зображений дорожній знак вказує:",
     "imageResId": "image_t33_q128",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "5e2eadf1-cddf-4785-aea4-927743df4716",
@@ -1342,6 +1382,7 @@
     "order": 41,
     "text": "Чи повинні Ви під час руху прямо дати дорогу мотоциклу?",
     "imageResId": "image_t33_q129",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8324f6d2-d793-4853-8eb1-5d42e537b9cc",
@@ -1364,6 +1405,7 @@
     "order": 42,
     "text": "Який із зображених дорожніх знаків вказує рекомендовану швидкість руху?",
     "imageResId": "image_t33_q130",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ee02bbef-e04e-4c80-97ca-b0f0dbfbdf89",
@@ -1404,6 +1446,7 @@
     "order": 43,
     "text": "Зображений дорожній знак застосовується для:",
     "imageResId": "image_t33_q131",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "fedaf9e2-1b55-477b-8261-2812ea6016c9",
@@ -1426,6 +1469,7 @@
     "order": 44,
     "text": "Який із зображених дорожніх знаків інформує про початок житлової зони?",
     "imageResId": "image_t33_q132",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d4ff1455-8a6f-48d8-8e2d-08d62bf80c0b",
@@ -1466,6 +1510,7 @@
     "order": 45,
     "text": "Про що інформує зображений дорожній знак?",
     "imageResId": "image_t33_q133",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "752c3954-3a54-4c1e-a235-724865a91657",
@@ -1500,6 +1545,7 @@
     "order": 46,
     "text": "Який із зображених дорожніх знаків позначає кінець житлової зони?",
     "imageResId": "image_t33_q134",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2638205e-051d-49d4-b7e0-13f8f74b80f1",
@@ -1540,6 +1586,7 @@
     "order": 47,
     "text": "Про що інформує зображений дорожній знак?",
     "imageResId": "image_t33_q135",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "e322232e-3b72-46e8-9d65-88d2ac6debcd",
@@ -1574,6 +1621,7 @@
     "order": 48,
     "text": "Чи дозволено Вам рух прямо в зображеній ситуації?",
     "imageResId": "image_t33_q136",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "82a42c7d-d298-409c-9100-49f868d6cd70",
@@ -1596,6 +1644,7 @@
     "order": 49,
     "text": "Зображені дорожні знаки вказують:",
     "imageResId": "image_t33_q137",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0c0e6071-40c4-4c59-8952-3580efa15563",
@@ -1630,6 +1679,7 @@
     "order": 50,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q138",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "1bdf622a-d787-4855-af1d-bd5a6093e74a",
@@ -1658,6 +1708,7 @@
     "order": 51,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q139",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "37abffc4-b7fc-4376-8359-3f143e0e7873",
@@ -1686,6 +1737,7 @@
     "order": 52,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q140",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "24027676-a492-4650-b12d-9e126494d9c3",
@@ -1714,6 +1766,7 @@
     "order": 53,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q141",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "c952cc97-6bd8-477b-8790-6e040d5f0d33",
@@ -1748,6 +1801,7 @@
     "order": 54,
     "text": "Який із зображених дорожніх знаків інформує водіїв про місце, де смуга для розгону прилягає до основної смуги руху на одному рівні з правого боку?",
     "imageResId": "image_t33_q142",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "bd55363d-5a33-461c-85cb-3cc1e36a909a",
@@ -1788,6 +1842,7 @@
     "order": 55,
     "text": "Який із зображених дорожніх знаків інформує про те, що додаткова смуга руху прилягає до основної смуги руху на одному рівні з правого боку?",
     "imageResId": "image_t33_q143",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "07663520-ca2b-4735-a587-133002ff5a54",
@@ -1828,6 +1883,7 @@
     "order": 56,
     "text": "Який із зображених дорожніх знаків показує напрямок об'їзду закритої для руху ділянки проїзної частини на дорозі з розділювальною смугою?",
     "imageResId": "image_t33_q144",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4659fc2b-2b5a-4ac8-b246-5cf82be2249e",
@@ -1862,6 +1918,7 @@
     "order": 57,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q145",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "a78da6d1-0587-45fb-a406-76f2b2b580ff",
@@ -1890,6 +1947,7 @@
     "order": 58,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q146",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "f17931b5-dfb6-4dbb-8222-873179dce63b",
@@ -1918,6 +1976,7 @@
     "order": 59,
     "text": "Який із зображених дорожніх знаків позначає кінець пішохідної зони?",
     "imageResId": "image_t33_q147",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "368a3568-0c45-45e1-b3b4-407ba093660c",
@@ -1958,6 +2017,7 @@
     "order": 60,
     "text": "Зображеними дорожніми знаками позначаються:",
     "imageResId": "image_t33_q148",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "da7acfdb-935e-46cf-ada9-3f6a4efe3371",
@@ -1992,6 +2052,7 @@
     "order": 61,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q149",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "911ada19-50e6-4da2-b4ae-bfc498adb961",
@@ -2026,6 +2087,7 @@
     "order": 62,
     "text": "На якому із зображених дорожніх знаків може змінюватися інформація?",
     "imageResId": "image_t33_q150",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "f1964486-c0a7-4780-a877-5a0186d084f3",
@@ -2066,6 +2128,7 @@
     "order": 63,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q151",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "cb58be2b-10d7-4ce0-9f44-6e708c9ac6f3",
@@ -2088,6 +2151,7 @@
     "order": 64,
     "text": "Який із дорожніх знаків інформує про номер і напрямок маршруту (дороги)?",
     "imageResId": "image_t33_q152",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c66c01f5-b359-4e06-846b-99c43b1727bd",
@@ -2116,6 +2180,7 @@
     "order": 65,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q153",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "19457d43-d96a-4a61-87fe-59c8ee803211",
@@ -2144,6 +2209,7 @@
     "order": 66,
     "text": "Який із зображених дорожніх знаків застосовується в населених пунктах, для виділення межі закінчення забудови населеного пункту, розташованої безпосередньо поблизу проїзної частини (за умови подальшої відсутності такої забудови)?",
     "imageResId": "image_t33_q154",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "af76cccb-8d42-460a-91c8-fef9b2893403",
@@ -2184,6 +2250,7 @@
     "order": 67,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q155",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "fb74d294-7d70-43a7-abd1-cdc67fbb0266",
@@ -2212,6 +2279,7 @@
     "order": 68,
     "text": "Який із зображених дорожніх знаків інформує про місце розташування аеропорту?",
     "imageResId": "image_t33_q156",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0635df84-67ec-4cee-83b6-4dba7ade17e9",
@@ -2246,6 +2314,7 @@
     "order": 69,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q157",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "14d400e3-7da5-424a-8b09-bd496e2fabdb",
@@ -2274,6 +2343,7 @@
     "order": 70,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q158",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "c96dd703-b75c-4595-a2e1-4fe56cca61fb",
@@ -2302,6 +2372,7 @@
     "order": 71,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q159",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "8d6e964c-c3b6-47f5-873d-71d881e89e41",
@@ -2330,6 +2401,7 @@
     "order": 72,
     "text": "Якими із зображених дорожніх знаків позначаються місця, призначені для переходу пішоходами по проїзній частині?",
     "imageResId": "image_t33_q160",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "dd0e7fc8-eec1-4a61-9504-49faa85e47bf",
@@ -2364,6 +2436,7 @@
     "order": 73,
     "text": "Зображеним дорожнім знаком позначаються:",
     "imageResId": "image_t33_q161",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "cad0e748-dee7-4fdf-a16e-375ded8fb0b2",
@@ -2398,6 +2471,7 @@
     "order": 74,
     "text": "Зображеним дорожнім знаком позначаються:",
     "imageResId": "image_t33_q162",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "94f3f5c1-dbe5-44b6-b7e5-8cc9d4e31332",
@@ -2432,6 +2506,7 @@
     "order": 75,
     "text": "Зображений дорожній знак застосовується:",
     "imageResId": "image_t33_q163",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "756dfc30-d6af-497e-b181-4c555fcbc627",
@@ -2466,6 +2541,7 @@
     "order": 76,
     "text": "Зображений дорожній знак застосовується:",
     "imageResId": "image_t33_q164",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "9bcaed78-28b1-45d8-a7e6-4209a8ab4752",
@@ -2500,6 +2576,7 @@
     "order": 77,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q166",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "e45584f3-1d1e-4aec-8ac2-fd373f68dd13",
@@ -2528,6 +2605,7 @@
     "order": 78,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q167",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "17e02df1-2860-4d03-80a9-28f7951474e4",
@@ -2556,6 +2634,7 @@
     "order": 79,
     "text": "Який із зображених дорожніх знаків не обмежує швидкість руху транспортних засобів на ділянці дороги, на якій його встановлено?",
     "imageResId": "image_t33_q168",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ccb238f5-6234-4917-88d0-8079d4089b5f",
@@ -2590,6 +2669,7 @@
     "order": 80,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q338",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "6bc425b5-5f4e-4846-8426-db47d76aa328",
@@ -2618,6 +2698,7 @@
     "order": 81,
     "text": "Вказаний дорожній знак позначає:",
     "imageResId": "image_t33_q339",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "4a779741-57c7-472f-94f4-dbaa137b5d50",
@@ -2646,6 +2727,7 @@
     "order": 82,
     "text": "Вказаний дорожній знак позначає:",
     "imageResId": "image_t33_q340",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "dc3f8fb6-fd3d-44e6-9c01-bf429004e6af",
@@ -2674,6 +2756,7 @@
     "order": 83,
     "text": "Зображений дорожній знак позначає виїзд на дорогу, де рух транспортних засобів, що рухаються за встановленими маршрутами, здійснюється спеціально відведеною смугою, позначеною знаком 5.11:",
     "imageResId": "image_t33_q346",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "edad3479-41ec-45fc-901d-35e116f93a01",
@@ -2696,6 +2779,7 @@
     "order": 84,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q347",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "62cc69d1-cf3c-477c-8845-2fa8a8f42ddf",
@@ -2724,6 +2808,7 @@
     "order": 85,
     "text": "Вказаний дорожній знак позначає:",
     "imageResId": "image_t33_q348",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "c9099a4d-1188-4461-b1cc-84c141297351",
@@ -2752,6 +2837,7 @@
     "order": 86,
     "text": "Вказаний дорожній знак позначає:",
     "imageResId": "image_t33_q349",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "f20c7cc7-319b-4665-a726-43e890b248ff",
@@ -2780,6 +2866,7 @@
     "order": 87,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q350",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "7621990f-a819-476f-bbef-26d68f235dbd",
@@ -2802,6 +2889,7 @@
     "order": 88,
     "text": "Вказаний дорожній знак позначає:",
     "imageResId": "image_t33_q351",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "bcbab707-fe07-420d-844d-b94429b618ad",
@@ -2830,6 +2918,7 @@
     "order": 89,
     "text": "Вказаний дорожній знак інформує про:",
     "imageResId": "image_t33_q352",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "5ab93d24-6562-4019-af1a-4562d9f56876",
@@ -2858,6 +2947,7 @@
     "order": 90,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q353",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "46b4ce14-d25e-4d0d-b623-8b335457673f",
@@ -2886,6 +2976,7 @@
     "order": 91,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q356",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "284bc4a6-09e8-4dff-9915-32261d59a490",

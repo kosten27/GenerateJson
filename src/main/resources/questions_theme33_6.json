@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Який із зображених дорожніх знаків інформує про наявність на дорозі обладнаного місця відпочинку?",
     "imageResId": "image_t33_q096",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "89acda8c-b239-48a8-a77b-07d24dc537a5",
@@ -40,6 +41,7 @@
     "order": 2,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q099",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "8e4472bc-45e9-4fb0-958c-3ffa379d7380",
@@ -68,6 +70,7 @@
     "order": 3,
     "text": "Зображений дорожній знак позначає:",
     "imageResId": "image_t33_q100",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "a15acf6e-7caf-48d0-a371-f548a455fe1b",
@@ -96,6 +99,7 @@
     "order": 4,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q102",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "cd14e5ed-5a6e-4313-a7e9-08c014c7c7c4",
@@ -124,6 +128,7 @@
     "order": 5,
     "text": "Зображений дорожній знак інформує:",
     "imageResId": "image_t33_q103",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "60ba79b4-1018-48e8-84e9-33d4fa119850",

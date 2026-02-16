@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Як повинен вчинити в даній ситуації водій трамвая?",
     "imageResId": "image_t60_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "db335826-9d60-4258-85b2-29f2a4a23ae0",
@@ -28,6 +29,7 @@
     "order": 2,
     "text": "У якому напрямку дозволено рух трамвая в даній ситуації?",
     "imageResId": "image_t60_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9f7693da-7776-4039-a08f-c5b6377d0a9f",
@@ -62,6 +64,7 @@
     "order": 3,
     "text": "На якому світлофорі горить сигнал, що дозволяє трамваю рух прямо?",
     "imageResId": "image_t60_q003",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7a5fa46b-2f7d-48f0-92be-c12df90d052c",
@@ -96,6 +99,7 @@
     "order": 4,
     "text": "У якому напрямку дозволено рух трамвая в даній ситуації?",
     "imageResId": "image_t60_q004",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "239d6677-3d65-4e75-8990-88bde1e3fd30",
@@ -124,6 +128,7 @@
     "order": 5,
     "text": "У якому напрямку дозволено рух трамвая в даній ситуації?",
     "imageResId": "image_t60_q005",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d2e63b6b-06bd-4a6a-b79c-eeb0de08b5f3",

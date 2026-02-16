@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Яким транспортним засобам дозволено рух по автомагістралі?",
     "imageResId": "image_t27_q001",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "fc617244-b47f-4090-8dbe-e15979b80572",
@@ -40,6 +41,7 @@
     "order": 2,
     "text": "Чи дозволено на автомагістралях рух механічних транспортних засобів, швидкість яких за технічною характеристикою або їхнім станом менше 40 км/год?",
     "imageResId": "image_t27_q002",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "677a235b-5fd1-470f-97cf-5cee6e5b99e2",
@@ -62,6 +64,7 @@
     "order": 3,
     "text": "Що з перерахованого заборонено на автомагістралі?",
     "imageResId": "image_t27_q003",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "05d6d8d0-4606-475c-a513-11820ed343e6",
@@ -102,6 +105,7 @@
     "order": 4,
     "text": "У якому місці дороги для автомобілів дозволена зупинка транспортних засобів?",
     "imageResId": "image_t27_q004",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "ece9b35d-e1bb-4d0e-85cd-de99031e58a7",
@@ -142,6 +146,7 @@
     "order": 5,
     "text": "Чи дозволений розворот у технологічних розривах розділювальної смуги на автомагістралі?",
     "imageResId": "image_t27_q005",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "2cb3e859-06af-4fd1-bb54-17694f19417f",

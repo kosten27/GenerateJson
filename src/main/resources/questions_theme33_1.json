@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Що спільного у цих двох дорожніх знаків?",
     "imageResId": "image_t33_q108",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "105b1fc9-0a98-46d1-b959-b26c4568bbb2",
@@ -40,6 +41,7 @@
     "order": 2,
     "text": "Що спільного у цих двох дорожніх знаків?",
     "imageResId": "image_t33_q126",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "515a2290-f06b-47f7-94a3-ed19b8402378",
@@ -74,6 +76,7 @@
     "order": 3,
     "text": "Зазначений дорожній знак попереджає:",
     "imageResId": "image_t33_q169",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "342decaf-6a37-4230-9e78-2c90c63cd957",
@@ -102,6 +105,7 @@
     "order": 4,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q170",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "171da1b5-00e7-4651-840e-d02128d1b1a3",
@@ -136,6 +140,7 @@
     "order": 5,
     "text": "Який із зображених дорожніх знаків встановлюється безпосередньо перед залізничним переїздом без шлагбаума з двома і більше коліями?",
     "imageResId": "image_t33_q171",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "212598a3-5f7e-4534-a6ac-ce46beada44d",
@@ -170,6 +175,7 @@
     "order": 6,
     "text": "Який із зображених дорожніх знаків встановлюється першим у разі наближення до залізничного переїзду?",
     "imageResId": "image_t33_q172",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "99ca71b7-9efe-41ff-aceb-48f0fa363d87",
@@ -198,6 +204,7 @@
     "order": 7,
     "text": "Як встановлюють дані дорожні знаки перед залізничним переїздом?",
     "imageResId": "image_t33_q173",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "838742c3-625f-451b-9cb2-e87341371a74",
@@ -226,6 +233,7 @@
     "order": 8,
     "text": "Який із зображених дорожніх знаків встановлюється останнім у разі наближення до залізничного переїзду?",
     "imageResId": "image_t33_q174",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e420a2ba-ea56-40c4-bc34-d1a354a09f00",
@@ -254,6 +262,7 @@
     "order": 9,
     "text": "Який із зображених дорожніх знаків попереджає про наближення до нерегульованого пішохідного переходу?",
     "imageResId": "image_t33_q175",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "46f1832f-cc3e-4d93-aad7-b10c0c74fadc",
@@ -294,6 +303,7 @@
     "order": 10,
     "text": "Зображений дорожній знак попереджає про наближення до:",
     "imageResId": "image_t33_q176",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "dc9a76bf-e2d9-46bf-8110-e86e9209d5fe",
@@ -328,6 +338,7 @@
     "order": 11,
     "text": "Який із зображених дорожніх знаків встановлюється перед ділянкою дороги, на якій можлива поява дітей з території дитячого закладу, прилеглого безпосередньо до дороги?",
     "imageResId": "image_t33_q177",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6fa6ea28-36ce-4b2d-8193-2a909187f9ae",
@@ -356,6 +367,7 @@
     "order": 12,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q178",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "01546eb9-4255-41e5-93b6-bb1cfadabf4b",
@@ -390,6 +402,7 @@
     "order": 13,
     "text": "Який із зображених дорожніх знаків встановлюється безпосередньо перед залізничним переїздом без шлагбаума з однією колією?",
     "imageResId": "image_t33_q179",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2a7137be-2984-4486-8841-bc2d9830c04e",
@@ -424,6 +437,7 @@
     "order": 14,
     "text": "Про що інформує даний дорожній знак?",
     "imageResId": "image_t33_q180",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "d56973f5-576a-4a46-83db-605b4a94c7e6",
@@ -464,6 +478,7 @@
     "order": 15,
     "text": "Зазначений дорожній знак попереджає:",
     "imageResId": "image_t33_q181",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "8d679a52-bb7a-47af-b52a-b9d00c7404d2",
@@ -498,6 +513,7 @@
     "order": 16,
     "text": "Який з наведених дорожніх знаків попереджає про початок ділянки дороги із зустрічним рухом після одностороннього?",
     "imageResId": "image_t33_q182",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "fd8183d0-2589-4467-b887-eea1149bb113",
@@ -538,6 +554,7 @@
     "order": 17,
     "text": "Даний дорожній знак попереджає:",
     "imageResId": "image_t33_q183",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "46b659fa-f394-46d1-a5ab-d4d2561f1a29",
@@ -572,6 +589,7 @@
     "order": 18,
     "text": "Даний дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q184",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "ccc5888c-dbe9-4606-a724-9bf156f52335",
@@ -606,6 +624,7 @@
     "order": 19,
     "text": "Який із зображених дорожніх знаків встановлюється перед залізничним переїздом зі шлагбаумом?",
     "imageResId": "image_t33_q185",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a66cbfe0-392f-4224-a04f-7597dd52acab",
@@ -640,6 +659,7 @@
     "order": 20,
     "text": "Який із зображених дорожніх знаків встановлюється перед залізничним переїздом без шлагбаума?",
     "imageResId": "image_t33_q186",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2cc564eb-0328-45f9-a291-b8b33fa11ab3",
@@ -674,6 +694,7 @@
     "order": 21,
     "text": "У якому місці встановлюється даний дорожній знак?",
     "imageResId": "image_t33_q187",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "29225e12-7a01-4019-b9e2-732da13aea24",
@@ -708,6 +729,7 @@
     "order": 22,
     "text": "Зображений дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q188",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "2449afbc-d685-4ffa-9098-45d5e5609aee",
@@ -742,6 +764,7 @@
     "order": 23,
     "text": "Зображений дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q189",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "a9c810b9-7a24-4dfc-91bc-44fa219a428a",
@@ -776,6 +799,7 @@
     "order": 24,
     "text": "Який із зображених знаків встановлюється перед місцем перетину дороги з велосипедною доріжкою поза перехрестям?",
     "imageResId": "image_t33_q190",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "12dae33d-b757-4e8d-8f7b-687b11af966c",
@@ -810,6 +834,7 @@
     "order": 25,
     "text": "Зображеними дорожніми знаками позначають:",
     "imageResId": "image_t33_q191",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "26d7b7e5-7ba3-4f8c-9498-56dfc21e53e0",
@@ -838,6 +863,7 @@
     "order": 26,
     "text": "Який із зображених дорожніх знаків повторюється перед небезпечною ділянкою дороги за межами населених пунктів?",
     "imageResId": "image_t33_q192",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "48c3163c-d838-48cb-9606-19b06442cf07",
@@ -878,6 +904,7 @@
     "order": 27,
     "text": "Який із зображених дорожніх знаків повторюється перед небезпечною ділянкою дороги за межами населених пунктів?",
     "imageResId": "image_t33_q193",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ab65815e-17be-4f8a-b57e-50261f8b6e2c",
@@ -918,6 +945,7 @@
     "order": 28,
     "text": "Який із зображених дорожніх знаків повторюється перед небезпечними ділянками дороги в населених пунктах?",
     "imageResId": "image_t33_q194",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "825f6cff-41b2-46db-8562-90c74c2d8d0f",
@@ -958,6 +986,7 @@
     "order": 29,
     "text": "Які із зображених дорожніх знаків є тимчасовими?",
     "imageResId": "image_t33_q195",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "92355288-fd07-4498-89af-91ffec537112",
@@ -992,6 +1021,7 @@
     "order": 30,
     "text": "Який з перелічених знаків встановлюється безпосередньо перед небезпечною ділянкою дороги?",
     "imageResId": "image_t33_q199",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0a357834-2636-4669-85c3-712228c228db",
@@ -1032,6 +1062,7 @@
     "order": 31,
     "text": "Який із зображених знаків може бути встановлено безпосередньо перед небезпечною ділянкою дороги?",
     "imageResId": "image_t33_q200",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "32c7e7ef-babd-465e-9f4c-843aef8a2dad",
@@ -1072,6 +1103,7 @@
     "order": 32,
     "text": "Зображений дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q201",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "12e84eca-82ca-42be-b6a9-3feb7c7e289c",
@@ -1100,6 +1132,7 @@
     "order": 33,
     "text": "Зображений дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q202",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "c1c5633d-23bd-47a8-945c-be522be323d9",
@@ -1128,6 +1161,7 @@
     "order": 34,
     "text": "Зображений дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q203",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "f060255f-999c-4bc9-8cf7-6594a5be3a3d",
@@ -1168,6 +1202,7 @@
     "order": 35,
     "text": "На якій відстані від місця виконання короткотермінових дорожніх робіт на проїзній частині в населеному пункті може бути встановлено знак «Дорожні роботи»?",
     "imageResId": "image_t33_q204",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "eea9e2e5-cced-4008-bc1d-ad1ab31ac0b5",
@@ -1202,6 +1237,7 @@
     "order": 36,
     "text": "Зображений дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q205",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "ecc4a2c6-6ec4-41bb-8c2c-b088d94b2f43",
@@ -1236,6 +1272,7 @@
     "order": 37,
     "text": "Який із зображених дорожніх знаків попереджає про наближення до ділянки (місця) концентрації дорожньо-транспортних пригод?",
     "imageResId": "image_t33_q206",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "68c955e5-1c73-4025-9ec0-9e0e7fbac30f",
@@ -1270,6 +1307,7 @@
     "order": 38,
     "text": "Зображений дорожній знак попереджає водіїв:",
     "imageResId": "image_t33_q207",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "9c77ce4d-cb50-41ed-b9b8-f6e5e814f933",
@@ -1298,6 +1336,7 @@
     "order": 39,
     "text": "Даний дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q208",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "bc9394d4-20b9-4592-bad2-bccf727f38ef",
@@ -1332,6 +1371,7 @@
     "order": 40,
     "text": "У даній ситуації ви маєте перевагу:",
     "imageResId": "image_t33_q210",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3d2acbd5-2823-41e6-b243-2334e355f5e3",
@@ -1366,6 +1406,7 @@
     "order": 41,
     "text": "Дорожні роботи – це:",
     "imageResId": "image_t33_q211",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "ed8fade1-ba43-442d-8f84-5d1307486f55",
@@ -1394,6 +1435,7 @@
     "order": 42,
     "text": "На що вказує даний дорожній знак?",
     "imageResId": "image_t33_q212",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "42e711e3-5b38-459c-b8f9-7edc5c919abf",
@@ -1434,6 +1476,7 @@
     "order": 43,
     "text": "Який з наведених дорожніх знаків вказує напрямок повороту?",
     "imageResId": "image_t33_q213",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9422f1f7-381d-4fdf-99f8-026692c1c484",
@@ -1468,6 +1511,7 @@
     "order": 44,
     "text": "Де встановлюється даний дорожній знак?",
     "imageResId": "image_t33_q214",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "e6e486ab-32d8-4a34-86b4-c5da1909e827",
@@ -1496,6 +1540,7 @@
     "order": 45,
     "text": "Який з наведених дорожніх знаків попереджає про звуження дороги з правого боку?",
     "imageResId": "image_t33_q215",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "93d5f825-ef90-4bd8-a869-b60ab1fb663e",
@@ -1530,6 +1575,7 @@
     "order": 46,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q216",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "fce9810b-197b-48cf-a59a-4e4c3f7217ed",
@@ -1558,6 +1604,7 @@
     "order": 47,
     "text": "Який з наведених дорожніх знаків встановлюється перед крутим підйомом?",
     "imageResId": "image_t33_q217",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e45a61e4-d3f8-4738-95c0-167ef8829a91",
@@ -1592,6 +1639,7 @@
     "order": 48,
     "text": "Який з наведених дорожніх знаків встановлюється перед крутим спуском?",
     "imageResId": "image_t33_q218",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e6c92548-7ff8-42a9-a1f4-3667b4d7555f",
@@ -1620,6 +1668,7 @@
     "order": 49,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q219",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "7b1d3131-020a-4792-b7ee-115f9a5ead6a",
@@ -1648,6 +1697,7 @@
     "order": 50,
     "text": "У якому з місць встановлюється даний дорожній знак?",
     "imageResId": "image_t33_q220",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "6aed631a-d01d-4c98-b1b7-38ddc4ee42ff",
@@ -1676,6 +1726,7 @@
     "order": 51,
     "text": "Де встановлюється даний дорожній знак?",
     "imageResId": "image_t33_q221",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "d6746bc6-2967-4052-92ba-8615ab912a0c",
@@ -1716,6 +1767,7 @@
     "order": 52,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q222",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "05facf58-3ab8-4333-9928-7513c416b496",
@@ -1750,6 +1802,7 @@
     "order": 53,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q223",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "89446f64-208f-4702-8859-6fc090d0ca0a",
@@ -1784,6 +1837,7 @@
     "order": 54,
     "text": "Який із зображених дорожніх знаків попереджає про заокруглення з обмеженою оглядовістю?",
     "imageResId": "image_t33_q224",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a25c2e26-8daa-45cb-ae0d-4fc3ece5de54",
@@ -1818,6 +1872,7 @@
     "order": 55,
     "text": "Який із перелічених дорожніх знаків вказує водію про наближення до небезпечного повороту дороги?",
     "imageResId": "image_t33_q225",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a8edb094-7e4b-4ade-bc26-4efe9b24bee6",
@@ -1852,6 +1907,7 @@
     "order": 56,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q226",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "ecbf922a-437e-4ff1-a1ef-677e6abd1511",
@@ -1886,6 +1942,7 @@
     "order": 57,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q227",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "c467d80b-912b-4b33-b03c-b38476e1ccd8",
@@ -1914,6 +1971,7 @@
     "order": 58,
     "text": "Який із вказаних дорожніх знаків встановлюється перед ділянкою дороги з двома небезпечними поворотами, розташованими один за одним?",
     "imageResId": "image_t33_q229",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "44d0a6d4-1c58-4212-a4d1-d068e1d98963",
@@ -1948,6 +2006,7 @@
     "order": 59,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q230",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "55e82f97-f8d5-4d69-a602-d2d41710617e",
@@ -1976,6 +2035,7 @@
     "order": 60,
     "text": "Про що попереджає даний дорожній знак у поєднанні з табличкою?",
     "imageResId": "image_t33_q231",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "30aa89c1-0950-4d33-8718-7ff4eec94c22",
@@ -2004,6 +2064,7 @@
     "order": 61,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q232",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "d0dae2b7-7916-46f0-b3e9-ee524806282b",
@@ -2038,6 +2099,7 @@
     "order": 62,
     "text": "Який із зображених дорожніх знаків попереджає про наближення до перехрестя з круговим рухом?",
     "imageResId": "image_t33_q233",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9773751d-23aa-424b-a284-f97a5c32f56d",
@@ -2072,6 +2134,7 @@
     "order": 63,
     "text": "Який із зображених дорожніх знаків встановлюється перед перетином дороги з трамвайною колією на перехресті з обмеженою оглядовістю?",
     "imageResId": "image_t33_q234",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8c1767b5-f659-45c6-9f18-a79fea3b8dc5",
@@ -2106,6 +2169,7 @@
     "order": 64,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q235",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "c722309e-c574-41ba-9228-1851e0e804d0",
@@ -2140,6 +2204,7 @@
     "order": 65,
     "text": "Який із зображених дорожніх знаків встановлюється перед перехрестям рівнозначних доріг?",
     "imageResId": "image_t33_q236",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7022a8c5-f8ae-4274-aad5-b518dc5e9654",
@@ -2174,6 +2239,7 @@
     "order": 66,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q237",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "f333bdd7-0f8f-4882-b870-514df536a04a",
@@ -2208,6 +2274,7 @@
     "order": 67,
     "text": "Який із зображених дорожніх знаків встановлюється при наближенні до перехрестя із другорядною дорогою?",
     "imageResId": "image_t33_q238",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8363e76e-d48c-4db3-a383-a4f64fd5ac38",
@@ -2242,6 +2309,7 @@
     "order": 68,
     "text": "Чи маєте ви перевагу в русі на найближчому перехресті?",
     "imageResId": "image_t33_q239",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1de9bd7d-8886-46ad-a32c-d44ea9462f26",
@@ -2270,6 +2338,7 @@
     "order": 69,
     "text": "Даний дорожній знак попереджає:",
     "imageResId": "image_t33_q240",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "944a4578-4899-4bea-a523-b51ef7be16f1",
@@ -2298,6 +2367,7 @@
     "order": 70,
     "text": "Даний дорожній знак встановлюється перед ділянками дороги:",
     "imageResId": "image_t33_q241",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "8199f845-20d0-4384-a93b-2a8b84fb2070",
@@ -2326,6 +2396,7 @@
     "order": 71,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q242",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "8951ad06-dc05-4d83-b8d9-d27465e23b6f",
@@ -2354,6 +2425,7 @@
     "order": 72,
     "text": "Де встановлюється даний дорожній знак?",
     "imageResId": "image_t33_q243",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "0969ed9d-141f-40af-9582-94b7ff0e815c",
@@ -2388,6 +2460,7 @@
     "order": 73,
     "text": "Даний дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q244",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "8d1222f7-7546-4c40-b6c7-437bf32682f1",
@@ -2428,6 +2501,7 @@
     "order": 74,
     "text": "Даний дорожній знак встановлюється перед:",
     "imageResId": "image_t33_q245",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "2567e0fc-12d7-4d5c-ad2c-2275d476e096",
@@ -2462,6 +2536,7 @@
     "order": 75,
     "text": "Який з наведених дорожніх знаків встановлюється перед ділянками доріг з вибоїнами чи просіданням дорожнього покриття?",
     "imageResId": "image_t33_q246",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e8ba3372-e875-4492-ae03-534e4469f312",
@@ -2496,6 +2571,7 @@
     "order": 76,
     "text": "Який з наведених дорожніх знаків попереджає, що попереду ділянка дороги з підвищеною слизькістю проїзної частини?",
     "imageResId": "image_t33_q247",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5c8b14ff-7271-4875-a475-5fe26e4de37c",
@@ -2530,6 +2606,7 @@
     "order": 77,
     "text": "Про що попереджає даний дорожній знак?",
     "imageResId": "image_t33_q248",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "97965097-737f-4b48-877f-078e1dba3870",
@@ -2564,6 +2641,7 @@
     "order": 78,
     "text": "Даний дорожній знак встановлюється перед ділянками дороги, на яких:",
     "imageResId": "image_t33_q249",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "82b617e4-6cfb-4d65-91f6-9b9cf028de1e",
@@ -2598,6 +2676,7 @@
     "order": 79,
     "text": "Даний дорожній знак встановлюється перед ділянкою дороги, на якій:",
     "imageResId": "image_t33_q250",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "09b72566-c9d1-4562-9005-7d979db15144",
@@ -2632,6 +2711,7 @@
     "order": 80,
     "text": "Даний дорожній знак попереджає:",
     "imageResId": "image_t33_q251",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "30a06f9d-5417-4336-aa10-68d551ebaac3",
@@ -2732,6 +2812,7 @@
     "order": 83,
     "text": "Вказаний дорожній знак попереджає про наближення до:",
     "imageResId": "image_t33_q341",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "58bc1f48-d7a4-4cea-8eda-c9c66808a7c0",

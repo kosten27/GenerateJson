@@ -399,6 +399,7 @@
     "order": 16,
     "text": "Чи правильно здійснюють посадку пасажири в наведеній ситуації?",
     "imageResId": "image_t5_q016",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "aac0e577-38e0-463c-8a33-d5f25f739548",

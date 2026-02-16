@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Чи має перевагу в русі велосипедист, якщо велосипедна доріжка перетинає дорогу поза перехрестям?",
     "imageResId": "image_t6_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "84ac6148-a869-4bc6-8376-7a2c50dcccd9",
@@ -367,6 +368,7 @@
     "order": 15,
     "text": "У місцях, де рух регулюється, велосипедисти повинні керуватися:",
     "imageResId": "image_t6_q015",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "dee66b8d-e1f5-4d10-9264-9559c85b9cf1",
@@ -401,6 +403,7 @@
     "order": 16,
     "text": "Що позначає вказаний дорожній знак?",
     "imageResId": "image_t6_q016",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "e8a3368a-e8a8-4749-bf41-f6d187398c39",
@@ -423,6 +426,7 @@
     "order": 17,
     "text": "Що в даному випадку позначає ця горизонтальна розмітка?",
     "imageResId": "image_t6_q017",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "df34f274-be1a-4057-be36-c572834ea9da",
@@ -478,6 +482,7 @@
     "order": 19,
     "text": "Велосипедна смуга дозволяє також рух мопедів по ній?",
     "imageResId": "image_t6_q019",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "b7c83596-04ec-46b2-bc4b-7e92a46d3cf6",
@@ -500,6 +505,7 @@
     "order": 20,
     "text": "Велосипедна смуга дозволяє також рух мотоциклів по ній?",
     "imageResId": "image_t6_q020",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "ae5a9f6a-fd3f-4c1b-8af5-1ae1a8556451",
@@ -522,6 +528,7 @@
     "order": 21,
     "text": "Крім велосипедів, по велосипедній смузі можуть рухатись:",
     "imageResId": "image_t6_q021",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "773b4641-fd65-4f2d-9cc5-f7e434e95033",
@@ -550,6 +557,7 @@
     "order": 22,
     "text": "Чи дозволено велосипедистам рухатися в два ряди, якщо зустрічні транспортні засоби відсутні?",
     "imageResId": "image_t6_q022",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "54fb7895-3235-46fa-8825-a19918e1d6a3",

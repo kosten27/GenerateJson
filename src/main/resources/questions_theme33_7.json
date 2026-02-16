@@ -6,6 +6,7 @@
     "order": 1,
     "text": "У якому з місць Ви можете виконати зупинку в зображеній ситуації?",
     "imageResId": "image_t33_q045",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e22a816c-5b77-4b42-a3a7-96f3045f19f5",
@@ -46,6 +47,7 @@
     "order": 2,
     "text": "У якому з місць Ви можете зупинити транспортний засіб для стоянки в зображеній ситуації?",
     "imageResId": "image_t33_q047",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9afc5c53-02bc-42d5-83be-ebb02daeb57e",
@@ -86,6 +88,7 @@
     "order": 3,
     "text": "У якому з місць Вам дозволено виконати стоянку в зображеній ситуації?",
     "imageResId": "image_t33_q048",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "35940460-8c7b-413b-992f-90e741a96463",
@@ -126,6 +129,7 @@
     "order": 4,
     "text": "Чи дозволено Вам виконати посадку пасажира в зображеній ситуації?",
     "imageResId": "image_t33_q052",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0c375c13-68d0-4880-aa64-8f1bdc6afc51",
@@ -148,6 +152,7 @@
     "order": 5,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q054",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d2cb060a-d61a-4330-916f-21e84fd4fde6",
@@ -176,6 +181,7 @@
     "order": 6,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q056",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b0ae355e-8a51-499a-912b-afbdf6423e17",
@@ -210,6 +216,7 @@
     "order": 7,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q057",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ada4d00a-34ee-4307-a55d-1f5012cc9673",
@@ -250,6 +257,7 @@
     "order": 8,
     "text": "Який водій неправильно зупинив свій транспортний засіб на дорозі за межами населеного пункту?",
     "imageResId": "image_t33_q058",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4558b5f9-6bad-4cf4-9c4b-58b0b3057ee3",
@@ -284,6 +292,7 @@
     "order": 9,
     "text": "Водій якого автомобіля виконує стоянку з порушенням Правил дорожнього руху?",
     "imageResId": "image_t33_q059",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b402b026-20f6-4300-bcf5-d991bd3f2e0c",
@@ -312,6 +321,7 @@
     "order": 10,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q060",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7fa6070f-c4ee-414f-9ba3-12b44893c89d",
@@ -346,6 +356,7 @@
     "order": 11,
     "text": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
     "imageResId": "image_t33_q061",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "378e38ca-2e92-4eb3-ad85-48fc9ef96677",
@@ -386,6 +397,7 @@
     "order": 12,
     "text": "У якому із зазначених місць Ви можете зупинити свій транспортний засіб?",
     "imageResId": "image_t33_q062",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9be77f3b-f766-49db-843e-24bcb7e8c2f7",
@@ -426,6 +438,7 @@
     "order": 13,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q086",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "b911c3ab-8688-4d83-8c2c-d7023119c6e2",
@@ -460,6 +473,7 @@
     "order": 14,
     "text": "З яким дорожнім знаком встановлюється зображена табличка?",
     "imageResId": "image_t33_q087",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "f3dabb93-1059-47f1-a743-82ad7f4480b2",
@@ -500,6 +514,7 @@
     "order": 15,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q088",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "380b99eb-e1ba-4260-99b7-a0714dab07b1",
@@ -528,6 +543,7 @@
     "order": 16,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q089",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "d5a026e7-c709-4d31-8e3a-0d6f941b439e",
@@ -550,6 +566,7 @@
     "order": 17,
     "text": "Встановлений з якою із зображених табличок дорожній знак діє в усі робочі дні?",
     "imageResId": "image_t33_q090",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1c7e8408-adf9-4745-b12d-87dcb7212b43",
@@ -590,6 +607,7 @@
     "order": 18,
     "text": "Дія зображеної таблички поширюється:",
     "imageResId": "image_t33_q091",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "b2bcafb4-54f7-40f7-b6e4-0a775bcaf517",
@@ -624,6 +642,7 @@
     "order": 19,
     "text": "У якому з напрямків дозволено рух водієві легкового автомобіля в зображеній ситуації?",
     "imageResId": "image_t33_q092",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "babe7f66-4fbb-4cc9-a49f-71dd67d229d4",
@@ -658,6 +677,7 @@
     "order": 20,
     "text": "Дія зображеної таблички поширюється:",
     "imageResId": "image_t33_q093",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "9a00f938-e3e9-4774-94cd-f2562568ec75",
@@ -686,6 +706,7 @@
     "order": 21,
     "text": "З яким дорожнім знаком встановлюється зображена табличка?",
     "imageResId": "image_t33_q094",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "115c992d-edea-4d22-8848-1d84d95f678c",
@@ -720,6 +741,7 @@
     "order": 22,
     "text": "Зображена табличка позначає:",
     "imageResId": "image_t33_q095",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "2e503d80-f186-4731-9495-b45aee6b5856",
@@ -754,6 +776,7 @@
     "order": 23,
     "text": "Табличка до дорожнього знаку діє:",
     "imageResId": "image_t33_q104",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "4ed514c7-0885-49fc-940a-9f87b1c8e12e",
@@ -776,6 +799,7 @@
     "order": 24,
     "text": "Дія зображеної таблички поширюється:",
     "imageResId": "image_t33_q105",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "4501f545-cf14-4aa8-a816-8143139a6bb1",
@@ -810,6 +834,7 @@
     "order": 25,
     "text": "Який транспортний засіб поставлено на стоянку неправильно?",
     "imageResId": "image_t33_q106",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6f15af61-9336-4fa1-a08d-779699199a4b",
@@ -838,6 +863,7 @@
     "order": 26,
     "text": "З яким із дорожніх знаків можуть бути встановлені зображені таблички?",
     "imageResId": "image_t33_q115",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "303ff848-8b09-4704-9966-e5ec8aa38c52",
@@ -878,6 +904,7 @@
     "order": 27,
     "text": "Яка з табличок встановлюється із зображеним дорожнім знаком?",
     "imageResId": "image_t33_q116",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c60e7564-c057-4e18-a669-de5d1034cfde",
@@ -918,6 +945,7 @@
     "order": 28,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q117",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "f46ab60d-2fde-4312-9939-6f7c4015072e",
@@ -940,6 +968,7 @@
     "order": 29,
     "text": "Яка із зображених табличок дозволяє стоянку всіх транспортних засобів способом, вказаним на ній?",
     "imageResId": "image_t33_q118",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0f7dc13f-136b-4f3b-b5a0-8271f3b5ae1a",
@@ -980,6 +1009,7 @@
     "order": 30,
     "text": "Зображені таблички, що встановлюються з відповідними дорожніми знаками, вказують:",
     "imageResId": "image_t33_q119",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "08a2486d-f423-49e6-a3ce-f0aad4e6e9f9",
@@ -1008,6 +1038,7 @@
     "order": 31,
     "text": "Зображена табличка, яка встановлюється зі знаками «Місце стоянки» або «Зона стоянки», вказує:",
     "imageResId": "image_t33_q120",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "2e44ce36-dc29-4264-95b8-d5f4a70a0493",
@@ -1036,6 +1067,7 @@
     "order": 32,
     "text": "Яка із зображених табличок вказує, що дозволено залишати транспортні засоби лише з непрацюючим двигуном?",
     "imageResId": "image_t33_q121",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e0f6ecbe-92ce-47cc-889f-72dc75a43742",
@@ -1076,6 +1108,7 @@
     "order": 33,
     "text": "Зображена табличка визначає:",
     "imageResId": "image_t33_q122",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "e1dc18ef-39da-41f5-bfe0-db179978a3f6",
@@ -1104,6 +1137,7 @@
     "order": 34,
     "text": "З яким із дорожніх знаків може бути встановлена зображена табличка?",
     "imageResId": "image_t33_q123",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "822dd198-8e76-43c0-9426-036908315ee2",
@@ -1138,6 +1172,7 @@
     "order": 35,
     "text": "Зображена табличка вказує:",
     "imageResId": "image_t33_q124",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "dec46dc2-94b5-46ba-95d9-76d13b5ad0b0",
@@ -1166,6 +1201,7 @@
     "order": 36,
     "text": "З яким із дорожніх знаків може бути встановлена зображена табличка?",
     "imageResId": "image_t33_q125",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "f8439a55-9d4a-44ec-959c-33d75dbac637",
@@ -1206,6 +1242,7 @@
     "order": 37,
     "text": "Зображений дорожній знак в поєднанні з табличкою 7.28.2 застосовується:",
     "imageResId": "image_t33_q165",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "201aae24-037a-4b08-8256-dc5b3fbc0274",
@@ -1240,6 +1277,7 @@
     "order": 38,
     "text": "Про що попереджає даний дорожній знак, встановлений з табличкою?",
     "imageResId": "image_t33_q228",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5a0c77d7-14bd-49d2-b860-36e3a59e76ec",
@@ -1274,6 +1312,7 @@
     "order": 39,
     "text": "Який дорожній знак встановлено на найближчому перехресті після знаку дати дорогу з зазначеною табличкою?",
     "imageResId": "image_t33_q252",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "474092fd-5aa6-43f7-8c54-53b1c9a50857",
@@ -1302,6 +1341,7 @@
     "order": 40,
     "text": "У якому напрямку Вам дозволено рух у даній ситуації?",
     "imageResId": "image_t33_q263",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ba639a50-db20-4e1e-b261-b8534606c62f",
@@ -1336,6 +1376,7 @@
     "order": 41,
     "text": "Чи дозволено Вам рух прямо в зображеній ситуації?",
     "imageResId": "image_t33_q270",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d1628b74-b7f2-414d-a0e4-787ed80c75bc",
@@ -1358,6 +1399,7 @@
     "order": 42,
     "text": "У якому напрямку Вам дозволено рух у даній ситуації?",
     "imageResId": "image_t33_q271",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "48b37d67-f91f-4991-b6e5-2bbfcfa85184",
@@ -1392,6 +1434,7 @@
     "order": 43,
     "text": "За якої з умов дозволено виконати обгін транспортного засобу після проїзду зображеного дорожнього знака, встановленого з табличкою?",
     "imageResId": "image_t33_q287",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "59eb598b-d39a-4784-8732-bc671dcd2622",
@@ -1420,6 +1463,7 @@
     "order": 44,
     "text": "Який дорожній знак встановлено на найближчому перехресті після знаків дати дорогу разом з табличкою?",
     "imageResId": "image_t33_q305",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "49d247f8-e9ef-4169-9651-6f1dcd8b3028",
@@ -1448,6 +1492,7 @@
     "order": 45,
     "text": "Чи дозволено велосипедистові повернути праворуч, якщо він обслуговує громадян, які там проживають?",
     "imageResId": "image_t33_q322",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "8ed79de7-8c3a-44f9-95d9-b03569f71dfd",
@@ -1470,6 +1515,7 @@
     "order": 46,
     "text": "У якому напрямку дозволено рух трактора в даній ситуації?",
     "imageResId": "image_t33_q324",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "73a82e11-4f6b-40c7-ad0c-9a3fdf383a44",
@@ -1510,6 +1556,7 @@
     "order": 47,
     "text": "У якому напрямку дозволено рух велосипедистові на даному перехресті?",
     "imageResId": "image_t33_q325",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a22a7c13-9186-4028-8816-c7f45ff5048f",
@@ -1550,6 +1597,7 @@
     "order": 48,
     "text": "Зображена табличка застосовується для:",
     "imageResId": "image_t33_q354",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "73d5b01c-5527-4969-9255-0cd9337ebaeb",
@@ -1578,6 +1626,7 @@
     "order": 49,
     "text": "Зображена табличка застосовується для:",
     "imageResId": "image_t33_q355",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "4f3ce80a-d69f-45fe-88ef-5a2c1fc5a8ff",
@@ -1606,6 +1655,7 @@
     "order": 50,
     "text": "Дія даного дорожнього знаку поширюється на:",
     "imageResId": "image_t33_q357",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3fde5fb3-61d1-4920-9658-8312cbccc6ca",

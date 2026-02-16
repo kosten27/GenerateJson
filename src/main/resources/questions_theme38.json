@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Як у цій ситуації ви визначаєте порядок руху?",
     "imageResId": "image_t38_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "89dcbcb6-7bd6-4726-b39d-eea5e4ac949d",
@@ -34,6 +35,7 @@
     "order": 2,
     "text": "Якими будуть ваші дії, якщо вантажний автомобіль не зменшує швидкість, виїжджаючи на міст?",
     "imageResId": "image_t38_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a3a92c9d-d278-4f06-b069-7902a5e3b15f",
@@ -62,6 +64,7 @@
     "order": 3,
     "text": "Якими будуть ваші дії, якщо вантажний автомобіль декілька разів увімкнув дальнє світло?",
     "imageResId": "image_t38_q003",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "be20d253-ec1f-455b-8ef0-320861954a49",

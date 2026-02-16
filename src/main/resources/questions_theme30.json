@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Цим розпізнавальним знаком позначаються транспортні засоби, на яких:",
     "imageResId": "image_t30_q001",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "07ad8bb8-ad37-4f52-ab63-f08f966a14d8",
@@ -34,6 +35,7 @@
     "order": 2,
     "text": "Де на транспортному засобі повинен бути розпізнавальний знак «Таксі»?",
     "imageResId": "image_t30_q002",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "c6a5196e-9834-471e-bbe0-630dc1de87dc",
@@ -62,6 +64,7 @@
     "order": 3,
     "text": "На яких транспортних засобах обов'язково встановлюється цей розпізнавальний знак?",
     "imageResId": "image_t30_q003",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "23fbc17b-7794-4cf3-9c70-ee4051e04c77",
@@ -96,6 +99,7 @@
     "order": 4,
     "text": "Який із розпізнавальних знаків встановлюється на транспортних засобах, якими керують водії зі стажем до двох років?",
     "imageResId": "image_t30_q004",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "799448f4-542e-47fc-922d-5c15de23eac9",
@@ -124,6 +128,7 @@
     "order": 5,
     "text": "У яких випадках на транспортних засобах встановлюється такий розпізнавальний знак?",
     "imageResId": "image_t30_q005",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "79f92157-b162-4fee-887e-c44c65feb011",
@@ -158,6 +163,7 @@
     "order": 6,
     "text": "Цей розпізнавальний знак встановлюється на транспортних засобах:",
     "imageResId": "image_t30_q006",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "78b284e5-3f11-4ebb-9fa6-cc16d35afd72",
@@ -192,6 +198,7 @@
     "order": 7,
     "text": "Цим розпізнавальним знаком позначають транспортні засоби, які:",
     "imageResId": "image_t30_q007",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "775fd5a4-9f8a-44c0-aee6-c4aebb6316d7",
@@ -220,6 +227,7 @@
     "order": 8,
     "text": "На яких транспортних засобах встановлюється такий розпізнавальний знак?",
     "imageResId": "image_t30_q008",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "d7fae942-1b71-4568-b5de-1b90bc11015b",
@@ -248,6 +256,7 @@
     "order": 9,
     "text": "Яким із розпізнавальних знаків позначаються транспортні засоби, якими керують водії з інвалідністю?",
     "imageResId": "image_t30_q009",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "dd4efd92-2148-434c-8f56-1c5d48ea2b47",
@@ -282,6 +291,7 @@
     "order": 10,
     "text": "Такий розпізнавальний знак розміщується на транспортних засобах, які:",
     "imageResId": "image_t30_q010",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "da4bcfe2-e11f-49d7-acdf-c922a3f0df5d",
@@ -310,6 +320,7 @@
     "order": 11,
     "text": "Який із розпізнавальних знаків встановлюється на транспортних засобах, якими керують глухі або глухонімі водії?",
     "imageResId": "image_t30_q011",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8b1d10d9-c3ce-43f0-8afd-ad6bf1d64bc3",
@@ -338,6 +349,7 @@
     "order": 12,
     "text": "На яких транспортних засобах встановлюється цей розпізнавальний знак?",
     "imageResId": "image_t30_q012",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "86dc6e27-000a-4380-a8fe-29dba79d0635",

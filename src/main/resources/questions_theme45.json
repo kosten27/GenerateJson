@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Недостатньою видимістю вважається:",
     "imageResId": "image_t45_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "27769476-c8ed-46ba-8609-3ccebb6024bd",
@@ -34,6 +35,7 @@
     "order": 2,
     "text": "Що означає вимога дати дорогу?",
     "imageResId": "image_t45_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "06b08fe1-9036-497c-9bcf-e724019e6c58",
@@ -62,6 +64,7 @@
     "order": 3,
     "text": "Перехрестям вважається:",
     "imageResId": "image_t45_q003",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "108dd686-def8-42a8-9b4b-7d9f6355e726",
@@ -303,6 +306,7 @@
     "order": 11,
     "text": "На автомобілі з автоматичною коробкою передач щоб зняти автомобіль з позиції P необхідно натиснути педаль гальма:",
     "imageResId": "image_t45_q011",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9578e680-f275-45a3-8e37-38f9a27d93a6",
@@ -325,6 +329,7 @@
     "order": 12,
     "text": "Під час руху на автомобілі загорівся попереджувальний індикатор № 4, це означає:",
     "imageResId": "image_t45_q012",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c328e4d7-ca40-4006-a14e-5e4f480915e8",
@@ -359,6 +364,7 @@
     "order": 13,
     "text": "Під час руху на автомобілі загорівся попереджувальний індикатор № 1, це означає:",
     "imageResId": "image_t45_q013",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "53898636-5d12-4e7e-b254-55041895ba27",
@@ -393,6 +399,7 @@
     "order": 14,
     "text": "Виберіть індикатор, що відображає увімкнення ближнього світла фар:",
     "imageResId": "image_t45_q014",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b2246275-1b30-4c4a-8802-fe03c5984027",
@@ -427,6 +434,7 @@
     "order": 15,
     "text": "Що означає наведений індикатор червоного кольору:",
     "imageResId": "image_t45_q015",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a17feca9-1247-41ef-9ae2-372f355fc206",
@@ -455,6 +463,7 @@
     "order": 16,
     "text": "Наведений індикатор червоного кольору інформує про:",
     "imageResId": "image_t45_q016",
+    "imageType": "IMAGE",
     "answerOptionList": []
   },
   {
@@ -464,6 +473,7 @@
     "order": 17,
     "text": "Спалах зображеного індикатора жовтого кольору інформує водія транспортного засобу про:",
     "imageResId": "image_t45_q017",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b07af03f-c1bb-4340-9336-b7cd98a2647b",
@@ -492,6 +502,7 @@
     "order": 18,
     "text": "Індикатор у вигляді двох миготливих стрілок зеленого кольору відображає:",
     "imageResId": "image_t45_q018",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "50228189-db23-4e0f-b5bf-0e261745f6dd",
@@ -520,6 +531,7 @@
     "order": 19,
     "text": "Який з наведених індикаторів стає активним при запуску двигуна автомобіля та горить до тих пір, поки ремінь безпеки не буде пристебнутий?",
     "imageResId": "image_t45_q019",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c3909dd0-be19-445f-acea-7390be375a18",
@@ -554,6 +566,7 @@
     "order": 20,
     "text": "Про що може інформувати водія транспортного засобу спалах зображеного індикатора червоного кольору?",
     "imageResId": "image_t45_q020",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1b6c3cfb-a745-4567-9198-73eb207d8a6b",
@@ -582,6 +595,7 @@
     "order": 21,
     "text": "Цей індикатор вказує що в автомобілі ввімкнені:",
     "imageResId": "image_t45_q021",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b7270d5e-450d-49ba-9d6a-0d6f22e94aaf",
@@ -610,6 +624,7 @@
     "order": 22,
     "text": "Цей індикатор жовтого кольору вказує на низький рівень тиску в шинах?",
     "imageResId": "image_t45_q022",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1c6f622e-3456-4145-8588-a01a50bc0009",
@@ -632,6 +647,7 @@
     "order": 23,
     "text": "Про що інформує водія вказаний індикатор червоного кольору?",
     "imageResId": "image_t45_q023",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "80b4a10c-c77e-4ab4-a8b4-ca077cfb3009",
@@ -660,6 +676,7 @@
     "order": 24,
     "text": "Вказаний індикатор червоного кольору інформує водія про:",
     "imageResId": "image_t45_q024",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "03c0250e-e50c-4c0d-9899-aa0283092d6f",
@@ -682,6 +699,7 @@
     "order": 25,
     "text": "Вказаний індикатор жовтого кольору інформує Вас про:",
     "imageResId": "image_t45_q025",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "cb13a3ea-3046-4b93-b4ba-7e79e6a8cc4e",
@@ -710,6 +728,7 @@
     "order": 26,
     "text": "Виберіть індикатор, що інформує водія про увімкнене дальнє світло фар:",
     "imageResId": "image_t45_q026",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "bbb584e0-6717-41a2-a7fa-301399f61872",
@@ -732,6 +751,7 @@
     "order": 27,
     "text": "Виберіть індикатор, що інформує водія про увімкнене ближнє світло фар:",
     "imageResId": "image_t45_q027",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "879d6408-de92-4aa6-b8ae-3a9611455abf",
@@ -754,6 +774,7 @@
     "order": 28,
     "text": "Наведений індикатор червоного кольору може інформувати водія про:",
     "imageResId": "image_t45_q028",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1d67a939-38d8-4ccc-bd5a-bc26e614e84d",
@@ -782,6 +803,7 @@
     "order": 29,
     "text": "Який із наведених індикаторів інформує водія транспортного засобу про можливі проблеми з гальмовою системою?",
     "imageResId": "image_t45_q029",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "feacce63-039e-4152-a3c1-9bb190876c42",
@@ -822,6 +844,7 @@
     "order": 30,
     "text": "Який із наведених індикаторів інформує водія транспортного засобу про низький рівень палива у паливному баку?",
     "imageResId": "image_t45_q030",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e9dd1558-f444-46a0-a257-87993802ade0",
@@ -856,6 +879,7 @@
     "order": 31,
     "text": "Який із наведених індикаторів вмикається при запуску двигуна та інформує водія транспортного засобу про неправильно зачинені двері?",
     "imageResId": "image_t45_q031",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "02c688d7-40cb-4658-9306-4caf75544d2f",
@@ -890,6 +914,7 @@
     "order": 32,
     "text": "Який із наведених індикаторів попереджає водія транспортного засобу про перегрів двигуна?",
     "imageResId": "image_t45_q032",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5940f07b-922a-4ae3-ae94-3eee6a4bc267",
@@ -924,6 +949,7 @@
     "order": 33,
     "text": "Цей індикатор вказує, що в автомобілі увімкнено:",
     "imageResId": "image_t45_q033",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "02b8ff9d-4c7b-4c0d-88c2-df2a415f8405",

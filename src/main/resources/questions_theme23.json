@@ -27,6 +27,7 @@
     "order": 2,
     "text": "Жорстке зчеплення повинно забезпечувати відстань між транспортними засобами не більше ніж:",
     "imageResId": "image_t23_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "10d6dd97-17be-482b-a6be-d23eda412e30",

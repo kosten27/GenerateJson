@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Ви як водій вантажного автомобіля маєте право перевозити?",
     "imageResId": "image_t49_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5a897520-d4aa-4050-9d5a-8c651c3b28ae",

@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Дана дорожня розмітка у вигляді стрілок, нанесена на смузі руху:",
     "imageResId": "image_t34_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a5d2cbf8-2dc2-4f5e-9d47-305bd4e25af1",
@@ -34,6 +35,7 @@
     "order": 2,
     "text": "Дана вертикальна дорожня розмітка:",
     "imageResId": "image_t34_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4643ee4c-3b87-4bca-9cf6-1a26db317055",
@@ -62,6 +64,7 @@
     "order": 3,
     "text": "Чи дозволено Вам поставити автомобіль на стоянку в даному місці?",
     "imageResId": "image_t34_q003",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ea0b9c37-b371-492e-ae8f-faac9b58e8ab",
@@ -90,6 +93,7 @@
     "order": 4,
     "text": "Дана дорожня розмітка позначає:",
     "imageResId": "image_t34_q004",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "bcd7c64a-8e4d-4fbc-8b06-e8d658461a2b",
@@ -118,6 +122,7 @@
     "order": 5,
     "text": "Який маневр забороняє Вам зображена лінія дорожньої розмітки?",
     "imageResId": "image_t34_q005",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0f2d17c5-89fb-47a2-8d0a-082495c8a70a",
@@ -152,6 +157,7 @@
     "order": 6,
     "text": "Дана дорожня розмітка позначає:",
     "imageResId": "image_t34_q006",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7804ccab-7f57-45ca-a441-3451f7fedb4b",
@@ -180,6 +186,7 @@
     "order": 7,
     "text": "Даною вертикальною дорожньою розміткою позначають:",
     "imageResId": "image_t34_q007",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "03fe4111-8513-43a9-a141-cab12b7fd319",
@@ -208,6 +215,7 @@
     "order": 8,
     "text": "Що означає напис на проїзній частині дороги?",
     "imageResId": "image_t34_q008",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4ee76db4-8349-4eb6-85c3-3868d234317d",
@@ -236,6 +244,7 @@
     "order": 9,
     "text": "Даною дорожньою розміткою у вигляді букви «А» позначають:",
     "imageResId": "image_t34_q009",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "85b2e2c3-31bf-4a7b-bd47-600f09c55737",
@@ -264,6 +273,7 @@
     "order": 10,
     "text": "Даною лінією дорожньої розмітки позначають:",
     "imageResId": "image_t34_q010",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ce224e4f-572a-46c5-af58-4696e5e7815b",
@@ -292,6 +302,7 @@
     "order": 11,
     "text": "Як Ви повинні вчинити, якщо реверсивні світлофори вимкнулися:",
     "imageResId": "image_t34_q011",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3c2d24eb-9107-4f3b-93da-9c04d51e7449",
@@ -320,6 +331,7 @@
     "order": 12,
     "text": "По якій траєкторії ви можете об'їхати перешкоду?",
     "imageResId": "image_t34_q012",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2200af61-2df6-4186-ab28-1939fdf5bd85",
@@ -348,6 +360,7 @@
     "order": 13,
     "text": "Які з перелічених транспортних засобів мають право рухатися по смузі, позначеній розміткою «А», на яку поширюється дія дорожнього знака, розміщеного праворуч від дороги?",
     "imageResId": "image_t34_q013",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9277b7c4-12e1-453c-abcf-987e59869e8f",
@@ -376,6 +389,7 @@
     "order": 14,
     "text": "Чи дозволено велосипедисту рухатись смугою для маршрутних транспортних засобів позначеній вказаним дорожнім знаком?",
     "imageResId": "image_t34_q014",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6e14f006-b44f-481f-962a-743366479ec5",
@@ -398,6 +412,7 @@
     "order": 15,
     "text": "Чи дозволено Вам зупинку в зазначеному місці для висадки пасажира?",
     "imageResId": "image_t34_q015",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "edb94bc8-2349-4b24-a96b-a3da274b41fd",
@@ -432,6 +447,7 @@
     "order": 16,
     "text": "Дана дорожня розмітка у вигляді стрілки, нанесена на смузі руху:",
     "imageResId": "image_t34_q016",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "53f5bf5b-5ca6-4681-91ea-afb2851675a5",
@@ -460,6 +476,7 @@
     "order": 17,
     "text": "Чи дозволено Вам (не водію маршрутного ТЗ) зупинитися в цьому місці для посадки або висадки пасажирів?",
     "imageResId": "image_t34_q017",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "67ec6b1f-3adf-43b5-848e-0259be757bac",
@@ -488,6 +505,7 @@
     "order": 18,
     "text": "Дана вертикальна дорожня розмітка на огородженні дороги попереджає:",
     "imageResId": "image_t34_q018",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "711f373b-e99d-41f8-9db5-0406bee384f4",
@@ -516,6 +534,7 @@
     "order": 19,
     "text": "Що означає дорожня розмітка у вигляді трикутника на смузі руху?",
     "imageResId": "image_t34_q019",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "412a4942-c26b-4087-b473-4c333aa1c32b",
@@ -544,6 +563,7 @@
     "order": 20,
     "text": "Чи дозволяє Вам дана дорожня розмітка виконати обгін трактора в такій ситуації?",
     "imageResId": "image_t34_q020",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "431731dc-882c-4963-877e-6844966db9ed",
@@ -572,6 +592,7 @@
     "order": 21,
     "text": "Такою вертикальною дорожньою розміткою позначають:",
     "imageResId": "image_t34_q021",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6c4e32c6-e77c-484f-b1d9-f0b8cdbd8471",
@@ -594,6 +615,7 @@
     "order": 22,
     "text": "Чи дозволено вам випередження по реверсивній смузі, якщо реверсивний світлофор вимкнений?",
     "imageResId": "image_t34_q022",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "285a6e61-7807-4abe-915a-cb2a7ac091a7",
@@ -616,6 +638,7 @@
     "order": 23,
     "text": "У якому місці Ви повинні зупинитися, щоб дати дорогу транспортним засобам на перехрещуванній дорозі, повертаючи ліворуч у даній ситуації?",
     "imageResId": "image_t34_q023",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8481a55b-a450-4d94-93b7-6e3fec5584ce",
@@ -650,6 +673,7 @@
     "order": 24,
     "text": "Водій якого автомобіля не порушує Правила дорожнього руху в даній ситуації?",
     "imageResId": "image_t34_q024",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "229a6aea-3c52-4fc7-ba82-dfc6c6256102",
@@ -684,6 +708,7 @@
     "order": 25,
     "text": "У якому із зазначених місць Ви можете перетнути суцільну лінію дорожньої розмітки та зупинитися?",
     "imageResId": "image_t34_q025",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c95abeb9-c209-444f-abae-ea1848ebf5e3",
@@ -712,6 +737,7 @@
     "order": 26,
     "text": "Чи дозволено Вам у легковому автомобілі продовжити рух по правій смузі?",
     "imageResId": "image_t34_q026",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "06648426-753d-425c-be85-41eb84532f45",
@@ -740,6 +766,7 @@
     "order": 27,
     "text": "Що означають переривчасті лінії розмітки, які знаходяться з правого боку від водія?",
     "imageResId": "image_t34_q027",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e02e3850-e095-4ca9-b3fe-d24d3282a71e",
@@ -768,6 +795,7 @@
     "order": 28,
     "text": "Чи дозволено Вам стоянку в зазначеному місці?",
     "imageResId": "image_t34_q028",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4b87ee7a-bfde-4ff6-918a-16aec25b4405",
@@ -796,6 +824,7 @@
     "order": 29,
     "text": "Чи дозволяє Вам дана дорожня розмітка виконати обгін?",
     "imageResId": "image_t34_q029",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d62671a8-5a4b-45fa-9808-54baa0b282f3",
@@ -824,6 +853,7 @@
     "order": 30,
     "text": "У даній ситуації Ви повинні:",
     "imageResId": "image_t34_q030",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "276ae32a-e521-48bd-90cc-597397d6217a",
@@ -939,6 +969,7 @@
     "order": 34,
     "text": "Ця горизонтальна дорожня розмітка позначає ділянки, на які забороняється виїжджати на перехресті, якщо попереду утворився затор?",
     "imageResId": "image_t34_q034",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8a8341c9-9be1-469c-a379-bb04af59c751",
@@ -961,6 +992,7 @@
     "order": 35,
     "text": "Чи дозволено виїжджати на цю горизонтальну розмітку на перехрестях під час заторів?",
     "imageResId": "image_t34_q035",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "dd6b4f10-22b2-4936-b256-b074032e7346",

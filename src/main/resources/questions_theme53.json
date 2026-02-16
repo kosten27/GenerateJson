@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Яку максимальну кількість пасажирів, враховуючи місце водія має право перевозити водій мікроавтобуса?",
     "imageResId": "image_t53_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4a45e8e3-04df-4119-ab0d-aca8c68f1f2a",

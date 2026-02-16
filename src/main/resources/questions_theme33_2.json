@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Зображений дорожній знак діє:",
     "imageResId": "image_t33_q196",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "9bffce20-cd5e-45e2-af91-5ded9d120ed9",
@@ -34,6 +35,7 @@
     "order": 2,
     "text": "Водій правильно виконав вимогу даного дорожнього знака, встановленого на нерегульованому перехресті, якщо:",
     "imageResId": "image_t33_q197",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "a43de81a-9e80-49a7-9525-d3ef3a057982",
@@ -62,6 +64,7 @@
     "order": 3,
     "text": "Чи є обов'язковою зупинка для виконання вимоги даного дорожнього знака?",
     "imageResId": "image_t33_q198",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "0366014b-e8da-4f35-b4b8-942b0a7afa69",
@@ -84,6 +87,7 @@
     "order": 4,
     "text": "Який дорожній знак встановлено на дорозі, що перетинається, якщо для вас встановлено даний знак?",
     "imageResId": "image_t33_q209",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e44d9919-23e5-402c-be86-69020d01860c",
@@ -118,6 +122,7 @@
     "order": 5,
     "text": "Вимога якого із зображених знаків зобов'язує водія транспортного засобу обов'язково зупинитися на нерегульованому перехресті або залізничному переїзді?",
     "imageResId": "image_t33_q294",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8de943cb-b0cb-499c-be47-19c062a67bc3",
@@ -158,6 +163,7 @@
     "order": 6,
     "text": "Який із зображених дорожніх знаків надає переважне право проїзду вузької ділянки дороги водієві зустрічного транспортного засобу?",
     "imageResId": "image_t33_q295",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "512c8628-388f-4af4-ae9f-3a830361d0e1",
@@ -198,6 +204,7 @@
     "order": 7,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q296",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "106ca555-a1b4-4eef-9574-afd98535d512",
@@ -232,6 +239,7 @@
     "order": 8,
     "text": "Як ви роз'їдетеся із зустрічним транспортним засобом у даній ситуації?",
     "imageResId": "image_t33_q297",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b19c4c8d-ca64-42eb-aaac-d289d88801ef",
@@ -254,6 +262,7 @@
     "order": 9,
     "text": "Хто з водіїв має перевагу під час зустрічного роз'їзду в даній ситуації?",
     "imageResId": "image_t33_q298",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "469f7979-656e-4301-8317-c71aa621a9cf",
@@ -276,6 +285,7 @@
     "order": 10,
     "text": "Який дорожній знак встановлюється зустрічним транспортним засобам, якщо для вас встановлено даний дорожній знак?",
     "imageResId": "image_t33_q299",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "cd53bbd2-5482-4bf7-9514-81dabee876d2",
@@ -316,6 +326,7 @@
     "order": 11,
     "text": "Який із зображених дорожніх знаків надає перевагу стосовно зустрічних транспортних засобів на вузькій ділянці дороги?",
     "imageResId": "image_t33_q300",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "608f91a5-5e67-4802-bc06-91c2346fb86a",
@@ -356,6 +367,7 @@
     "order": 12,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q301",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "d78cebab-43b4-4c48-88da-3bb58369ac6c",
@@ -396,6 +408,7 @@
     "order": 13,
     "text": "Як ви повинні діяти в даній ситуації при обмеженому зустрічному роз'їзді?",
     "imageResId": "image_t33_q302",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d4cad260-52ee-4d4f-aeef-2cf815059364",
@@ -418,6 +431,7 @@
     "order": 14,
     "text": "Зображений дорожній знак встановлюється:",
     "imageResId": "image_t33_q303",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "48d67705-12e3-4691-80d1-bf7ef983f248",
@@ -440,6 +454,7 @@
     "order": 15,
     "text": "Який із зображених дорожніх знаків скасовує право першочергового проїзду нерегульованих перехресть?",
     "imageResId": "image_t33_q304",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "724a4f55-41c7-4db4-a64a-5c9a7c7cd371",
@@ -474,6 +489,7 @@
     "order": 16,
     "text": "Чи є обов'язковою зупинка для виконання вимог даного знака?",
     "imageResId": "image_t33_q306",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "b1ffed71-668f-4d45-b894-d55a8ed82f9c",
@@ -496,6 +512,7 @@
     "order": 17,
     "text": "У якій з відповідей водій правильно виконав вимогу даного дорожнього знака, проїхавши через перехрестя?",
     "imageResId": "image_t33_q307",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "747f74e1-9de4-4036-9d0c-f9821338fda0",
@@ -524,6 +541,7 @@
     "order": 18,
     "text": "Чи повинен водій жовтого автомобіля зупинитися перед стоп-лінією, якщо він вже зупинявся за попутним автомобілем?",
     "imageResId": "image_t33_q308",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "536edfc5-c5da-4ee0-9bbb-dee31fff483f",
@@ -546,6 +564,7 @@
     "order": 19,
     "text": "У якій із зображених ситуацій водій повинен виконати вимогу знака «Проїзд без зупинки заборонено» (у другій ситуації світлофор працює в режимі миготіння жовтого сигналу)?",
     "imageResId": "image_t33_q309",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3f57a0ac-cfd1-4f8f-af60-022245c00d90",
@@ -574,6 +593,7 @@
     "order": 20,
     "text": "Який із зображених знаків зобов'язує дати дорогу транспортним засобам, що рухаються по дорозі, яка перетинається, на нерегульованих перехрестях?",
     "imageResId": "image_t33_q310",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "eb640ded-2def-449d-916e-236c06b63586",
@@ -602,6 +622,7 @@
     "order": 21,
     "text": "Який із зображених дорожніх знаків надає першочергове право проїзду перед транспортними засобами, що рухаються по дорозі, яка перетинається, на нерегульованих перехрестях?",
     "imageResId": "image_t33_q311",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a616a8a1-0e3a-49cc-89e2-d5df77bf9697",
@@ -642,6 +663,7 @@
     "order": 22,
     "text": "Зображений дорожній знак, встановлений на нерегульованому перехресті:",
     "imageResId": "image_t33_q312",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "7608f938-9d33-4982-908d-80fda4b57d2e",
@@ -670,6 +692,7 @@
     "order": 23,
     "text": "Як Ви повинні вчинити в даній ситуації?",
     "imageResId": "image_t33_q313",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7be3c7dd-2b92-463a-9091-7c2b73712ea9",

@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Чи дозволено навчання водінню транспортного засобу на дорогах, позначених такими дорожніми знаками?",
     "imageResId": "image_t24_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "14b6f527-f262-48c9-9bbc-99a3caef2c4f",
@@ -28,6 +29,7 @@
     "order": 2,
     "text": "Чи дозволена навчальна їзда в житлових зонах?",
     "imageResId": "image_t24_q002",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "ee8ae5d1-c909-4eb8-9a5e-82e61984f279",
@@ -56,6 +58,7 @@
     "order": 3,
     "text": "Яким (-ми) із дорожніх знаків позначається дорога, на якій не заборонена навчальна їзда на легковому автомобілі?",
     "imageResId": "image_t24_q003",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "67533d2d-4925-4cc8-9b21-51bbf6451403",
@@ -90,6 +93,7 @@
     "order": 4,
     "text": "Яким із дорожніх знаків позначається дорога, на якій заборонена навчальна їзда?",
     "imageResId": "image_t24_q004",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "88687662-e7ba-465e-8b17-e034c8073f69",
@@ -403,6 +407,7 @@
     "order": 14,
     "text": "Чи дозволено особам, які навчаються водінню, не пристібатись під час руху в населеному пункті?",
     "imageResId": "image_t24_q014",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e05e07e0-27dd-4bae-a757-799baed3fa78",

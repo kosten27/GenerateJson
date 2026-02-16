@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Які види транспортних засобів можна віднести до категорії ВЕ?",
     "imageResId": "image_t57_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "75672b91-dfb6-4268-85a1-85f025c67b01",

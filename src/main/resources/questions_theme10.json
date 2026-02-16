@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Ви водій синього автомобіля, виконаєте розворот:",
     "imageResId": "image_t10_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9a910e7b-a0bb-4fa3-88d1-9f73c3fa6dfb",
@@ -46,6 +47,7 @@
     "order": 2,
     "text": "В'їжджаючи на дорогу по смузі розгону, водій повинен:",
     "imageResId": "image_t10_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "44fd4c80-99ca-4c26-9d09-8dc4fda010cd",
@@ -68,6 +70,7 @@
     "order": 3,
     "text": "Чи дозволено рух заднім ходом на автомагістралях і дорогах для автомобілів?",
     "imageResId": "image_t10_q003",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0d0572b0-f21c-45dc-b28b-dad8362ec6cf",
@@ -90,6 +93,7 @@
     "order": 4,
     "text": "Чи дозволено рух заднім ходом у тунелях, якщо неможливо під'їхати до об'єкта іншим способом?",
     "imageResId": "image_t10_q004",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9cd31bea-1cad-4b17-b4a6-f3d19106d5b2",
@@ -112,6 +116,7 @@
     "order": 5,
     "text": "Чи дозволено в даному місці небезпечного повороту рух заднім ходом?",
     "imageResId": "image_t10_q005",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b32b412c-08fc-46ff-bf55-5509972c95df",
@@ -134,6 +139,7 @@
     "order": 6,
     "text": "Чи дозволено автомобілю рух заднім ходом у даному місці в умовах недостатньої видимості?",
     "imageResId": "image_t10_q006",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "49686c19-6bf9-48fe-b21c-b1367fd28110",
@@ -156,6 +162,7 @@
     "order": 7,
     "text": "Як роз'їдуться транспортні засоби на лісовій дорозі?",
     "imageResId": "image_t10_q007",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ee47fb72-8f84-4096-b957-57cdc95972b5",
@@ -178,6 +185,7 @@
     "order": 8,
     "text": "Як роз'їдуться транспортні засоби в житловій зоні?",
     "imageResId": "image_t10_q008",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5d5f99a1-52df-4e9e-8e3d-18e5df37bf4b",
@@ -200,6 +208,7 @@
     "order": 9,
     "text": "Ви, водій автомобіля, виїжджаючи з житлової зони, повинні дати дорогу:",
     "imageResId": "image_t10_q009",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6951d4ac-8d0d-485b-b31b-9caa09d8d936",
@@ -228,6 +237,7 @@
     "order": 10,
     "text": "Ви, як водій автомобіля, повертаючи праворуч в показаній ситуації повинні:",
     "imageResId": "image_t10_q010",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b7d3e95d-2d12-4fa6-9208-8eac73886447",
@@ -256,6 +266,7 @@
     "order": 11,
     "text": "Ви водій сірого автомобіля, вирішили перестроїтись праворуч. Ваші дії:",
     "imageResId": "image_t10_q011",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "bf14d77a-79ed-4317-949c-e5c832f81464",
@@ -284,6 +295,7 @@
     "order": 12,
     "text": "Ви водій білого автомобіля, вирішили перестроїтись ліворуч. Ваші дії:",
     "imageResId": "image_t10_q012",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e5b9af7d-ecf9-4162-a45e-53e0b79f3d01",
@@ -312,6 +324,7 @@
     "order": 13,
     "text": "Ви водій білого автомобіля, вирішили перестроїтись ліворуч, а водій сірого автомобіля одночасно з Вами вирішив перестроїтись праворуч. Ви:",
     "imageResId": "image_t10_q013",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "26ba8725-5b45-47aa-bc92-a121b3b95a1e",
@@ -340,6 +353,7 @@
     "order": 14,
     "text": "Ви водій сірого автомобіля, вирішили перестроїтись праворуч, а водій білого автомобіля одночасно з Вами вирішив перестроїтись ліворуч. Ви:",
     "imageResId": "image_t10_q014",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c8386c19-9381-4503-9292-b5357fb4e578",
@@ -368,6 +382,7 @@
     "order": 15,
     "text": "Ви водій синього автомобіля:",
     "imageResId": "image_t10_q015",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "074243ea-ebe6-443a-8961-4a9ec75e26f0",
@@ -402,6 +417,7 @@
     "order": 16,
     "text": "Яким шляхом водій правильно виконує поворот на дорогу зі смугою для розгону?",
     "imageResId": "image_t10_q016",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "cfe8401f-9f77-48b6-a2af-c2e834c61437",
@@ -430,6 +446,7 @@
     "order": 17,
     "text": "Чи дозволено виконати розворот у технологічному розриві цьому транспортному засобу?",
     "imageResId": "image_t10_q017",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d480647a-ed21-45ee-9c31-3d0798afd23c",
@@ -452,6 +469,7 @@
     "order": 18,
     "text": "Хто з водіїв порушив Правила дорожнього руху, виконавши розворот?",
     "imageResId": "image_t10_q018",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "12d8a043-bfa3-40ec-8856-cbd403a253b2",
@@ -480,6 +498,7 @@
     "order": 19,
     "text": "Чи дозволено буде водієві білого автомобіля виконати поворот праворуч?",
     "imageResId": "image_t10_q019",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ac841479-1ded-439b-a0b0-f76934be1fe2",
@@ -502,6 +521,7 @@
     "order": 20,
     "text": "Чи дозволено водієві виконати розворот у даному місці?",
     "imageResId": "image_t10_q020",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d9dd3e05-148e-4950-be66-1a6cc4e3bdd0",
@@ -524,6 +544,7 @@
     "order": 21,
     "text": "Чи правильно водій, який знаходиться ліворуч, виконує поворот праворуч?",
     "imageResId": "image_t10_q021",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "54957adc-c9a6-47bc-b597-73354c18a558",
@@ -546,6 +567,7 @@
     "order": 22,
     "text": "Чи правильно водій білого автомобіля виконав з'їзд із перехрестя з круговим рухом одночасно з водієм синього автомобіля?",
     "imageResId": "image_t10_q022",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ee240a60-c246-485b-8834-ad3941a56803",
@@ -568,6 +590,7 @@
     "order": 23,
     "text": "Хто з водіїв правильно зайняв смугу для повороту у разі в’їзду на перехрестя, де організовано круговий рух?",
     "imageResId": "image_t10_q023",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2aa42c49-1ca2-47a5-9388-572934219dc1",
@@ -596,6 +619,7 @@
     "order": 24,
     "text": "Чи правильно автомобіль, що знаходиться ліворуч, виконує поворот праворуч у другу смугу для руху?",
     "imageResId": "image_t10_q024",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "22701258-6485-43c9-b8db-4e4e94f0b737",
@@ -618,6 +642,7 @@
     "order": 25,
     "text": "Чи дозволено водієві виконати розворот на перехресті так, як показано на малюнку?",
     "imageResId": "image_t10_q025",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b82ed392-62b9-422d-9bf0-cb0efd95c070",
@@ -640,6 +665,7 @@
     "order": 26,
     "text": "У якому місці водій правильно виконав розворот?",
     "imageResId": "image_t10_q026",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9c1cee7b-03d0-489b-9665-b017ad29532c",
@@ -1754,6 +1780,7 @@
     "order": 63,
     "text": "Чи дозволено Вам виконати розворот одразу після проїзду зустрічного автомобіля в наведеній ситуації?",
     "imageResId": "image_t10_q063",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3dd9a902-63c2-49fb-87d0-a6b5d98cba60",
@@ -1776,6 +1803,7 @@
     "order": 64,
     "text": "Чи дозволено Вам виконати розворот, якщо видимість дороги менше 100 м в обох напрямках?",
     "imageResId": "image_t10_q064",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "43e66a44-b540-440e-910f-6cd55bce351c",
@@ -1798,6 +1826,7 @@
     "order": 65,
     "text": "Водій сірого автомобіля здійснює в’їзд на перехрестя з круговим рухом. Чи потрібно в такому випадку вмикати лівий покажчик повороту?",
     "imageResId": "image_t10_q065",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "81170921-9806-4361-8171-ec59b937e0ae",
@@ -1820,6 +1849,7 @@
     "order": 66,
     "text": "Чи дозволено водієві червоного автомобіля рухатись прямо у даному випадку?",
     "imageResId": "image_t10_q066",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "56d3a73a-01cd-458a-b9d6-628467728b0b",
@@ -1842,6 +1872,7 @@
     "order": 67,
     "text": "Чи дозволено Вам повернути ліворуч у даному випадку?",
     "imageResId": "image_t10_q067",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b01bfb76-fb0c-4d35-829a-1abf6c8323f2",
@@ -1891,6 +1922,7 @@
     "order": 69,
     "text": "Якщо пішохідний перехід розділений острівцем безпеки, на такому переході дозволено виконати розворот?",
     "imageResId": "image_t10_q069",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b0a2c271-a21f-471e-98c9-d69c70496fb7",
@@ -1913,6 +1945,7 @@
     "order": 70,
     "text": "У якому випадку дозволено виконати розворот під час руху тунелем?",
     "imageResId": "image_t10_q070",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "472c1a18-5ca5-4b32-901c-989a8c9c091a",
@@ -1962,6 +1995,7 @@
     "order": 72,
     "text": "Чи можете Ви, виїжджаючи з місця паркування заднім ходом, для забезпечення безпеки руху звернутися за допомогою до інших осіб:",
     "imageResId": "image_t10_q072",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c6b00421-0413-4c28-a49d-f2b2fd2f330e",
@@ -1984,6 +2018,7 @@
     "order": 73,
     "text": "Під час руху на автомагістралі водій червоного автомобіля пропустив поворот праворуч. Чи дозволено йому рухатись заднім ходом, якщо позаду немає транспортних засобів?",
     "imageResId": "image_t10_q073",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0aeb5498-41de-4b5f-956a-4be1858bde56",
@@ -2048,6 +2083,7 @@
     "order": 76,
     "text": "Чи дозволений розворот у технологічних розривах розділювальної смуги на автомагістралі?",
     "imageResId": "image_t10_q076",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "addb17f2-c471-4e8a-a807-07e6e14742f1",
