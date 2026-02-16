@@ -66,6 +66,7 @@ fun main() {
     }
 
     val themeWithImagesString = parseQuestionsWithImages(File("src/main/resources/question_images.txt").readText())
+    val themeImageTypeList = parseQuestionImageTypes(File("src/main/resources/question_images_type.txt").readText())
     val answersString = File("src/main/resources/answers.txt").readText().split("\n")
 
     val answerThemeRegex = Regex("""^(\d*.\d*):(.+)""")
@@ -87,6 +88,7 @@ fun main() {
     var currentTheme: Theme? = null
     var currentTheme33Map: Map<String, Theme>? = null
     var currentThemeWithImages: ThemeImages? = null
+    var currentThemeImageTypes: ThemeImageTypes? = null
     var currentQuestion: Question? = null
 
     val themeRegex = Regex("""^(\d+(.\d)?)\.\s+([A-ZА-ЯІЇЄҐ0-9\s'’\-(),]+)$""")
@@ -113,6 +115,7 @@ fun main() {
                     )
                 }
                 currentThemeWithImages = themeWithImagesString.find { it.themeOrder == "33" }
+                currentThemeImageTypes = themeImageTypeList.find { it.themeOrder == "33" }
                 currentTheme33Map?.let { themes.addAll(it.values) }
                 currentQuestion = null
                 val match = themeRegex.find(trimmed)!!
@@ -142,6 +145,7 @@ fun main() {
                     model.order.toString() + (model.suborder?.let { ".$it" } ?: "")
                 }
                 currentThemeWithImages = themeWithImagesString.find { it.themeOrder == themeOrder }
+                currentThemeImageTypes = themeImageTypeList.find { it.themeOrder == themeOrder }
                 themes += currentTheme!!
                 currentQuestion = null
                 currentTheme33Map = null
@@ -152,9 +156,11 @@ fun main() {
                 val match = questionRegex.find(trimmed)!!
                 val sourceQuestionOrder = match.groupValues[1].toInt()
                 var imageResId: String? = null
+                var imageType: ImageType? = null
                 if (currentThemeWithImages?.questionsWithImage?.contains(sourceQuestionOrder) == true) {
                     val themeOrder = currentThemeWithImages?.themeOrder?.replace(".", "_")
                     imageResId = "image_t${themeOrder}_q${sourceQuestionOrder.toString().padStart(3, '0')}"
+                    imageType = currentThemeImageTypes?.imageTypeMap?.get(sourceQuestionOrder)
                 }
                 val questionTheme = if (currentTheme33Map == null) currentTheme else {
                     val questionThemeOrder = parsedMatchTheme33.filter { it.value.contains(sourceQuestionOrder) }.map { it.key }.first()
@@ -168,7 +174,8 @@ fun main() {
                     sourceOrder = sourceQuestionOrder,
                     order = currentQuestionOrder,
                     text = match.groupValues[2].trim(),
-                    imageResId = imageResId
+                    imageResId = imageResId,
+                    imageType = imageType
                 )
                 questionTheme?.questions?.add(currentQuestion!!)
             }
@@ -207,6 +214,7 @@ fun main() {
                 order = question.order,
                 text = question.text,
                 imageResId = question.imageResId,
+                imageType = question.imageType?.toPopulatedModel(),
                 answerOptionList = question.answerOptionList.map { answerOption ->
                     PopulateAnswerOptionModel(
                         id = answerOption.id.toString(),
@@ -295,6 +303,39 @@ fun parseQuestionsWithImages(input: String): List<ThemeImages> {
     }
 }
 
+fun parseQuestionImageTypes(input: String): List<ThemeImageTypes> {
+    val lines = input.trim().lines()
+    val themeRegex = Regex("""^(\d+(.\d)?):(.*)$""")
+
+    return lines.mapNotNull { line ->
+        val match = themeRegex.matchEntire(line) ?: return@mapNotNull null
+
+        val themeId = match.groupValues[1].replace(".", "_")
+        val raw = match.groupValues[3].trim()
+
+        if (raw.isEmpty()) {
+            ThemeImageTypes(themeId, emptyMap())
+        } else {
+            val imageTypeMap = raw.split(",")
+                .associate { part ->
+                val (questionNumber, imageTypeString) = part.split("-")
+                if (imageTypeString != "i" && imageTypeString != "rs") {
+                    throw RuntimeException("Wrong image type for question number $questionNumber: $imageTypeString")
+                }
+                questionNumber.toInt() to when (imageTypeString) {
+                    "rs" -> ImageType.ROAD_SIGN
+                    else -> ImageType.IMAGE
+                }
+//                    val originalImageName = "image_${imageNumber}.jpg"
+//                    val newImageName = "image_t${themeId}_q${questionNumber.padStart(3, '0')}.jpg"
+//                    val bytes = File("src/main/resources/original_images/${originalImageName}").readBytes()
+//                    File("src/main/resources/renamed_images/${newImageName}").writeBytes(bytes)
+            }
+            ThemeImageTypes(themeId, imageTypeMap)
+        }
+    }
+}
+
 fun parseMatchTheme(input: String): Map<String, List<Int>> {
     val lines = input.trim().lines()
     val themeRegex = Regex("""^(\d+(.\d)?):(.*)$""")
@@ -323,6 +364,23 @@ data class ThemeImages(
     val questionsWithImage: List<Int>
 )
 
+data class ThemeImageTypes(
+    val themeOrder: String,
+    val imageTypeMap: Map<Int, ImageType>
+)
+
+enum class ImageType {
+    IMAGE,
+    ROAD_SIGN
+}
+
+fun ImageType.toPopulatedModel(): PopulatedImageType {
+    return when (this) {
+        ImageType.IMAGE -> { PopulatedImageType.IMAGE }
+        ImageType.ROAD_SIGN -> { PopulatedImageType.ROAD_SIGN }
+    }
+}
+
 data class Theme(
     val id: Uuid?,
     val order: String,
@@ -341,6 +399,7 @@ data class Question(
     val order: Int,
     val text: String,
     val imageResId: String? = null,
+    val imageType: ImageType? = null,
     val answerOptionList: MutableList<Answer> = mutableListOf()
 )
 

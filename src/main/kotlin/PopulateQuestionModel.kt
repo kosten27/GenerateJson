@@ -8,5 +8,6 @@ data class PopulateQuestionModel(
     val order: Int,
     val text: String,
     val imageResId: String? = null,
+    val imageType: PopulatedImageType? = null,
     val answerOptionList: List<PopulateAnswerOptionModel>
 )
