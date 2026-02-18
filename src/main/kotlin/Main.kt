@@ -327,8 +327,11 @@ fun parseImageNames(input: String): List<ThemeImageNames> {
                     val (questionNumber, imageShortName) = part.split("-")
                     val imageName = if (imageShortName.contains("rs_")) {
                         imageShortName.replace("rs_", "road_sign_")
+//                    } else if (imageShortName.contains("tl_")) {
+//                        imageShortName.replace("tl_", "traffic_light")
+//                    } else if (imageShortName.contains("is_")) {
+//                        imageShortName.replace("is_", "identification_sign")
                     } else {
-//                        "image_t" + themeId.replace(".", "_") + "q"
                         val themeOrder = themeId.replace(".", "_")
                         "image_t${themeOrder}_q${questionNumber.padStart(3, '0')}"
                     }
@@ -355,11 +358,17 @@ fun parseQuestionImageTypes(input: String): List<ThemeImageTypes> {
             val imageTypeMap = raw.split(",")
                 .associate { part ->
                 val (questionNumber, imageTypeString) = part.split("-")
-                if (imageTypeString != "i" && imageTypeString != "rs") {
+                if (imageTypeString != "i"
+                    && imageTypeString != "rs"
+                    && imageTypeString != "tl"
+                    && imageTypeString != "is"
+                ) {
                     throw RuntimeException("Wrong image type for question number $questionNumber: $imageTypeString")
                 }
                 questionNumber.toInt() to when (imageTypeString) {
                     "rs" -> ImageType.ROAD_SIGN
+                    "tl" -> ImageType.TRAFFIC_LIGHT
+                    "is" -> ImageType.IDENTIFICATION_SIGN
                     else -> ImageType.IMAGE
                 }
 //                    val originalImageName = "image_${imageNumber}.jpg"
@@ -412,13 +421,17 @@ data class ThemeImageTypes(
 
 enum class ImageType {
     IMAGE,
-    ROAD_SIGN
+    ROAD_SIGN,
+    TRAFFIC_LIGHT,
+    IDENTIFICATION_SIGN
 }
 
 fun ImageType.toPopulatedModel(): PopulatedImageType {
     return when (this) {
         ImageType.IMAGE -> { PopulatedImageType.IMAGE }
         ImageType.ROAD_SIGN -> { PopulatedImageType.ROAD_SIGN }
+        ImageType.TRAFFIC_LIGHT -> { PopulatedImageType.TRAFFIC_LIGHT }
+        ImageType.IDENTIFICATION_SIGN -> { PopulatedImageType.IDENTIFICATION_SIGN }
     }
 }
 

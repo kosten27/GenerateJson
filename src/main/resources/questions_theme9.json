@@ -6,7 +6,7 @@
     "order": 1,
     "text": "Який попереджувальний сигнал вмикається під час руху на всіх транспортних засобах колони у світлий час доби?",
     "imageResId": "image_t9_q001",
-    "imageType": "ROAD_SIGN",
+    "imageType": "IDENTIFICATION_SIGN",
     "answerOptionList": [
       {
         "id": "64dedeef-a782-418b-aa93-cf6af109296c",

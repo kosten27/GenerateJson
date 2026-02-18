@@ -402,7 +402,7 @@
     "sourceOrder": 16,
     "order": 16,
     "text": "Що позначає вказаний дорожній знак?",
-    "imageResId": "image_t6_q016",
+    "imageResId": "road_sign_5_92_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -481,7 +481,7 @@
     "sourceOrder": 19,
     "order": 19,
     "text": "Велосипедна смуга дозволяє також рух мопедів по ній?",
-    "imageResId": "image_t6_q019",
+    "imageResId": "road_sign_5_88",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -504,7 +504,7 @@
     "sourceOrder": 20,
     "order": 20,
     "text": "Велосипедна смуга дозволяє також рух мотоциклів по ній?",
-    "imageResId": "image_t6_q020",
+    "imageResId": "road_sign_5_88",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -527,7 +527,7 @@
     "sourceOrder": 21,
     "order": 21,
     "text": "Крім велосипедів, по велосипедній смузі можуть рухатись:",
-    "imageResId": "image_t6_q021",
+    "imageResId": "road_sign_5_88",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
