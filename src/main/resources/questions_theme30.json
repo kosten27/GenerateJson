@@ -6,7 +6,7 @@
     "order": 1,
     "text": "Цим розпізнавальним знаком позначаються транспортні засоби, на яких:",
     "imageResId": "image_t30_q001",
-    "imageType": "ROAD_SIGN",
+    "imageType": "IDENTIFICATION_SIGN",
     "answerOptionList": [
       {
         "id": "07ad8bb8-ad37-4f52-ab63-f08f966a14d8",
