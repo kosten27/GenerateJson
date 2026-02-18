@@ -349,8 +349,8 @@ fun parseQuestionImageTypes(input: String): List<ThemeImageTypes> {
     return lines.mapNotNull { line ->
         val match = themeRegex.matchEntire(line) ?: return@mapNotNull null
 
-        val themeId = match.groupValues[1].replace(".", "_")
-        val raw = match.groupValues[3].trim()
+        val themeId = match.groupValues[1]
+        val raw = match.groupValues[3]
 
         if (raw.isEmpty()) {
             ThemeImageTypes(themeId, emptyMap())

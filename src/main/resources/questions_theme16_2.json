@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "447d4646-d267-430b-8ba4-0e174fa21221",
@@ -34,6 +35,7 @@
     "order": 2,
     "text": "Ви повинні проїхати дане перехрестя:",
     "imageResId": "image_t16_2_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4807a940-2bfa-4fc2-b69a-fc639c19ca14",
@@ -56,6 +58,7 @@
     "order": 3,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q003",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "dc9d1abe-84e7-4241-b933-978a3266fbd1",
@@ -78,6 +81,7 @@
     "order": 4,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q004",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d651473a-0982-4768-892e-bd37a8c3e9f9",
@@ -100,6 +104,7 @@
     "order": 5,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q005",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d3bae7b9-7cff-4f46-8b08-182228a9cc79",
@@ -122,6 +127,7 @@
     "order": 6,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q006",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "32e93d70-cc73-4edf-8beb-5be7beebd221",
@@ -144,6 +150,7 @@
     "order": 7,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q007",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "184b9897-db90-44a5-9a15-7f397280b1e2",
@@ -166,6 +173,7 @@
     "order": 8,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q008",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8a053900-214b-4d89-8801-41f142ca0700",
@@ -188,6 +196,7 @@
     "order": 9,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q009",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "06b55b1d-9793-4221-95cc-2df0ddd44952",
@@ -210,6 +219,7 @@
     "order": 10,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q010",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "85987cb4-b4d7-4658-a5e8-1cb59d1559bd",
@@ -232,6 +242,7 @@
     "order": 11,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q011",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7d18e94e-d19c-414f-90f2-eb699ea3e196",
@@ -254,6 +265,7 @@
     "order": 12,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q012",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "bf2fbb57-f36e-4a71-8088-be921c2643d6",
@@ -276,6 +288,7 @@
     "order": 13,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q013",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "900b3dd5-e551-417e-99eb-f32f61526991",
@@ -298,6 +311,7 @@
     "order": 14,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q014",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "439b6ae0-4eff-4187-b900-f9807f033297",
@@ -320,6 +334,7 @@
     "order": 15,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q015",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b3b9cdfb-9b13-43c8-b76e-ef0ed1cf1ced",
@@ -348,6 +363,7 @@
     "order": 16,
     "text": "Повертаючи ліворуч на цьому перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q016",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3485f57c-fcb2-44e1-b7b6-050ca8d83d1e",
@@ -376,6 +392,7 @@
     "order": 17,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q017",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5602869d-0f68-410a-9cc3-a4a410832659",
@@ -404,6 +421,7 @@
     "order": 18,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q018",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "689f2d2f-cdea-4bea-9a42-039fd513f7fa",
@@ -432,6 +450,7 @@
     "order": 19,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q019",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a8042d8f-0bae-46ca-b7b8-816c7411e76b",
@@ -460,6 +479,7 @@
     "order": 20,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q020",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "84b913fa-3010-4b06-afe3-891ca43965e1",
@@ -488,6 +508,7 @@
     "order": 21,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q021",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "abde1718-b28d-4dff-8746-51df7f2134a0",
@@ -516,6 +537,7 @@
     "order": 22,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q022",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1ea0d1b0-bb04-4466-a2b2-5e60c5e7f033",
@@ -538,6 +560,7 @@
     "order": 23,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q023",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7a4574e7-8247-4e7f-b664-575cf49a71e6",
@@ -560,6 +583,7 @@
     "order": 24,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q024",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6997ff4e-dcaf-44c0-878f-a0e1cdf16b64",
@@ -582,6 +606,7 @@
     "order": 25,
     "text": "Рухаючись прямо на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q025",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e79fc885-4652-4e60-ab40-8f1000445aac",
@@ -604,6 +629,7 @@
     "order": 26,
     "text": "Виїжджаючи на дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q026",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8050fc4a-3d9d-499c-94fb-8f3ea623c851",
@@ -626,6 +652,7 @@
     "order": 27,
     "text": "Повертаючи ліворуч у даній ситуації, Ви повинні:",
     "imageResId": "image_t16_2_q027",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0060db7c-4918-41de-93f3-5e24c6d0de5f",
@@ -648,6 +675,7 @@
     "order": 28,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q028",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ccadc628-dc8f-4aa5-9711-7fffbc688da8",
@@ -670,6 +698,7 @@
     "order": 29,
     "text": "Повертаючи ліворуч у даній ситуації, Ви повинні:",
     "imageResId": "image_t16_2_q029",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9b7bf450-9060-4d10-8e1f-3192babe691b",
@@ -698,6 +727,7 @@
     "order": 30,
     "text": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q030",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6181b2f3-05fb-476e-81fe-306db3b2c394",
@@ -726,6 +756,7 @@
     "order": 31,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q031",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "f5aa4684-b52e-493c-a663-7cae60bd770d",
@@ -754,6 +785,7 @@
     "order": 32,
     "text": "Ви повернете ліворуч на даному перехресті:",
     "imageResId": "image_t16_2_q032",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "bc8e282c-cbc8-4252-9dd2-612aab284918",
@@ -782,6 +814,7 @@
     "order": 33,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q033",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1391d055-034b-4f7e-a343-ed43fe90aaf2",
@@ -810,6 +843,7 @@
     "order": 34,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q034",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "799bb8a9-d40f-48d5-91e6-e4d4f7db26af",
@@ -838,6 +872,7 @@
     "order": 35,
     "text": "Як повинен чинити водій транспортного засобу, що наближається до перехрестя, на якому немає знаків пріоритету, а наявність покриття на дорозі неможливо визначити у зв'язку з погодними або іншими умовами?",
     "imageResId": "image_t16_2_q035",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "40ddabd4-0ec9-433a-bd38-ea1fcba7f071",
@@ -866,6 +901,7 @@
     "order": 36,
     "text": "Як повинен поводитися водій у ситуації, коли неможливо визначити наявність покриття на дорозі, за відсутності знаків пріоритету?",
     "imageResId": "image_t16_2_q036",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "628bda98-2a24-4101-b4fd-3349af6c0854",
@@ -888,6 +924,7 @@
     "order": 37,
     "text": "Повертаючи ліворуч у даній ситуації, Ви повинні:",
     "imageResId": "image_t16_2_q037",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "553fe922-f164-4d95-bd13-12c449bbd4a6",
@@ -910,6 +947,7 @@
     "order": 38,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q038",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ba106cc5-55d6-4137-9c73-4c4ea5f5134d",
@@ -938,6 +976,7 @@
     "order": 39,
     "text": "Як повинен вчинити водій жовтого автомобіля в даній ситуації?",
     "imageResId": "image_t16_2_q039",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "cc32b7fc-35ea-4968-8616-4dedf2d7a34b",
@@ -960,6 +999,7 @@
     "order": 40,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q040",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "67fd40c0-152c-4aee-801c-1e122e3d19b8",
@@ -982,6 +1022,7 @@
     "order": 41,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q041",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "15a77274-b1a6-4c13-8112-b0c4efb247d3",
@@ -1010,6 +1051,7 @@
     "order": 42,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q042",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c1286d44-2954-4d2f-9006-a8c61e8dbd3a",
@@ -1044,6 +1086,7 @@
     "order": 43,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q043",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "93edc9a4-e51b-4d57-879b-089ca5559b1d",
@@ -1078,6 +1121,7 @@
     "order": 44,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q044",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9a4d8045-1a35-4f91-8515-cdf932a9ad10",
@@ -1112,6 +1156,7 @@
     "order": 45,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q045",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2069f1d7-4f1e-40c0-bdde-0c1b681312ea",
@@ -1140,6 +1185,7 @@
     "order": 46,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q046",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "582c4655-3726-4161-bf9b-dbfd98cd52ba",
@@ -1168,6 +1214,7 @@
     "order": 47,
     "text": "Ви проїдете дане перехрестя:",
     "imageResId": "image_t16_2_q047",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6908db93-c5d7-46cf-b8db-746ab8bb0a35",
@@ -1196,6 +1243,7 @@
     "order": 48,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q048",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e2332f65-94fe-44e5-a077-6ae0f5bd5840",
@@ -1224,6 +1272,7 @@
     "order": 49,
     "text": "Рухаючись прямо на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q049",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b08ee087-ec46-4408-91b2-6875efa78bae",
@@ -1252,6 +1301,7 @@
     "order": 50,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q050",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e53a40b7-bf58-4b9b-8692-f6f06ea3570d",
@@ -1274,6 +1324,7 @@
     "order": 51,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті:",
     "imageResId": "image_t16_2_q051",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6db318c2-640e-4c70-b3b5-c9df194242d8",
@@ -1308,6 +1359,7 @@
     "order": 52,
     "text": "Який транспортний засіб проїде перехрестя третім?",
     "imageResId": "image_t16_2_q052",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7edb8323-926f-42c9-b5bb-b6287d3ed528",
@@ -1342,6 +1394,7 @@
     "order": 53,
     "text": "Який транспортний засіб проїде дане перехрестя другим?",
     "imageResId": "image_t16_2_q053",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5890f91a-54b3-4c41-8d04-2a4f919a15e7",
@@ -1364,6 +1417,7 @@
     "order": 54,
     "text": "Як Ви повинні проїхати дане перехрестя?",
     "imageResId": "image_t16_2_q054",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1d8b8e4c-1baf-4ef3-a639-1ebcefed2b15",
@@ -1386,6 +1440,7 @@
     "order": 55,
     "text": "Ви проїдете перехрестя:",
     "imageResId": "image_t16_2_q055",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9c074dd9-3fa2-40bf-a3d8-ca1b8177cc8b",
@@ -1414,6 +1469,7 @@
     "order": 56,
     "text": "На даному перехресті водій коричневого автомобіля повинен:",
     "imageResId": "image_t16_2_q056",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "98756bc4-fd30-4887-96d4-da3db5472e9f",
@@ -1436,6 +1492,7 @@
     "order": 57,
     "text": "Як повинен вчинити водій синього автомобіля в даній ситуації?",
     "imageResId": "image_t16_2_q057",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "81f7f0a3-cf06-4f09-a0c8-5e02cfdaab29",
@@ -1458,6 +1515,7 @@
     "order": 58,
     "text": "Під час руху прямо на даному перехресті Ви повинні:",
     "imageResId": "image_t16_2_q058",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0dac32e9-854e-4ae8-8952-c13ef9482d63",
@@ -1480,6 +1538,7 @@
     "order": 59,
     "text": "На даному перехресті Ви повинні:",
     "imageResId": "image_t16_2_q059",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5b90d4df-69e8-4166-81f5-56dd75ffd33e",
@@ -1502,6 +1561,7 @@
     "order": 60,
     "text": "Який транспортний засіб проїде перехрестя останнім?",
     "imageResId": "image_t16_2_q060",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "14650007-4054-4955-95e6-14574dea304a",
@@ -1542,6 +1602,7 @@
     "order": 61,
     "text": "Яка черговість проїзду даного перехрестя?",
     "imageResId": "image_t16_2_q061",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9af11845-8074-43ab-adea-a5e817cc8bfb",
@@ -1576,6 +1637,7 @@
     "order": 62,
     "text": "Який транспортний засіб проїде перехрестя останнім?",
     "imageResId": "image_t16_2_q062",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ea77242b-6fb0-41a0-a9dc-a7c18ff88958",
@@ -1610,6 +1672,7 @@
     "order": 63,
     "text": "Яка черговість проїзду даного перехрестя?",
     "imageResId": "image_t16_2_q063",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7ae18ffb-5a07-4508-ba46-c9a388555b6c",
@@ -1632,6 +1695,7 @@
     "order": 64,
     "text": "Білий автомобіль проїде дане перехрестя:",
     "imageResId": "image_t16_2_q064",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8432b329-35f3-4e76-8b96-6a033c905016",
@@ -1660,6 +1724,7 @@
     "order": 65,
     "text": "На якому малюнку показано нерегульоване перехрестя (на малюнках 2 і 3 миготливий жовтий)?",
     "imageResId": "image_t16_2_q065",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "62639c68-0483-44f2-9126-2cd7cf86bbbb",
@@ -1694,6 +1759,7 @@
     "order": 66,
     "text": "Як водій білого автомобіля, що наближається до перехрестя, повинен проїхати дане перехрестя?",
     "imageResId": "image_t16_2_q066",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "44027ffd-63bb-447c-84db-c4ace9727b2a",
@@ -1722,6 +1788,7 @@
     "order": 67,
     "text": "Чи повинен водій автомобіля дати дорогу велосипедисту в даній ситуації?",
     "imageResId": "image_t16_2_q067",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "64a39032-ab6f-4ab2-81a0-f7caab4afb17",
@@ -1750,6 +1817,7 @@
     "order": 68,
     "text": "Чи повинен водій білого автомобіля дати дорогу пішоходам, які переходять проїзну частину на перехресті по лінії продовження тротуару?",
     "imageResId": "image_t16_2_q068",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c3180594-c30e-4edb-9037-b1cbdcb4ef24",
@@ -1772,6 +1840,7 @@
     "order": 69,
     "text": "Хто з водіїв повинен дати дорогу пішоходам?",
     "imageResId": "image_t16_2_q069",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "84be8915-0811-45ef-ae91-376269ca1f70",
@@ -1800,6 +1869,7 @@
     "order": 70,
     "text": "Чи повинен водій білого автомобіля дати дорогу пішоходам, які переходять проїзну частину на перехресті по лінії продовження тротуару?",
     "imageResId": "image_t16_2_q070",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2b3c254f-a852-45f6-80d8-c91d8b7079e1",
@@ -1822,6 +1892,7 @@
     "order": 71,
     "text": "На якому з місць водій повинен зупинити свій транспортний засіб у разі зупинки для виконання вимоги дати дорогу?",
     "imageResId": "image_t16_2_q071",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3831d714-16ce-4c18-93f9-5c9e11f4c330",
@@ -1850,6 +1921,7 @@
     "order": 72,
     "text": "Чи може водій білого автомобіля виїхати на перехрестя в даній ситуації?",
     "imageResId": "image_t16_2_q072",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b3f1262a-7672-43a7-84a6-d9c27ba0d1ef",
@@ -1878,6 +1950,7 @@
     "order": 73,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q073",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "fac6c969-3771-4474-93ac-202f2285138e",
@@ -1900,6 +1973,7 @@
     "order": 74,
     "text": "Яка черговість проїзду на даному перехресті?",
     "imageResId": "image_t16_2_q074",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8fafaacf-b7f4-4d48-928a-a01003c59b0d",
@@ -1928,6 +2002,7 @@
     "order": 75,
     "text": "Черговість проїзду даного перехрестя:",
     "imageResId": "image_t16_2_q075",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e862b4ed-8f7a-401c-946d-03c245e51939",
@@ -1962,6 +2037,7 @@
     "order": 76,
     "text": "Яка черговість проїзду автомобілів на даному перехресті?",
     "imageResId": "image_t16_2_q076",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "aa8960c2-8896-4aef-8aa6-257e70390249",
@@ -1996,6 +2072,7 @@
     "order": 77,
     "text": "На даному перехресті, повертаючи ліворуч, необхідно:",
     "imageResId": "image_t16_2_q077",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "71dcb7c8-ee54-431b-8949-20f24eb3cba0",
@@ -2024,6 +2101,7 @@
     "order": 78,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q078",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ff685943-bffd-48de-b154-9494bb7b21bb",
@@ -2046,6 +2124,7 @@
     "order": 79,
     "text": "Проїжджаючи дане перехрестя прямо, Ви повинні:",
     "imageResId": "image_t16_2_q079",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "441aea32-2979-4cae-a498-e364bf621e67",
@@ -2068,6 +2147,7 @@
     "order": 80,
     "text": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q080",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5cf9038f-1dbd-4d20-8ed9-82ec7bfd4fb7",
@@ -2096,6 +2176,7 @@
     "order": 81,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q081",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ac1a3408-36a4-4931-93f1-2303dcde2a7c",
@@ -2124,6 +2205,7 @@
     "order": 82,
     "text": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q082",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9bdb2196-9c33-4d29-986b-eabf2c13814f",
@@ -2146,6 +2228,7 @@
     "order": 83,
     "text": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q083",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a21bbd1e-901a-490c-94bf-f4b39431b864",
@@ -2168,6 +2251,7 @@
     "order": 84,
     "text": "Проїжджаючи дане перехрестя, водій сірого автомобіля повинен:",
     "imageResId": "image_t16_2_q084",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "71a765c0-5d18-4f1c-8bca-666cdc386c1b",
@@ -2196,6 +2280,7 @@
     "order": 85,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q085",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "01b2347b-9548-4a01-bc42-2e6b675b0e0f",
@@ -2224,6 +2309,7 @@
     "order": 86,
     "text": "Рухаючись прямо на цьому перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q086",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3ef17130-5f25-4272-84ad-583112a72c43",
@@ -2252,6 +2338,7 @@
     "order": 87,
     "text": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q087",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c2580fa8-b4b0-4b7a-85b9-a6170f04c73a",
@@ -2274,6 +2361,7 @@
     "order": 88,
     "text": "Яка черговість проїзду автомобілів на даному перехресті?",
     "imageResId": "image_t16_2_q088",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9c0b956c-94e6-4942-ad8b-39bef9e228dc",
@@ -2302,6 +2390,7 @@
     "order": 89,
     "text": "Яка черговість проїзду автомобілями даного перехрестя?",
     "imageResId": "image_t16_2_q089",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1051c7a4-6b35-48df-b440-c711787009e2",
@@ -2330,6 +2419,7 @@
     "order": 90,
     "text": "Водій синього автомобіля проїде дане перехрестя:",
     "imageResId": "image_t16_2_q090",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d871dd72-d9c0-4bf1-8a8c-79c429012088",
@@ -2370,6 +2460,7 @@
     "order": 91,
     "text": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q091",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a76ed584-b952-4814-bfdb-3c78a8d6dbc1",
@@ -2398,6 +2489,7 @@
     "order": 92,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q092",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ee43881d-177f-4120-917b-ebd367132104",
@@ -2426,6 +2518,7 @@
     "order": 93,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q093",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c51a9f4c-a0a5-4c69-a18c-cd4a2e8d96bb",
@@ -2460,6 +2553,7 @@
     "order": 94,
     "text": "Як Ви проїдете дане перехрестя?",
     "imageResId": "image_t16_2_q094",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "de823793-f469-48c4-9876-f8384cc16091",
@@ -2488,6 +2582,7 @@
     "order": 95,
     "text": "Яка черговість проїзду транспортних засобів на даному перехресті?",
     "imageResId": "image_t16_2_q095",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "83ad8922-5f1a-4ce5-b789-690e5f2a9f5d",
@@ -2522,6 +2617,7 @@
     "order": 96,
     "text": "Як велосипедист, що повертає ліворуч, проїде дане перехрестя?",
     "imageResId": "image_t16_2_q096",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7b1c3746-da18-4fcd-88e8-618cdca804dc",
@@ -2550,6 +2646,7 @@
     "order": 97,
     "text": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q097",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2ca505cc-605b-4f0f-836d-07ca489e29a9",
@@ -2578,6 +2675,7 @@
     "order": 98,
     "text": "Проїжджаючи дане перехрестя, Ви повинні:",
     "imageResId": "image_t16_2_q098",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ec83172c-9fbf-4544-8317-471654201c49",
@@ -2606,6 +2704,7 @@
     "order": 99,
     "text": "Ви повинні проїхати дане перехрестя:",
     "imageResId": "image_t16_2_q099",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4964040c-bb93-4f03-9365-864bcadbdcc4",
@@ -2634,6 +2733,7 @@
     "order": 100,
     "text": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
     "imageResId": "image_t16_2_q100",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3ce2e468-110f-49c9-95f8-454fdc62e43e",
@@ -2701,6 +2801,7 @@
     "order": 102,
     "text": "Якщо Ви рухаєтесь прямо, чи повинні Ви пропустити транспортні засоби, що наближатимуться ліворуч?",
     "imageResId": "image_t16_2_q102",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "041a611c-fe72-46be-be72-34f20bb4e562",
@@ -2723,6 +2824,7 @@
     "order": 103,
     "text": "В наведеній ситуації, за відсутності знаків пріоритету, який транспортний засіб проїде перехрестя останнім?",
     "imageResId": "image_t16_2_q103",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "144b0cf8-c7db-4f93-8f9b-2a181d526237",
@@ -2751,6 +2853,7 @@
     "order": 104,
     "text": "В наведеній ситуації, за відсутності знаків пріоритету, який транспортний засіб проїде перехрестя першим?",
     "imageResId": "image_t16_2_q104",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "f6122060-4b2d-4c8d-a9cf-9a4dd3b12a81",
@@ -2779,6 +2882,7 @@
     "order": 105,
     "text": "Ви повинні керуватись правилом проїзду нерегульованих перехресть та установленими на перехресті відповідними дорожніми знаками, якщо наближаєтесь до світлофора, який працює в режимі миготіння жовтого сигналу?",
     "imageResId": "image_t16_2_q105",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c165a5dc-6080-4535-845b-89c121219f93",
@@ -2801,6 +2905,7 @@
     "order": 106,
     "text": "Чи дозволено Вам повернути праворуч у даному випадку?",
     "imageResId": "image_t16_2_q106",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "53d06733-a186-48de-bbe4-bf1740aea334",
@@ -2829,6 +2934,7 @@
     "order": 107,
     "text": "Чи дозволено Вам повернути ліворуч у даному випадку?",
     "imageResId": "image_t16_2_q107",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3f8223e4-915e-4fa6-abeb-4efdb4877f03",
@@ -2851,6 +2957,7 @@
     "order": 108,
     "text": "В даному випадку Вам дозволено повернути лише праворуч?",
     "imageResId": "image_t16_2_q108",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "dfbde625-6f91-432c-9be5-97c1577b2046",
@@ -2873,6 +2980,7 @@
     "order": 109,
     "text": "Ви плануєте повернути праворуч. Чи повинні Ви дати дорогу автомобілю, що наближається з лівого боку?",
     "imageResId": "image_t16_2_q109",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e9d7f1fe-9a37-4141-bf77-fa0297a4f067",

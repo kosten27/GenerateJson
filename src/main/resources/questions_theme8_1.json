@@ -6,6 +6,7 @@
     "order": 1,
     "text": "Водіям яких транспортних засобів дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q001",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2c68f1d9-bbc3-46be-8cae-b4062c7bebef",
@@ -40,6 +41,7 @@
     "order": 2,
     "text": "Ви правильно виконали поворот праворуч у цій ситуації, якщо:",
     "imageResId": "image_t8_1_q002",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1738f9a2-4feb-459b-9be7-2a0e3fce1920",
@@ -68,6 +70,7 @@
     "order": 3,
     "text": "Чи дозволено Вам повернути праворуч у даній ситуації?",
     "imageResId": "image_t8_1_q003",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9a9d7744-96ce-4d15-99a5-6d922157d38a",
@@ -90,6 +93,7 @@
     "order": 4,
     "text": "Кому дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q004",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "d03b9d5d-cb6b-489e-bc54-219f933d6be3",
@@ -118,6 +122,7 @@
     "order": 5,
     "text": "Чи дозволено Вам рух у даній ситуації?",
     "imageResId": "image_t8_1_q005",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "15183617-3013-41e1-95f9-5e211f4d1250",
@@ -146,6 +151,7 @@
     "order": 6,
     "text": "Чи повинен водій синього автомобіля, повертаючи праворуч, дати дорогу пішоходам?",
     "imageResId": "image_t8_1_q006",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "584d02bc-dace-456a-856e-6941d2361465",
@@ -168,6 +174,7 @@
     "order": 7,
     "text": "Чи дозволено Вам рух у даній ситуації?",
     "imageResId": "image_t8_1_q007",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8365e3b3-0c31-4549-a0d8-e6ce920727b3",
@@ -196,6 +203,7 @@
     "order": 8,
     "text": "Чи дозволено Вам повернути ліворуч у даній ситуації?",
     "imageResId": "image_t8_1_q008",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e19c68ef-ea36-425e-8bbd-bd146c1bb0f1",
@@ -224,6 +232,7 @@
     "order": 9,
     "text": "У яких напрямках дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q009",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "f78e762b-b540-4f0d-99d0-52c83bddc730",
@@ -258,6 +267,7 @@
     "order": 10,
     "text": "Чи дозволено Вам повернути праворуч у даній ситуації?",
     "imageResId": "image_t8_1_q010",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "b545be99-34df-4d35-a28b-1bee29500492",
@@ -286,6 +296,7 @@
     "order": 11,
     "text": "Чи дозволено Вам рух у напрямку, вказаному стрілкою в додатковій секції світлофора?",
     "imageResId": "image_t8_1_q011",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5bfcef95-a54f-4519-8f1d-7f5537adf497",
@@ -308,6 +319,7 @@
     "order": 12,
     "text": "Звуковий сигнал, який додатково увімкнений до сигналу світлофора, що регулює рух пішоходів:",
     "imageResId": "image_t8_1_q012",
+    "imageType": "TRAFFIC_LIGHT",
     "answerOptionList": [
       {
         "id": "f8e23842-5ec9-4fa7-9c86-8f8a7c493b41",
@@ -336,6 +348,7 @@
     "order": 13,
     "text": "На яких учасників дорожнього руху поширює свою дію даний світлофор?",
     "imageResId": "image_t8_1_q013",
+    "imageType": "TRAFFIC_LIGHT",
     "answerOptionList": [
       {
         "id": "bbabbdb5-c968-43bc-99a9-4ff6cb35ad7a",
@@ -364,6 +377,7 @@
     "order": 14,
     "text": "Який світлофор застосовується для регулювання руху через залізничні переїзди?",
     "imageResId": "image_t8_1_q014",
+    "imageType": "TRAFFIC_LIGHT",
     "answerOptionList": [
       {
         "id": "5efbc0c2-c1b9-4c38-a57d-58a993afad33",
@@ -404,6 +418,7 @@
     "order": 15,
     "text": "На якому світлофорі горить сигнал, що дозволяє трамваю повернути праворуч?",
     "imageResId": "image_t8_1_q015",
+    "imageType": "TRAFFIC_LIGHT",
     "answerOptionList": [
       {
         "id": "183ad769-e715-4d66-a2d9-529c90768f32",
@@ -444,6 +459,7 @@
     "order": 16,
     "text": "У цій ситуації рух дозволено:",
     "imageResId": "image_t8_1_q016",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "081b62db-7590-4846-a468-a72ccf446bc1",
@@ -484,6 +500,7 @@
     "order": 17,
     "text": "Чи дозволено рух трамвая в цій ситуації?",
     "imageResId": "image_t8_1_q017",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8e5bef8e-7e1d-4698-895b-7fd04d3aa103",
@@ -512,6 +529,7 @@
     "order": 18,
     "text": "Яким автомобілям дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q018",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8040c6c2-bc45-4216-8516-c57b5da8a682",
@@ -546,6 +564,7 @@
     "order": 19,
     "text": "У яких напрямках Вам дозволено рух?",
     "imageResId": "image_t8_1_q019",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0e45910e-76be-4b67-928b-17f5825a61a8",
@@ -586,6 +605,7 @@
     "order": 20,
     "text": "Яким транспортним засобам дозволено рух на даний жест регулювальника?",
     "imageResId": "image_t8_1_q020",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0d08ed16-c3db-4f14-914f-009e608940a9",
@@ -620,6 +640,7 @@
     "order": 21,
     "text": "У якому напрямку Вам дозволено рух в показаній ситуації?",
     "imageResId": "image_t8_1_q021",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2690dc2e-dda8-4776-8e74-84c122703036",
@@ -654,6 +675,7 @@
     "order": 22,
     "text": "Як Ви повинні вчинити в даній ситуації?",
     "imageResId": "image_t8_1_q022",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "fad690c5-271d-4877-9fb6-103b262c6e6f",
@@ -682,6 +704,7 @@
     "order": 23,
     "text": "Як Ви повинні діяти в цій ситуації, якщо співробітник поліції подає Вам сигнал про зупинку?",
     "imageResId": "image_t8_1_q023",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "f29b6435-7d3c-420c-a2e4-551863f041d2",
@@ -710,6 +733,7 @@
     "order": 24,
     "text": "Яким учасникам дорожнього руху дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q024",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "e07e1a9e-47ea-4788-aa4a-6a03cb9e6fc0",
@@ -744,6 +768,7 @@
     "order": 25,
     "text": "На даний сигнал регулювальника рух дозволено:",
     "imageResId": "image_t8_1_q025",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5442ac88-363d-4676-b910-fc9d04b9d976",
@@ -778,6 +803,7 @@
     "order": 26,
     "text": "Чи дозволено Вам рух у даній ситуації?",
     "imageResId": "image_t8_1_q026",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7fb5343e-3b27-493b-858b-373b1c711a42",
@@ -812,6 +838,7 @@
     "order": 27,
     "text": "На даний сигнал регулювальника рух дозволено:",
     "imageResId": "image_t8_1_q027",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7e12df2b-c70c-4068-85c2-4533b7e91a6c",
@@ -846,6 +873,7 @@
     "order": 28,
     "text": "Чи дозволено Вам рух у даній ситуації?",
     "imageResId": "image_t8_1_q028",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0e2a6083-c2bc-4e39-8392-33bee2f12e76",
@@ -874,6 +902,7 @@
     "order": 29,
     "text": "Чи дозволено Вам рух у даній ситуації?",
     "imageResId": "image_t8_1_q029",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "c4f8dcb5-a758-46a5-9159-efac6c4760d7",
@@ -902,6 +931,7 @@
     "order": 30,
     "text": "У якому з місць пішоходам дозволено перехід проїзної частини в даній ситуації?",
     "imageResId": "image_t8_1_q030",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9b94e232-7ecf-4e3e-9ce8-496a3c0b985a",
@@ -936,6 +966,7 @@
     "order": 31,
     "text": "На даний сигнал регулювальника рух дозволено:",
     "imageResId": "image_t8_1_q031",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "71696893-f68b-4f59-bd5e-75429de8cd81",
@@ -970,6 +1001,7 @@
     "order": 32,
     "text": "На даний сигнал регулювальника трамваю дозволено рух:",
     "imageResId": "image_t8_1_q032",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9846f6bf-7a94-4a47-ac1f-387826eb0be7",
@@ -1004,6 +1036,7 @@
     "order": 33,
     "text": "У якому напрямку Ви можете продовжити рух у даній ситуації?",
     "imageResId": "image_t8_1_q033",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8ab6acd3-2fba-475c-9b00-5fd17315a551",
@@ -1032,6 +1065,7 @@
     "order": 34,
     "text": "У якому напрямку Ви можете продовжити рух на даний сигнал регулювальника?",
     "imageResId": "image_t8_1_q034",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ce941c66-246b-4458-9771-4e51dfb6c579",
@@ -1072,6 +1106,7 @@
     "order": 35,
     "text": "Чи дозволено Вам рух прямо в даній ситуації?",
     "imageResId": "image_t8_1_q035",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "101436fe-ab00-4ab0-8aee-a899ca09580f",
@@ -1100,6 +1135,7 @@
     "order": 36,
     "text": "Яким автомобілям дозволено рух на даний жест регулювальника?",
     "imageResId": "image_t8_1_q036",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6bcac7c9-6b91-4d38-aba6-bf3f2b705c20",
@@ -1140,6 +1176,7 @@
     "order": 37,
     "text": "Для регулювання руху яких транспортних засобів застосовується даний світлофор?",
     "imageResId": "image_t8_1_q037",
+    "imageType": "TRAFFIC_LIGHT",
     "answerOptionList": [
       {
         "id": "93feca27-db96-4e0d-826c-c55f5e7aa527",
@@ -1168,6 +1205,7 @@
     "order": 38,
     "text": "Чи дозволено водієві червоного автомобіля в даній ситуації виконати випередження вантажного автомобіля з лівого боку?",
     "imageResId": "image_t8_1_q038",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "266fd707-04a5-4bec-827b-c96d872423f1",
@@ -1190,6 +1228,7 @@
     "order": 39,
     "text": "Проїжджаючи дане перехрестя, водії повинні керуватися:",
     "imageResId": "image_t8_1_q039",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "3233640d-a39e-4c49-a4c4-9ce703ce16c1",
@@ -1218,6 +1257,7 @@
     "order": 40,
     "text": "У яких напрямках Вам дозволено рух в даній ситуації?",
     "imageResId": "image_t8_1_q040",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "dc5f002d-4091-410b-87ea-dc10a6006fa1",
@@ -1252,6 +1292,7 @@
     "order": 41,
     "text": "Як Ви повинні вчинити в цій ситуації, якщо поліцейський подає Вам сигнал про зупинку?",
     "imageResId": "image_t8_1_q041",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "6a20005e-1b45-4ef4-9a56-e024375f306f",
@@ -1274,6 +1315,7 @@
     "order": 42,
     "text": "Як повинні вчинити водії транспортних засобів у даній ситуації?",
     "imageResId": "image_t8_1_q042",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "11be162a-ed9b-4f7c-9ae2-ee2fafe86475",
@@ -1302,6 +1344,7 @@
     "order": 43,
     "text": "Як Ви повинні вчинити в даній ситуації?",
     "imageResId": "image_t8_1_q043",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9ae25fbc-04ce-4994-ac18-d98afe816882",
@@ -1330,6 +1373,7 @@
     "order": 44,
     "text": "На даному перехресті водії та пішоходи повинні керуватися:",
     "imageResId": "image_t8_1_q044",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8b1c8e12-0ebd-4f93-a56d-253136f39318",
@@ -1358,6 +1402,7 @@
     "order": 45,
     "text": "Чи дозволено в даній ситуації рух водієві автомобіля?",
     "imageResId": "image_t8_1_q045",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "51ed9c75-f74b-4ca3-b489-ea0549d79395",
@@ -1386,6 +1431,7 @@
     "order": 46,
     "text": "Яким автомобілям дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q046",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a717cb82-6b28-4596-91de-4252c8dd7edd",
@@ -1420,6 +1466,7 @@
     "order": 47,
     "text": "Чим повинні керуватися водії під час проїзду даного перехрестя?",
     "imageResId": "image_t8_1_q047",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "913b4193-191d-4386-8c13-050aedebb3cf",
@@ -1448,6 +1495,7 @@
     "order": 48,
     "text": "Що означає даний сигнал регулювальника?",
     "imageResId": "image_t8_1_q048",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8ca7ec62-9f27-4b0e-9d79-fe0ca984b9c4",
@@ -1476,6 +1524,7 @@
     "order": 49,
     "text": "Хто з водіїв порушив Правила дорожнього руху, зупинившись на заборонний сигнал світлофора?",
     "imageResId": "image_t8_1_q049",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8464bd14-086c-4ed4-be86-a6fb56070305",
@@ -1498,6 +1547,7 @@
     "order": 50,
     "text": "Чи дозволено водієві сірого автомобіля в'їхати на реверсивну смугу так, як показано на малюнку?",
     "imageResId": "image_t8_1_q050",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "ee423020-aed8-4bb5-807c-5865544fdf7d",
@@ -1520,6 +1570,7 @@
     "order": 51,
     "text": "Чи дозволено Вам рух у цій ситуації?",
     "imageResId": "image_t8_1_q051",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "1586e168-915c-4d99-b158-09a9e9d6b49f",
@@ -1542,6 +1593,7 @@
     "order": 52,
     "text": "Чи дозволено водієві автомобіля рух у напрямку стрілки, ввімкненої в додатковій секції світлофора?",
     "imageResId": "image_t8_1_q052",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "2d83fdce-d355-4781-82bb-217669340261",
@@ -1570,6 +1622,7 @@
     "order": 53,
     "text": "Водіям яких транспортних засобів дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q053",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a24b2855-16fd-4c14-a546-a81b787d0e60",
@@ -1604,6 +1657,7 @@
     "order": 54,
     "text": "У якому напрямку Вам дозволено рух в зображеній ситуації?",
     "imageResId": "image_t8_1_q054",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "a27afac6-b3b2-41d1-8575-04736f8d472d",
@@ -1638,6 +1692,7 @@
     "order": 55,
     "text": "Водіям яких транспортних засобів дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q055",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "9877bebf-deb0-47a7-a0d2-a8756a76fb18",
@@ -1672,6 +1727,7 @@
     "order": 56,
     "text": "У якому напрямку Вам дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q056",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "28812bd1-8b9f-4ffa-adea-6f7d7de11026",
@@ -1700,6 +1756,7 @@
     "order": 57,
     "text": "Чи може водій автомобіля в даній ситуації розпочати рух?",
     "imageResId": "image_t8_1_q057",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "7f229ea9-3d28-4608-8ae0-2bd2fda66639",
@@ -1722,6 +1779,7 @@
     "order": 58,
     "text": "Яке значення мають одночасно ввімкнені червоний і жовтий сигнали світлофора?",
     "imageResId": "image_t8_1_q058",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "37ead112-f00e-4897-98b9-1d586bcb10e5",
@@ -1744,6 +1802,7 @@
     "order": 59,
     "text": "Чорні контурні стрілки на червоному і жовтому сигналах не змінюють значення цих сигналів та інформують:",
     "imageResId": "image_t8_1_q059",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "618a2861-5f46-4dfe-ae90-491a72c2ab4b",
@@ -1766,6 +1825,7 @@
     "order": 60,
     "text": "Чи дозволено водієві автомобіля поворот ліворуч на даному перехресті в разі ввімкнення зеленого сигналу світлофора?",
     "imageResId": "image_t8_1_q060",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "40953077-8138-499c-8525-d082680cf8a4",
@@ -1788,6 +1848,7 @@
     "order": 61,
     "text": "Чорні контурні стрілки на ввімкненому червоному сигналі світлофора інформують:",
     "imageResId": "image_t8_1_q061",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "34240350-0b6b-4cc2-bce9-885263e5509b",
@@ -1816,6 +1877,7 @@
     "order": 62,
     "text": "Як Вам виконати поворот ліворуч у даній ситуації?",
     "imageResId": "image_t8_1_q062",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "373d28f4-c21b-45f8-ba00-aae7d9fe29d1",
@@ -1838,6 +1900,7 @@
     "order": 63,
     "text": "Який зі світлофорів застосовується для регулювання руху транспортних засобів на вулицях, дорогах або смугах проїзної частини, напрямок руху на яких може змінюватися на протилежний?",
     "imageResId": "image_t8_1_q063",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "10111e7d-a855-4d55-b072-ddfad6f7fc8d",
@@ -1872,6 +1935,7 @@
     "order": 64,
     "text": "Чи дозволено водієві червоного автомобіля в даній ситуації виконати випередження вантажного автомобіля з лівого боку?",
     "imageResId": "image_t8_1_q064",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "124610d9-75af-4ace-9e73-a8b02628c9ab",
@@ -1894,6 +1958,7 @@
     "order": 65,
     "text": "За якої умови водій автомобіля може виконати поворот праворуч у даній ситуації?",
     "imageResId": "image_t8_1_q065",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "37286c21-088a-4d1c-824c-f02f0b3224a8",
@@ -1916,6 +1981,7 @@
     "order": 66,
     "text": "У якому напрямку водієві автомобіля дозволено рух у даній ситуації?",
     "imageResId": "image_t8_1_q066",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "0b4b079d-0c7f-481b-999e-cb2e8dec4481",
@@ -1944,6 +2010,7 @@
     "order": 67,
     "text": "Що означають два червоні поперемінно миготливі сигнали даного світлофора?",
     "imageResId": "image_t8_1_q067",
+    "imageType": "TRAFFIC_LIGHT",
     "answerOptionList": [
       {
         "id": "8d1bdc06-9308-4af1-9edc-f135006d68bb",
@@ -1972,6 +2039,7 @@
     "order": 68,
     "text": "Увімкнений червоний сигнал світлофора означає, що:",
     "imageResId": "image_t8_1_q068",
+    "imageType": "TRAFFIC_LIGHT",
     "answerOptionList": [
       {
         "id": "82337805-69bb-43bd-9bab-ca07873e2ae4",
