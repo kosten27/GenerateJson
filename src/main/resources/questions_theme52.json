@@ -374,7 +374,7 @@
     "order": 11,
     "text": "З якою максимальною швидкістю допускається рух мікроавтобусів на дорогах для автомобілів?",
     "imageResId": "image_t52_q011",
-    "imageType": "IMAGE",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "b2acb9f0-e17b-40ac-a68c-2fa4bee898c7",
