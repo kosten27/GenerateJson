@@ -471,7 +471,7 @@
     "sourceOrder": 15,
     "order": 15,
     "text": "У якому місці водієві легкового автомобіля дозволено зупинитися?",
-    "imageResId": "road_sign_1_37",
+    "imageResId": "image_t15_q015",
     "imageType": "IMAGE",
     "answerOptionList": [
       {
@@ -902,7 +902,7 @@
     "sourceOrder": 28,
     "order": 28,
     "text": "Чи може водій виконати посадку (висадку) пасажирів у зоні виконання дорожніх робіт?",
-    "imageResId": "image_t15_q028",
+    "imageResId": "road_sign_1_37",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
