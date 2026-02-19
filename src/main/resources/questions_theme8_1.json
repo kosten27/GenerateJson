@@ -377,7 +377,7 @@
     "order": 14,
     "text": "Який світлофор застосовується для регулювання руху через залізничні переїзди?",
     "imageResId": "image_t8_1_q014",
-    "imageType": "TRAFFIC_LIGHT",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "5efbc0c2-c1b9-4c38-a57d-58a993afad33",
@@ -418,7 +418,7 @@
     "order": 15,
     "text": "На якому світлофорі горить сигнал, що дозволяє трамваю повернути праворуч?",
     "imageResId": "image_t8_1_q015",
-    "imageType": "TRAFFIC_LIGHT",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "183ad769-e715-4d66-a2d9-529c90768f32",
