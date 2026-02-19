@@ -437,7 +437,7 @@
     "sourceOrder": 86,
     "order": 13,
     "text": "Зображена табличка вказує:",
-    "imageResId": "image_t33_q086",
+    "imageResId": "road_sign_7_2_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -513,7 +513,7 @@
     "sourceOrder": 88,
     "order": 15,
     "text": "Зображена табличка вказує:",
-    "imageResId": "image_t33_q088",
+    "imageResId": "road_sign_7_3_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -542,7 +542,7 @@
     "sourceOrder": 89,
     "order": 16,
     "text": "Зображена табличка вказує:",
-    "imageResId": "image_t33_q089",
+    "imageResId": "road_sign_7_4_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -606,7 +606,7 @@
     "sourceOrder": 91,
     "order": 18,
     "text": "Дія зображеної таблички поширюється:",
-    "imageResId": "image_t33_q091",
+    "imageResId": "road_sign_7_5_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -676,7 +676,7 @@
     "sourceOrder": 93,
     "order": 20,
     "text": "Дія зображеної таблички поширюється:",
-    "imageResId": "image_t33_q093",
+    "imageResId": "road_sign_7_5_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -740,7 +740,7 @@
     "sourceOrder": 95,
     "order": 22,
     "text": "Зображена табличка позначає:",
-    "imageResId": "image_t33_q095",
+    "imageResId": "road_sign_7_1_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -775,7 +775,7 @@
     "sourceOrder": 104,
     "order": 23,
     "text": "Табличка до дорожнього знаку діє:",
-    "imageResId": "image_t33_q104",
+    "imageResId": "road_sign_7_4_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -798,7 +798,7 @@
     "sourceOrder": 105,
     "order": 24,
     "text": "Дія зображеної таблички поширюється:",
-    "imageResId": "image_t33_q105",
+    "imageResId": "road_sign_7_5_8",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -944,7 +944,7 @@
     "sourceOrder": 117,
     "order": 28,
     "text": "Зображена табличка вказує:",
-    "imageResId": "image_t33_q117",
+    "imageResId": "road_sign_7_4_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1037,7 +1037,7 @@
     "sourceOrder": 120,
     "order": 31,
     "text": "Зображена табличка, яка встановлюється зі знаками «Місце стоянки» або «Зона стоянки», вказує:",
-    "imageResId": "image_t33_q120",
+    "imageResId": "road_sign_7_7",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1107,7 +1107,7 @@
     "sourceOrder": 122,
     "order": 33,
     "text": "Зображена табличка визначає:",
-    "imageResId": "image_t33_q122",
+    "imageResId": "road_sign_7_9",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1171,7 +1171,7 @@
     "sourceOrder": 124,
     "order": 35,
     "text": "Зображена табличка вказує:",
-    "imageResId": "image_t33_q124",
+    "imageResId": "road_sign_7_14",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {

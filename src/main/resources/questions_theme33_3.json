@@ -40,7 +40,7 @@
     "sourceOrder": 43,
     "order": 2,
     "text": "На кого (які транспортні засоби) не поширюється дія зображеного дорожнього знака?",
-    "imageResId": "image_t33_q043",
+    "imageResId": "road_sign_3_34",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -81,7 +81,7 @@
     "sourceOrder": 44,
     "order": 3,
     "text": "На кого (які транспортні засоби) не поширюється дія зображеного дорожнього знака?",
-    "imageResId": "image_t33_q044",
+    "imageResId": "road_sign_3_35",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -122,7 +122,7 @@
     "sourceOrder": 46,
     "order": 4,
     "text": "Чи дозволено водіям транспортних засобів виконувати посадку або висадку пасажирів у зоні дії зображеного знака?",
-    "imageResId": "image_t33_q046",
+    "imageResId": "road_sign_3_35",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -250,7 +250,7 @@
     "sourceOrder": 53,
     "order": 8,
     "text": "Зображений дорожній знак забороняє:",
-    "imageResId": "image_t33_q053",
+    "imageResId": "road_sign_3_35",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -279,7 +279,7 @@
     "sourceOrder": 55,
     "order": 9,
     "text": "З якою дорожньою розміткою може застосовуватися дорожній знак «Зупинка заборонена»?",
-    "imageResId": "image_t33_q055",
+    "imageResId": "road_sign_3_34",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -355,7 +355,7 @@
     "sourceOrder": 64,
     "order": 11,
     "text": "Зображений дорожній знак:",
-    "imageResId": "image_t33_q064",
+    "imageResId": "road_sign_3_38",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -425,7 +425,7 @@
     "sourceOrder": 77,
     "order": 13,
     "text": "Зображений дорожній знак встановлюється:",
-    "imageResId": "image_t33_q077",
+    "imageResId": "road_sign_3_40",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -495,7 +495,7 @@
     "sourceOrder": 79,
     "order": 15,
     "text": "Як повинен вчинити водій, проїжджаючи місце, позначене зазначеним дорожнім знаком?",
-    "imageResId": "image_t33_q079",
+    "imageResId": "road_sign_3_41",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -524,7 +524,7 @@
     "sourceOrder": 80,
     "order": 16,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q080",
+    "imageResId": "road_sign_3_42",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {

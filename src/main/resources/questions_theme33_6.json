@@ -40,7 +40,7 @@
     "sourceOrder": 99,
     "order": 2,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q099",
+    "imageResId": "road_sign_6_7_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -69,7 +69,7 @@
     "sourceOrder": 100,
     "order": 3,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q100",
+    "imageResId": "road_sign_6_7_6",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -98,7 +98,7 @@
     "sourceOrder": 102,
     "order": 4,
     "text": "Зображений дорожній знак інформує:",
-    "imageResId": "image_t33_q102",
+    "imageResId": "road_sign_6_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -127,7 +127,7 @@
     "sourceOrder": 103,
     "order": 5,
     "text": "Зображений дорожній знак інформує:",
-    "imageResId": "image_t33_q103",
+    "imageResId": "road_sign_6_7_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
