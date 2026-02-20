@@ -2575,7 +2575,7 @@
     "sourceOrder": 166,
     "order": 77,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q166",
+    "imageResId": "road_sign_5_43",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2604,7 +2604,7 @@
     "sourceOrder": 167,
     "order": 78,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q167",
+    "imageResId": "road_sign_5_44",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
