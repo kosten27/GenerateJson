@@ -2050,7 +2050,7 @@
     "order": 63,
     "text": "Зображений дорожній знак забороняє рух:",
     "imageResId": "road_sign_3_8",
-    "imageType": "IMAGE",
+    "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
         "id": "1a6a52a4-1e2a-4eac-8e65-ac66dabdaa35",

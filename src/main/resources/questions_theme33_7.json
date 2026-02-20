@@ -1492,7 +1492,7 @@
     "order": 45,
     "text": "Чи дозволено велосипедистові повернути праворуч, якщо він обслуговує громадян, які там проживають?",
     "imageResId": "image_t33_q322",
-    "imageType": "ROAD_SIGN",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "8ed79de7-8c3a-44f9-95d9-b03569f71dfd",
