@@ -884,7 +884,7 @@
     "sourceOrder": 343,
     "order": 28,
     "text": "Зображений дорожній знак інформує про:",
-    "imageResId": "image_t33_q343",
+    "imageResId": "road_sign_4_18",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -913,7 +913,7 @@
     "sourceOrder": 344,
     "order": 29,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q344",
+    "imageResId": "road_sign_4_21",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -942,7 +942,7 @@
     "sourceOrder": 345,
     "order": 30,
     "text": "Зображений дорожній знак інформує про дорогу:",
-    "imageResId": "image_t33_q345",
+    "imageResId": "road_sign_4_23",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {

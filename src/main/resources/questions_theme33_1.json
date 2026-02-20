@@ -75,7 +75,7 @@
     "sourceOrder": 169,
     "order": 3,
     "text": "Зазначений дорожній знак попереджає:",
-    "imageResId": "image_t33_q169",
+    "imageResId": "road_sign_1_23_4",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -104,7 +104,7 @@
     "sourceOrder": 170,
     "order": 4,
     "text": "Зображений дорожній знак встановлюється:",
-    "imageResId": "image_t33_q170",
+    "imageResId": "road_sign_1_30",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -302,7 +302,7 @@
     "sourceOrder": 176,
     "order": 10,
     "text": "Зображений дорожній знак попереджає про наближення до:",
-    "imageResId": "image_t33_q176",
+    "imageResId": "road_sign_1_32",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -366,7 +366,7 @@
     "sourceOrder": 178,
     "order": 12,
     "text": "Зображений дорожній знак встановлюється:",
-    "imageResId": "image_t33_q178",
+    "imageResId": "road_sign_1_29",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -477,7 +477,7 @@
     "sourceOrder": 181,
     "order": 15,
     "text": "Зазначений дорожній знак попереджає:",
-    "imageResId": "image_t33_q181",
+    "imageResId": "road_sign_1_25",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -553,7 +553,7 @@
     "sourceOrder": 183,
     "order": 17,
     "text": "Даний дорожній знак попереджає:",
-    "imageResId": "image_t33_q183",
+    "imageResId": "road_sign_1_26",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -588,7 +588,7 @@
     "sourceOrder": 184,
     "order": 18,
     "text": "Даний дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q184",
+    "imageResId": "road_sign_1_27",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -693,7 +693,7 @@
     "sourceOrder": 187,
     "order": 21,
     "text": "У якому місці встановлюється даний дорожній знак?",
-    "imageResId": "image_t33_q187",
+    "imageResId": "road_sign_1_28",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -728,7 +728,7 @@
     "sourceOrder": 188,
     "order": 22,
     "text": "Зображений дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q188",
+    "imageResId": "road_sign_1_33",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -763,7 +763,7 @@
     "sourceOrder": 189,
     "order": 23,
     "text": "Зображений дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q189",
+    "imageResId": "road_sign_1_34",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1102,7 +1102,7 @@
     "sourceOrder": 201,
     "order": 32,
     "text": "Зображений дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q201",
+    "imageResId": "road_sign_1_35",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1131,7 +1131,7 @@
     "sourceOrder": 202,
     "order": 33,
     "text": "Зображений дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q202",
+    "imageResId": "road_sign_1_36",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1160,7 +1160,7 @@
     "sourceOrder": 203,
     "order": 34,
     "text": "Зображений дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q203",
+    "imageResId": "road_sign_1_37",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1201,7 +1201,7 @@
     "sourceOrder": 204,
     "order": 35,
     "text": "На якій відстані від місця виконання короткотермінових дорожніх робіт на проїзній частині в населеному пункті може бути встановлено знак «Дорожні роботи»?",
-    "imageResId": "image_t33_q204",
+    "imageResId": "road_sign_1_37",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1236,7 +1236,7 @@
     "sourceOrder": 205,
     "order": 36,
     "text": "Зображений дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q205",
+    "imageResId": "road_sign_1_38",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1306,7 +1306,7 @@
     "sourceOrder": 207,
     "order": 38,
     "text": "Зображений дорожній знак попереджає водіїв:",
-    "imageResId": "image_t33_q207",
+    "imageResId": "road_sign_1_39",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1335,7 +1335,7 @@
     "sourceOrder": 208,
     "order": 39,
     "text": "Даний дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q208",
+    "imageResId": "road_sign_1_40",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1405,7 +1405,7 @@
     "sourceOrder": 211,
     "order": 41,
     "text": "Дорожні роботи – це:",
-    "imageResId": "image_t33_q211",
+    "imageResId": "road_sign_1_37",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1510,7 +1510,7 @@
     "sourceOrder": 214,
     "order": 44,
     "text": "Де встановлюється даний дорожній знак?",
-    "imageResId": "image_t33_q214",
+    "imageResId": "road_sign_1_5_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1574,7 +1574,7 @@
     "sourceOrder": 216,
     "order": 46,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q216",
+    "imageResId": "road_sign_1_5_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1667,7 +1667,7 @@
     "sourceOrder": 219,
     "order": 49,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q219",
+    "imageResId": "road_sign_1_6",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1766,7 +1766,7 @@
     "sourceOrder": 222,
     "order": 52,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q222",
+    "imageResId": "road_sign_1_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1801,7 +1801,7 @@
     "sourceOrder": 223,
     "order": 53,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q223",
+    "imageResId": "road_sign_1_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1906,7 +1906,7 @@
     "sourceOrder": 226,
     "order": 56,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q226",
+    "imageResId": "road_sign_1_3_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1941,7 +1941,7 @@
     "sourceOrder": 227,
     "order": 57,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q227",
+    "imageResId": "road_sign_1_3_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2005,7 +2005,7 @@
     "sourceOrder": 230,
     "order": 59,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q230",
+    "imageResId": "road_sign_1_8",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2063,7 +2063,7 @@
     "sourceOrder": 232,
     "order": 61,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q232",
+    "imageResId": "road_sign_1_9",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2168,7 +2168,7 @@
     "sourceOrder": 235,
     "order": 64,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q235",
+    "imageResId": "road_sign_1_21",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2238,7 +2238,7 @@
     "sourceOrder": 237,
     "order": 66,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q237",
+    "imageResId": "road_sign_1_22",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2337,7 +2337,7 @@
     "sourceOrder": 240,
     "order": 69,
     "text": "Даний дорожній знак попереджає:",
-    "imageResId": "image_t33_q240",
+    "imageResId": "road_sign_1_23_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2366,7 +2366,7 @@
     "sourceOrder": 241,
     "order": 70,
     "text": "Даний дорожній знак встановлюється перед ділянками дороги:",
-    "imageResId": "image_t33_q241",
+    "imageResId": "road_sign_1_18",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2395,7 +2395,7 @@
     "sourceOrder": 242,
     "order": 71,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q242",
+    "imageResId": "road_sign_1_17",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2424,7 +2424,7 @@
     "sourceOrder": 243,
     "order": 72,
     "text": "Де встановлюється даний дорожній знак?",
-    "imageResId": "image_t33_q243",
+    "imageResId": "road_sign_1_10",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2459,7 +2459,7 @@
     "sourceOrder": 244,
     "order": 73,
     "text": "Даний дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q244",
+    "imageResId": "road_sign_1_11",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2500,7 +2500,7 @@
     "sourceOrder": 245,
     "order": 74,
     "text": "Даний дорожній знак встановлюється перед:",
-    "imageResId": "image_t33_q245",
+    "imageResId": "road_sign_1_12",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2605,7 +2605,7 @@
     "sourceOrder": 248,
     "order": 77,
     "text": "Про що попереджає даний дорожній знак?",
-    "imageResId": "image_t33_q248",
+    "imageResId": "road_sign_1_14",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2640,7 +2640,7 @@
     "sourceOrder": 249,
     "order": 78,
     "text": "Даний дорожній знак встановлюється перед ділянками дороги, на яких:",
-    "imageResId": "image_t33_q249",
+    "imageResId": "road_sign_1_15",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2675,7 +2675,7 @@
     "sourceOrder": 250,
     "order": 79,
     "text": "Даний дорожній знак встановлюється перед ділянкою дороги, на якій:",
-    "imageResId": "image_t33_q250",
+    "imageResId": "road_sign_1_16",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2710,7 +2710,7 @@
     "sourceOrder": 251,
     "order": 80,
     "text": "Даний дорожній знак попереджає:",
-    "imageResId": "image_t33_q251",
+    "imageResId": "road_sign_1_23_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2811,7 +2811,7 @@
     "sourceOrder": 341,
     "order": 83,
     "text": "Вказаний дорожній знак попереджає про наближення до:",
-    "imageResId": "image_t33_q341",
+    "imageResId": "road_sign_1_41",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {

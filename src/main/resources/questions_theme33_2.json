@@ -5,7 +5,7 @@
     "sourceOrder": 196,
     "order": 1,
     "text": "Зображений дорожній знак діє:",
-    "imageResId": "image_t33_q196",
+    "imageResId": "road_sign_2_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -34,7 +34,7 @@
     "sourceOrder": 197,
     "order": 2,
     "text": "Водій правильно виконав вимогу даного дорожнього знака, встановленого на нерегульованому перехресті, якщо:",
-    "imageResId": "image_t33_q197",
+    "imageResId": "road_sign_2_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -63,7 +63,7 @@
     "sourceOrder": 198,
     "order": 3,
     "text": "Чи є обов'язковою зупинка для виконання вимоги даного дорожнього знака?",
-    "imageResId": "image_t33_q198",
+    "imageResId": "road_sign_2_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -203,7 +203,7 @@
     "sourceOrder": 296,
     "order": 7,
     "text": "Зображений дорожній знак встановлюється:",
-    "imageResId": "image_t33_q296",
+    "imageResId": "road_sign_2_5",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -366,7 +366,7 @@
     "sourceOrder": 301,
     "order": 12,
     "text": "Зображений дорожній знак встановлюється:",
-    "imageResId": "image_t33_q301",
+    "imageResId": "road_sign_2_6",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -430,7 +430,7 @@
     "sourceOrder": 303,
     "order": 14,
     "text": "Зображений дорожній знак встановлюється:",
-    "imageResId": "image_t33_q303",
+    "imageResId": "road_sign_2_4",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -488,7 +488,7 @@
     "sourceOrder": 306,
     "order": 16,
     "text": "Чи є обов'язковою зупинка для виконання вимог даного знака?",
-    "imageResId": "image_t33_q306",
+    "imageResId": "road_sign_2_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -511,7 +511,7 @@
     "sourceOrder": 307,
     "order": 17,
     "text": "У якій з відповідей водій правильно виконав вимогу даного дорожнього знака, проїхавши через перехрестя?",
-    "imageResId": "image_t33_q307",
+    "imageResId": "road_sign_2_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -662,7 +662,7 @@
     "sourceOrder": 312,
     "order": 22,
     "text": "Зображений дорожній знак, встановлений на нерегульованому перехресті:",
-    "imageResId": "image_t33_q312",
+    "imageResId": "road_sign_2_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {

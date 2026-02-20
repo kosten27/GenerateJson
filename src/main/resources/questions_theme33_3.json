@@ -617,7 +617,7 @@
     "sourceOrder": 253,
     "order": 19,
     "text": "Представлений дорожній знак забороняє рух:",
-    "imageResId": "image_t33_q253",
+    "imageResId": "road_sign_3_11",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -896,7 +896,7 @@
     "sourceOrder": 262,
     "order": 28,
     "text": "З якою метою може бути встановлений даний дорожній знак?",
-    "imageResId": "image_t33_q262",
+    "imageResId": "road_sign_3_21",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -978,7 +978,7 @@
     "sourceOrder": 265,
     "order": 30,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t33_q265",
+    "imageResId": "road_sign_3_13",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1071,7 +1071,7 @@
     "sourceOrder": 268,
     "order": 33,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t33_q268",
+    "imageResId": "road_sign_3_17",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1176,7 +1176,7 @@
     "sourceOrder": 273,
     "order": 36,
     "text": "Зображений дорожній знак забороняє:",
-    "imageResId": "image_t33_q273",
+    "imageResId": "road_sign_3_25",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1310,7 +1310,7 @@
     "sourceOrder": 277,
     "order": 40,
     "text": "Зображений дорожній знак має таке значення:",
-    "imageResId": "image_t33_q277",
+    "imageResId": "road_sign_3_29",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1415,7 +1415,7 @@
     "sourceOrder": 280,
     "order": 43,
     "text": "Зображений дорожній знак має таке значення:",
-    "imageResId": "image_t33_q280",
+    "imageResId": "road_sign_3_31",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1479,7 +1479,7 @@
     "sourceOrder": 282,
     "order": 45,
     "text": "Чи дозволено в зоні дії зображеного дорожнього знака користуватися звуковим сигналом?",
-    "imageResId": "image_t33_q282",
+    "imageResId": "road_sign_3_33",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1531,7 +1531,7 @@
     "sourceOrder": 284,
     "order": 47,
     "text": "На які транспортні засоби поширюється дія зображеного дорожнього знака?",
-    "imageResId": "image_t33_q284",
+    "imageResId": "road_sign_3_27",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1676,7 +1676,7 @@
     "sourceOrder": 290,
     "order": 52,
     "text": "На які види транспортних засобів не поширюється дія зображеного дорожнього знака?",
-    "imageResId": "image_t33_q290",
+    "imageResId": "road_sign_3_25",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1746,7 +1746,7 @@
     "sourceOrder": 292,
     "order": 54,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q292",
+    "imageResId": "road_sign_3_26",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1880,7 +1880,7 @@
     "sourceOrder": 316,
     "order": 58,
     "text": "Яким транспортним засобам заборонено рух у зоні дії даного дорожнього знака?",
-    "imageResId": "image_t33_q316",
+    "imageResId": "road_sign_3_4",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1967,7 +1967,7 @@
     "sourceOrder": 319,
     "order": 61,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t33_q319",
+    "imageResId": "road_sign_3_5",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2008,7 +2008,7 @@
     "sourceOrder": 320,
     "order": 62,
     "text": "Дія зображеного дорожнього знака поширюється на:",
-    "imageResId": "image_t33_q320",
+    "imageResId": "road_sign_3_7",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2049,7 +2049,7 @@
     "sourceOrder": 321,
     "order": 63,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t33_q321",
+    "imageResId": "road_sign_3_8",
     "imageType": "IMAGE",
     "answerOptionList": [
       {
@@ -2211,7 +2211,7 @@
     "sourceOrder": 330,
     "order": 69,
     "text": "На які з перелічених транспортних засобів не поширює свою дію даний дорожній знак?",
-    "imageResId": "image_t33_q330",
+    "imageResId": "road_sign_3_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2252,7 +2252,7 @@
     "sourceOrder": 331,
     "order": 70,
     "text": "На які з перелічених транспортних засобів поширює дію цей дорожній знак?",
-    "imageResId": "image_t33_q331",
+    "imageResId": "road_sign_3_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2334,7 +2334,7 @@
     "sourceOrder": 333,
     "order": 72,
     "text": "Даний дорожній знак не поширює свою дію:",
-    "imageResId": "image_t33_q333",
+    "imageResId": "road_sign_3_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2449,7 +2449,7 @@
     "sourceOrder": 342,
     "order": 75,
     "text": "Зображений дорожній знак:",
-    "imageResId": "image_t33_q342",
+    "imageResId": "road_sign_3_44",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {

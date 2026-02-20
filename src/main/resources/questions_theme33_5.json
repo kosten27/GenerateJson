@@ -1352,7 +1352,7 @@
     "sourceOrder": 128,
     "order": 40,
     "text": "Зображений дорожній знак вказує:",
-    "imageResId": "image_t33_q128",
+    "imageResId": "road_sign_5_32_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1509,7 +1509,7 @@
     "sourceOrder": 133,
     "order": 45,
     "text": "Про що інформує зображений дорожній знак?",
-    "imageResId": "image_t33_q133",
+    "imageResId": "road_sign_5_34",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1585,7 +1585,7 @@
     "sourceOrder": 135,
     "order": 47,
     "text": "Про що інформує зображений дорожній знак?",
-    "imageResId": "image_t33_q135",
+    "imageResId": "road_sign_5_36",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1678,7 +1678,7 @@
     "sourceOrder": 138,
     "order": 50,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q138",
+    "imageResId": "road_sign_5_30",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1707,7 +1707,7 @@
     "sourceOrder": 139,
     "order": 51,
     "text": "Зображений дорожній знак інформує:",
-    "imageResId": "image_t33_q139",
+    "imageResId": "road_sign_5_20_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1736,7 +1736,7 @@
     "sourceOrder": 140,
     "order": 52,
     "text": "Зображений дорожній знак інформує:",
-    "imageResId": "image_t33_q140",
+    "imageResId": "road_sign_5_21_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1765,7 +1765,7 @@
     "sourceOrder": 141,
     "order": 53,
     "text": "Зображений дорожній знак інформує:",
-    "imageResId": "image_t33_q141",
+    "imageResId": "road_sign_5_21_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1917,7 +1917,7 @@
     "sourceOrder": 145,
     "order": 57,
     "text": "Зображений дорожній знак інформує:",
-    "imageResId": "image_t33_q145",
+    "imageResId": "road_sign_5_27_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1946,7 +1946,7 @@
     "sourceOrder": 146,
     "order": 58,
     "text": "Зображений дорожній знак інформує:",
-    "imageResId": "image_t33_q146",
+    "imageResId": "road_sign_5_28",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2179,7 +2179,7 @@
     "sourceOrder": 153,
     "order": 65,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q153",
+    "imageResId": "road_sign_5_53",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2249,7 +2249,7 @@
     "sourceOrder": 155,
     "order": 67,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q155",
+    "imageResId": "road_sign_5_70",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2371,7 +2371,7 @@
     "sourceOrder": 159,
     "order": 71,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q159",
+    "imageResId": "road_sign_5_45_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2435,7 +2435,7 @@
     "sourceOrder": 161,
     "order": 73,
     "text": "Зображеним дорожнім знаком позначаються:",
-    "imageResId": "image_t33_q161",
+    "imageResId": "road_sign_5_40_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2470,7 +2470,7 @@
     "sourceOrder": 162,
     "order": 74,
     "text": "Зображеним дорожнім знаком позначаються:",
-    "imageResId": "image_t33_q162",
+    "imageResId": "road_sign_5_41_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2505,7 +2505,7 @@
     "sourceOrder": 163,
     "order": 75,
     "text": "Зображений дорожній знак застосовується:",
-    "imageResId": "image_t33_q163",
+    "imageResId": "road_sign_5_42_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2540,7 +2540,7 @@
     "sourceOrder": 164,
     "order": 76,
     "text": "Зображений дорожній знак застосовується:",
-    "imageResId": "image_t33_q164",
+    "imageResId": "road_sign_5_42_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2668,7 +2668,7 @@
     "sourceOrder": 338,
     "order": 80,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q338",
+    "imageResId": "road_sign_5_88",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2697,7 +2697,7 @@
     "sourceOrder": 339,
     "order": 81,
     "text": "Вказаний дорожній знак позначає:",
-    "imageResId": "image_t33_q339",
+    "imageResId": "road_sign_5_39",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2726,7 +2726,7 @@
     "sourceOrder": 340,
     "order": 82,
     "text": "Вказаний дорожній знак позначає:",
-    "imageResId": "image_t33_q340",
+    "imageResId": "road_sign_5_74",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2755,7 +2755,7 @@
     "sourceOrder": 346,
     "order": 83,
     "text": "Зображений дорожній знак позначає виїзд на дорогу, де рух транспортних засобів, що рухаються за встановленими маршрутами, здійснюється спеціально відведеною смугою, позначеною знаком 5.11:",
-    "imageResId": "image_t33_q346",
+    "imageResId": "road_sign_5_10_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2778,7 +2778,7 @@
     "sourceOrder": 347,
     "order": 84,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q347",
+    "imageResId": "road_sign_5_24",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2807,7 +2807,7 @@
     "sourceOrder": 348,
     "order": 85,
     "text": "Вказаний дорожній знак позначає:",
-    "imageResId": "image_t33_q348",
+    "imageResId": "road_sign_5_26",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2836,7 +2836,7 @@
     "sourceOrder": 349,
     "order": 86,
     "text": "Вказаний дорожній знак позначає:",
-    "imageResId": "image_t33_q349",
+    "imageResId": "road_sign_5_42_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2865,7 +2865,7 @@
     "sourceOrder": 350,
     "order": 87,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q350",
+    "imageResId": "road_sign_5_77",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2888,7 +2888,7 @@
     "sourceOrder": 351,
     "order": 88,
     "text": "Вказаний дорожній знак позначає:",
-    "imageResId": "image_t33_q351",
+    "imageResId": "road_sign_5_82_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2917,7 +2917,7 @@
     "sourceOrder": 352,
     "order": 89,
     "text": "Вказаний дорожній знак інформує про:",
-    "imageResId": "image_t33_q352",
+    "imageResId": "road_sign_5_90",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2946,7 +2946,7 @@
     "sourceOrder": 353,
     "order": 90,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q353",
+    "imageResId": "road_sign_5_94_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2975,7 +2975,7 @@
     "sourceOrder": 356,
     "order": 91,
     "text": "Зображений дорожній знак позначає:",
-    "imageResId": "image_t33_q356",
+    "imageResId": "road_sign_5_95_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
