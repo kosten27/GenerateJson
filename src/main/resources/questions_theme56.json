@@ -104,7 +104,7 @@
     "sourceOrder": 4,
     "order": 4,
     "text": "З якою максимальною швидкістю дозволено рухатися по дорогах для автомобілів вантажним автомобілям з дозволеною максимальною масою понад 3,5 т з причепами?",
-    "imageResId": "image_t56_q004",
+    "imageResId": "road_sign_5_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -331,7 +331,7 @@
     "sourceOrder": 11,
     "order": 11,
     "text": "У якому з випадків водієві вантажного автомобіля з причепом дозволено рух у зону дії даного дорожнього знака?",
-    "imageResId": "image_t56_q011",
+    "imageResId": "road_sign_3_4",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -360,7 +360,7 @@
     "sourceOrder": 12,
     "order": 12,
     "text": "Чи дозволено рух вантажного автомобіля з причепом, який обслуговує підприємства, розташовані в зоні дії зазначеного дорожнього знака?",
-    "imageResId": "image_t56_q012",
+    "imageResId": "road_sign_3_4",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {

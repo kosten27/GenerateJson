@@ -226,7 +226,7 @@
     "sourceOrder": 8,
     "order": 8,
     "text": "Чи дозволено водієві мопеда рух у зону дії зображеного дорожнього знака?",
-    "imageResId": "image_t40_q008",
+    "imageResId": "road_sign_3_7",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -249,7 +249,7 @@
     "sourceOrder": 9,
     "order": 9,
     "text": "Чи дозволено рух водієві мотоцикла, що виконує доставку товарів на підприємства, розташовані в зоні дії даного дорожнього знака?",
-    "imageResId": "image_t40_q009",
+    "imageResId": "road_sign_3_6",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -319,7 +319,7 @@
     "sourceOrder": 11,
     "order": 11,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t40_q011",
+    "imageResId": "road_sign_3_6",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {

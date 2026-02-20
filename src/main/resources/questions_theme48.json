@@ -273,7 +273,7 @@
     "sourceOrder": 9,
     "order": 9,
     "text": "Чи дозволено водієві вантажного автомобіля з дозволеною масою понад 3,5 т у зоні дії зображеного дорожнього знака виконати обгін транспортного состава, що рухається зі швидкістю менш ніж 30 км/год.?",
-    "imageResId": "image_t48_q009",
+    "imageResId": "road_sign_3_27",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -371,7 +371,7 @@
     "sourceOrder": 13,
     "order": 13,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t48_q013",
+    "imageResId": "road_sign_3_16",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -400,7 +400,7 @@
     "sourceOrder": 14,
     "order": 14,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t48_q014",
+    "imageResId": "road_sign_3_15",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -928,7 +928,7 @@
     "sourceOrder": 30,
     "order": 30,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t48_q030",
+    "imageResId": "road_sign_3_14",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1115,7 +1115,7 @@
     "sourceOrder": 35,
     "order": 35,
     "text": "Яка максимальна швидкість вантажних автомобілів з дозволеною максимальною масою понад 3,5 т встановлена на дорогах для автомобілів з розділювальною смугою?",
-    "imageResId": "image_t48_q035",
+    "imageResId": "road_sign_5_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1388,7 +1388,7 @@
     "sourceOrder": 44,
     "order": 44,
     "text": "Дія даного дорожнього знака не поширюється:",
-    "imageResId": "image_t48_q044",
+    "imageResId": "road_sign_3_3_8t",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1429,7 +1429,7 @@
     "sourceOrder": 45,
     "order": 45,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t48_q045",
+    "imageResId": "road_sign_3_12",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1470,7 +1470,7 @@
     "sourceOrder": 46,
     "order": 46,
     "text": "Чи дозволено транзитний рух транспортного состава з дозволеною максимальною масою більше 8 т у зоні дії даного знаку?",
-    "imageResId": "image_t48_q046",
+    "imageResId": "road_sign_3_3_8t",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1516,7 +1516,7 @@
     "sourceOrder": 48,
     "order": 48,
     "text": "Зображений дорожній знак забороняє рух:",
-    "imageResId": "image_t48_q048",
+    "imageResId": "road_sign_3_3_8t",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -2626,7 +2626,7 @@
     "sourceOrder": 88,
     "order": 88,
     "text": "Цим дорожнім знаком позначають:",
-    "imageResId": "image_t48_q088",
+    "imageResId": "road_sign_5_96_1",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
