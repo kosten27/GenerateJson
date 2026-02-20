@@ -1434,7 +1434,7 @@
     "sourceOrder": 212,
     "order": 42,
     "text": "На що вказує даний дорожній знак?",
-    "imageResId": "image_t33_q212",
+    "imageResId": "road_sign_1_4_3",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1696,7 +1696,7 @@
     "sourceOrder": 220,
     "order": 50,
     "text": "У якому з місць встановлюється даний дорожній знак?",
-    "imageResId": "image_t33_q220",
+    "imageResId": "road_sign_1_4_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -1725,7 +1725,7 @@
     "sourceOrder": 221,
     "order": 51,
     "text": "Де встановлюється даний дорожній знак?",
-    "imageResId": "image_t33_q221",
+    "imageResId": "road_sign_1_4_2",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
