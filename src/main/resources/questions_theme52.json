@@ -351,7 +351,7 @@
     "order": 10,
     "text": "Чи дозволено поворот праворуч водієві автобуса, що рухається за встановленим маршрутом, у зображеній ситуації?",
     "imageResId": "image_t52_q010",
-    "imageType": "ROAD_SIGN",
+    "imageType": "IMAGE",
     "answerOptionList": [
       {
         "id": "4a3beded-d327-4297-bc07-985103ae457f",
