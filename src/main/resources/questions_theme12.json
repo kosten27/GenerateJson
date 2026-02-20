@@ -563,7 +563,7 @@
     "sourceOrder": 17,
     "order": 17,
     "text": "Яку максимальну швидкість руху встановлено в населених пунктах, позначених даним дорожнім знаком?",
-    "imageResId": "image_t12_q017",
+    "imageResId": "road_sign_5_49",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
@@ -598,7 +598,7 @@
     "sourceOrder": 18,
     "order": 18,
     "text": "З якою максимальною швидкістю дозволено рух після проїзду цього знака?",
-    "imageResId": "image_t12_q018",
+    "imageResId": "road_sign_5_49",
     "imageType": "ROAD_SIGN",
     "answerOptionList": [
       {
