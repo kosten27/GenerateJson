@@ -12,6 +12,6 @@ data class PopulateThemeModel(
     val order: Int,
     val suborder: Int? = null,
     val isCommon: Boolean,
-    val questionCount: Int = 0,
+    val questionCount: Int? = null,
     val licenceCategoryList: List<PopulateThemeLicenceCategoryModel> = emptyList()
 )

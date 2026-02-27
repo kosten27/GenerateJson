@@ -5,7 +5,8 @@
     "order": 1,
     "type": "REGULAR",
     "questionRangeFrom": 1,
-    "questionRangeTo": 10
+    "questionRangeTo": 10,
+    "questionCount": 10
   },
   {
     "id": "67536b29-629d-45a3-b234-25edb1c1735c",
@@ -13,7 +14,8 @@
     "order": 2,
     "type": "REGULAR",
     "questionRangeFrom": 11,
-    "questionRangeTo": 20
+    "questionRangeTo": 20,
+    "questionCount": 10
   },
   {
     "id": "2d86c56b-91ca-4502-8890-2b8bf6838122",
@@ -21,7 +23,8 @@
     "order": 3,
     "type": "REGULAR",
     "questionRangeFrom": 21,
-    "questionRangeTo": 23
+    "questionRangeTo": 23,
+    "questionCount": 3
   },
   {
     "id": "9140a694-ee39-48ee-b482-d61bdbe790cc",

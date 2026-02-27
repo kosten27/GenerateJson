@@ -5,7 +5,8 @@
     "order": 1,
     "type": "REGULAR",
     "questionRangeFrom": 1,
-    "questionRangeTo": 1
+    "questionRangeTo": 1,
+    "questionCount": 1
   },
   {
     "id": "7aef2e3f-3e19-4dc7-9ad0-bdb7c0a7afcb",

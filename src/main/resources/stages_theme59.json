@@ -5,7 +5,8 @@
     "order": 1,
     "type": "REGULAR",
     "questionRangeFrom": 1,
-    "questionRangeTo": 10
+    "questionRangeTo": 10,
+    "questionCount": 10
   },
   {
     "id": "c53470ab-eb65-4afc-a8e0-09b7e6ca6f9f",
@@ -13,7 +14,8 @@
     "order": 2,
     "type": "REGULAR",
     "questionRangeFrom": 11,
-    "questionRangeTo": 15
+    "questionRangeTo": 15,
+    "questionCount": 5
   },
   {
     "id": "f322b71b-bb64-4eb6-abbc-21467bff1dd9",

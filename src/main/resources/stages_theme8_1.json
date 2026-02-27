@@ -5,7 +5,8 @@
     "order": 1,
     "type": "REGULAR",
     "questionRangeFrom": 1,
-    "questionRangeTo": 10
+    "questionRangeTo": 10,
+    "questionCount": 10
   },
   {
     "id": "19fd82e3-c2d9-4e97-afc0-5c012702757a",
@@ -13,7 +14,8 @@
     "order": 2,
     "type": "REGULAR",
     "questionRangeFrom": 11,
-    "questionRangeTo": 20
+    "questionRangeTo": 20,
+    "questionCount": 10
   },
   {
     "id": "23522711-b7e8-45f2-b40f-45158f767db0",
@@ -21,7 +23,8 @@
     "order": 3,
     "type": "REGULAR",
     "questionRangeFrom": 21,
-    "questionRangeTo": 30
+    "questionRangeTo": 30,
+    "questionCount": 10
   },
   {
     "id": "af8e0acd-97cd-4a49-985d-3e25ed8b097e",
@@ -29,7 +32,8 @@
     "order": 4,
     "type": "REGULAR",
     "questionRangeFrom": 31,
-    "questionRangeTo": 40
+    "questionRangeTo": 40,
+    "questionCount": 10
   },
   {
     "id": "09a6bf2b-a078-4f76-9c26-1f58d1925ba5",
@@ -37,7 +41,8 @@
     "order": 5,
     "type": "REGULAR",
     "questionRangeFrom": 41,
-    "questionRangeTo": 50
+    "questionRangeTo": 50,
+    "questionCount": 10
   },
   {
     "id": "55d0d096-ba04-4675-ace1-d637241d938e",
@@ -45,7 +50,8 @@
     "order": 6,
     "type": "REGULAR",
     "questionRangeFrom": 51,
-    "questionRangeTo": 60
+    "questionRangeTo": 60,
+    "questionCount": 10
   },
   {
     "id": "8520f230-5292-4504-a990-1d1ed8d6cae6",
@@ -53,7 +59,8 @@
     "order": 7,
     "type": "REGULAR",
     "questionRangeFrom": 61,
-    "questionRangeTo": 70
+    "questionRangeTo": 70,
+    "questionCount": 10
   },
   {
     "id": "f8dbcec0-2c3e-4e2f-81a7-63be09cd0b8a",
@@ -61,7 +68,8 @@
     "order": 8,
     "type": "REGULAR",
     "questionRangeFrom": 71,
-    "questionRangeTo": 80
+    "questionRangeTo": 80,
+    "questionCount": 10
   },
   {
     "id": "e3daaf85-6d1e-4082-80f2-f70c91d4f094",
@@ -69,7 +77,8 @@
     "order": 9,
     "type": "REGULAR",
     "questionRangeFrom": 81,
-    "questionRangeTo": 84
+    "questionRangeTo": 84,
+    "questionCount": 4
   },
   {
     "id": "7e9bf36d-31ae-4d91-8014-9a631869da5f",

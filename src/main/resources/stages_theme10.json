@@ -5,7 +5,8 @@
     "order": 1,
     "type": "REGULAR",
     "questionRangeFrom": 1,
-    "questionRangeTo": 10
+    "questionRangeTo": 10,
+    "questionCount": 10
   },
   {
     "id": "33bb3f01-0818-4b52-9a35-e8641d046751",
@@ -13,7 +14,8 @@
     "order": 2,
     "type": "REGULAR",
     "questionRangeFrom": 11,
-    "questionRangeTo": 20
+    "questionRangeTo": 20,
+    "questionCount": 10
   },
   {
     "id": "b19bf824-02a4-4efb-81cf-2b9d712b81d1",
@@ -21,7 +23,8 @@
     "order": 3,
     "type": "REGULAR",
     "questionRangeFrom": 21,
-    "questionRangeTo": 30
+    "questionRangeTo": 30,
+    "questionCount": 10
   },
   {
     "id": "5e1ff2f1-d7a4-45b8-9b94-06a40130d62b",
@@ -29,7 +32,8 @@
     "order": 4,
     "type": "REGULAR",
     "questionRangeFrom": 31,
-    "questionRangeTo": 40
+    "questionRangeTo": 40,
+    "questionCount": 10
   },
   {
     "id": "aa56b078-3d96-4f9e-b419-e37cf770ed09",
@@ -37,7 +41,8 @@
     "order": 5,
     "type": "REGULAR",
     "questionRangeFrom": 41,
-    "questionRangeTo": 50
+    "questionRangeTo": 50,
+    "questionCount": 10
   },
   {
     "id": "6f8e4d37-3eb5-4ebb-8e13-8ee91dca4f65",
@@ -45,7 +50,8 @@
     "order": 6,
     "type": "REGULAR",
     "questionRangeFrom": 51,
-    "questionRangeTo": 60
+    "questionRangeTo": 60,
+    "questionCount": 10
   },
   {
     "id": "fb5e1e67-0b40-47e1-9594-10c4374c1ced",
@@ -53,7 +59,8 @@
     "order": 7,
     "type": "REGULAR",
     "questionRangeFrom": 61,
-    "questionRangeTo": 70
+    "questionRangeTo": 70,
+    "questionCount": 10
   },
   {
     "id": "6f380fe6-d42e-47ca-88f3-cb37463228c0",
@@ -61,7 +68,8 @@
     "order": 8,
     "type": "REGULAR",
     "questionRangeFrom": 71,
-    "questionRangeTo": 76
+    "questionRangeTo": 76,
+    "questionCount": 6
   },
   {
     "id": "bbf7d3a3-7808-4063-bc7a-a72db261ef21",

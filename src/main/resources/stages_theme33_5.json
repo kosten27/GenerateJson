@@ -5,7 +5,8 @@
     "order": 1,
     "type": "REGULAR",
     "questionRangeFrom": 1,
-    "questionRangeTo": 10
+    "questionRangeTo": 10,
+    "questionCount": 10
   },
   {
     "id": "f633771c-df6f-4096-90d5-a0e231bfaad6",
@@ -13,7 +14,8 @@
     "order": 2,
     "type": "REGULAR",
     "questionRangeFrom": 11,
-    "questionRangeTo": 20
+    "questionRangeTo": 20,
+    "questionCount": 10
   },
   {
     "id": "e6085159-0fd6-4a50-9c99-78f2d95d6265",
@@ -21,7 +23,8 @@
     "order": 3,
     "type": "REGULAR",
     "questionRangeFrom": 21,
-    "questionRangeTo": 30
+    "questionRangeTo": 30,
+    "questionCount": 10
   },
   {
     "id": "54daea54-518a-4963-9ed8-aee58bc19153",
@@ -29,7 +32,8 @@
     "order": 4,
     "type": "REGULAR",
     "questionRangeFrom": 31,
-    "questionRangeTo": 40
+    "questionRangeTo": 40,
+    "questionCount": 10
   },
   {
     "id": "cf37dea2-8598-48b5-9766-9d81eb3cb0c5",
@@ -37,7 +41,8 @@
     "order": 5,
     "type": "REGULAR",
     "questionRangeFrom": 41,
-    "questionRangeTo": 50
+    "questionRangeTo": 50,
+    "questionCount": 10
   },
   {
     "id": "cbc84e1a-16d5-463c-84a0-45b418d31f7b",
@@ -45,7 +50,8 @@
     "order": 6,
     "type": "REGULAR",
     "questionRangeFrom": 51,
-    "questionRangeTo": 60
+    "questionRangeTo": 60,
+    "questionCount": 10
   },
   {
     "id": "db483d64-60dc-4c53-b08c-1c65ecbee382",
@@ -53,7 +59,8 @@
     "order": 7,
     "type": "REGULAR",
     "questionRangeFrom": 61,
-    "questionRangeTo": 70
+    "questionRangeTo": 70,
+    "questionCount": 10
   },
   {
     "id": "bf91759d-be7e-4345-b114-b34d70097f9a",
@@ -61,7 +68,8 @@
     "order": 8,
     "type": "REGULAR",
     "questionRangeFrom": 71,
-    "questionRangeTo": 80
+    "questionRangeTo": 80,
+    "questionCount": 10
   },
   {
     "id": "6d7ee62b-2174-479d-897a-8797e5d54234",
@@ -69,7 +77,8 @@
     "order": 9,
     "type": "REGULAR",
     "questionRangeFrom": 81,
-    "questionRangeTo": 90
+    "questionRangeTo": 90,
+    "questionCount": 10
   },
   {
     "id": "79f3a349-9ba2-4881-b898-b953ae4fab80",
@@ -77,7 +86,8 @@
     "order": 10,
     "type": "REGULAR",
     "questionRangeFrom": 91,
-    "questionRangeTo": 91
+    "questionRangeTo": 91,
+    "questionCount": 1
   },
   {
     "id": "722e32a8-13e5-4bc6-b4fa-4cb520064256",

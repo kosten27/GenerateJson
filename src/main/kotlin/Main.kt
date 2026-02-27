@@ -249,13 +249,16 @@ fun main() {
             val stageOrder = index + 1
             val stageIdKey =  "${theme.order}_${stageOrder}"
             val stageId = stageIds[stageIdKey] ?: Uuid.random()
+            val firstQuestionOrder = questionList.first().order
+            val lastQuestionOrder = questionList.last().order
             PopulateStageModel(
                 id = stageId.toString(),
                 themeId = theme.id.toString(),
                 order = stageOrder,
                 type = PopulateStageType.REGULAR,
-                questionRangeFrom = questionList.first().order,
-                questionRangeTo = questionList.last().order
+                questionRangeFrom = firstQuestionOrder,
+                questionRangeTo = lastQuestionOrder,
+                questionCount = lastQuestionOrder.minus(firstQuestionOrder).plus(1)
             )
         }
 
