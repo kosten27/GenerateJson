@@ -271,7 +271,8 @@ fun main() {
             order = stageOrder,
             type = PopulateStageType.MISTAKES_REVIEW,
             questionRangeFrom = null,
-            questionRangeTo = null
+            questionRangeTo = null,
+            questionCount = 0
         )
         fileName to (stages + mistakesReviewStage)
     }

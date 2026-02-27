@@ -21,6 +21,7 @@
     "id": "9b562706-63e0-4c2c-b9be-2fa76baa844f",
     "themeId": "56d5b985-f5d2-4e57-95b9-85f5d2fe5739",
     "order": 3,
-    "type": "MISTAKES_REVIEW"
+    "type": "MISTAKES_REVIEW",
+    "questionCount": 0
   }
 ]

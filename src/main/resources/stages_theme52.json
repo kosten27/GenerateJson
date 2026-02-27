@@ -66,6 +66,7 @@
     "id": "825d23db-eca4-49c2-9d01-ef2d9e7b0824",
     "themeId": "5fe97969-939e-4739-a979-69939e7739db",
     "order": 8,
-    "type": "MISTAKES_REVIEW"
+    "type": "MISTAKES_REVIEW",
+    "questionCount": 0
   }
 ]

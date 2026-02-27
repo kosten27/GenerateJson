@@ -39,6 +39,7 @@
     "id": "8ff34f19-2716-4bda-90c5-6ba9e85a0a7f",
     "themeId": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
     "order": 5,
-    "type": "MISTAKES_REVIEW"
+    "type": "MISTAKES_REVIEW",
+    "questionCount": 0
   }
 ]
