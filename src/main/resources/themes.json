@@ -3,300 +3,348 @@
     "id": "4053c802-a8cc-4c6f-93c8-02a8ccfc6fc7",
     "title": "Загальні положення",
     "order": 1,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 79
   },
   {
     "id": "daaf72fb-4c8b-4d48-af72-fb4c8b0d4834",
     "title": "Обов'язки і права водіїв механічних транспортних засобів",
     "order": 2,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 37
   },
   {
     "id": "41c18b62-42b7-4630-818b-6242b716307b",
     "title": "Рух транспортних засобів із спеціальними сигналами",
     "order": 3,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 16
   },
   {
     "id": "2e314714-061e-4b0e-b147-14061e7b0edd",
     "title": "Обов'язки і права пішоходів",
     "order": 4,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 26
   },
   {
     "id": "7fbc9788-52ad-4443-bc97-8852add44384",
     "title": "Обов'язки і права пасажирів",
     "order": 5,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 16
   },
   {
     "id": "c2536220-4458-4d41-9362-2044588d41e4",
     "title": "Вимоги до велосипедистів",
     "order": 6,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 22
   },
   {
     "id": "7df8bd97-e186-4540-b8bd-97e18635402d",
     "title": "Вимоги до осіб, які керують гужовим транспортом, і погоничів тварин",
     "order": 7,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 8
   },
   {
     "id": "b3387248-0afe-4f11-b872-480afe0f116e",
     "title": "Регулювання дорожнього руху (регульовані перехрестя)",
     "order": 8,
     "suborder": 1,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 84
   },
   {
     "id": "e011561a-4077-4f81-9156-1a40774f8155",
     "title": "Регулювання дорожнього руху (нерегульовані перехрестя)",
     "order": 8,
     "suborder": 2,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 7
   },
   {
     "id": "f4313ad5-7f44-45ad-b13a-d57f44d5ada2",
     "title": "Попереджувальні сигнали",
     "order": 9,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 60
   },
   {
     "id": "7d6b9473-e961-4d72-ab94-73e9619d72ca",
     "title": "Початок руху та зміна його напрямку",
     "order": 10,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 76
   },
   {
     "id": "21f00c43-985f-4d41-b00c-43985fcd41a2",
     "title": "Розташування транспортних засобів на дорозі",
     "order": 11,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 39
   },
   {
     "id": "a7ca1d81-c4f5-41cc-8a1d-81c4f531ccea",
     "title": "Швидкість руху",
     "order": 12,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 41
   },
   {
     "id": "fefd3aa5-1946-4f5d-bd3a-a51946df5dc0",
     "title": "Дистанція, інтервал, зустрічний роз'їзд",
     "order": 13,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 13
   },
   {
     "id": "7293dbd5-3fd5-48eb-93db-d53fd5f8eb1e",
     "title": "Обгін",
     "order": 14,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 56
   },
   {
     "id": "47add86a-ffbc-49b9-add8-6affbc19b90a",
     "title": "Зупинка і стоянка",
     "order": 15,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 97
   },
   {
     "id": "127a55eb-1c76-45ac-ba55-eb1c7605acd9",
     "title": "Проїзд перехресть (регульовані перехрестя)",
     "order": 16,
     "suborder": 1,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 34
   },
   {
     "id": "209f2f77-add2-445f-9f2f-77add2645fd0",
     "title": "Проїзд перехресть (нерегульовані перехрестя)",
     "order": 16,
     "suborder": 2,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 109
   },
   {
     "id": "185eeae2-80d0-49e7-9eea-e280d029e71d",
     "title": "Переваги маршрутних транспортних засобів",
     "order": 17,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 11
   },
   {
     "id": "56d5b985-f5d2-4e57-95b9-85f5d2fe5739",
     "title": "Проїзд пішохідних переходів і зупинок транспортних засобів",
     "order": 18,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 19
   },
   {
     "id": "960773b7-f0e5-4503-8773-b7f0e5b50362",
     "title": "Користування зовнішніми світловими приладами",
     "order": 19,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 33
   },
   {
     "id": "d64ac535-01f4-491f-8ac5-3501f4c91f99",
     "title": "Рух через залізничні переїзди",
     "order": 20,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 31
   },
   {
     "id": "d38e5e5d-d7c0-4c5a-8e5e-5dd7c0ec5a2d",
     "title": "Перевезення пасажирів",
     "order": 21,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 12
   },
   {
     "id": "711c9f82-025c-4ef9-9c9f-82025c6ef97e",
     "title": "Перевезення вантажу",
     "order": 22,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 6
   },
   {
     "id": "83bb78e3-aca2-44a6-bb78-e3aca2d4a671",
     "title": "Буксирування та експлуатація транспортних составів",
     "order": 23,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 20
   },
   {
     "id": "e6e1f2fe-e47e-4560-a1f2-fee47e5560a4",
     "title": "Навчальна їзда",
     "order": 24,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 14
   },
   {
     "id": "30b0d9f8-803d-49fe-b0d9-f8803db9fee6",
     "title": "Рух транспортних засобів у колонах",
     "order": 25,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 8
   },
   {
     "id": "d5e7a718-5870-41e6-a7a7-18587081e65e",
     "title": "Рух у житловій та пішохідній зоні",
     "order": 26,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 13
   },
   {
     "id": "e5c9cc89-c575-472c-89cc-89c575d72c99",
     "title": "Рух по автомагістралях",
     "order": 27,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 13
   },
   {
     "id": "bf3dc8c4-9d8d-4c7d-bdc8-c49d8d9c7ded",
     "title": "Рух по гірських дорогах і на крутих спусках",
     "order": 28,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 8
   },
   {
     "id": "0eed1349-be15-4fda-ad13-49be154fdafb",
     "title": "Міжнародний рух",
     "order": 29,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 1
   },
   {
     "id": "c4a69b06-b54e-43eb-a69b-06b54e93ebea",
     "title": "Номерні, розпізнавальні знаки, написи і позначення",
     "order": 30,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 14
   },
   {
     "id": "362af646-10af-42a8-aaf6-4610af42a872",
     "title": "Технічний стан транспортних засобів та їх обладнання",
     "order": 31,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 18
   },
   {
     "id": "5594db8a-191c-4ea9-94db-8a191caea96a",
     "title": "Окремі питання дорожнього руху, що потребують узгодження",
     "order": 32,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 5
   },
   {
     "id": "fb5ec06c-b112-450f-9ec0-6cb112050fbd",
     "title": "Попереджувальні знаки",
     "order": 33,
     "suborder": 1,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 83
   },
   {
     "id": "a2a0fc99-cb57-4838-a0fc-99cb57b838d7",
     "title": "Знаки пріорітету",
     "order": 33,
     "suborder": 2,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 23
   },
   {
     "id": "1077ffbd-0b5d-459b-b7ff-bd0b5dc59b10",
     "title": "Заборонні знаки",
     "order": 33,
     "suborder": 3,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 75
   },
   {
     "id": "f3345f31-56f0-4e55-b45f-3156f0be5573",
     "title": "Наказові знаки",
     "order": 33,
     "suborder": 4,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 30
   },
   {
     "id": "d1736b8d-89f9-43b9-b36b-8d89f9f3b9fd",
     "title": "Інформаційно-вказівні знаки",
     "order": 33,
     "suborder": 5,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 91
   },
   {
     "id": "314be378-c2bf-44d4-8be3-78c2bfa4d499",
     "title": "Знаки сервісу",
     "order": 33,
     "suborder": 6,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 5
   },
   {
     "id": "d54ec74b-6940-4333-8ec7-4b6940e33368",
     "title": "Таблички до дорожніх знаків",
     "order": 33,
     "suborder": 7,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 50
   },
   {
     "id": "10e5201a-5b46-47cd-a520-1a5b4677cd02",
     "title": "Дорожня розмітка",
     "order": 34,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 35
   },
   {
     "id": "1e524429-5d15-4bd5-9244-295d150bd5db",
     "title": "Основи безпечного водіння",
     "order": 35,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 171
   },
   {
     "id": "d6a74c1a-7e70-4c33-a74c-1a7e70dc338a",
     "title": "Основи права в області дорожнього руху",
     "order": 36,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 8
   },
   {
     "id": "33c963a9-9685-460b-8963-a99685f60b57",
     "title": "Надання домедичної допомоги",
     "order": 37,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 60
   },
   {
     "id": "280ad55a-a854-411f-8ad5-5aa854e11f38",
     "title": "Етика водіння, культура та відпочинок водія",
     "order": 38,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 14
   },
   {
     "id": "e0c3e35d-54e6-4025-83e3-5d54e6202577",
     "title": "Європротокол",
     "order": 39,
-    "isCommon": true
+    "isCommon": true,
+    "questionCount": 6
   },
   {
     "id": "238205d9-40b6-49c6-8205-d940b6f9c645",
     "title": "Додаткові питання щодо категорій A1, A (Загальні)",
     "order": 40,
     "isCommon": false,
+    "questionCount": 31,
     "licenceCategoryList": [
       {
         "id": "1be95ff1-8534-44da-a95f-f1853464da42",
@@ -313,6 +361,7 @@
     "title": "Додаткові питання щодо категорій A1, A (Будова і терміни)",
     "order": 41,
     "isCommon": false,
+    "questionCount": 13,
     "licenceCategoryList": [
       {
         "id": "fa592c05-2315-4dfb-992c-052315adfb89",
@@ -329,6 +378,7 @@
     "title": "Додаткові питання щодо категорій A1, A (Юридична відповідальність)",
     "order": 42,
     "isCommon": false,
+    "questionCount": 20,
     "licenceCategoryList": [
       {
         "id": "b08745da-c263-428b-8745-dac263028bea",
@@ -345,6 +395,7 @@
     "title": "Додаткові питання щодо категорій A1, A (Безпека)",
     "order": 43,
     "isCommon": false,
+    "questionCount": 34,
     "licenceCategoryList": [
       {
         "id": "ae6f87b5-69a3-4365-af87-b569a373652d",
@@ -361,6 +412,7 @@
     "title": "Додаткові питання щодо категорій B1, B (Загальні)",
     "order": 44,
     "isCommon": false,
+    "questionCount": 16,
     "licenceCategoryList": [
       {
         "id": "98d74fda-9a50-4ad0-974f-da9a500ad0a8",
@@ -377,6 +429,7 @@
     "title": "Додаткові питання щодо категорій B1, B (Будова і терміни)",
     "order": 45,
     "isCommon": false,
+    "questionCount": 33,
     "licenceCategoryList": [
       {
         "id": "e9391f8f-2424-430f-b91f-8f2424e30f07",
@@ -393,6 +446,7 @@
     "title": "Додаткові питання щодо категорій B1, B (Юридична відповідальність)",
     "order": 46,
     "isCommon": false,
+    "questionCount": 9,
     "licenceCategoryList": [
       {
         "id": "cfc42815-8362-46ea-8428-15836246ea28",
@@ -409,6 +463,7 @@
     "title": "Додаткові питання щодо категорій B1, B (Безпека)",
     "order": 47,
     "isCommon": false,
+    "questionCount": 7,
     "licenceCategoryList": [
       {
         "id": "a1546e3a-eec4-4b67-946e-3aeec4fb6773",
@@ -425,6 +480,7 @@
     "title": "Додаткові питання щодо категорій C1, C (Загальні)",
     "order": 48,
     "isCommon": false,
+    "questionCount": 88,
     "licenceCategoryList": [
       {
         "id": "68c82f73-92fa-4065-882f-7392faf06581",
@@ -441,6 +497,7 @@
     "title": "Додаткові питання щодо категорій C1, C (Будова і терміни)",
     "order": 49,
     "isCommon": false,
+    "questionCount": 55,
     "licenceCategoryList": [
       {
         "id": "a64c581d-3b5c-4a2d-8c58-1d3b5cba2de1",
@@ -457,6 +514,7 @@
     "title": "Додаткові питання щодо категорій C1, C (Юридична відповідальність)",
     "order": 50,
     "isCommon": false,
+    "questionCount": 12,
     "licenceCategoryList": [
       {
         "id": "c542993e-aaf1-4f66-8299-3eaaf18f66e0",
@@ -473,6 +531,7 @@
     "title": "Додаткові питання щодо категорій C1, C (Безпека)",
     "order": 51,
     "isCommon": false,
+    "questionCount": 43,
     "licenceCategoryList": [
       {
         "id": "2a8957c8-a520-491e-8957-c8a520d91e6a",
@@ -489,6 +548,7 @@
     "title": "Додаткові питання щодо категорій D1, D (Загальні)",
     "order": 52,
     "isCommon": false,
+    "questionCount": 66,
     "licenceCategoryList": [
       {
         "id": "3765d25f-eb34-445c-a5d2-5feb34445caa",
@@ -505,6 +565,7 @@
     "title": "Додаткові питання щодо категорій D1, D (Будова і терміни)",
     "order": 53,
     "isCommon": false,
+    "questionCount": 45,
     "licenceCategoryList": [
       {
         "id": "7d4940f9-92e5-43b8-8940-f992e5b3b802",
@@ -521,6 +582,7 @@
     "title": "Додаткові питання щодо категорій D1, D (Юридична відповідальність)",
     "order": 54,
     "isCommon": false,
+    "questionCount": 36,
     "licenceCategoryList": [
       {
         "id": "6b9e2aec-bb4d-41a8-9e2a-ecbb4db1a84e",
@@ -537,6 +599,7 @@
     "title": "Додаткові питання щодо категорій D1, D (Безпека)",
     "order": 55,
     "isCommon": false,
+    "questionCount": 30,
     "licenceCategoryList": [
       {
         "id": "d741cb6f-bd1e-4011-81cb-6fbd1ed01180",
@@ -553,6 +616,7 @@
     "title": "Додаткові питання щодо категорій BE, C1E, CE, D1E, DE (Загальні)",
     "order": 56,
     "isCommon": false,
+    "questionCount": 21,
     "licenceCategoryList": [
       {
         "id": "cc2f2f33-00d6-40d1-af2f-3300d6c0d154",
@@ -581,6 +645,7 @@
     "title": "Додаткові питання щодо категорій BE, C1E, CE, D1E, DE (Будова и терміни)",
     "order": 57,
     "isCommon": false,
+    "questionCount": 5,
     "licenceCategoryList": [
       {
         "id": "5f2315d8-1ff5-4047-a315-d81ff590472e",
@@ -609,6 +674,7 @@
     "title": "Додаткові питання щодо категорій BE, C1E, CE, D1E, DE (Юридична відповільність)",
     "order": 58,
     "isCommon": false,
+    "questionCount": 3,
     "licenceCategoryList": [
       {
         "id": "de81aae4-d96b-42a5-81aa-e4d96bf2a5b7",
@@ -637,6 +703,7 @@
     "title": "Додаткові питання щодо категорій BE, C1E, CE, D1E, DE (Безпека)",
     "order": 59,
     "isCommon": false,
+    "questionCount": 15,
     "licenceCategoryList": [
       {
         "id": "4a9fa064-194e-4cbc-9fa0-64194efcbc71",
@@ -665,6 +732,7 @@
     "title": "Додаткові питання щодо категорії T (Загальні)",
     "order": 60,
     "isCommon": false,
+    "questionCount": 18,
     "licenceCategoryList": [
       {
         "id": "c11ad970-8383-4054-9ad9-708383805472",
@@ -677,6 +745,7 @@
     "title": "Додаткові питання щодо категорії T (Будова і терміни)",
     "order": 61,
     "isCommon": false,
+    "questionCount": 7,
     "licenceCategoryList": [
       {
         "id": "2f9de56f-c365-4ac4-9de5-6fc3656ac456",
@@ -689,6 +758,7 @@
     "title": "Додаткові питання щодо категорії T (Юридична відповільність)",
     "order": 62,
     "isCommon": false,
+    "questionCount": 16,
     "licenceCategoryList": [
       {
         "id": "9ced4b0d-b29c-46c2-ad4b-0db29c26c28d",
@@ -701,6 +771,7 @@
     "title": "Додаткові питання щодо категорії T (Безпека)",
     "order": 63,
     "isCommon": false,
+    "questionCount": 12,
     "licenceCategoryList": [
       {
         "id": "f860730c-b073-4d19-a073-0cb073ed1959",

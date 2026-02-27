@@ -278,6 +278,15 @@ fun main() {
         File("src/main/resources/$fileName").writeText(questionsEncodedJson)
     }
 
+    val updatedThemeList = themeList.map { populatedTheme ->
+        val questionCount = themes.find { populatedTheme.id == it.id?.toString() }?.questions?.size ?: 0
+        populatedTheme.copy(
+            questionCount = questionCount
+        )
+    }
+    val updatedThemeListEncodedJson = prettyPrintJson.encodeToString(updatedThemeList)
+    File("src/main/resources/themes.json").writeText(updatedThemeListEncodedJson)
+
 }
 
 fun parseQuestionsWithImages(input: String): List<ThemeImages> {
