@@ -3,7 +3,6 @@ import kotlinx.serialization.Contextual
 import kotlinx.serialization.Serializable
 import kotlin.uuid.ExperimentalUuidApi
 
-@OptIn(ExperimentalUuidApi::class)
 @Serializable
 data class PopulateThemeModel(
     @Contextual
@@ -13,5 +12,5 @@ data class PopulateThemeModel(
     val suborder: Int? = null,
     val isCommon: Boolean,
     val questionCount: Int? = null,
-    val licenceCategoryList: List<PopulateThemeLicenceCategoryModel> = emptyList()
+    val licenceCategoryGroupId: String? = null
 )

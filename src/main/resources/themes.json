@@ -345,16 +345,7 @@
     "order": 40,
     "isCommon": false,
     "questionCount": 31,
-    "licenceCategoryList": [
-      {
-        "id": "1be95ff1-8534-44da-a95f-f1853464da42",
-        "licenceCategoryId": "A1"
-      },
-      {
-        "id": "4dca33b6-8f87-44ad-8a33-b68f8764ad8e",
-        "licenceCategoryId": "A"
-      }
-    ]
+    "licenceCategoryGroupId": "A"
   },
   {
     "id": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
@@ -362,16 +353,7 @@
     "order": 41,
     "isCommon": false,
     "questionCount": 13,
-    "licenceCategoryList": [
-      {
-        "id": "fa592c05-2315-4dfb-992c-052315adfb89",
-        "licenceCategoryId": "A1"
-      },
-      {
-        "id": "075e1ecd-25d3-4123-9e1e-cd25d36123ce",
-        "licenceCategoryId": "A"
-      }
-    ]
+    "licenceCategoryGroupId": "A"
   },
   {
     "id": "4ab30695-b68f-4bf9-b306-95b68fabf91a",
@@ -379,16 +361,7 @@
     "order": 42,
     "isCommon": false,
     "questionCount": 20,
-    "licenceCategoryList": [
-      {
-        "id": "b08745da-c263-428b-8745-dac263028bea",
-        "licenceCategoryId": "A1"
-      },
-      {
-        "id": "beeabfe6-e0c0-4ebe-aabf-e6e0c09ebeae",
-        "licenceCategoryId": "A"
-      }
-    ]
+    "licenceCategoryGroupId": "A"
   },
   {
     "id": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
@@ -396,16 +369,7 @@
     "order": 43,
     "isCommon": false,
     "questionCount": 34,
-    "licenceCategoryList": [
-      {
-        "id": "ae6f87b5-69a3-4365-af87-b569a373652d",
-        "licenceCategoryId": "A1"
-      },
-      {
-        "id": "979f2b2f-b286-4636-9f2b-2fb286d6360d",
-        "licenceCategoryId": "A"
-      }
-    ]
+    "licenceCategoryGroupId": "A"
   },
   {
     "id": "d4b3f9f3-43da-40cf-b3f9-f343daf0cf13",
@@ -413,16 +377,7 @@
     "order": 44,
     "isCommon": false,
     "questionCount": 16,
-    "licenceCategoryList": [
-      {
-        "id": "98d74fda-9a50-4ad0-974f-da9a500ad0a8",
-        "licenceCategoryId": "B1"
-      },
-      {
-        "id": "d65765ba-d8f1-4555-9765-bad8f1055506",
-        "licenceCategoryId": "B"
-      }
-    ]
+    "licenceCategoryGroupId": "B"
   },
   {
     "id": "58b44cff-6155-41ce-b44c-ff615541ce96",
@@ -430,16 +385,7 @@
     "order": 45,
     "isCommon": false,
     "questionCount": 33,
-    "licenceCategoryList": [
-      {
-        "id": "e9391f8f-2424-430f-b91f-8f2424e30f07",
-        "licenceCategoryId": "B1"
-      },
-      {
-        "id": "7e1aedd1-aaf2-4cf0-9aed-d1aaf2acf0fc",
-        "licenceCategoryId": "B"
-      }
-    ]
+    "licenceCategoryGroupId": "B"
   },
   {
     "id": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
@@ -447,16 +393,7 @@
     "order": 46,
     "isCommon": false,
     "questionCount": 9,
-    "licenceCategoryList": [
-      {
-        "id": "cfc42815-8362-46ea-8428-15836246ea28",
-        "licenceCategoryId": "B1"
-      },
-      {
-        "id": "8805ef71-a79b-4778-85ef-71a79b177894",
-        "licenceCategoryId": "B"
-      }
-    ]
+    "licenceCategoryGroupId": "B"
   },
   {
     "id": "7a4950cd-5234-427d-8950-cd5234e27d11",
@@ -464,16 +401,7 @@
     "order": 47,
     "isCommon": false,
     "questionCount": 7,
-    "licenceCategoryList": [
-      {
-        "id": "a1546e3a-eec4-4b67-946e-3aeec4fb6773",
-        "licenceCategoryId": "B1"
-      },
-      {
-        "id": "ebb24f14-0959-416d-b24f-140959d16dcd",
-        "licenceCategoryId": "B"
-      }
-    ]
+    "licenceCategoryGroupId": "B"
   },
   {
     "id": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
@@ -481,16 +409,7 @@
     "order": 48,
     "isCommon": false,
     "questionCount": 88,
-    "licenceCategoryList": [
-      {
-        "id": "68c82f73-92fa-4065-882f-7392faf06581",
-        "licenceCategoryId": "C1"
-      },
-      {
-        "id": "fc186817-e870-49fb-9868-17e87099fb9c",
-        "licenceCategoryId": "C"
-      }
-    ]
+    "licenceCategoryGroupId": "C"
   },
   {
     "id": "73ff2ced-f0f0-4e1a-bf2c-edf0f0ae1ac9",
@@ -498,16 +417,7 @@
     "order": 49,
     "isCommon": false,
     "questionCount": 55,
-    "licenceCategoryList": [
-      {
-        "id": "a64c581d-3b5c-4a2d-8c58-1d3b5cba2de1",
-        "licenceCategoryId": "C1"
-      },
-      {
-        "id": "14bf4627-a9f1-4504-bf46-27a9f1b504f1",
-        "licenceCategoryId": "C"
-      }
-    ]
+    "licenceCategoryGroupId": "C"
   },
   {
     "id": "a4428f64-e891-4ff2-828f-64e8915ff2d6",
@@ -515,16 +425,7 @@
     "order": 50,
     "isCommon": false,
     "questionCount": 12,
-    "licenceCategoryList": [
-      {
-        "id": "c542993e-aaf1-4f66-8299-3eaaf18f66e0",
-        "licenceCategoryId": "C1"
-      },
-      {
-        "id": "26f08d67-c543-4721-b08d-67c5436721ba",
-        "licenceCategoryId": "C"
-      }
-    ]
+    "licenceCategoryGroupId": "C"
   },
   {
     "id": "b2310cbe-952c-4fbe-b10c-be952c3fbec4",
@@ -532,16 +433,7 @@
     "order": 51,
     "isCommon": false,
     "questionCount": 43,
-    "licenceCategoryList": [
-      {
-        "id": "2a8957c8-a520-491e-8957-c8a520d91e6a",
-        "licenceCategoryId": "C1"
-      },
-      {
-        "id": "6a839cfd-0014-4c5c-839c-fd0014ec5cfd",
-        "licenceCategoryId": "C"
-      }
-    ]
+    "licenceCategoryGroupId": "C"
   },
   {
     "id": "5fe97969-939e-4739-a979-69939e7739db",
@@ -549,16 +441,7 @@
     "order": 52,
     "isCommon": false,
     "questionCount": 66,
-    "licenceCategoryList": [
-      {
-        "id": "3765d25f-eb34-445c-a5d2-5feb34445caa",
-        "licenceCategoryId": "D1"
-      },
-      {
-        "id": "2ee25a6d-0396-44be-a25a-6d039624be91",
-        "licenceCategoryId": "D"
-      }
-    ]
+    "licenceCategoryGroupId": "D"
   },
   {
     "id": "3d86beed-c185-43b2-86be-edc18593b23b",
@@ -566,16 +449,7 @@
     "order": 53,
     "isCommon": false,
     "questionCount": 45,
-    "licenceCategoryList": [
-      {
-        "id": "7d4940f9-92e5-43b8-8940-f992e5b3b802",
-        "licenceCategoryId": "D1"
-      },
-      {
-        "id": "f8d22d8b-6fe8-4b6b-922d-8b6fe84b6bb5",
-        "licenceCategoryId": "D"
-      }
-    ]
+    "licenceCategoryGroupId": "D"
   },
   {
     "id": "aa59a333-4515-402c-99a3-334515202c0d",
@@ -583,16 +457,7 @@
     "order": 54,
     "isCommon": false,
     "questionCount": 36,
-    "licenceCategoryList": [
-      {
-        "id": "6b9e2aec-bb4d-41a8-9e2a-ecbb4db1a84e",
-        "licenceCategoryId": "D1"
-      },
-      {
-        "id": "7aeacc14-66c6-4fe1-aacc-1466c60fe19a",
-        "licenceCategoryId": "D"
-      }
-    ]
+    "licenceCategoryGroupId": "D"
   },
   {
     "id": "37c07ab1-d2da-4955-807a-b1d2daa9559e",
@@ -600,16 +465,7 @@
     "order": 55,
     "isCommon": false,
     "questionCount": 30,
-    "licenceCategoryList": [
-      {
-        "id": "d741cb6f-bd1e-4011-81cb-6fbd1ed01180",
-        "licenceCategoryId": "D1"
-      },
-      {
-        "id": "20b574cf-9a2a-4cc8-b574-cf9a2a8cc8d7",
-        "licenceCategoryId": "D"
-      }
-    ]
+    "licenceCategoryGroupId": "D"
   },
   {
     "id": "1d004d36-1edc-4431-804d-361edc043149",
@@ -617,28 +473,7 @@
     "order": 56,
     "isCommon": false,
     "questionCount": 21,
-    "licenceCategoryList": [
-      {
-        "id": "cc2f2f33-00d6-40d1-af2f-3300d6c0d154",
-        "licenceCategoryId": "BE"
-      },
-      {
-        "id": "1ea14261-fdc8-485f-a142-61fdc8685f90",
-        "licenceCategoryId": "C1E"
-      },
-      {
-        "id": "e0d47e99-fa80-48c5-947e-99fa80c8c5bc",
-        "licenceCategoryId": "CE"
-      },
-      {
-        "id": "9510b8d9-8724-4c9a-90b8-d98724dc9a0c",
-        "licenceCategoryId": "D1E"
-      },
-      {
-        "id": "394ccecd-5e6d-4d21-8cce-cd5e6d8d214e",
-        "licenceCategoryId": "DE"
-      }
-    ]
+    "licenceCategoryGroupId": "E"
   },
   {
     "id": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
@@ -646,28 +481,7 @@
     "order": 57,
     "isCommon": false,
     "questionCount": 5,
-    "licenceCategoryList": [
-      {
-        "id": "5f2315d8-1ff5-4047-a315-d81ff590472e",
-        "licenceCategoryId": "BE"
-      },
-      {
-        "id": "9c9564b4-c931-43b0-9564-b4c931e3b001",
-        "licenceCategoryId": "C1E"
-      },
-      {
-        "id": "7e8cf448-6144-4321-8cf4-48614413210a",
-        "licenceCategoryId": "CE"
-      },
-      {
-        "id": "419446fb-3266-43d3-9446-fb326653d3c0",
-        "licenceCategoryId": "D1E"
-      },
-      {
-        "id": "ada704d9-f98f-4299-a704-d9f98fb299c1",
-        "licenceCategoryId": "DE"
-      }
-    ]
+    "licenceCategoryGroupId": "E"
   },
   {
     "id": "a81c874c-09f9-4202-9c87-4c09f9820277",
@@ -675,28 +489,7 @@
     "order": 58,
     "isCommon": false,
     "questionCount": 3,
-    "licenceCategoryList": [
-      {
-        "id": "de81aae4-d96b-42a5-81aa-e4d96bf2a5b7",
-        "licenceCategoryId": "BE"
-      },
-      {
-        "id": "415d30a0-6dce-4e3a-9d30-a06dce4e3ac4",
-        "licenceCategoryId": "C1E"
-      },
-      {
-        "id": "52d2d068-137f-4bc5-92d0-68137f3bc54e",
-        "licenceCategoryId": "CE"
-      },
-      {
-        "id": "9fbeaace-e330-4f68-beaa-cee3304f685b",
-        "licenceCategoryId": "D1E"
-      },
-      {
-        "id": "87799751-e0a0-4345-b997-51e0a0234550",
-        "licenceCategoryId": "DE"
-      }
-    ]
+    "licenceCategoryGroupId": "E"
   },
   {
     "id": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
@@ -704,28 +497,7 @@
     "order": 59,
     "isCommon": false,
     "questionCount": 15,
-    "licenceCategoryList": [
-      {
-        "id": "4a9fa064-194e-4cbc-9fa0-64194efcbc71",
-        "licenceCategoryId": "BE"
-      },
-      {
-        "id": "25d9594b-d806-408e-9959-4bd806608ef5",
-        "licenceCategoryId": "C1E"
-      },
-      {
-        "id": "8983e3a5-e1fd-498d-83e3-a5e1fd298dc2",
-        "licenceCategoryId": "CE"
-      },
-      {
-        "id": "2e96e054-6277-418b-96e0-546277e18b80",
-        "licenceCategoryId": "D1E"
-      },
-      {
-        "id": "cbfed954-96d4-415e-bed9-5496d4e15e85",
-        "licenceCategoryId": "DE"
-      }
-    ]
+    "licenceCategoryGroupId": "E"
   },
   {
     "id": "74022e98-71d9-4f5f-822e-9871d94f5f39",
@@ -733,12 +505,7 @@
     "order": 60,
     "isCommon": false,
     "questionCount": 18,
-    "licenceCategoryList": [
-      {
-        "id": "c11ad970-8383-4054-9ad9-708383805472",
-        "licenceCategoryId": "T"
-      }
-    ]
+    "licenceCategoryGroupId": "T"
   },
   {
     "id": "7c1723ca-50ef-49f0-9723-ca50ef09f086",
@@ -746,12 +513,7 @@
     "order": 61,
     "isCommon": false,
     "questionCount": 7,
-    "licenceCategoryList": [
-      {
-        "id": "2f9de56f-c365-4ac4-9de5-6fc3656ac456",
-        "licenceCategoryId": "T"
-      }
-    ]
+    "licenceCategoryGroupId": "T"
   },
   {
     "id": "f27e56a0-c952-4c94-be56-a0c952ec948f",
@@ -759,12 +521,7 @@
     "order": 62,
     "isCommon": false,
     "questionCount": 16,
-    "licenceCategoryList": [
-      {
-        "id": "9ced4b0d-b29c-46c2-ad4b-0db29c26c28d",
-        "licenceCategoryId": "T"
-      }
-    ]
+    "licenceCategoryGroupId": "T"
   },
   {
     "id": "7a16f47d-c868-452a-96f4-7dc868a52a1a",
@@ -772,11 +529,6 @@
     "order": 63,
     "isCommon": false,
     "questionCount": 12,
-    "licenceCategoryList": [
-      {
-        "id": "f860730c-b073-4d19-a073-0cb073ed1959",
-        "licenceCategoryId": "T"
-      }
-    ]
+    "licenceCategoryGroupId": "T"
   }
 ]
