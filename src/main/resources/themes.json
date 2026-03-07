@@ -345,7 +345,7 @@
     "order": 40,
     "isCommon": false,
     "questionCount": 31,
-    "licenceCategoryGroupId": "A"
+    "licenseCategoryGroupId": "A"
   },
   {
     "id": "2b501c8c-a4c7-4ec8-901c-8ca4c74ec8ac",
@@ -353,7 +353,7 @@
     "order": 41,
     "isCommon": false,
     "questionCount": 13,
-    "licenceCategoryGroupId": "A"
+    "licenseCategoryGroupId": "A"
   },
   {
     "id": "4ab30695-b68f-4bf9-b306-95b68fabf91a",
@@ -361,7 +361,7 @@
     "order": 42,
     "isCommon": false,
     "questionCount": 20,
-    "licenceCategoryGroupId": "A"
+    "licenseCategoryGroupId": "A"
   },
   {
     "id": "aed9691b-cea7-4f6d-9969-1bcea76f6de6",
@@ -369,7 +369,7 @@
     "order": 43,
     "isCommon": false,
     "questionCount": 34,
-    "licenceCategoryGroupId": "A"
+    "licenseCategoryGroupId": "A"
   },
   {
     "id": "d4b3f9f3-43da-40cf-b3f9-f343daf0cf13",
@@ -377,7 +377,7 @@
     "order": 44,
     "isCommon": false,
     "questionCount": 16,
-    "licenceCategoryGroupId": "B"
+    "licenseCategoryGroupId": "B"
   },
   {
     "id": "58b44cff-6155-41ce-b44c-ff615541ce96",
@@ -385,7 +385,7 @@
     "order": 45,
     "isCommon": false,
     "questionCount": 33,
-    "licenceCategoryGroupId": "B"
+    "licenseCategoryGroupId": "B"
   },
   {
     "id": "ec8affd0-df13-4edf-8aff-d0df13bedf3d",
@@ -393,7 +393,7 @@
     "order": 46,
     "isCommon": false,
     "questionCount": 9,
-    "licenceCategoryGroupId": "B"
+    "licenseCategoryGroupId": "B"
   },
   {
     "id": "7a4950cd-5234-427d-8950-cd5234e27d11",
@@ -401,7 +401,7 @@
     "order": 47,
     "isCommon": false,
     "questionCount": 7,
-    "licenceCategoryGroupId": "B"
+    "licenseCategoryGroupId": "B"
   },
   {
     "id": "c2d2fdbf-ff31-4a28-92fd-bfff313a2820",
@@ -409,7 +409,7 @@
     "order": 48,
     "isCommon": false,
     "questionCount": 88,
-    "licenceCategoryGroupId": "C"
+    "licenseCategoryGroupId": "C"
   },
   {
     "id": "73ff2ced-f0f0-4e1a-bf2c-edf0f0ae1ac9",
@@ -417,7 +417,7 @@
     "order": 49,
     "isCommon": false,
     "questionCount": 55,
-    "licenceCategoryGroupId": "C"
+    "licenseCategoryGroupId": "C"
   },
   {
     "id": "a4428f64-e891-4ff2-828f-64e8915ff2d6",
@@ -425,7 +425,7 @@
     "order": 50,
     "isCommon": false,
     "questionCount": 12,
-    "licenceCategoryGroupId": "C"
+    "licenseCategoryGroupId": "C"
   },
   {
     "id": "b2310cbe-952c-4fbe-b10c-be952c3fbec4",
@@ -433,7 +433,7 @@
     "order": 51,
     "isCommon": false,
     "questionCount": 43,
-    "licenceCategoryGroupId": "C"
+    "licenseCategoryGroupId": "C"
   },
   {
     "id": "5fe97969-939e-4739-a979-69939e7739db",
@@ -441,7 +441,7 @@
     "order": 52,
     "isCommon": false,
     "questionCount": 66,
-    "licenceCategoryGroupId": "D"
+    "licenseCategoryGroupId": "D"
   },
   {
     "id": "3d86beed-c185-43b2-86be-edc18593b23b",
@@ -449,7 +449,7 @@
     "order": 53,
     "isCommon": false,
     "questionCount": 45,
-    "licenceCategoryGroupId": "D"
+    "licenseCategoryGroupId": "D"
   },
   {
     "id": "aa59a333-4515-402c-99a3-334515202c0d",
@@ -457,7 +457,7 @@
     "order": 54,
     "isCommon": false,
     "questionCount": 36,
-    "licenceCategoryGroupId": "D"
+    "licenseCategoryGroupId": "D"
   },
   {
     "id": "37c07ab1-d2da-4955-807a-b1d2daa9559e",
@@ -465,7 +465,7 @@
     "order": 55,
     "isCommon": false,
     "questionCount": 30,
-    "licenceCategoryGroupId": "D"
+    "licenseCategoryGroupId": "D"
   },
   {
     "id": "1d004d36-1edc-4431-804d-361edc043149",
@@ -473,7 +473,7 @@
     "order": 56,
     "isCommon": false,
     "questionCount": 21,
-    "licenceCategoryGroupId": "E"
+    "licenseCategoryGroupId": "E"
   },
   {
     "id": "7123bf13-221d-4a3d-a3bf-13221d0a3df7",
@@ -481,7 +481,7 @@
     "order": 57,
     "isCommon": false,
     "questionCount": 5,
-    "licenceCategoryGroupId": "E"
+    "licenseCategoryGroupId": "E"
   },
   {
     "id": "a81c874c-09f9-4202-9c87-4c09f9820277",
@@ -489,7 +489,7 @@
     "order": 58,
     "isCommon": false,
     "questionCount": 3,
-    "licenceCategoryGroupId": "E"
+    "licenseCategoryGroupId": "E"
   },
   {
     "id": "bffbc8a7-3696-4404-bbc8-a73696f4046f",
@@ -497,7 +497,7 @@
     "order": 59,
     "isCommon": false,
     "questionCount": 15,
-    "licenceCategoryGroupId": "E"
+    "licenseCategoryGroupId": "E"
   },
   {
     "id": "74022e98-71d9-4f5f-822e-9871d94f5f39",
@@ -505,7 +505,7 @@
     "order": 60,
     "isCommon": false,
     "questionCount": 18,
-    "licenceCategoryGroupId": "T"
+    "licenseCategoryGroupId": "T"
   },
   {
     "id": "7c1723ca-50ef-49f0-9723-ca50ef09f086",
@@ -513,7 +513,7 @@
     "order": 61,
     "isCommon": false,
     "questionCount": 7,
-    "licenceCategoryGroupId": "T"
+    "licenseCategoryGroupId": "T"
   },
   {
     "id": "f27e56a0-c952-4c94-be56-a0c952ec948f",
@@ -521,7 +521,7 @@
     "order": 62,
     "isCommon": false,
     "questionCount": 16,
-    "licenceCategoryGroupId": "T"
+    "licenseCategoryGroupId": "T"
   },
   {
     "id": "7a16f47d-c868-452a-96f4-7dc868a52a1a",
@@ -529,6 +529,6 @@
     "order": 63,
     "isCommon": false,
     "questionCount": 12,
-    "licenceCategoryGroupId": "T"
+    "licenseCategoryGroupId": "T"
   }
 ]
