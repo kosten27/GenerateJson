@@ -230,13 +230,13 @@
         "id": "7a77836c-b637-4d5b-9155-ad34333d8032",
         "position": 4,
         "text": "Рух тракторів, самохідних машин і механізмів.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "id": "a1a6988c-ffbf-4174-87da-2e3feab282c4",
         "position": 5,
         "text": "Все перераховане вище.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },

@@ -615,13 +615,13 @@
         "id": "8bec3fdd-55c4-4d84-bdaa-ed04580c0995",
         "position": 1,
         "text": "Не має права - повинен дати дорогу зустрічному автомобілю.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "id": "9496d9da-4bac-4156-82b6-0a8a52af71dd",
         "position": 2,
         "text": "Має право.",
-        "isCorrect": true
+        "isCorrect": false
       }
     ]
   },

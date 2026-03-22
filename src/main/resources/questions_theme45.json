@@ -464,7 +464,26 @@
     "text": "Наведений індикатор червоного кольору інформує про:",
     "imageResId": "image_t45_q016",
     "imageType": "IMAGE",
-    "answerOptionList": []
+    "answerOptionList": [
+      {
+        "id": "c17fb686-ffad-440d-a928-1f27f784d6e2",
+        "position": 1,
+        "text": "Відчинені двері автомобіля.",
+        "isCorrect": true
+      },
+      {
+        "id": "8a2e30c8-6128-4025-8776-8a0622d5ab86",
+        "position": 2,
+        "text": "Блокування дверей автомобіля.",
+        "isCorrect": false
+      },
+      {
+        "id": "d25c3b33-3dc9-4ff7-982a-0e27b0a39190",
+        "position": 3,
+        "text": "Відчинені двері багажника.",
+        "isCorrect": false
+      }
+    ]
   },
   {
     "id": "e11587d9-bcb3-4638-9431-5732767254b5",
