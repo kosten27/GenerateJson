@@ -78,7 +78,7 @@ fun main() {
                         val id = pdrHintsIds.getOrDefault(pdrIdWithPrefix, Uuid.random().toString())
                         val firstLineParagraph = paragraph_33.substringBefore('\n').trim()
                         val pdrHintValue = if (firstLineParagraph.last() == ':')
-                            (firstLineParagraph + paragraph_33.substringAfter('\n').substringBefore(".\n"))
+                            (firstLineParagraph + "\n" + paragraph_33.substringAfter('\n').substringBefore(".\n"))
                                 .trim()
                                 .let {
                                     if (it.endsWith(".")) it else "$it."
