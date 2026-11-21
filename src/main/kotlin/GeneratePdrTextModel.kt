@@ -19,14 +19,14 @@ fun main() {
 
     val paragraphs = newPdrText
         .trim()
-        .split(Regex("(?m)^(?=\\d+\\.\\d+\\.\\s)"))
+        .split(Regex("(?m)^(?=\\d+\\.\\d+\\.\\s|\\d+\\.\\s\\p{Lu}[\\p{Lu}\\s]+\$)"))
         .map { it.trim() }
         .filter { it.isNotBlank() }
 
     val pdrHintModelList = mutableListOf<PopulatedPdrHintModel>()
     paragraphs.forEach { paragraph ->
 
-        val pdrId = Regex("(?m)^\\d+\\.\\d+\\.\\s").find(paragraph)?.value?.trim()
+        val pdrId = Regex("(?m)^\\d*\\.?\\d+\\.\\s").find(paragraph)?.value?.trim()
         pdrId?.let {
             if (pdrId == "1.10.") {
                 val paragraphs_1_10 =
@@ -59,7 +59,15 @@ fun main() {
                         pdrHintModelList.add(pdrHintModel)
                     }
                 }
-            } else {
+            } else if (pdrId == "33.") {
+                val paragraphs_33 =
+                    paragraph
+                        .trim()
+                        .substringAfter("\n")
+                        .split(Regex("(?m)^(?=\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s)"))
+                        .map { it.trim() }
+                        .filter { it.isNotBlank() }
+            } else if (pdrId.count { it == '.' } > 1) {
                 val formattedPdrId = pdrId.replace(".", "_").dropLast(1)
                 val id = pdrHintsIds.getOrDefault(formattedPdrId, Uuid.random().toString())
                 val pdrHintModel = PopulatedPdrHintModel(
