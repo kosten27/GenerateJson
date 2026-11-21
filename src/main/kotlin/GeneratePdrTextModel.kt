@@ -106,7 +106,7 @@ fun main() {
                         val pdrHintModel = PopulatedPdrHintModel(
                             id = id,
                             pdrId = pdrIdWithPrefix,
-                            value = paragraph_34.substringBefore('\n').trim()
+                            value = "Розмітка " + paragraph_34.substringBefore('\n').trim()
                         )
                         pdrHintModelList.add(pdrHintModel)
                     }
