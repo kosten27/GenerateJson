@@ -15,6 +15,7 @@ fun main() {
     val newPdrText = pdrText
         .replace(Regex("(?m)^\\s*\\{.*}\\s*\\R?"), "") // Removed lines with {}
         .replace(Regex("\n{2,}"), "\n") // Removed empty lines
+        .replace("“ ", "“")
     File("src/main/resources/pdr_text.txt").writeText(newPdrText)
 
     val paragraphs = newPdrText
@@ -67,6 +68,26 @@ fun main() {
                         .split(Regex("(?m)^(?=\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s)"))
                         .map { it.trim() }
                         .filter { it.isNotBlank() }
+                paragraphs_33.forEach { paragraph_33 ->
+                    val pdr_33_id = Regex("(?m)^(\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s)").find(paragraph_33)?.value?.trim()
+                    pdr_33_id?.let {
+                        val pdrIdWithPrefix = "rs_" + pdr_33_id
+                            .replace(".", "_")
+                            .replace(" ", "")
+                            .replace("-", "_to_")
+                        val id = pdrHintsIds.getOrDefault(pdrIdWithPrefix, Uuid.random().toString())
+                        val pdrHintModel = PopulatedPdrHintModel(
+                            id = id,
+                            pdrId = pdrIdWithPrefix,
+                            value = paragraph_33.substringBefore('\n').trim()
+//                                .trim().replaceFirstChar { it.uppercase() }
+//                                .trimEnd().let {
+//                                    if (it.endsWith(";")) it.dropLast(1) + "." else it
+//                                }
+                        )
+                        pdrHintModelList.add(pdrHintModel)
+                    }
+                }
             } else if (pdrId.count { it == '.' } > 1) {
                 val formattedPdrId = pdrId.replace(".", "_").dropLast(1)
                 val id = pdrHintsIds.getOrDefault(formattedPdrId, Uuid.random().toString())
