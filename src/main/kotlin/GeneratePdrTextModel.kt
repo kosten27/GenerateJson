@@ -16,6 +16,7 @@ fun main() {
         .replace(Regex("(?m)^\\s*\\{.*}\\s*\\R?"), "") // Removed lines with {}
         .replace(Regex("\n{2,}"), "\n") // Removed empty lines
         .replace("“ ", "“")
+        .replace("5.88. “", "5.88 “")
     File("src/main/resources/pdr_text.txt").writeText(newPdrText)
 
     val paragraphs = newPdrText
