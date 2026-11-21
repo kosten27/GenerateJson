@@ -64,17 +64,18 @@ fun main() {
                     paragraph
                         .trim()
                         .substringAfter("\n")
-                        .split(Regex("(?m)^(?=\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s)"))
+                        .split(Regex("(?m)^(?=\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s|\\d+(?:\\.\\d+)+(?:,\\s*\\d+(?:\\.\\d+)+)*\\s(?!-))"))
                         .map { it.trim() }
                         .filter { it.isNotBlank() }
                 paragraphs_33.forEach { paragraph_33 ->
-                    val pdr_33_id = Regex("(?m)^(\\d+\\.\\d+\\.\\d+\\s+і\\s+\\d+\\.\\d+\\.\\d+\\s|\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s)").find(paragraph_33)?.value?.trim()
+                    val pdr_33_id = Regex("(?m)^(\\d+\\.\\d+\\.\\d+\\s+і\\s+\\d+\\.\\d+\\.\\d+\\s|\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s|\\d+(?:\\.\\d+)+(?:,\\s*\\d+(?:\\.\\d+)+)*\\s(?!-))").find(paragraph_33)?.value?.trim()
                     pdr_33_id?.let {
                         val pdrIdWithPrefix = "rs_" + pdr_33_id
                             .replace(".", "_")
                             .replace(" ", "")
                             .replace("-", "_to_")
                             .replace("і", "_&_")
+                            .replace(",", "_&_")
                         val id = pdrHintsIds.getOrDefault(pdrIdWithPrefix, Uuid.random().toString())
                         val firstLineParagraph = paragraph_33.substringBefore('\n').trim()
                         val pdrHintValue = if (firstLineParagraph.last() == ':')
@@ -97,11 +98,11 @@ fun main() {
                     paragraph
                         .trim()
                         .substringAfter("\n")
-                        .split(Regex("(?m)^(?=\\d*\\.?\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+,\\s\\d+\\.\\d+\\.\\d+\\s)"))
+                        .split(Regex("(?m)^(?=\\d*\\.?\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s|\\d+(?:\\.\\d+)+(?:,\\s*\\d+(?:\\.\\d+)+)*)"))
                         .map { it.trim() }
                         .filter { it.isNotBlank() }
                 paragraphs_34.forEach { paragraph_34 ->
-                    val pdr_34_id = Regex("(?m)^(\\d*\\.?\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+,\\s\\d+\\.\\d+\\.\\d+\\s)").find(paragraph_34)?.value?.trim()
+                    val pdr_34_id = Regex("(?m)^(\\d*\\.?\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s|\\d+(?:\\.\\d+)+(?:,\\s*\\d+(?:\\.\\d+)+)*)").find(paragraph_34)?.value?.trim()
                     pdr_34_id?.let {
                         val pdrIdWithPrefix = "rm_" + pdr_34_id
                             .replace(".", "_")
