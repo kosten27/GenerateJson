@@ -76,10 +76,18 @@ fun main() {
                             .replace("-", "_to_")
                             .replace("і", "_&_")
                         val id = pdrHintsIds.getOrDefault(pdrIdWithPrefix, Uuid.random().toString())
+                        val firstLineParagraph = paragraph_33.substringBefore('\n').trim()
+                        val pdrHintValue = if (firstLineParagraph.last() == ':')
+                            (firstLineParagraph + paragraph_33.substringAfter('\n').substringBefore(".\n"))
+                                .trim()
+                                .let {
+                                    if (it.endsWith(".")) it else "$it."
+                                }
+                        else firstLineParagraph
                         val pdrHintModel = PopulatedPdrHintModel(
                             id = id,
                             pdrId = pdrIdWithPrefix,
-                            value = paragraph_33.substringBefore('\n').trim()
+                            value = pdrHintValue
                         )
                         pdrHintModelList.add(pdrHintModel)
                     }
