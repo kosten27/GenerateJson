@@ -20,14 +20,14 @@ fun main() {
 
     val paragraphs = newPdrText
         .trim()
-        .split(Regex("(?m)^(?=\\d+\\.\\d+\\.\\s|\\d+\\.\\s\\p{Lu}[\\p{Lu}\\s]+\$)"))
+        .split(Regex("(?m)^(?=\\d*\\.?\\d+\\.\\d+\\.\\s|\\d+\\.\\s\\p{Lu}[\\p{Lu}\\s]+\$)"))
         .map { it.trim() }
         .filter { it.isNotBlank() }
 
     val pdrHintModelList = mutableListOf<PopulatedPdrHintModel>()
     paragraphs.forEach { paragraph ->
 
-        val pdrId = Regex("(?m)^\\d*\\.?\\d+\\.\\s").find(paragraph)?.value?.trim()
+        val pdrId = Regex("(?m)^\\d*\\.?\\d*\\.?\\d+\\.\\s").find(paragraph)?.value?.trim()
         pdrId?.let {
             if (pdrId == "1.10.") {
                 val paragraphs_1_10 =
