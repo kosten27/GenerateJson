@@ -1,6 +1,4 @@
 import kotlinx.serialization.json.Json
-import org.jetbrains.kotlin.builtins.StandardNames.FqNames.mutableList
-import org.jetbrains.kotlin.util.removeSuffixIfPresent
 import java.io.File
 import kotlin.uuid.ExperimentalUuidApi
 import kotlin.uuid.Uuid
@@ -83,10 +81,32 @@ fun main() {
                             id = id,
                             pdrId = pdrIdWithPrefix,
                             value = paragraph_33.substringBefore('\n').trim()
-//                                .trim().replaceFirstChar { it.uppercase() }
-//                                .trimEnd().let {
-//                                    if (it.endsWith(";")) it.dropLast(1) + "." else it
-//                                }
+                        )
+                        pdrHintModelList.add(pdrHintModel)
+                    }
+                }
+            } else if (pdrId == "34.") {
+                val paragraphs_34 =
+                    paragraph
+                        .trim()
+                        .substringAfter("\n")
+                        .split(Regex("(?m)^(?=\\d*\\.?\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+,\\s\\d+\\.\\d+\\.\\d+\\s)"))
+                        .map { it.trim() }
+                        .filter { it.isNotBlank() }
+                paragraphs_34.forEach { paragraph_34 ->
+                    val pdr_34_id = Regex("(?m)^(\\d*\\.?\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s|\\d+\\.\\d+\\.\\d+,\\s\\d+\\.\\d+\\.\\d+\\s)").find(paragraph_34)?.value?.trim()
+                    pdr_34_id?.let {
+                        val pdrIdWithPrefix = "rm_" + pdr_34_id
+                            .replace(".", "_")
+                            .replace(" ", "")
+                            .replace("-", "_to_")
+                            .replace("і", "_&_")
+                            .replace(",", "_&_")
+                        val id = pdrHintsIds.getOrDefault(pdrIdWithPrefix, Uuid.random().toString())
+                        val pdrHintModel = PopulatedPdrHintModel(
+                            id = id,
+                            pdrId = pdrIdWithPrefix,
+                            value = paragraph_34.substringBefore('\n').trim()
                         )
                         pdrHintModelList.add(pdrHintModel)
                     }
