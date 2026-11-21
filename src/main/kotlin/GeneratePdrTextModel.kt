@@ -69,12 +69,13 @@ fun main() {
                         .map { it.trim() }
                         .filter { it.isNotBlank() }
                 paragraphs_33.forEach { paragraph_33 ->
-                    val pdr_33_id = Regex("(?m)^(\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s)").find(paragraph_33)?.value?.trim()
+                    val pdr_33_id = Regex("(?m)^(\\d+\\.\\d+\\.\\d+\\s+і\\s+\\d+\\.\\d+\\.\\d+\\s|\\d*\\.?\\d+\\.\\d+\\s(?!-)|\\d+\\.\\d+\\.\\d+-\\d+\\.\\d+\\.\\d+\\s)").find(paragraph_33)?.value?.trim()
                     pdr_33_id?.let {
                         val pdrIdWithPrefix = "rs_" + pdr_33_id
                             .replace(".", "_")
                             .replace(" ", "")
                             .replace("-", "_to_")
+                            .replace("і", "_&_")
                         val id = pdrHintsIds.getOrDefault(pdrIdWithPrefix, Uuid.random().toString())
                         val pdrHintModel = PopulatedPdrHintModel(
                             id = id,
