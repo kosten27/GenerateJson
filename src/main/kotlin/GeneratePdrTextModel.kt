@@ -146,6 +146,17 @@ fun main() {
                             value = "Розмітка " + paragraph_34.substringBefore('\n').trim()
                         )
                         pdrHintModelList.add(pdrHintModel)
+
+                        if (pdrIdWithPrefix == "rm_1_40") { // End of 1. group
+                            val pdrIdGroup1 = "rm_1_details"
+                            val idGroup1 = pdrHintsIds.getOrDefault(pdrIdGroup1, Uuid.random().toString())
+                            val pdrHintModelGroup1 = PopulatedPdrHintModel(
+                                id = idGroup1,
+                                pdrId = pdrIdGroup1,
+                                value = paragraph_34.substringAfter('\n').substringBefore("\n2. Вертикальна розмітка")
+                            )
+                            pdrHintModelList.add(pdrHintModelGroup1)
+                        }
                     }
                 }
             } else if (pdrId.count { it == '.' } > 1) {
