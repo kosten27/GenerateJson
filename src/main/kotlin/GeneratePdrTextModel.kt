@@ -101,6 +101,24 @@ fun main() {
                                 value = paragraph_33.substringAfter('\n').substringBefore("\n2. Знаки пріоритету")
                             )
                             pdrHintModelList.add(pdrHintModelGroup1)
+//                        } else if (pdrIdWithPrefix == "rs_2_6") { // End of 1. group
+//                            val pdrIdGroup2 = "rs_2_details"
+//                            val idGroup2 = pdrHintsIds.getOrDefault(pdrIdGroup2, Uuid.random().toString())
+//                            val pdrHintModelGroup2 = PopulatedPdrHintModel(
+//                                id = idGroup2,
+//                                pdrId = pdrIdGroup2,
+//                                value = paragraph_33.substringAfter('\n').substringBefore("\n3. Заборонні знаки")
+//                            )
+//                            pdrHintModelList.add(pdrHintModelGroup2)
+                        } else if (pdrIdWithPrefix == "rs_3_45") { // End of 1. group
+                            val pdrIdGroup3 = "rs_3_details"
+                            val idGroup3 = pdrHintsIds.getOrDefault(pdrIdGroup3, Uuid.random().toString())
+                            val pdrHintModelGroup3 = PopulatedPdrHintModel(
+                                id = idGroup3,
+                                pdrId = pdrIdGroup3,
+                                value = paragraph_33.substringAfter('\n').substringBefore("\n4. Наказові знаки")
+                            )
+                            pdrHintModelList.add(pdrHintModelGroup3)
                         }
                     }
                 }
