@@ -249,7 +249,7 @@ fun main() {
             val hintList = questionHintMatchTheme?.get(question.sourceOrder)
                 ?.mapIndexed { index, pdrId ->
                     val position = index.plus(1)
-                    val hintId = questionHintIds["${themeNumber}_${question.sourceOrder}_$position"]
+                    val hintId = questionHintIds["${theme.order}_${question.sourceOrder}_$position"]
                     val trafficRuleSectionId = pdrHintPdrIdToIdMap[pdrId]
                     PopulateQuestionHintModel(
                         id = (hintId ?: Uuid.random()).toString(),
