@@ -26,6 +26,18 @@
         "text": "Дати дорогу тільки сірому автомобілю.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "844d71f7-c90b-47ab-9ff9-a301a83b9141",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "7f38d006-6edf-4a9c-9f13-956055188066",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -48,6 +60,13 @@
         "position": 2,
         "text": "Давши дорогу синьому автомобілю.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8195ff46-0390-4335-871b-a5fcdcd7ff6f",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -72,6 +91,13 @@
         "text": "Дати дорогу червоному автомобілю.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "76d167f0-b516-42b8-91e3-79ac8f5a21ed",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -94,6 +120,13 @@
         "position": 2,
         "text": "Білий автомобіль, а потім Ви.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c177ba1d-cd99-4757-a098-92ee9e8bc1db",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -118,6 +151,13 @@
         "text": "Дати дорогу синьому автомобілю.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "7e860d0d-0ca0-4b04-8403-58f2635a62f6",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -140,6 +180,13 @@
         "position": 2,
         "text": "Ви, а потім зелений автомобіль.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f387acbd-9e27-4cf8-9084-7adaa53167ee",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -164,6 +211,13 @@
         "text": "Дати дорогу жовтому автомобілю.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "dc22b360-8ecd-4bb8-bf29-6ce5a379f7bd",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -186,6 +240,13 @@
         "position": 2,
         "text": "Дати дорогу білому автомобілю.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a5b420d8-e03b-4f8b-98df-d7f25e5bf6f9",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -210,6 +271,13 @@
         "text": "Дати дорогу сірому автомобілю.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "fd45c8e4-48de-4e90-a696-d3be14272336",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -232,6 +300,13 @@
         "position": 2,
         "text": "Дати дорогу фіолетовому автомобілю.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "cd4c4b2b-19f3-4004-8f90-cdaae9108cd8",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -256,6 +331,13 @@
         "text": "Білий автомобіль, а потім Ви.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "410650fc-0b15-4db1-8a4d-3177aa8a34d5",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -278,6 +360,13 @@
         "position": 2,
         "text": "Ви, а потім синій автомобіль.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ea571e22-f4e2-441e-89b4-3a96b4f2a28a",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -302,6 +391,13 @@
         "text": "Першим.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "6b8573b5-acf9-4a09-a8bd-d3c9272bcc2f",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -324,6 +420,13 @@
         "position": 2,
         "text": "Ви, а потім сірий автомобіль.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "bb4303d2-6908-482b-87b4-8157eb7fc3ad",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -354,6 +457,23 @@
         "text": "Дати дорогу всім транспортним засобам.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5a8d6a18-a140-4301-ae9d-642cf3f7668f",
+        "trafficRuleSectionId": "b1bc87ed-6339-41f1-9d18-80f7d78a9476",
+        "position": 1
+      },
+      {
+        "id": "afb9ee3a-ef97-416b-9658-ec3c86db59d1",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 2
+      },
+      {
+        "id": "c3eb1858-1c45-4c04-ac34-5389d22f6663",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 3
+      }
     ]
   },
   {
@@ -382,6 +502,18 @@
         "position": 3,
         "text": "Дати дорогу білому і жовтому автомобілям.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8739f687-900c-4f8f-b8ff-39695e80b90c",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "7e1a1a60-8bc6-4ea0-a23e-95df9f4140ff",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -412,6 +544,18 @@
         "text": "Проїхати перехрестя після трамвая і синього автомобіля.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "c6c748d0-12a8-4ce5-9c96-662bebc1e064",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "8c2e61e4-e1db-4a35-8062-77c750dd3555",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -440,6 +584,18 @@
         "position": 3,
         "text": "Трамвай 2 одночасно з червоним автомобілем, жовтий автомобіль, трамвай 1, синій автомобіль.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2f21c993-c2bf-4c08-8cdc-f9e578787df8",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "95a38870-49d3-4bdb-8a01-ece238c0e247",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -470,6 +626,18 @@
         "text": "Після чорного, білого і синього автомобілів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "899c2881-1046-4dcc-8bb3-6e1e29aa50d4",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "2cd7e751-5118-40fd-ad03-11f2f3fd173a",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -498,6 +666,18 @@
         "position": 3,
         "text": "Першим.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8cd79d4d-572a-46f4-aab0-100e94a6d103",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "44452c9e-8261-46db-b1b0-a063ae701ae6",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -528,6 +708,18 @@
         "text": "Першим.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "8654aa9d-e6a7-4c13-92ca-dfea376b01e7",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "c41197b8-5914-41e5-bb65-73b2176f140a",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -550,6 +742,13 @@
         "position": 2,
         "text": "Сірий автомобіль, а потім Ви.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d9fcb9ea-dd03-4df6-8ae3-a8a905e496cc",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -574,6 +773,13 @@
         "text": "Давши дорогу білому автомобілю.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "038fe7fa-079d-496a-bc12-432a1e72bbcd",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -596,6 +802,13 @@
         "position": 2,
         "text": "Давши дорогу велосипедистові.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d539b1e2-22c3-446d-959e-afcbe0869d8f",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -620,6 +833,13 @@
         "text": "Проїхати, давши дорогу велосипедистові.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "ca0f9aa9-1dba-44f8-bcf8-b803078a27cb",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -642,6 +862,13 @@
         "position": 2,
         "text": "Надати перевагу у русі фіолетову автомобілю, який вже рухається по колу і після цього виїхати на перехрестя.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ea88ff2f-6639-4c3f-bee8-308da6067c57",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -666,6 +893,18 @@
         "text": "Дати дорогу велосипедистові.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "32af8357-2a73-4181-a9df-5e278e700a49",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "bb212937-9d00-43a9-9a12-c108cd03af43",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -688,6 +927,18 @@
         "position": 2,
         "text": "Дати дорогу білому автомобілю.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a64f3f47-a8aa-480f-be81-72e13361e0d9",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "63db2890-293d-43a5-82e6-17b1bd68fcbf",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -718,6 +969,18 @@
         "text": "Проїхати перехрестя останнім – після мотоцикла й автомобіля.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "82349def-cbcf-45e7-a546-9adb279e0e12",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "32497389-2c7a-4103-8212-a51c63a25941",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -746,6 +1009,18 @@
         "position": 3,
         "text": "Проїхати перехрестя останнім – після трамвая і білого автомобіля.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f9f64d0b-8ca1-446b-aa66-7c4945edea52",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "bbf20a2c-d008-4fa9-b1bf-8772756160c2",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -776,6 +1051,18 @@
         "text": "Проїхати перехрестя після трамвая і сірого автомобіля.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5cb9a2de-b54d-474f-9747-7fd01026c26f",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "30a93025-3f8a-496d-976f-0171c37b2ffd",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -804,6 +1091,18 @@
         "position": 3,
         "text": "Третім.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0b2e2add-55ad-4826-a715-7eba2f898c21",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "626d9e9b-d0df-4015-b59e-3b4792e6d281",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -834,6 +1133,18 @@
         "text": "Білий, ваш, синій автомобілі.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9c9c2d19-d4da-4275-bad3-b877f8fe26b2",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "2c48aeac-2c7b-4e72-af64-33e7901f6384",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -862,6 +1173,18 @@
         "position": 3,
         "text": "Після сірого автомобіля.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "12f232b5-d42e-4457-9588-7b7f961523d9",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "18926518-9f19-44a5-be91-0b648c2bb60f",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -892,6 +1215,13 @@
         "text": "Давати дорогу, тільки повертаючи ліворуч.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "941793f6-7a15-43d1-868f-be69499dda1a",
+        "trafficRuleSectionId": "ff0862f0-45ca-41cd-81d3-d8349fff7978",
+        "position": 1
+      }
     ]
   },
   {
@@ -915,6 +1245,13 @@
         "text": "Вважати, що він перебуває на другорядній дорозі.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "2691f223-0ce0-4db5-82aa-a9e4985459b3",
+        "trafficRuleSectionId": "ff0862f0-45ca-41cd-81d3-d8349fff7978",
+        "position": 1
+      }
     ]
   },
   {
@@ -937,6 +1274,18 @@
         "position": 2,
         "text": "Дати дорогу синьому автомобілю.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "e48f8b64-1786-471a-891c-933fbdc8ed7c",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "1f2051ef-c450-4ea6-be43-e26d422c8fa7",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -967,6 +1316,18 @@
         "text": "Останнім.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "97ce9363-3bfc-474c-be76-4097e59c176e",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      },
+      {
+        "id": "86271098-0c16-4714-aa30-44567f9e05b7",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -990,6 +1351,13 @@
         "text": "Повинен дати Вам дорогу.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "fcae224b-e9f5-43c5-a49e-28aa8310e4dd",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -1012,6 +1380,13 @@
         "position": 2,
         "text": "Ваш, синій автомобілі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6b2c9cc3-8b14-447f-9a3d-1f466ac9c184",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -1041,6 +1416,13 @@
         "position": 3,
         "text": "Білий, синій, ваш автомобілі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "26deccb0-a8e5-4e52-a4b0-817211fa70d4",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -1077,6 +1459,13 @@
         "text": "Проїхати, давши дорогу тільки червоному автомобілю.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "45bb3ef5-90ab-4998-bad4-aa36d785a0de",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -1111,6 +1500,13 @@
         "position": 4,
         "text": "Проїхати, давши дорогу тільки велосипедистові.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7489995d-c6d5-4762-b516-f3b8fd836292",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -1147,6 +1543,13 @@
         "text": "Останнім – після трамвая, білого і жовтого автомобілів.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "f7982e25-5c37-4ade-9f6e-054211991421",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -1175,6 +1578,13 @@
         "position": 3,
         "text": "Ваш, червоний, чорний автомобілі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f5776baf-6075-45c2-931f-c0a68563cccf",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -1205,6 +1615,13 @@
         "text": "Останнім – після трамвая і велосипедиста.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "247bb854-a369-4f14-9598-642f236df51a",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -1233,6 +1650,13 @@
         "position": 3,
         "text": "Після трамвая і білого автомобіля.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8de8ab31-7d88-4611-bdc4-f0e57ffaaded",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -1263,6 +1687,13 @@
         "text": "Трамвай одночасно з жовтим, ваш, синій автомобілі.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e7f2b7fa-6ead-429f-90c7-9c38ce8f7e8a",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -1292,6 +1723,13 @@
         "text": "Проїхати перехрестя після трамвая і синього автомобіля.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ac9e06d2-b8f0-4884-922e-435bbf079768",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -1314,6 +1752,13 @@
         "position": 2,
         "text": "Дати дорогу червоному автомобілю.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "729789ad-c42f-4a1c-92c3-9b610981273d",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -1350,6 +1795,18 @@
         "text": "Білий, зелений, фіолетовий, чорний автомобілі.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "450ddb28-5456-44de-b05e-06446c48a12e",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "4f4fc95e-5b05-4129-97fe-99a2e586e113",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -1385,6 +1842,23 @@
         "text": "Білий автомобіль.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "2616c68f-46c8-4440-9614-e01d9ece36b4",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "72624f7f-1811-4a15-98d4-eab1b8ac5380",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 2
+      },
+      {
+        "id": "918169bf-0fe2-49b3-b915-a49933553821",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 3
+      }
     ]
   },
   {
@@ -1408,6 +1882,13 @@
         "text": "Білий автомобіль.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "bb9299c7-4b54-4c14-91f1-898e89903751",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      }
     ]
   },
   {
@@ -1430,6 +1911,13 @@
         "position": 2,
         "text": "Проїхати першим, не даючи дорогу фіолетовому автомобілю.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ad414d8d-e44e-4f6f-9155-bc683620dfac",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -1460,6 +1948,18 @@
         "text": "Третім.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a357d2a3-a56a-4617-9041-1af9a073d732",
+        "trafficRuleSectionId": "b1bc87ed-6339-41f1-9d18-80f7d78a9476",
+        "position": 1
+      },
+      {
+        "id": "6cdd3c9d-219f-4ed0-b20e-37beac5a7254",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 2
+      }
     ]
   },
   {
@@ -1482,6 +1982,13 @@
         "position": 2,
         "text": "Дати дорогу всім транспортним засобам, що рухаються по дорозі, на яку він в'їжджає.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "edbaaef9-0ba4-4f2f-881f-61d9e8e062df",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
       }
     ]
   },
@@ -1506,6 +2013,13 @@
         "text": "Дати дорогу трактору і проїхати другим.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2bfd66a7-5cc3-4636-a429-b0d0aefb3502",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      }
     ]
   },
   {
@@ -1529,6 +2043,18 @@
         "text": "Проїхати другим, давши дорогу трамваю.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "0e5ff888-125e-4292-924e-15e45cd78fed",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "0b6c09c3-c9b2-4be6-9100-310ae12e06a9",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 2
+      }
     ]
   },
   {
@@ -1551,6 +2077,18 @@
         "position": 2,
         "text": "Проїхати першим, оскільки маєте перевагу в русі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b5944100-2429-4507-85f1-c91df4d78ea7",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "db812654-a636-47e9-b4ff-eca30a570214",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 2
       }
     ]
   },
@@ -1593,6 +2131,18 @@
         "text": "Білий автомобіль.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ae2ccd85-1124-4232-bb37-1d80d3ba48d8",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "b2952708-7441-4ad1-9189-5ab0af232f26",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 2
+      }
     ]
   },
   {
@@ -1627,6 +2177,18 @@
         "position": 4,
         "text": "Трамвай 2, червоний автомобіль, трамвай 1, фіолетовий, зелений автомобілі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "5f1c6dd7-8ba0-4a5b-b5b6-6601ec982c7f",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "84a1895b-ff50-4ff8-8a83-2d15375a9fb4",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 2
       }
     ]
   },
@@ -1663,6 +2225,23 @@
         "text": "Білий автомобіль.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9658e2d2-33d5-4930-adfe-7d1290da3686",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "6ae24698-5b92-42d8-8d78-2171d511d7b2",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 2
+      },
+      {
+        "id": "b0992868-a8b8-4a42-b7d9-77bb977472a3",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 3
+      }
     ]
   },
   {
@@ -1685,6 +2264,13 @@
         "position": 2,
         "text": "Сірий, зелений автомобіль.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "552e38c4-acc4-439e-a667-7a60b18bdfa4",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
       }
     ]
   },
@@ -1714,6 +2300,13 @@
         "position": 3,
         "text": "Третім.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3456dd01-3d8c-4f7d-bc3f-709de5bcca54",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
       }
     ]
   },
@@ -1750,6 +2343,13 @@
         "text": "На всіх малюнках.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e0170409-d0a7-4b4d-9810-af4777596421",
+        "trafficRuleSectionId": "7a9cafbf-e445-487e-b5e0-812d37220279",
+        "position": 1
+      }
     ]
   },
   {
@@ -1778,6 +2378,13 @@
         "position": 3,
         "text": "Проїхати перехрестя без зупинки.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c79135f6-498b-4f00-a5e6-42343014cfd6",
+        "trafficRuleSectionId": "7a9cafbf-e445-487e-b5e0-812d37220279",
+        "position": 1
       }
     ]
   },
@@ -1808,6 +2415,13 @@
         "text": "Повинен дати дорогу.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "31708bfc-8168-410f-8e1b-fffd92dafc16",
+        "trafficRuleSectionId": "e158a65a-8be0-4a3e-8863-4f8db1d9fa6f",
+        "position": 1
+      }
     ]
   },
   {
@@ -1830,6 +2444,13 @@
         "position": 2,
         "text": "Повинен завжди.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8c1d861a-9d17-4d47-b4f6-80043b46317b",
+        "trafficRuleSectionId": "e158a65a-8be0-4a3e-8863-4f8db1d9fa6f",
+        "position": 1
       }
     ]
   },
@@ -1860,6 +2481,13 @@
         "text": "Тільки водій синього автомобіля.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2941b7e5-f688-4712-83cb-44821997c046",
+        "trafficRuleSectionId": "e158a65a-8be0-4a3e-8863-4f8db1d9fa6f",
+        "position": 1
+      }
     ]
   },
   {
@@ -1882,6 +2510,13 @@
         "position": 2,
         "text": "Повинен завжди.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d9b028cd-22c8-4742-9da6-c25e3c8d8e1c",
+        "trafficRuleSectionId": "e158a65a-8be0-4a3e-8863-4f8db1d9fa6f",
+        "position": 1
       }
     ]
   },
@@ -1912,6 +2547,18 @@
         "text": "На місці А чи Б.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "77d83957-f9c2-4191-a740-3ff66ccbdd09",
+        "trafficRuleSectionId": "4e8254a6-7970-4710-adf6-fa3c6c609372",
+        "position": 1
+      },
+      {
+        "id": "13925e3f-f6b0-4d71-ae70-06907d004c71",
+        "trafficRuleSectionId": "b99266d9-c131-471f-865b-5e85aafccc1f",
+        "position": 2
+      }
     ]
   },
   {
@@ -1941,6 +2588,13 @@
         "text": "Може, тому що рухається прямо.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5fe6c823-909e-4363-b675-a8d7d623ff22",
+        "trafficRuleSectionId": "7e8f1c78-6713-41ce-90dd-eb5c5dad1996",
+        "position": 1
+      }
     ]
   },
   {
@@ -1963,6 +2617,13 @@
         "position": 2,
         "text": "Автомобіль, трамвай.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ccda9ad5-cbf3-4f6c-8852-927c8008c82b",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
       }
     ]
   },
@@ -1992,6 +2653,13 @@
         "position": 3,
         "text": "Залежить від швидкості транспортних засобів.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "35e73290-b9ac-4823-8caa-af93266a5eaa",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
       }
     ]
   },
@@ -2028,6 +2696,18 @@
         "text": "Синій автомобіль, трамвай, зелений автомобіль.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e85cfe2d-0bea-4930-8ecf-16a739f773d8",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "6a0918dc-a95b-419d-9297-5999d4225441",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -2063,6 +2743,18 @@
         "text": "Білий, зелений, синій, жовтий.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "afb03b4e-4a25-48a4-8ecc-2564d2ad60a3",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "91fcc0bd-019e-474d-89fa-67d25371c828",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -2092,6 +2784,18 @@
         "text": "Проїхати перехрестя першим.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "6baf1a7e-538c-4c2d-97a2-4c9e6f9d418f",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "d4c316e3-00e9-4912-9541-40c9baea4c95",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -2115,6 +2819,18 @@
         "text": "Давши дорогу, проїхати перехрестя другим.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "0ab1aceb-5b1c-4737-b460-46d83aab2a91",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "1559a1f0-12b2-4145-a085-76e880462689",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -2137,6 +2853,18 @@
         "position": 2,
         "text": "Не давати дорогу велосипедистові.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "fe999258-1d6d-4f68-b136-f3af36159f90",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "0d1e3a0a-159f-4fb7-9c2e-2e9b49ccbcad",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -2167,6 +2895,18 @@
         "text": "Проїхати перехрестя першим.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "1b75047a-e9ba-47b3-933f-4cb339b96ede",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "7731dfd2-6fb7-42cd-89c9-70526e317df7",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -2196,6 +2936,18 @@
         "text": "Залежить від швидкості руху транспортних засобів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "831a6518-9126-46a2-9f2c-d807f7654c80",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "bca5d77c-0e67-4d19-8b8c-10f2cf37ec77",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -2219,6 +2971,18 @@
         "text": "Проїхати перехрестя першим.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "2d5fede5-770a-4f1d-a507-a91570902088",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "5d032012-9b95-449e-b49a-ce8a99676ba5",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -2241,6 +3005,18 @@
         "position": 2,
         "text": "Дати дорогу транспортному засобу з увімкненим проблисковим маячком синього кольору та сірому автомобілю.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d104897e-6108-4351-8e2a-85a9da39f2d7",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "d31035ae-fc16-4b30-b0ad-db4d4c974a95",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -2271,6 +3047,18 @@
         "text": "Проїхати перехрестя першим.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "8a3d3190-0f92-4b94-b99e-6a0eea51f8e3",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "e37840ba-4754-407b-8b9f-b8ce997d4add",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -2299,6 +3087,18 @@
         "position": 3,
         "text": "Сірий, червоний, зелений автомобілі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c7fcb85c-486c-4857-a27b-54a57215326f",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "6c164ff5-d3ef-4d7c-8dac-6fa93c2e4564",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -2329,6 +3129,18 @@
         "text": "Проїхати перехрестя другим, давши дорогу тільки чорному автомобілю.».",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9c5e2c08-395c-41c4-9292-a254a261c85d",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "9cbb7e90-1478-4bfe-b1e2-6b6169e597a6",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -2351,6 +3163,18 @@
         "position": 2,
         "text": "Дати дорогу обом транспортним засобам.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "92996d6a-b5ea-40ef-b53a-67c2fb3ea802",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "dd150f9c-62dd-42b5-b42b-8c0cc71672c8",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -2381,6 +3205,18 @@
         "text": "Синій, зелений, червоний автомобілі.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "3c265f00-66fb-4ee3-b331-29bc49775795",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "98a544b6-3db4-490a-9166-2851de2a5531",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
+      }
     ]
   },
   {
@@ -2409,6 +3245,18 @@
         "position": 3,
         "text": "Червоний, білий, синій автомобілі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "86924c33-81a1-4520-ab12-6f99fd5603e1",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "5e965d5b-49ef-4aea-a0d6-954e8e2dd093",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -2451,6 +3299,18 @@
         "text": "Останнім.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "80335c62-6ff1-4d24-847e-973372267d71",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "7aeb0142-1f39-43b7-b0b1-fe1d89dbac52",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -2480,6 +3340,18 @@
         "text": "Проїхати перехрестя останнім.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "710a070c-6da8-41b5-8b91-682806e435d0",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "44bc6d90-a688-4400-8e36-062902920941",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -2508,6 +3380,18 @@
         "position": 3,
         "text": "Білий, червоний, синій автомобілі, велосипед.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1257365e-64ac-477e-85f9-d6945de063b8",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "c20951c0-79f1-4f7e-baea-e65861a468fb",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -2544,6 +3428,18 @@
         "text": "Трамвай, легковий автомобіль, мотоцикл.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "361a7656-26fd-4aa2-8088-9503c4c65a91",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "21cf0f80-d5cb-4a17-99f3-1b1b3af012ec",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -2572,6 +3468,18 @@
         "position": 3,
         "text": "Другим, давши дорогу тільки червоному автомобілю.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1d457af7-882b-4bf7-ba82-6479b1656458",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "e6bf5d89-d8e1-4e19-a437-f87efe2c5fad",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -2608,6 +3516,18 @@
         "text": "Фіолетовий, жовтий, синій.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e439f0cf-d911-4310-bb4e-65cb93685bf3",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "e708c2b1-fc6b-4edc-b06d-4c470f543f53",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -2636,6 +3556,18 @@
         "position": 3,
         "text": "Велосипедисту заборонено повертати наліво в даній ситуації.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f1181fe3-ee56-4ab9-a0ca-093a719dd9b1",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "d08d41f2-11b2-4969-bdec-fca18bca9b09",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -2666,6 +3598,18 @@
         "text": "Дати дорогу трамваю і червоному автомобілю, а після цього повернути ліворуч.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "49eb174f-8d9f-4f42-939c-75802cbf8beb",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "17a47a1d-007d-4af5-93c9-e66bddd5db8d",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
+      }
     ]
   },
   {
@@ -2694,6 +3638,18 @@
         "position": 3,
         "text": "Дати дорогу трамваю й автомобілю.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "51938e2d-c814-4d0d-8acc-b7c2e9e102ff",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "856b1913-dc69-43fb-9db6-5b5ba78fb887",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 2
       }
     ]
   },
@@ -2724,6 +3680,23 @@
         "text": "Проїхати перехрестя останнім.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "d0fac2c0-95c0-4af7-b01c-c320c73d2887",
+        "trafficRuleSectionId": "b1bc87ed-6339-41f1-9d18-80f7d78a9476",
+        "position": 1
+      },
+      {
+        "id": "e3ccdfaa-db24-48d7-a8aa-a31eae0615e0",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 2
+      },
+      {
+        "id": "5d2d0a3b-b9b5-49eb-ae58-04702746397b",
+        "trafficRuleSectionId": "a66c40e0-a4f5-4844-9057-14be37c94b71",
+        "position": 3
+      }
     ]
   },
   {
@@ -2752,6 +3725,18 @@
         "position": 3,
         "text": "Проїхати після велосипедиста і червоного автомобіля.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "e9ec71fa-3dc1-4898-bc9a-49d2f3be66de",
+        "trafficRuleSectionId": "8d4eefc1-2585-4e41-91b6-577167eef130",
+        "position": 1
+      },
+      {
+        "id": "cbd6bd04-ef1a-4ac9-8932-9b430b81b802",
+        "trafficRuleSectionId": "ef4cabf4-e816-4a80-8571-96395a60e7f2",
+        "position": 2
       }
     ]
   },
@@ -2792,6 +3777,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9b4b50a2-d974-4b09-bb38-9a4eea34b52e",
+        "trafficRuleSectionId": "7a9cafbf-e445-487e-b5e0-812d37220279",
+        "position": 1
+      }
     ]
   },
   {
@@ -2814,6 +3806,23 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b882eded-de34-4c18-90d7-e63efef9909c",
+        "trafficRuleSectionId": "079eb9bc-1e0c-43d8-9f81-08d28c67ae75",
+        "position": 1
+      },
+      {
+        "id": "fb4eba3d-da96-46a1-ae52-b999ff384b94",
+        "trafficRuleSectionId": "b99266d9-c131-471f-865b-5e85aafccc1f",
+        "position": 2
+      },
+      {
+        "id": "78f1b093-07ca-4d6e-99cf-6cc7c30d4ffa",
+        "trafficRuleSectionId": "937dce1b-7d1e-4393-ae6d-9629e5bcd129",
+        "position": 3
       }
     ]
   },
@@ -2844,6 +3853,13 @@
         "text": "Ваш автомобіль.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "236f81c3-b681-4e00-976a-7e5960f70c86",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -2873,6 +3889,13 @@
         "text": "Ваш автомобіль.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a55762fc-cb10-4925-9ba8-14ac4fc59d9b",
+        "trafficRuleSectionId": "400be080-1847-4a1b-84b5-1d2e9eaa6e8f",
+        "position": 1
+      }
     ]
   },
   {
@@ -2895,6 +3918,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c035c954-e4c6-4b2e-a1ab-5694ad2105ab",
+        "trafficRuleSectionId": "7a9cafbf-e445-487e-b5e0-812d37220279",
+        "position": 1
       }
     ]
   },
@@ -2925,6 +3955,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d2d0d34f-8d8a-4b79-90c1-73f6b7fd85fd",
+        "trafficRuleSectionId": "0901b693-3826-4716-a95c-a97b35c6b5a2",
+        "position": 1
+      }
     ]
   },
   {
@@ -2947,6 +3984,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "12439464-bc09-4eb1-93fd-9451c287d09c",
+        "trafficRuleSectionId": "c79ec0e6-6706-4af3-a594-a38c95f3767a",
+        "position": 1
       }
     ]
   },
@@ -2971,6 +4015,13 @@
         "text": "Ні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "c69d9ff6-fd49-428f-81b1-07bac685063c",
+        "trafficRuleSectionId": "c79ec0e6-6706-4af3-a594-a38c95f3767a",
+        "position": 1
+      }
     ]
   },
   {
@@ -2993,6 +4044,13 @@
         "position": 2,
         "text": "Не повинні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3d41ab27-78e9-4f7e-a98e-472d5454972f",
+        "trafficRuleSectionId": "e98ccb3c-a977-457d-ba15-8220521e4989",
+        "position": 1
       }
     ]
   }

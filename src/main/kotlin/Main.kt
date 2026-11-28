@@ -243,7 +243,7 @@ fun main() {
     val generatedQuestionData = themes.associate { theme ->
         val themeNumber = theme.order.replace(".", "_")
         val fileName = "questions_theme${themeNumber}.json"
-        val questionHintMatchTheme = questionHintMatchList.find { it.themeOrder == themeNumber }?.trafficRuleSectionMap
+        val questionHintMatchTheme = questionHintMatchList.find { it.themeOrder == theme.order }?.trafficRuleSectionMap
         val questions = theme.questions.map { question ->
 
             val hintList = questionHintMatchTheme?.get(question.sourceOrder)
@@ -253,7 +253,7 @@ fun main() {
                     val trafficRuleSectionId = pdrHintPdrIdToIdMap[pdrId]
                     PopulateQuestionHintModel(
                         id = (hintId ?: Uuid.random()).toString(),
-                        trafficRuleSectionId = trafficRuleSectionId ?: "",
+                        trafficRuleSectionId = trafficRuleSectionId!!,
                         position = position
                     )
                 }
