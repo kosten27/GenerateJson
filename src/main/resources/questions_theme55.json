@@ -26,6 +26,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "ba118fbe-344c-429a-886e-e87f81f08c27",
+        "trafficRuleSectionId": "214f0d56-2d97-4646-909c-a34ee49af6b5",
+        "position": 1
+      }
     ]
   },
   {
@@ -54,6 +61,13 @@
         "position": 3,
         "text": "Маючи перевагу, розпочинати рух на всіх дорогах.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "13499028-25cf-4534-b6b7-0037004bd780",
+        "trafficRuleSectionId": "f7e36f65-d03d-43bc-a1b7-c8b2839f1de6",
+        "position": 1
       }
     ]
   },
@@ -90,6 +104,13 @@
         "text": "Знаками 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e4dad781-214e-4bfb-ad07-626a08da4486",
+        "trafficRuleSectionId": "99838f1a-714a-46f0-bec1-5b1b2f7a3084",
+        "position": 1
+      }
     ]
   },
   {
@@ -123,6 +144,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2bd9094c-f588-4271-90ae-ff1762a5588e",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      }
     ]
   },
   {
@@ -149,6 +177,13 @@
         "position": 3,
         "text": "Виконати всі перелічені дії.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b259dff7-7041-479b-b925-8b7889b63c49",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
       }
     ]
   },
@@ -417,6 +452,13 @@
         "text": "Денні ходові вогні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "dcdddbc2-d557-421c-a513-9aa2ecdd102a",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      }
     ]
   },
   {
@@ -443,6 +485,13 @@
         "position": 3,
         "text": "Вмикати ближнє світло фар.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d726f2c5-d8d7-44e3-8513-62ad55f2cb28",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
       }
     ]
   },
@@ -498,6 +547,13 @@
         "text": "Виконати всі перелічені дії.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "c95fe90b-0022-4295-8ba6-13a62cb077d1",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
+      }
     ]
   },
   {
@@ -552,6 +608,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "32582613-4a88-42c3-91f6-811ee2f45c9b",
+        "trafficRuleSectionId": "7585d72a-8ce1-4acd-9eb7-b3da45985724",
+        "position": 1
+      }
     ]
   },
   {
@@ -591,6 +654,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1c4f9c6f-6a18-4763-8a22-e5822ffe49f5",
+        "trafficRuleSectionId": "99838f1a-714a-46f0-bec1-5b1b2f7a3084",
+        "position": 1
+      }
     ]
   },
   {
@@ -623,6 +693,13 @@
         "position": 4,
         "text": "Проблискові маячки оранжевого кольору та (або) аварійна світлова сигналізація.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "44b39849-b0dd-4df5-9e69-1dd49d3291ad",
+        "trafficRuleSectionId": "99838f1a-714a-46f0-bec1-5b1b2f7a3084",
+        "position": 1
       }
     ]
   },
@@ -866,6 +943,13 @@
         "position": 3,
         "text": "Тільки за появи потяга.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2aefd458-3940-476e-ab47-01621a933840",
+        "trafficRuleSectionId": "8b9ef048-ff29-4238-a535-afcbfc1cad19",
+        "position": 1
       }
     ]
   }

@@ -36,6 +36,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "da9676f0-900e-4eec-b1a9-5002016312e3",
+        "trafficRuleSectionId": "ec377b7b-0050-4ede-9ca5-6718b93b5906",
+        "position": 1
+      }
     ]
   },
   {
@@ -62,6 +69,18 @@
         "position": 3,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "55a61f43-c47e-4c9b-9214-d272d0315a29",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "ab0072b9-adf1-4993-81a4-222fa454014b",
+        "trafficRuleSectionId": "4eed3a0f-d070-4d3e-b0b5-f72b5925adb8",
+        "position": 2
       }
     ]
   },
@@ -90,6 +109,18 @@
         "text": "Дозволяється.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "fa3b2514-22a4-48af-a500-544a02d9cfbe",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "3baf96cd-96d7-4513-94dd-224254cad7ca",
+        "trafficRuleSectionId": "92078a3c-5176-4ab4-bddd-49f8da0ce9f6",
+        "position": 2
+      }
     ]
   },
   {
@@ -117,6 +148,18 @@
         "text": "Спробувати усунути несправність на місці, а якщо це неможливо, то слідувати до місця стоянки або ремонту, ввімкнувши аварійну світлову сигналізацію або встановивши ззаду на транспортному засобі знак аварійної зупинки.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e7c56044-e1e8-4cb9-9785-38c6846cdf6c",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "02703c99-ca3e-4ae7-a091-fdbb10a8050e",
+        "trafficRuleSectionId": "ff15088d-27fa-40e7-96bc-abf78442ebe1",
+        "position": 2
+      }
     ]
   },
   {
@@ -143,6 +186,18 @@
         "position": 3,
         "text": "Відсутні протитуманні фари.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b47b5d86-a1ac-4f69-9b4a-deccf71b3d2d",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "54cabd26-d77f-41d1-aaff-ed534038db85",
+        "trafficRuleSectionId": "2f9ee156-1862-46cb-bbec-feb2ed01b183",
+        "position": 2
       }
     ]
   },
@@ -177,6 +232,18 @@
         "text": "Противідкатних упорів.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "53a617fa-bd69-435f-ad42-4ed12ebce7a6",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "156351c4-6ce8-4a69-a2e1-ffad20910128",
+        "trafficRuleSectionId": "ff15088d-27fa-40e7-96bc-abf78442ebe1",
+        "position": 2
+      }
     ]
   },
   {
@@ -203,6 +270,18 @@
         "position": 3,
         "text": "Не дозволяється.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "fb1a7c47-d2a8-4096-a1f8-2c6199821367",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "8808b16e-bd30-4fe8-b90a-d3ed98a5d259",
+        "trafficRuleSectionId": "4eed3a0f-d070-4d3e-b0b5-f72b5925adb8",
+        "position": 2
       }
     ]
   },
@@ -237,6 +316,18 @@
         "text": "Не працює склопідйомник.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "18354831-0011-44df-ad0e-33d261dc44ec",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "c963774c-c190-48cb-9220-571718d20fd8",
+        "trafficRuleSectionId": "ff15088d-27fa-40e7-96bc-abf78442ebe1",
+        "position": 2
+      }
     ]
   },
   {
@@ -263,6 +354,13 @@
         "position": 3,
         "text": "В обох випадках.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b4b09131-47e8-4f04-a3d4-b55f6f65141a",
+        "trafficRuleSectionId": "b0aecffb-a263-48fd-9f48-acfc4cec29e0",
+        "position": 1
       }
     ]
   },
@@ -291,6 +389,18 @@
         "text": "Не працює склопідйомник.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d1b3103f-415a-40ee-96a2-2e542ff15ddc",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "374d5dae-66c5-4021-aca3-ef2856f95187",
+        "trafficRuleSectionId": "4eed3a0f-d070-4d3e-b0b5-f72b5925adb8",
+        "position": 2
+      }
     ]
   },
   {
@@ -317,6 +427,18 @@
         "position": 3,
         "text": "Не працюють передбачені конструкцією транспортного засобу склообмивачі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6e8c2eff-5f02-4b00-8509-4186af5b98ad",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "ebdf0dc6-d1d0-4e4d-8200-bffb481e04ed",
+        "trafficRuleSectionId": "92078a3c-5176-4ab4-bddd-49f8da0ce9f6",
+        "position": 2
       }
     ]
   },
@@ -351,6 +473,18 @@
         "text": "Несправна система випускання відпрацьованих газів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "094c63a0-58fd-4f78-9a10-8a1c8157b185",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "48e24cbe-8d01-480b-be5d-363191ec1d46",
+        "trafficRuleSectionId": "92078a3c-5176-4ab4-bddd-49f8da0ce9f6",
+        "position": 2
+      }
     ]
   },
   {
@@ -377,6 +511,13 @@
         "position": 3,
         "text": "Не працює склоочисник.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "89cceff5-0959-4d01-b9d2-4877c213d69d",
+        "trafficRuleSectionId": "b0aecffb-a263-48fd-9f48-acfc4cec29e0",
+        "position": 1
       }
     ]
   },
@@ -405,6 +546,18 @@
         "text": "Несправний глушник.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "aa030e62-db2d-4854-8d5b-5ccd7cddb7be",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "7b0dd204-f93e-471b-b147-fa83b152c4e4",
+        "trafficRuleSectionId": "92078a3c-5176-4ab4-bddd-49f8da0ce9f6",
+        "position": 2
+      }
     ]
   },
   {
@@ -432,6 +585,18 @@
         "text": "Несправна система випускання відпрацьованих газів.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "91b00e3e-95d4-43f8-94c4-c4eaa0a0ff48",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "a84d0184-9f15-476c-a50c-ad2ae967c0d3",
+        "trafficRuleSectionId": "92078a3c-5176-4ab4-bddd-49f8da0ce9f6",
+        "position": 2
+      }
     ]
   },
   {
@@ -458,6 +623,18 @@
         "position": 3,
         "text": "Не працюють передбачені конструкцією замки дверей кузова або кабіни.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b67b5bc6-cb13-4a35-954b-3a3f40683fd2",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "cd89db85-cee6-492f-885a-23e742ed8b5c",
+        "trafficRuleSectionId": "4eed3a0f-d070-4d3e-b0b5-f72b5925adb8",
+        "position": 2
       }
     ]
   },
@@ -492,6 +669,18 @@
         "text": "Не працює звуковий сигнал.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "24f27b1a-2214-47ae-b790-83887c6ea43a",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "b9b81d15-23a5-492e-9cd6-a6ed9b8e9fc0",
+        "trafficRuleSectionId": "ff15088d-27fa-40e7-96bc-abf78442ebe1",
+        "position": 2
+      }
     ]
   },
   {
@@ -520,6 +709,13 @@
         "position": 3,
         "text": "Непрацюючий склоочисник не є перешкодою для руху у будь-якому випадку.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3845b406-8aaa-4a7c-ba6a-3fd8896a5a12",
+        "trafficRuleSectionId": "b0aecffb-a263-48fd-9f48-acfc4cec29e0",
+        "position": 1
       }
     ]
   }

@@ -32,6 +32,13 @@
         "text": "Буксирування будь-яким способом.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5a7111ad-e245-4744-8108-da7bea5e34b9",
+        "trafficRuleSectionId": "318168d0-42ac-4a57-ab14-e6d1938b0b8d",
+        "position": 1
+      }
     ]
   },
   {
@@ -58,6 +65,13 @@
         "position": 3,
         "text": "Водій транспортного засобу з найбільшими габаритами.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0242b268-a8eb-4f83-aee8-c9eaaf0c2bbb",
+        "trafficRuleSectionId": "5c7137e1-b543-4a9b-b650-9889b234c6b2",
+        "position": 1
       }
     ]
   },
@@ -86,6 +100,13 @@
         "text": "Водій транспортного засобу з найбільшими габаритами.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "200df25d-6142-47a9-8702-1b3bc62d49ef",
+        "trafficRuleSectionId": "5c7137e1-b543-4a9b-b650-9889b234c6b2",
+        "position": 1
+      }
     ]
   },
   {
@@ -106,6 +127,13 @@
         "position": 2,
         "text": "Маючи перевагу в русі, проїдете першим.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8cd80a9d-16fb-46b0-ac35-2a0f5634c8d0",
+        "trafficRuleSectionId": "5c7137e1-b543-4a9b-b650-9889b234c6b2",
+        "position": 1
       }
     ]
   },
@@ -134,6 +162,13 @@
         "text": "Заборонені обидві дії, зазначені у відповідях 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "12ee09dd-fac4-4ec3-ac3a-182afcebdc97",
+        "trafficRuleSectionId": "318168d0-42ac-4a57-ab14-e6d1938b0b8d",
+        "position": 1
+      }
     ]
   },
   {
@@ -160,6 +195,13 @@
         "position": 3,
         "text": "Рухатися з ввімкненими зчепленням або передачею.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "bf68f273-b588-42f9-ab73-31fd41ed22bc",
+        "trafficRuleSectionId": "318168d0-42ac-4a57-ab14-e6d1938b0b8d",
+        "position": 1
       }
     ]
   },
@@ -194,6 +236,13 @@
         "text": "На жорсткому зчепленні або способом часткового навантаження.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "144344eb-a1e5-4751-8c61-9e4c57d8f72f",
+        "trafficRuleSectionId": "318168d0-42ac-4a57-ab14-e6d1938b0b8d",
+        "position": 1
+      }
     ]
   },
   {
@@ -220,6 +269,13 @@
         "position": 3,
         "text": "Дозволено способом часткового навантаження.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0592e051-0b48-464d-8043-e2afadcabb95",
+        "trafficRuleSectionId": "318168d0-42ac-4a57-ab14-e6d1938b0b8d",
+        "position": 1
       }
     ]
   }

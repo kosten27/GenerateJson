@@ -26,6 +26,13 @@
         "text": "Не зобов'язані під час руху в населених пунктах.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "42d1be62-eca0-4d05-98d3-e3ab5bdb4ccd",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -52,6 +59,13 @@
         "position": 3,
         "text": "Досить мати світловідбивачі на одязі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "fc0dd005-221e-48eb-b1c1-f6b2b752ea83",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
       }
     ]
   },
@@ -85,6 +99,18 @@
         "position": 4,
         "text": "Тільки мотоцикли без бокового причепа.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6ffc8ce8-b800-4f30-91df-409bb738b68e",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "ba434a11-7ee6-4a17-a2dd-24ff5f9dfd37",
+        "trafficRuleSectionId": "ff15088d-27fa-40e7-96bc-abf78442ebe1",
+        "position": 2
       }
     ]
   },
@@ -533,6 +559,13 @@
         "text": "Спробувати усунути несправність на місці, а якщо це неможливо, то слідувати до місця стоянки або ремонту, ввімкнувши аварійну світлову сигналізацію або встановивши ззаду на транспортному засобі знак аварійної зупинки.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "98d035c7-8e3c-4f61-a1e6-a29af75b3fd2",
+        "trafficRuleSectionId": "4b5ba117-c5f9-498d-8801-6a4ed89531f1",
+        "position": 1
+      }
     ]
   },
   {
@@ -559,6 +592,13 @@
         "position": 3,
         "text": "У будь-якому з місць, перелічених вище.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0dac2962-4d9a-4e4b-932b-4046069e1655",
+        "trafficRuleSectionId": "cbd1835e-86df-472b-9f1c-9d175625fb52",
+        "position": 1
       }
     ]
   },
@@ -599,6 +639,13 @@
         "text": "Усім переліченим вище.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "41b34fa4-bb26-4abf-b62c-8bc1d45071c9",
+        "trafficRuleSectionId": "5a5bdc48-362e-4fb1-beab-261ad0b02acf",
+        "position": 1
+      }
     ]
   },
   {
@@ -625,6 +672,13 @@
         "position": 3,
         "text": "Якщо дитина досягла 12-річного віку.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "e33a1c62-4b4a-4c80-8d25-568de5e0a6de",
+        "trafficRuleSectionId": "d33bd5df-5b24-446b-a602-61aa0984f145",
+        "position": 1
       }
     ]
   },
@@ -707,6 +761,13 @@
         "text": "Обов'язково у будь-якому випадку.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "826e03a7-7b92-45b1-85ba-3ea8f100f85b",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -734,6 +795,13 @@
         "text": "Можна, коли швидкість не перевищує 10 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "7c773c54-6b85-49c6-8fd7-9fcf729bd5e7",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -760,6 +828,18 @@
         "position": 3,
         "text": "Не можна – тільки в застебнутому мотошоломі.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "59810aa9-6cee-423b-b07c-2432b5339bc1",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      },
+      {
+        "id": "974802a2-a8bb-4aae-8704-d20a8aac02a1",
+        "trafficRuleSectionId": "d1e079b6-53b9-4f77-990d-684a906fc569",
+        "position": 2
       }
     ]
   },
@@ -869,6 +949,13 @@
         "text": "Усе перелічене вище.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "324d44e5-270d-47da-b382-a70a14ae46fb",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -908,6 +995,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "35696067-4ddf-49c3-b475-8146becac227",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -934,6 +1028,13 @@
         "position": 3,
         "text": "Зменшити швидкість (у разі потреби – зупинитися) і продовжити рух, тільки переконавшись, що на пішохідному переході немає пішоходів, для яких може бути створена перешкода чи небезпека.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a8563979-de28-4aec-aa81-9827ee46132d",
+        "trafficRuleSectionId": "c4337b3d-29be-49db-818e-e5d3e7629d6d",
+        "position": 1
       }
     ]
   },
@@ -968,6 +1069,13 @@
         "text": "На відстані не менше 300 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "d172273e-61b0-422b-b73c-116779a67771",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
+      }
     ]
   },
   {
@@ -994,6 +1102,13 @@
         "position": 3,
         "text": "Переключитися на ближнє світло тільки на відстані 250 м.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "179253cf-1a33-408a-9f19-c898619e7c54",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
       }
     ]
   },
@@ -1033,6 +1148,13 @@
         "position": 5,
         "text": "Відповіді 3 і 4.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "60abd97e-c206-4940-89d7-2f6750cd27db",
+        "trafficRuleSectionId": "43ec25bb-f25c-4c9a-a259-6b9c1e8d1626",
+        "position": 1
       }
     ]
   },

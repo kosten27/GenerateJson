@@ -26,6 +26,13 @@
         "text": "Обидва повинні рухатися зі швидкістю не більш ніж 80 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "af41b5a9-b6fa-427e-ab0b-5a44467ed91c",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -55,6 +62,13 @@
         "text": "Швидкість обох не повинна перевищувати 20 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "b5781045-8ac5-4ad4-9569-5150c418f251",
+        "trafficRuleSectionId": "0765218a-d97a-4849-8219-913daeca6364",
+        "position": 1
+      }
     ]
   },
   {
@@ -83,6 +97,13 @@
         "position": 3,
         "text": "Правильні обидва варіанти.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2c41f1d4-5f48-4490-b08f-4c8c46488eb2",
+        "trafficRuleSectionId": "ac8dd8fa-ce01-4801-a86a-625a3f6ce49d",
+        "position": 1
       }
     ]
   },
@@ -119,6 +140,13 @@
         "text": "Перешкодою праворуч.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e63d1301-2025-4005-99b5-b5152200c652",
+        "trafficRuleSectionId": "ac8dd8fa-ce01-4801-a86a-625a3f6ce49d",
+        "position": 1
+      }
     ]
   },
   {
@@ -153,6 +181,13 @@
         "position": 4,
         "text": "Коричневий мотоцикл із боковим причепом.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "fa5e6322-704b-40fd-9f2a-684c17ce6603",
+        "trafficRuleSectionId": "51bd13bd-b08f-4c41-8858-e1aad0dc0c9c",
+        "position": 1
       }
     ]
   },
@@ -195,6 +230,13 @@
         "text": "130 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2217f868-4297-4f24-8108-8ca36fdcee66",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -218,6 +260,13 @@
         "text": "Заборонено.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9cd0f3a7-2523-4b8b-99c5-856130ea655e",
+        "trafficRuleSectionId": "3cb5772b-cbc6-4d57-8b74-d98fd4f07062",
+        "position": 1
+      }
     ]
   },
   {
@@ -240,6 +289,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "419b7e06-afd2-428e-a4b8-aa5c15c49f50",
+        "trafficRuleSectionId": "e33af071-cb30-4616-8011-f62f89a5b734",
+        "position": 1
       }
     ]
   },
@@ -269,6 +325,13 @@
         "position": 3,
         "text": "Дозволено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ad9899f3-f490-47ea-8095-bdf94ef2b7d1",
+        "trafficRuleSectionId": "eed9e56a-a181-482f-888c-b7f22f42cd09",
+        "position": 1
       }
     ]
   },
@@ -311,6 +374,13 @@
         "text": "Мотоциклісти на мал. 1 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e323aa8f-cd71-4743-b635-3bdd497357e3",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
+      }
     ]
   },
   {
@@ -340,6 +410,13 @@
         "text": "Мотоциклів і мопедів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "6bfd32dd-89c9-4a2b-9a34-50a1bb8b018e",
+        "trafficRuleSectionId": "eed9e56a-a181-482f-888c-b7f22f42cd09",
+        "position": 1
+      }
     ]
   },
   {
@@ -362,6 +439,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f8a098a4-c54e-4b69-8f77-5934dfe00c37",
+        "trafficRuleSectionId": "eed9e56a-a181-482f-888c-b7f22f42cd09",
+        "position": 1
       }
     ]
   },
@@ -390,6 +474,13 @@
         "text": "80 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "2d98ca3e-f1d1-49db-8efa-3f197de3f1af",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -416,6 +507,13 @@
         "position": 3,
         "text": "Зобов’язаний подати сигнал покажчиками повороту або рукою за 50 - 100 метрів до повороту.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f5458193-2d7f-4db3-8201-5bd4f4f456d4",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
       }
     ]
   },
@@ -444,6 +542,13 @@
         "text": "Під час виконання маневру.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1ca9face-6f18-4671-9466-f8beb8339977",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
+      }
     ]
   },
   {
@@ -470,6 +575,13 @@
         "position": 3,
         "text": "Під час виконання маневру.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "9d67e0bb-24b1-4829-8617-06f1b85fd50f",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
       }
     ]
   },
@@ -498,6 +610,13 @@
         "text": "Виконати дії зазначені у 1 та 2 відповідях.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "bb4e8662-4611-41b5-aaa0-3fdc42c5cdcb",
+        "trafficRuleSectionId": "4acfcfce-7d09-4497-aa16-d54dce4bcb16",
+        "position": 1
+      }
     ]
   },
   {
@@ -524,6 +643,13 @@
         "position": 3,
         "text": "Пішоходам і транспортним засобам.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1a27f06b-e9d7-46a0-bac4-676f247b00f8",
+        "trafficRuleSectionId": "12577b2d-b708-49e8-8004-905ee64d50dd",
+        "position": 1
       }
     ]
   },
@@ -552,6 +678,13 @@
         "text": "Перед проїзною частиною чи тротуаром дати дорогу пішоходам і транспортним засобам, що рухаються по ній.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5550f841-0b59-4d8e-873f-1ef61bed80cc",
+        "trafficRuleSectionId": "12577b2d-b708-49e8-8004-905ee64d50dd",
+        "position": 1
+      }
     ]
   },
   {
@@ -578,6 +711,13 @@
         "position": 3,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "cb2cf977-4d11-4161-a48a-92bc65100a7d",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
       }
     ]
   },
@@ -612,6 +752,13 @@
         "text": "Варіанти 1 та 2 вірні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2de29ad5-0fc7-4153-9d2b-145f26759907",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -639,6 +786,13 @@
         "text": "Сигнал подається круговим обертанням правої або лівої руки, піднятою вгору.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "f780d02a-dd83-42bb-9286-27483016b019",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -659,6 +813,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "e81ca4ac-e475-4463-8521-5fb82599558c",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
       }
     ]
   },
@@ -686,6 +847,13 @@
         "position": 3,
         "text": "На свій розсуд.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c01dca6b-390b-4c51-b1a5-ef5c6aac6a42",
+        "trafficRuleSectionId": "ac8dd8fa-ce01-4801-a86a-625a3f6ce49d",
+        "position": 1
       }
     ]
   },
@@ -720,6 +888,13 @@
         "text": "Правилами проїзду нерегульованих перехресть.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1088385e-e613-40d6-bf4e-02f648e583f9",
+        "trafficRuleSectionId": "ac8dd8fa-ce01-4801-a86a-625a3f6ce49d",
+        "position": 1
+      }
     ]
   },
   {
@@ -740,6 +915,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "676401f7-ed2c-4fd9-9fba-33bca9636d7f",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
       }
     ]
   },
@@ -768,6 +950,13 @@
         "text": "Завжди перед початком руху, зупинкою, перестроюванням, поворотом або розворотом.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "1e892853-9c25-4b5b-9cf6-b97947b0bdbc",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
+      }
     ]
   },
   {
@@ -795,6 +984,13 @@
         "text": "Стоянкові вогні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "7dac09a3-257f-48ef-80fb-6d6ac0d69080",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
+      }
     ]
   },
   {
@@ -821,6 +1017,13 @@
         "position": 3,
         "text": "Витягнете ліву руку і зігнете у лікті під прямим кутом вгору.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ccb17f7a-e7e9-4e97-a7ec-f96b2982da09",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
       }
     ]
   },
@@ -855,6 +1058,13 @@
         "text": "Варіанти 1 та 2 вірні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "6cd78898-b991-4526-b5eb-47fcac7199df",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -887,6 +1097,13 @@
         "position": 4,
         "text": "З 18 років.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3e05dad1-2ba8-4421-9ff2-981f392ebebd",
+        "trafficRuleSectionId": "6d200a6b-cced-4b45-b732-b877b0dddf26",
+        "position": 1
       }
     ]
   }

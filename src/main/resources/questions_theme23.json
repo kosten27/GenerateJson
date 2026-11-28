@@ -18,6 +18,13 @@
         "text": "За умови, що фактична маса буксируваного транспортного засобу не перевищує половини фактичної маси транспортного засобу, що буксирує.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "0d4ba2e8-e436-47f0-b902-dbf97ec18181",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
+      }
     ]
   },
   {
@@ -59,6 +66,13 @@
         "text": "5 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "8d25ea4b-1868-4263-907e-45783facf05b",
+        "trafficRuleSectionId": "08365ca3-4b9d-46e3-b394-1c23268977e8",
+        "position": 1
+      }
     ]
   },
   {
@@ -79,6 +93,13 @@
         "position": 2,
         "text": "Можуть.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "39779cfa-9ba1-4833-be50-aaffeb827b28",
+        "trafficRuleSectionId": "b5d22623-3280-40c4-be91-1def9f0cfcc7",
+        "position": 1
       }
     ]
   },
@@ -113,6 +134,13 @@
         "text": "Лише в кабіні автомобіля, що буксирує.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "79a22949-7201-4b12-baf7-e2ac8f9f93dd",
+        "trafficRuleSectionId": "b5d22623-3280-40c4-be91-1def9f0cfcc7",
+        "position": 1
+      }
     ]
   },
   {
@@ -145,6 +173,13 @@
         "position": 4,
         "text": "Завжди, під час будь-якого буксирування – в будь-якому буксируваному автомобілі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ad70c5d9-67b3-4d1b-a7de-c8f95f6b7a2d",
+        "trafficRuleSectionId": "b5d22623-3280-40c4-be91-1def9f0cfcc7",
+        "position": 1
       }
     ]
   },
@@ -185,6 +220,13 @@
         "text": "Відповіді, зазначені в пунктах 1, 2, 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "95e6065f-faca-48c7-97a5-d142e9add28c",
+        "trafficRuleSectionId": "43a7b353-5dba-4142-86bf-fea6d9b22c82",
+        "position": 1
+      }
     ]
   },
   {
@@ -217,6 +259,13 @@
         "position": 4,
         "text": "Дозволяється на дорогах з неінтенсивним рухом.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6c48ae6d-ef05-4d27-890c-2113cc55d06f",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
       }
     ]
   },
@@ -251,6 +300,13 @@
         "text": "На жорсткому зчепленні або способом часткового навантаження.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e4fc4b94-52c0-469f-bca8-13fb17d6db33",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
+      }
     ]
   },
   {
@@ -283,6 +339,13 @@
         "position": 4,
         "text": "За погодженням із уповноваженим підрозділом Національної поліції.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0f7879a4-a3d4-4b87-b7cf-b0580782e893",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
       }
     ]
   },
@@ -317,6 +380,13 @@
         "text": "Лише способом часткового навантаження.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "72c86833-341a-4dd7-a6ea-7598688b743f",
+        "trafficRuleSectionId": "17bf7d76-e5ce-443d-a0ef-3b290ca87871",
+        "position": 1
+      }
     ]
   },
   {
@@ -344,6 +414,13 @@
         "text": "Лише на жорсткому зчепленні.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "a996bf23-6e28-488c-87e7-37d8ec22dd03",
+        "trafficRuleSectionId": "c418529c-05f8-480a-bb15-c25d2eb8202d",
+        "position": 1
+      }
     ]
   },
   {
@@ -370,6 +447,13 @@
         "position": 3,
         "text": "За умови наявності справного зчіпного пристрою у буксируваного транспортного засобу, а також у транспортного засобу, що буксирує.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8f36d549-7b5e-4ad5-81c4-4ad3620d64cd",
+        "trafficRuleSectionId": "08ecebb4-6674-46a4-bbff-de581d4541f9",
+        "position": 1
       }
     ]
   },
@@ -410,6 +494,13 @@
         "text": "4–7 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "b19d0432-584b-4b3d-afab-c896f9dbcb7c",
+        "trafficRuleSectionId": "08365ca3-4b9d-46e3-b394-1c23268977e8",
+        "position": 1
+      }
     ]
   },
   {
@@ -437,6 +528,13 @@
         "text": "Одним із вищевказаних способів.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9a44b35f-2a7b-4f7e-ace2-48a8398356d6",
+        "trafficRuleSectionId": "08365ca3-4b9d-46e3-b394-1c23268977e8",
+        "position": 1
+      }
     ]
   },
   {
@@ -463,6 +561,13 @@
         "position": 3,
         "text": "Рульове керування і гальмова система.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "293a6df9-6ef4-46eb-9a9a-6fd491be62a6",
+        "trafficRuleSectionId": "ecb28734-e613-49d6-82a0-63de733edb4b",
+        "position": 1
       }
     ]
   },
@@ -503,6 +608,13 @@
         "text": "Із несправними гальмовою системою і рульовим керуванням.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "20cb7d10-acc5-4e2b-920c-ebcb0d6d242c",
+        "trafficRuleSectionId": "ecb28734-e613-49d6-82a0-63de733edb4b",
+        "position": 1
+      }
     ]
   },
   {
@@ -536,6 +648,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "64b44397-9493-4dfa-9a6f-113c46b7ad71",
+        "trafficRuleSectionId": "ecb28734-e613-49d6-82a0-63de733edb4b",
+        "position": 1
+      }
     ]
   },
   {
@@ -556,6 +675,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "af8e0c5d-aa54-4a66-8ab0-f90a2fc8ef0b",
+        "trafficRuleSectionId": "ecb28734-e613-49d6-82a0-63de733edb4b",
+        "position": 1
       }
     ]
   },
@@ -590,6 +716,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "79d3c429-0b34-4736-b699-665490616727",
+        "trafficRuleSectionId": "3746f8c3-2047-440b-8efc-29e6c11b8892",
+        "position": 1
+      }
     ]
   },
   {
@@ -610,6 +743,13 @@
         "position": 2,
         "text": "Дозволяється.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "bbfbe7c5-c16c-44fe-a8b9-300a600bdf94",
+        "trafficRuleSectionId": "08ecebb4-6674-46a4-bbff-de581d4541f9",
+        "position": 1
       }
     ]
   }

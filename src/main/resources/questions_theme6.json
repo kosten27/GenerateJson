@@ -26,6 +26,13 @@
         "text": "Має перевагу, якщо автомобіль наближається зліва.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "dec33fbc-57e4-43e6-951d-d2e69ab0ea04",
+        "trafficRuleSectionId": "0b0e44e1-ba8f-4c89-8040-070de100878e",
+        "position": 1
+      }
     ]
   },
   {
@@ -52,6 +59,13 @@
         "position": 3,
         "text": "Заборонено перевезення пасажирів на велосипеді (за винятком дітей до 7 років, які перевозяться на додатковому сидінні, обладнаному надійно закріпленими підніжками).",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0eb328e5-4826-4ba7-90c2-019e46cfb061",
+        "trafficRuleSectionId": "7d35523a-51d9-4b7d-b16a-3f25fa77f575",
+        "position": 1
       }
     ]
   },
@@ -80,6 +94,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "41d5d985-a523-4bd0-a0cf-91824c41e136",
+        "trafficRuleSectionId": "7d35523a-51d9-4b7d-b16a-3f25fa77f575",
+        "position": 1
+      }
     ]
   },
   {
@@ -106,6 +127,13 @@
         "position": 3,
         "text": "Дозволено в будь-якому випадку.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2fdf6ae5-80d4-480e-9de5-533bc01f4708",
+        "trafficRuleSectionId": "7d35523a-51d9-4b7d-b16a-3f25fa77f575",
+        "position": 1
       }
     ]
   },
@@ -134,6 +162,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "440eaa8c-edcf-471a-9f96-b4625396848a",
+        "trafficRuleSectionId": "7d35523a-51d9-4b7d-b16a-3f25fa77f575",
+        "position": 1
+      }
     ]
   },
   {
@@ -161,6 +196,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "77f78c2a-e998-4600-a014-70067cde3e28",
+        "trafficRuleSectionId": "7d35523a-51d9-4b7d-b16a-3f25fa77f575",
+        "position": 1
+      }
     ]
   },
   {
@@ -181,6 +223,13 @@
         "position": 2,
         "text": "Такі, які не заважають керувати велосипедом і не створюють перешкод іншим учасникам дорожнього руху.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "23a5444f-5a22-472d-9f2d-ca8e25ee74cc",
+        "trafficRuleSectionId": "ebc2b357-c418-42e6-8c07-8f7dfe61e7ff",
+        "position": 1
       }
     ]
   },
@@ -209,6 +258,13 @@
         "text": "150 – 200 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "73112173-79f2-4f48-8a9f-5565b43fc6f4",
+        "trafficRuleSectionId": "b29b7e3f-cc44-4514-a21e-1bd154815ef7",
+        "position": 1
+      }
     ]
   },
   {
@@ -230,6 +286,13 @@
         "text": "Один за одним, щоб не заважати іншим учасникам дорожнього руху.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "3ef25fd7-230a-44ed-bb0a-f3518c921632",
+        "trafficRuleSectionId": "b29b7e3f-cc44-4514-a21e-1bd154815ef7",
+        "position": 1
+      }
     ]
   },
   {
@@ -250,6 +313,13 @@
         "position": 2,
         "text": "Ліхтарі (фари).",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "84384db9-109f-4539-a9b7-c4911a1c57c5",
+        "trafficRuleSectionId": "49b742b2-2e51-401a-ae1b-4dbe171489c9",
+        "position": 1
       }
     ]
   },
@@ -284,6 +354,13 @@
         "text": "Відповіді 1, 2, 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "98122676-cf9f-4190-85d7-b5effc2ba0b6",
+        "trafficRuleSectionId": "49b742b2-2e51-401a-ae1b-4dbe171489c9",
+        "position": 1
+      }
     ]
   },
   {
@@ -317,6 +394,13 @@
         "text": "З 16 років.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "8dc3f9b0-86f3-4131-a10d-0bcc97e6c37d",
+        "trafficRuleSectionId": "d6570ec1-0fdc-412a-acbd-02fb29bf7608",
+        "position": 1
+      }
     ]
   },
   {
@@ -338,6 +422,13 @@
         "text": "Дозволено.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "884db9e4-0fe1-475e-ba13-f7f69cfd0e23",
+        "trafficRuleSectionId": "7d35523a-51d9-4b7d-b16a-3f25fa77f575",
+        "position": 1
+      }
     ]
   },
   {
@@ -358,6 +449,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b72a5301-d3f0-43d7-9478-93dda7bc1e70",
+        "trafficRuleSectionId": "7d35523a-51d9-4b7d-b16a-3f25fa77f575",
+        "position": 1
       }
     ]
   },
@@ -394,6 +492,13 @@
         "text": "Відповіді 1 або 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "cca7df0d-bfd8-4d67-93f6-5e77bb456a7b",
+        "trafficRuleSectionId": "0b0e44e1-ba8f-4c89-8040-070de100878e",
+        "position": 1
+      }
     ]
   },
   {
@@ -416,6 +521,13 @@
         "position": 2,
         "text": "Велосипедний переїзд.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8ac6a337-90cf-44ed-baf7-797689235388",
+        "trafficRuleSectionId": "39764add-95f4-4d66-b751-d2e3bb82bcd0",
+        "position": 1
       }
     ]
   },
@@ -446,6 +558,13 @@
         "text": "Велосипедну смугу.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "401ac1b6-59c8-4799-adce-7d48dd183f14",
+        "trafficRuleSectionId": "f420f398-1733-48c1-a1dd-2ce982026f69",
+        "position": 1
+      }
     ]
   },
   {
@@ -473,6 +592,23 @@
         "text": "Велосипедистам дозволено рухатися по тротуарах і пішохідних доріжках (крім дітей до 7 років на дитячих велосипедах під наглядом дорослих).",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5c41abed-344c-4d10-a3d8-523ba8da242a",
+        "trafficRuleSectionId": "d6570ec1-0fdc-412a-acbd-02fb29bf7608",
+        "position": 1
+      },
+      {
+        "id": "32f7f3e6-0248-4f2e-afc3-7b5eb78ccdce",
+        "trafficRuleSectionId": "0b0e44e1-ba8f-4c89-8040-070de100878e",
+        "position": 2
+      },
+      {
+        "id": "9bc19dc9-eea7-4f46-a726-052a4b080d0e",
+        "trafficRuleSectionId": "7d35523a-51d9-4b7d-b16a-3f25fa77f575",
+        "position": 3
+      }
     ]
   },
   {
@@ -496,6 +632,13 @@
         "text": "Ні.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e9574ae1-68d3-49d5-9c5f-f07207361b90",
+        "trafficRuleSectionId": "1997d607-54a0-457d-a941-c3c0c83c2351",
+        "position": 1
+      }
     ]
   },
   {
@@ -518,6 +661,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f8eef025-0224-40d5-82fa-4343acd77068",
+        "trafficRuleSectionId": "1997d607-54a0-457d-a941-c3c0c83c2351",
+        "position": 1
       }
     ]
   },
@@ -548,6 +698,13 @@
         "text": "Ніхто з вищеперерахованих.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d3ce5240-a20a-4d75-b2d4-f2aabf89cf1e",
+        "trafficRuleSectionId": "1997d607-54a0-457d-a941-c3c0c83c2351",
+        "position": 1
+      }
     ]
   },
   {
@@ -570,6 +727,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "55b12128-7b0b-4cb1-9526-2ee851854874",
+        "trafficRuleSectionId": "b29b7e3f-cc44-4514-a21e-1bd154815ef7",
+        "position": 1
       }
     ]
   }

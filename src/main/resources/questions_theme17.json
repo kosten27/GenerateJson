@@ -32,6 +32,13 @@
         "text": "Маршрутним транспортним засобам, які рухаються за встановленим маршрутом, таксі, мопедам, мотоциклам (за винятком мотоциклів з боковим причепом, мотоколясок, триколісних транспортних засобів) та велосипедистам.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "cb709a8b-131a-488d-b2e2-a4e98173e46d",
+        "trafficRuleSectionId": "322a91d5-bf4b-4534-b209-ab8a6720842c",
+        "position": 1
+      }
     ]
   },
   {
@@ -60,6 +67,18 @@
         "position": 3,
         "text": "По траєкторіях А і Б.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ac0b551a-f953-428d-9dca-00d1148d3a7a",
+        "trafficRuleSectionId": "e92e98f6-acc4-48b2-9be4-925d7f5ec3bf",
+        "position": 1
+      },
+      {
+        "id": "4b3b8acb-dc9d-40d4-84e3-520b5462d979",
+        "trafficRuleSectionId": "fc34c9f8-60bb-4def-afac-bd1b12fd1547",
+        "position": 2
       }
     ]
   },
@@ -90,6 +109,18 @@
         "text": "По траєкторіях А і Б.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a9e3ac09-9f7b-45d4-8209-6d1a9c8706c7",
+        "trafficRuleSectionId": "7bb13b30-9e1d-48dc-844a-d35aa91f5e64",
+        "position": 1
+      },
+      {
+        "id": "ba3cc403-9073-49b1-900b-eb9a8f791880",
+        "trafficRuleSectionId": "fc34c9f8-60bb-4def-afac-bd1b12fd1547",
+        "position": 2
+      }
     ]
   },
   {
@@ -112,6 +143,13 @@
         "position": 2,
         "text": "Не має права: виїзд на смугу йому заборонено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2a932d0b-b46d-45d4-b42a-a7628c553c21",
+        "trafficRuleSectionId": "fc34c9f8-60bb-4def-afac-bd1b12fd1547",
+        "position": 1
       }
     ]
   },
@@ -148,6 +186,13 @@
         "text": "Для посадки або висадки пасажирів або для виконання повороту праворуч.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9a28431b-aee3-42aa-9cb3-c49000e79d17",
+        "trafficRuleSectionId": "fc34c9f8-60bb-4def-afac-bd1b12fd1547",
+        "position": 1
+      }
     ]
   },
   {
@@ -170,6 +215,13 @@
         "position": 2,
         "text": "Водій трамвая.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8f573722-7f12-4a43-8708-f4e8c8a78b7a",
+        "trafficRuleSectionId": "2d0fe9c2-6d34-47f6-b237-265739fb4c9d",
+        "position": 1
       }
     ]
   },
@@ -198,6 +250,13 @@
         "text": "Проїхати повз автобус не зменшуючи швидкості, бо водій автобусу перед початком руху повинен надати дорогу.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5235046f-497a-48e0-9eab-9f00a1aad636",
+        "trafficRuleSectionId": "fdbbf128-3165-4c29-b814-d66b1bdd44c3",
+        "position": 1
+      }
     ]
   },
   {
@@ -221,6 +280,13 @@
         "text": "Водій білого автомобіля має перевагу у русі.».",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "7eee160b-7905-4dcb-aeff-bb59b43389e0",
+        "trafficRuleSectionId": "fdbbf128-3165-4c29-b814-d66b1bdd44c3",
+        "position": 1
+      }
     ]
   },
   {
@@ -242,6 +308,13 @@
         "text": "Не має права рухатися.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "c7c75f38-9f8f-4f60-81ad-9a697522e3d1",
+        "trafficRuleSectionId": "322a91d5-bf4b-4534-b209-ab8a6720842c",
+        "position": 1
+      }
     ]
   },
   {
@@ -262,6 +335,18 @@
         "position": 2,
         "text": "Не має права здійснювати посадку та висадку пасажирів.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "36d1743d-2ed8-4fc8-8da0-371db1e61980",
+        "trafficRuleSectionId": "322a91d5-bf4b-4534-b209-ab8a6720842c",
+        "position": 1
+      },
+      {
+        "id": "7cec4f63-9b5c-4179-a44a-a2f639fa3f43",
+        "trafficRuleSectionId": "fc34c9f8-60bb-4def-afac-bd1b12fd1547",
+        "position": 2
       }
     ]
   },
@@ -291,6 +376,13 @@
         "position": 3,
         "text": "Дозволяється рух і зупинка тільки для таксі, мопедам, мотоциклам (за винятком мотоциклів з боковим причепом, мотоколясок, триколісних транспортних засобів) та велосипедистам.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7c0ed452-b592-4bdc-b6c8-f7901cc42f08",
+        "trafficRuleSectionId": "322a91d5-bf4b-4534-b209-ab8a6720842c",
+        "position": 1
       }
     ]
   }

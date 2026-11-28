@@ -24,6 +24,13 @@
         "text": "У кількості, передбаченій технічною характеристикою транспортного засобу.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "206fee35-60f5-4c1c-8190-beca6905619a",
+        "trafficRuleSectionId": "d2b9434a-afd3-44cf-88fe-8892a9dfcfff",
+        "position": 1
+      }
     ]
   },
   {
@@ -50,6 +57,13 @@
         "position": 3,
         "text": "У кількості, при якій не перевищуються навантаження на осі, визначені технічною характеристикою транспортного засобу.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b7c8b3a1-efd5-472c-9785-1348b62736e4",
+        "trafficRuleSectionId": "d2b9434a-afd3-44cf-88fe-8892a9dfcfff",
+        "position": 1
       }
     ]
   },
@@ -90,6 +104,13 @@
         "text": "Все вищеперераховане.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9fc092cb-db0e-4fb4-8fda-920efcd94a55",
+        "trafficRuleSectionId": "7585d72a-8ce1-4acd-9eb7-b3da45985724",
+        "position": 1
+      }
     ]
   },
   {
@@ -116,6 +137,13 @@
         "position": 3,
         "text": "Дозволено в будь-якому випадку.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "4ce1b704-e0d5-47c9-a0aa-77515235394d",
+        "trafficRuleSectionId": "24b75238-e0bf-45bc-bce9-4c46216d5195",
+        "position": 1
       }
     ]
   },
@@ -156,6 +184,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a4af82de-3e6b-4df7-9123-8e817e140524",
+        "trafficRuleSectionId": "d33bd5df-5b24-446b-a602-61aa0984f145",
+        "position": 1
+      }
     ]
   },
   {
@@ -182,6 +217,13 @@
         "position": 3,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "121e06c8-f688-4683-90e4-349795233922",
+        "trafficRuleSectionId": "7ef15e18-e9b1-47ba-bf89-ada45e7b99dc",
+        "position": 1
       }
     ]
   },
@@ -212,6 +254,13 @@
         "text": "Якщо дитина досягла 12-річного віку.».",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "c9b030db-8d62-42a2-985f-d3fe79529d57",
+        "trafficRuleSectionId": "d33bd5df-5b24-446b-a602-61aa0984f145",
+        "position": 1
+      }
     ]
   },
   {
@@ -240,6 +289,13 @@
         "position": 3,
         "text": "У разі перевезення дитини віком до трьох років у легковому автомобілі на місці для сидіння першого ряду допускається встановлення дитячих утримуючих систем, які встановлюються проти напрямку руху без відключення фронтальної подушки безпеки цього місця для сидіння.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7e7512ab-a4c8-4fc5-a488-478b2863ad56",
+        "trafficRuleSectionId": "d15a45f0-ed99-41c5-9f95-845d48344e67",
+        "position": 1
       }
     ]
   },
@@ -293,6 +349,13 @@
         "text": "Ні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "02f7d098-2bef-4f3a-a6e7-4f42968dd498",
+        "trafficRuleSectionId": "d15a45f0-ed99-41c5-9f95-845d48344e67",
+        "position": 1
+      }
     ]
   },
   {
@@ -316,6 +379,13 @@
         "text": "Проти напрямку руху легкового автомобіля.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "559684ef-d5f9-4a98-86cc-df739081dcef",
+        "trafficRuleSectionId": "d15a45f0-ed99-41c5-9f95-845d48344e67",
+        "position": 1
+      }
     ]
   },
   {
@@ -338,6 +408,13 @@
         "position": 2,
         "text": "У положенні, що забезпечує дитині комфортне перебування.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "84e7b957-47cc-4d78-87f5-843717ef73fa",
+        "trafficRuleSectionId": "7ef15e18-e9b1-47ba-bf89-ada45e7b99dc",
+        "position": 1
       }
     ]
   }

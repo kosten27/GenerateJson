@@ -36,6 +36,13 @@
         "text": "90 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "4558a85c-5a92-4098-b950-615db5b56804",
+        "trafficRuleSectionId": "645008f6-13a0-4015-8a51-f4dbee9e91f8",
+        "position": 1
+      }
     ]
   },
   {
@@ -216,6 +223,13 @@
         "text": "Не допускати до поїздки пасажирів, якщо в салоні немає вільних місць.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a5f83a5e-b12b-4fa9-9fd1-724dbb6f87b6",
+        "trafficRuleSectionId": "7585d72a-8ce1-4acd-9eb7-b3da45985724",
+        "position": 1
+      }
     ]
   },
   {
@@ -243,6 +257,13 @@
         "text": "Не допускати до поїздки пасажирів, якщо в салоні немає вільних місць.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "4becf153-0604-4592-a458-56e5097eae5b",
+        "trafficRuleSectionId": "7585d72a-8ce1-4acd-9eb7-b3da45985724",
+        "position": 1
+      }
     ]
   },
   {
@@ -269,6 +290,13 @@
         "position": 3,
         "text": "Починати рух до повного зачинення дверей та відчиняти їх до повної зупинки тролейбуса.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "de4ca2e6-bbeb-46f5-8d08-f254cd37a02f",
+        "trafficRuleSectionId": "3a484649-0f4e-419a-8e82-420b103e0614",
+        "position": 1
       }
     ]
   },
@@ -357,6 +385,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "4ac0206b-9184-4a6b-968f-f4280aaa756b",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
+      }
     ]
   },
   {
@@ -389,6 +424,13 @@
         "position": 4,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1cc94cbf-b08c-4b36-a22d-24f88c5df98c",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
       }
     ]
   },

@@ -24,6 +24,13 @@
         "text": "У випадках, зазначених в пунктах 1 та/або 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "11f00285-2e94-4da8-bbb5-f6922c279661",
+        "trafficRuleSectionId": "0380f4dc-f935-4713-b46b-5e40fd4cbf9e",
+        "position": 1
+      }
     ]
   },
   {

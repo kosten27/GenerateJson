@@ -20,6 +20,13 @@
         "text": "Відвезти потерпілого в найближчий лікувальний заклад своїм транспортним засобом, попередньо зафіксувавши розташування слідів пригоди, в лікувальному закладі повідомити своє прізвище та номерний знак транспортного засобу (з пред'явленням посвідчення водія або іншого документа, що посвідчує особу, реєстраційного документа на транспортний засіб) і повернутися на місце події.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "57472bdb-4ecb-43c9-be9a-7d5f96a9ba8c",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
+      }
     ]
   },
   {
@@ -52,6 +59,13 @@
         "position": 4,
         "text": "Вжити всіх можливих заходів для збереження слідів пригоди, огородження їх, організувати об’їзд місця пригоди.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "694241e0-5d9f-4399-9978-d7f983f3fa61",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
       }
     ]
   },
@@ -88,6 +102,13 @@
         "text": "Усе перелічене вище.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "6890c4cb-0172-4642-8200-44a25a39f456",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
+      }
     ]
   },
   {
@@ -116,6 +137,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3177bec6-7a08-4fbb-95ed-f06d56d8e3e2",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
       }
     ]
   },
@@ -158,6 +186,13 @@
         "text": "Відповіді, зазначені в пунктах 1, 2, 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "0d654428-f9e1-4ad9-b5db-95a9cf02b7f4",
+        "trafficRuleSectionId": "07d5c581-c081-40ef-8d6c-122b487a02bd",
+        "position": 1
+      }
     ]
   },
   {
@@ -193,6 +228,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9a55a20e-ac0c-46a9-a754-eb0171975d7a",
+        "trafficRuleSectionId": "9357f081-ba73-4f6b-8243-758c1a7d4fc2",
+        "position": 1
+      }
     ]
   },
   {
@@ -227,6 +269,13 @@
         "position": 4,
         "text": "З 21 року.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d28b88fe-c1b2-48c5-93e6-8bc25f1d1f75",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
       }
     ]
   },
@@ -269,6 +318,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "f0109e1e-2995-4bf8-88af-38e28e2d5909",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -310,6 +366,13 @@
         "text": "Відповіді, зазначені в пунктах 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "6deab44e-7bab-4c4b-8ab2-b6d11a7ad619",
+        "trafficRuleSectionId": "863aafac-b434-4b4b-921f-544683cebd41",
+        "position": 1
+      }
     ]
   },
   {
@@ -336,6 +399,13 @@
         "position": 3,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "84fd991f-8f92-43d0-95a0-15712bdc773e",
+        "trafficRuleSectionId": "146c7e98-43bd-430f-a988-396334efcc7f",
+        "position": 1
       }
     ]
   },
@@ -370,6 +440,13 @@
         "text": "Усе перелічене вище.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "972d22fc-8ede-4567-8551-9a8fc9c89ed5",
+        "trafficRuleSectionId": "0380f4dc-f935-4713-b46b-5e40fd4cbf9e",
+        "position": 1
+      }
     ]
   },
   {
@@ -396,6 +473,13 @@
         "position": 3,
         "text": "Знати і неухильно виконувати вимоги Правил дорожнього руху, бути взаємно ввічливими.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b714a577-79da-483b-a20b-19be8d46cb09",
+        "trafficRuleSectionId": "7bfc71d9-06a8-48e3-add0-7995029bdfd6",
+        "position": 1
       }
     ]
   },
@@ -424,6 +508,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "858f25b1-0ab3-45e8-b63d-3dced10477b4",
+        "trafficRuleSectionId": "0380f4dc-f935-4713-b46b-5e40fd4cbf9e",
+        "position": 1
+      }
     ]
   },
   {
@@ -444,6 +535,13 @@
         "position": 2,
         "text": "Не має право.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a26df814-3c72-4756-9a8c-222b88a132f7",
+        "trafficRuleSectionId": "0380f4dc-f935-4713-b46b-5e40fd4cbf9e",
+        "position": 1
       }
     ]
   },
@@ -472,6 +570,13 @@
         "text": "Близькому родичу (чоловік або дружина, брат або сестра) під час його навчання водінню.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ad184f11-8a60-4cb6-94ed-3b9a5341799b",
+        "trafficRuleSectionId": "4451ea88-4393-4631-beca-857ecb77e3d5",
+        "position": 1
+      }
     ]
   },
   {
@@ -498,6 +603,13 @@
         "position": 3,
         "text": "Зобов'язаний в будь-якому випадку.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "85c57051-e319-4f5a-9a17-55455c8334be",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
       }
     ]
   },
@@ -538,6 +650,13 @@
         "text": "Відповіді 1,2,3,4 входять в обов’язки.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "7f7face6-dbb4-4576-9218-74a156dc240a",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -565,6 +684,13 @@
         "text": "Усе перелічене вище.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "7c243c6a-d25f-4652-a254-ecd5322dbe77",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -591,6 +717,13 @@
         "position": 3,
         "text": "Має при собі посвідчення водія на право керування транспортним засобом категорії «В».",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2af18537-7531-49ec-8f26-cf99927fdb5c",
+        "trafficRuleSectionId": "4451ea88-4393-4631-beca-857ecb77e3d5",
+        "position": 1
       }
     ]
   },
@@ -625,6 +758,13 @@
         "text": "Права, перераховані у відповідях 1,2,3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "198e79b8-5f9b-423e-9208-2e519c033bde",
+        "trafficRuleSectionId": "0380f4dc-f935-4713-b46b-5e40fd4cbf9e",
+        "position": 1
+      }
     ]
   },
   {
@@ -651,6 +791,13 @@
         "position": 3,
         "text": "На автомобілях, обладнаних засобами пасивної безпеки (підголівники, ремені безпеки), користуватися ними і не перевозити пасажирів, не пристебнутих ременями безпеки у випадках встановлених Правилами дорожнього руху.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "37efedfc-6940-45ca-b415-b509a6dd2f30",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
       }
     ]
   },
@@ -684,6 +831,13 @@
         "position": 4,
         "text": "Усі перелічені вище.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2f09e5ec-ae49-4e50-b0a6-0c3765afd25c",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
       }
     ]
   },
@@ -724,6 +878,13 @@
         "text": "Усі зобов’язані пристібатися.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "a4de2103-645c-46fa-b9bd-ea2c9641fe22",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -744,6 +905,13 @@
         "position": 2,
         "text": "Дати можливість оглянути транспортний засіб тільки за наявності на те законних підстав відповідно до законодавства України.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "abcafa51-f57a-469e-b11a-7fc12ff1a5db",
+        "trafficRuleSectionId": "863aafac-b434-4b4b-921f-544683cebd41",
+        "position": 1
       }
     ]
   },
@@ -784,6 +952,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "be036887-2f71-4e24-94db-43b2195272fa",
+        "trafficRuleSectionId": "d4ae007b-bd8c-413b-8319-683e94f357cd",
+        "position": 1
+      }
     ]
   },
   {
@@ -817,6 +992,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d5240210-97f2-4337-8626-72541fe591e0",
+        "trafficRuleSectionId": "d4ae007b-bd8c-413b-8319-683e94f357cd",
+        "position": 1
+      }
     ]
   },
   {
@@ -843,6 +1025,13 @@
         "position": 3,
         "text": "Усі відповіді вірні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6bc8a2e6-6e34-4793-aed0-b9fc7d241bd6",
+        "trafficRuleSectionId": "d4ae007b-bd8c-413b-8319-683e94f357cd",
+        "position": 1
       }
     ]
   },
@@ -883,6 +1072,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "0224323e-3e54-4cc0-9695-5103f96ebe01",
+        "trafficRuleSectionId": "146c7e98-43bd-430f-a988-396334efcc7f",
+        "position": 1
+      }
     ]
   },
   {
@@ -916,6 +1112,13 @@
         "text": "Усе перелічене вище.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "bd5a5915-da71-4c9c-a638-02ba8e75189e",
+        "trafficRuleSectionId": "146c7e98-43bd-430f-a988-396334efcc7f",
+        "position": 1
+      }
     ]
   },
   {
@@ -936,6 +1139,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "9ed015e0-84ad-4e87-a79e-370c44d278fc",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
       }
     ]
   },
@@ -976,6 +1186,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "7fd82b9e-c933-45df-96ae-e81af42bdfd6",
+        "trafficRuleSectionId": "94d72ca8-8ea1-457b-a553-0d18eb06127d",
+        "position": 1
+      }
     ]
   },
   {
@@ -1015,6 +1232,13 @@
         "text": "Усе перелічене вище.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5e669bd4-1ecc-4e17-8352-7b9438f3b84f",
+        "trafficRuleSectionId": "c53f88d7-0bbc-4a66-8275-5dfcf725d54a",
+        "position": 1
+      }
     ]
   },
   {
@@ -1041,6 +1265,13 @@
         "position": 3,
         "text": "У всіх перерахованих випадках.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d40bb23a-972d-4e7d-af6e-1ab76a977a59",
+        "trafficRuleSectionId": "99cca5cc-1337-477a-b87c-76a27e729113",
+        "position": 1
       }
     ]
   },
@@ -1081,6 +1312,13 @@
         "text": "Відповіді 1 та 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "384e4726-c268-4bd3-8c17-bced058179d5",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -1104,6 +1342,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "1dc331bf-f7dc-4877-ac57-bb559ecf3d5f",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
+      }
     ]
   },
   {
@@ -1126,6 +1371,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1704b138-cb62-4e8e-be43-739906e1e148",
+        "trafficRuleSectionId": "146c7e98-43bd-430f-a988-396334efcc7f",
+        "position": 1
       }
     ]
   },
@@ -1155,6 +1407,13 @@
         "position": 3,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "53eec4c9-a7e6-457f-a6db-af283686569a",
+        "trafficRuleSectionId": "146c7e98-43bd-430f-a988-396334efcc7f",
+        "position": 1
       }
     ]
   }

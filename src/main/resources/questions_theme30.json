@@ -26,6 +26,13 @@
         "text": "Встановлено всесезонні шини.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "cfaeb13e-0362-48f9-b84c-c8f0da032005",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -54,6 +61,13 @@
         "position": 3,
         "text": "На даху або на бічній поверхні транспортного засобу.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "4c14cb96-291b-4daa-837d-bbd1ab9be897",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
       }
     ]
   },
@@ -90,6 +104,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5b11c9ad-71d7-4105-9713-037b7d6360c8",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -118,6 +139,13 @@
         "position": 3,
         "text": "Третій.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2ea99d5c-bb18-41a5-9ec5-1af7a4f48e86",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
       }
     ]
   },
@@ -154,6 +182,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2da45b73-df9f-4f16-a1db-c4caf206dbf7",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -189,6 +224,13 @@
         "text": "Якими керують водії-лікарі.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "47b91bf2-d4eb-4ddf-9ec4-65ec989e691d",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -218,6 +260,13 @@
         "text": "Перевозять великогабаритні вантажі.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "8e4279ee-c795-4cf7-a1b1-6999a4fbd967",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -246,6 +295,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c0e0dd2a-8231-4a64-87f1-05f7a37c6998",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
       }
     ]
   },
@@ -282,6 +338,13 @@
         "text": "Четвертим.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "f7e2be8f-1b5f-4eb5-b18a-2b567ea2f23d",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -310,6 +373,13 @@
         "position": 3,
         "text": "Перевозять пасажирів, велика частина з яких діти.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d9697d6c-e789-4d2b-9060-f9aa23d1712d",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
       }
     ]
   },
@@ -340,6 +410,13 @@
         "text": "Третій.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "675356bc-7d57-46a4-b068-c16b75635d9b",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -369,6 +446,13 @@
         "text": "На транспортних засобах, якими керують глухі або глухонімі водії.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e36acdd0-e897-4737-88ed-369452356c6e",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -395,6 +479,13 @@
         "position": 3,
         "text": "У передбачених для цього місцях.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "dd5a32fa-b15a-4059-8359-02e95683716e",
+        "trafficRuleSectionId": "1ae2d529-f66c-490b-bb5f-a4c0cf5f4d47",
+        "position": 1
       }
     ]
   },
@@ -428,6 +519,13 @@
         "position": 4,
         "text": "14 діб.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2d187f0c-5f21-428b-aca3-cd214ea81a6f",
+        "trafficRuleSectionId": "d62e0e78-0800-4aab-b095-adc5b75ffb49",
+        "position": 1
       }
     ]
   }

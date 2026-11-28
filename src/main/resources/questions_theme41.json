@@ -32,6 +32,13 @@
         "text": "Відповіді, зазначені в пунктах 1, 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e3f9a352-e029-4e4e-8e41-1704247bc689",
+        "trafficRuleSectionId": "9a64fe4a-91c9-4904-93d6-2b735c04b695",
+        "position": 1
+      }
     ]
   },
   {
@@ -54,6 +61,13 @@
         "position": 2,
         "text": "Двоколісний транспортний засіб, що має двигун робочим об'ємом до 50 куб. см. або електродвигун потужністю до 4 кВт.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "99a8dba6-09f5-4d2c-a1f8-c27549fe32b6",
+        "trafficRuleSectionId": "c94af0b7-09fb-46e9-86b2-262f2e2e0c8e",
+        "position": 1
       }
     ]
   },

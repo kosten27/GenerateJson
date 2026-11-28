@@ -30,6 +30,13 @@
         "text": "П’ять років.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "65874f70-f1b4-4a55-bb68-a3a6f04ab668",
+        "trafficRuleSectionId": "99838f1a-714a-46f0-bec1-5b1b2f7a3084",
+        "position": 1
+      }
     ]
   },
   {
@@ -285,6 +292,18 @@
         "text": "Виконувати будь-яку з наведених дій.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e50dfc2e-ba2a-4209-8218-b11777aeb0c5",
+        "trafficRuleSectionId": "66a9b3be-30b6-4b69-9bf6-5674cd706a24",
+        "position": 1
+      },
+      {
+        "id": "3b034c47-ee3e-4ba2-a506-e39d5601ec82",
+        "trafficRuleSectionId": "7585d72a-8ce1-4acd-9eb7-b3da45985724",
+        "position": 2
+      }
     ]
   },
   {
@@ -338,6 +357,13 @@
         "position": 3,
         "text": "D1.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "66c684d5-be26-4314-87a5-272be321ae41",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
       }
     ]
   },
@@ -600,6 +626,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "a314baf7-9c34-467c-9d50-9171cb463bef",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
+      }
     ]
   },
   {
@@ -626,6 +659,13 @@
         "position": 3,
         "text": "Обов'язкове в будь-якому разі.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8839b747-f4eb-45c5-ae50-30fc00701d55",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
       }
     ]
   },
@@ -983,6 +1023,13 @@
         "position": 3,
         "text": "Обов'язкове, тільки поза населених пунктів.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "11f3f9c0-1c96-4365-a911-77277314c637",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
       }
     ]
   },

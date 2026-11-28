@@ -36,6 +36,13 @@
         "text": "На 0,6 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "bb4ab01a-6090-4dd3-b904-aa2aaf5b2d2d",
+        "trafficRuleSectionId": "c115b7d5-4d5f-4e6b-96de-2ce8cb547184",
+        "position": 1
+      }
     ]
   },
   {
@@ -69,6 +76,13 @@
         "text": "На 2 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2bfffa4f-5586-43be-9d4b-a05023aa331f",
+        "trafficRuleSectionId": "c115b7d5-4d5f-4e6b-96de-2ce8cb547184",
+        "position": 1
+      }
     ]
   },
   {
@@ -96,6 +110,13 @@
         "text": "Усе перелічене вище.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "37c89275-05fa-42bb-929b-9f484825432f",
+        "trafficRuleSectionId": "9d68e48b-e702-4c57-a17d-692790837c44",
+        "position": 1
+      }
     ]
   },
   {
@@ -122,6 +143,13 @@
         "position": 3,
         "text": "Виконувати обидві дії.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "256c3f13-3340-4e95-8d66-9e0db236bfd4",
+        "trafficRuleSectionId": "9d68e48b-e702-4c57-a17d-692790837c44",
+        "position": 1
       }
     ]
   },
@@ -162,6 +190,13 @@
         "text": "У разі дотримання всіх перелічених вище умов.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "0ffbbfd4-7950-4878-83a1-46ca400622db",
+        "trafficRuleSectionId": "049452cd-a1e7-4c45-ab1b-f537f21d7be0",
+        "position": 1
+      }
     ]
   },
   {
@@ -200,6 +235,18 @@
         "position": 5,
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2f40f1f2-d6f5-4704-9323-1beeea1af10f",
+        "trafficRuleSectionId": "9d68e48b-e702-4c57-a17d-692790837c44",
+        "position": 1
+      },
+      {
+        "id": "c2e32220-42c5-43a5-9d8e-58058bf1f8fc",
+        "trafficRuleSectionId": "049452cd-a1e7-4c45-ab1b-f537f21d7be0",
+        "position": 2
       }
     ]
   }

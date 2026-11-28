@@ -26,6 +26,13 @@
         "text": "Небезпечний поворот, небезпечний підйом, небезпечний спуск.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "877db23d-ae51-495c-81f6-7859e0f9de65",
+        "trafficRuleSectionId": "504d81e3-f5f2-4adf-b766-78f235e5f5cb",
+        "position": 1
+      }
     ]
   },
   {
@@ -54,6 +61,13 @@
         "position": 3,
         "text": "Вимога обов'язкової зупинки перед дорожнім знаком «Дати дорогу».",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0a85391f-3c63-430d-8e3f-cf13bc083e1b",
+        "trafficRuleSectionId": "fdcbd01b-85bb-43ea-93ce-062cb9f506eb",
+        "position": 1
       }
     ]
   },
@@ -90,6 +104,13 @@
         "text": "Відповіді, зазначені в пунктах 2, 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9788b898-12a3-4a4c-8add-ed7d8a7fea0d",
+        "trafficRuleSectionId": "6db812b7-5dc4-4b63-9280-af998b04b68a",
+        "position": 1
+      }
     ]
   },
   {
@@ -116,6 +137,13 @@
         "position": 3,
         "text": "Максимальна відстань, на якій з місця водія можна чітко розпізнати межі елементів дороги та розміщення учасників руху, що дає змогу водієві орієнтуватися під час керування транспортним засобом.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8e84fc0d-8110-446b-8b97-fd7d90d5acc2",
+        "trafficRuleSectionId": "9d59108a-4ac5-4af5-b47f-815c768c73ab",
+        "position": 1
       }
     ]
   },
@@ -150,6 +178,18 @@
         "text": "Не працює склопідйомник.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "932ea23e-d23d-44d9-a85b-a80061f9f5a0",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "7edcb289-4d95-46c1-a72f-b18379e04026",
+        "trafficRuleSectionId": "ff15088d-27fa-40e7-96bc-abf78442ebe1",
+        "position": 2
+      }
     ]
   },
   {
@@ -183,6 +223,13 @@
         "text": "Не більше 5.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ba4befe5-ff3f-4000-b0fa-1150244429f5",
+        "trafficRuleSectionId": "28f635e2-c97f-4bca-a722-185999888997",
+        "position": 1
+      }
     ]
   },
   {
@@ -209,6 +256,18 @@
         "position": 3,
         "text": "Відсутні протитуманні фари.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "07e72e17-922b-4b89-80ee-92807fad0a8f",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "6b2baab6-8699-4cf7-bb76-fce6c66e9687",
+        "trafficRuleSectionId": "2f9ee156-1862-46cb-bbec-feb2ed01b183",
+        "position": 2
       }
     ]
   },
@@ -243,6 +302,18 @@
         "text": "Противідкатних упорів.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "992f374a-f6d3-4cd7-b80a-20d9dc34608e",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "1db3a428-5714-4364-8a66-a866c11b93df",
+        "trafficRuleSectionId": "2f9ee156-1862-46cb-bbec-feb2ed01b183",
+        "position": 2
+      }
     ]
   },
   {
@@ -269,6 +340,13 @@
         "position": 3,
         "text": "Не працює склоочисник.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2ed69da3-1f5f-4522-98ec-b8a9ffb3d93b",
+        "trafficRuleSectionId": "b0aecffb-a263-48fd-9f48-acfc4cec29e0",
+        "position": 1
       }
     ]
   },

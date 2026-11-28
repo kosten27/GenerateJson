@@ -32,6 +32,18 @@
         "text": "Після цих знаків починається зустрічний рух.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2529101b-035e-4268-813d-0ff09a7fee9e",
+        "trafficRuleSectionId": "7a20dc58-c997-43b6-a71b-7318ab7da2e1",
+        "position": 1
+      },
+      {
+        "id": "023f85e3-8d32-4b4e-a58f-08bbbb321d3f",
+        "trafficRuleSectionId": "0901b693-3826-4716-a95c-a97b35c6b5a2",
+        "position": 2
+      }
     ]
   },
   {
@@ -72,6 +84,13 @@
         "position": 5,
         "text": "Знак 5.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f74e6cd5-9482-49eb-bd25-82221ed3f2a7",
+        "trafficRuleSectionId": "63dc74d7-1f30-44d0-8640-e9e46389a200",
+        "position": 1
       }
     ]
   },
@@ -114,6 +133,13 @@
         "text": "110 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2561db97-269a-4568-8b3d-d5d294a195e7",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -154,6 +180,13 @@
         "position": 5,
         "text": "130 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "bc73ae7b-62d5-439e-a7a7-fdd62f9d2593",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
       }
     ]
   },
@@ -196,6 +229,13 @@
         "text": "130 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "87f4a396-42d6-49d7-bd98-fe3e3af6cb2a",
+        "trafficRuleSectionId": "0765218a-d97a-4849-8219-913daeca6364",
+        "position": 1
+      }
     ]
   },
   {
@@ -231,6 +271,13 @@
         "text": "130 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "85c75f72-09f2-4b83-b79c-7b596026624c",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -265,6 +312,13 @@
         "position": 4,
         "text": "130 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "87907457-db27-4fc2-91b0-c541f415de6b",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
       }
     ]
   },
@@ -307,6 +361,13 @@
         "text": "110 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "ebbefd65-bb8e-4b8a-ac2e-d31cbc95db43",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -342,6 +403,13 @@
         "text": "Ніхто не порушує.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "58d0e88b-528f-4de1-8f81-39681238c79a",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
+      }
     ]
   },
   {
@@ -364,6 +432,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6de7af92-22c8-4d38-ba13-2fd3b91687e5",
+        "trafficRuleSectionId": "4745fabc-a13c-47f5-bcf2-ec2839939f2c",
+        "position": 1
       }
     ]
   },
@@ -400,6 +475,13 @@
         "text": "130 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "146cefee-8516-47fe-b95b-ee0fcdc7812c",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -435,6 +517,13 @@
         "text": "80 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e96a8cda-fe0a-4736-ad45-4023e5e8e7da",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -464,6 +553,13 @@
         "text": "80 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "3bfedce3-823f-472f-8cbc-197759a96d70",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -486,6 +582,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2a4de7c1-83be-405e-a4b4-9b014f99199c",
+        "trafficRuleSectionId": "cf0e3400-e7fa-4ee1-8b5d-5446c33d8af1",
+        "position": 1
       }
     ]
   },
@@ -510,6 +613,13 @@
         "text": "Дозволено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "91b4e8d2-58c2-4d42-b250-fc89e6bdf00d",
+        "trafficRuleSectionId": "14c636d7-d4db-4631-901f-c8a523f779d2",
+        "position": 1
+      }
     ]
   },
   {
@@ -532,6 +642,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "df61e076-c302-4f36-ac63-ad302b75bfd9",
+        "trafficRuleSectionId": "cbef4fc1-8094-431b-80e2-39625789f163",
+        "position": 1
       }
     ]
   },
@@ -556,6 +673,13 @@
         "text": "Дозволено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "1746f7e3-07d0-4f56-aa1a-f5928275cca3",
+        "trafficRuleSectionId": "5d4dc2ac-8036-4389-9227-e9440420c6a2",
+        "position": 1
+      }
     ]
   },
   {
@@ -578,6 +702,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f1cf9666-9f56-4cc9-b934-4531f5d8a26d",
+        "trafficRuleSectionId": "c79ec0e6-6706-4af3-a594-a38c95f3767a",
+        "position": 1
       }
     ]
   },
@@ -1137,6 +1268,13 @@
         "text": "110 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "28c2ef03-a423-42c6-8945-c986b46a1027",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -1163,6 +1301,13 @@
         "position": 3,
         "text": "110 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "499fb137-f5f4-49bd-83b6-db7d26f80360",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
       }
     ]
   },
@@ -1512,6 +1657,13 @@
         "text": "90 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "f6f70ed4-9ec8-47ff-acce-ed8493c43c8c",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -1551,6 +1703,13 @@
         "text": "35 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "8134a2d3-264d-451d-a4a5-9896c7493792",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
+      }
     ]
   },
   {
@@ -1589,6 +1748,13 @@
         "position": 5,
         "text": "Понад 25 м.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1e4363a8-3a45-43c0-a30c-964523a10d04",
+        "trafficRuleSectionId": "db01f4c5-025f-408e-b314-4d3839461aaa",
+        "position": 1
       }
     ]
   },
@@ -1928,6 +2094,13 @@
         "position": 3,
         "text": "Дозволено тільки в населених пунктах.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0282ad56-c73e-4b3c-ae10-186ff9d998a0",
+        "trafficRuleSectionId": "d33bd5df-5b24-446b-a602-61aa0984f145",
+        "position": 1
       }
     ]
   }

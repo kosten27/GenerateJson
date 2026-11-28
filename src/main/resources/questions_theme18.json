@@ -32,6 +32,13 @@
         "text": "Інформують про наявність небезпечного регульованого пішохідного переходу.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "68f3c039-0f32-4063-a5a1-94f69c5d46be",
+        "trafficRuleSectionId": "b6517b51-d587-4309-b529-ff67867f7eed",
+        "position": 1
+      }
     ]
   },
   {
@@ -60,6 +67,13 @@
         "position": 3,
         "text": "Зменшити швидкість, а в разі потреби зупинитися, щоб уникнути наїзду на дітей.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6379d6b5-7fd2-4103-b3e4-b373b13bbf89",
+        "trafficRuleSectionId": "38016ce0-bcbf-4ba9-93dd-354b52069877",
+        "position": 1
       }
     ]
   },
@@ -90,6 +104,13 @@
         "text": "Зупинитися, щоб дати дорогу пішоходам. Продовжувати рух дозволяється лише тоді, коли пішоходи залишать проїзну частину, а двері трамвая зачиняться.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "967e1245-b91e-485a-9fb9-87da82e764e1",
+        "trafficRuleSectionId": "a74be3bf-4721-4bcc-b3be-8a060fc4b134",
+        "position": 1
+      }
     ]
   },
   {
@@ -112,6 +133,13 @@
         "position": 2,
         "text": "Дотримуватися безпечного інтервалу.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "e963d917-4c1d-450e-bd21-52e5cc49177f",
+        "trafficRuleSectionId": "309b2cab-90b9-4f0d-8b72-750a7e912459",
+        "position": 1
       }
     ]
   },
@@ -142,6 +170,13 @@
         "text": "Знизити швидкість (у разі необхідності – зупинитися) і продовжити рух, тільки переконавшись, що на пішохідному переході немає пішоходів, для яких може бути створена перешкода чи небезпека.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "c5eb48d3-2ea2-4235-99fb-ec4e6ef57c04",
+        "trafficRuleSectionId": "4d196912-fea2-4705-92e5-c60c59163e30",
+        "position": 1
+      }
     ]
   },
   {
@@ -171,6 +206,13 @@
         "text": "Зменшити швидкість і, дотримуючись безпечного інтервалу, проїхати біля пішохода.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "cba9f48a-8c03-410c-8982-70142fb2f3ed",
+        "trafficRuleSectionId": "a74be3bf-4721-4bcc-b3be-8a060fc4b134",
+        "position": 1
+      }
     ]
   },
   {
@@ -197,6 +239,13 @@
         "position": 3,
         "text": "Коли пішоходи залишать проїзну частину і двері трамвая зачиняться.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "63b57c32-f402-40db-822f-4ddcc4098ff8",
+        "trafficRuleSectionId": "a74be3bf-4721-4bcc-b3be-8a060fc4b134",
+        "position": 1
       }
     ]
   },
@@ -225,6 +274,13 @@
         "text": "Зупинитися, щоб дати дорогу пішоходам. Продовжувати рух дозволяється лише тоді, коли пішоходи залишать проїзну частину, а двері трамвая зачиняться.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "877db1b6-1968-41f3-8f24-b310322eddb4",
+        "trafficRuleSectionId": "a74be3bf-4721-4bcc-b3be-8a060fc4b134",
+        "position": 1
+      }
     ]
   },
   {
@@ -251,6 +307,13 @@
         "position": 3,
         "text": "Зупинитися на пішохідному переході, тільки якщо на ньому немає пішоходів.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ac10357c-468e-4ae9-8280-6ea9a91bcce6",
+        "trafficRuleSectionId": "d2d16722-e384-4cd9-94c1-ba580b76edf0",
+        "position": 1
       }
     ]
   },
@@ -285,6 +348,13 @@
         "text": "Подати звуковий сигнал, щоб попередити пішоходів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2dc2580f-e0a7-46c1-b255-586fdd89659c",
+        "trafficRuleSectionId": "c4337b3d-29be-49db-818e-e5d3e7629d6d",
+        "position": 1
+      }
     ]
   },
   {
@@ -305,6 +375,13 @@
         "position": 2,
         "text": "Зменшити швидкість (у разі необхідності – зупинитися) і продовжити рух, тільки переконавшись, що на пішохідному переході немає пішоходів, для яких може бути створена перешкода чи небезпека.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f54fa213-292c-4ef2-be24-f7625773cb95",
+        "trafficRuleSectionId": "c4337b3d-29be-49db-818e-e5d3e7629d6d",
+        "position": 1
       }
     ]
   },
@@ -333,6 +410,13 @@
         "text": "Зменшити швидкість (у разі потреби – зупинитися) і продовжити рух, тільки переконавшись, що на пішохідному переході немає пішоходів, для яких може бути створена перешкода чи небезпека.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "315d2fd9-b688-4232-8762-8e7c38893d4c",
+        "trafficRuleSectionId": "c4337b3d-29be-49db-818e-e5d3e7629d6d",
+        "position": 1
+      }
     ]
   },
   {
@@ -359,6 +443,13 @@
         "position": 3,
         "text": "Дати дорогу пішоходам.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "061561b9-3d62-4af3-a54f-a17d9e33f499",
+        "trafficRuleSectionId": "ab11cffc-2680-4162-a275-0d9d360ea115",
+        "position": 1
       }
     ]
   },
@@ -387,6 +478,13 @@
         "text": "Зменшити швидкість, а в разі потреби зупинитися, щоб дати дорогу пішоходам.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "87f9f580-6477-418a-b758-4082a864df31",
+        "trafficRuleSectionId": "3a5f71a2-97d6-4aea-9d08-ae819318fb84",
+        "position": 1
+      }
     ]
   },
   {
@@ -413,6 +511,18 @@
         "position": 3,
         "text": "Повинні тільки зменшити швидкість, щоб дати дорогу пішоходам.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "83cf763e-4c4e-4eb3-a35e-e6bc28c12507",
+        "trafficRuleSectionId": "b6517b51-d587-4309-b529-ff67867f7eed",
+        "position": 1
+      },
+      {
+        "id": "8819f3b6-b9c4-4671-b6c4-149b9b5cb173",
+        "trafficRuleSectionId": "3a5f71a2-97d6-4aea-9d08-ae819318fb84",
+        "position": 2
       }
     ]
   },
@@ -447,6 +557,13 @@
         "text": "Повинні знизити швидкість, а в разі потреби зупинитися, щоб дати дорогу пішоходам.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "6ca3ad9f-aa0c-4fbf-8fbc-9254438a6f0c",
+        "trafficRuleSectionId": "3a5f71a2-97d6-4aea-9d08-ae819318fb84",
+        "position": 1
+      }
     ]
   },
   {
@@ -480,6 +597,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "21736e92-4524-41dd-a52f-d5109072c09b",
+        "trafficRuleSectionId": "38016ce0-bcbf-4ba9-93dd-354b52069877",
+        "position": 1
+      }
     ]
   },
   {
@@ -503,6 +627,13 @@
         "text": "Ні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "730e016c-3b49-4fa1-82ea-aee4139b91b9",
+        "trafficRuleSectionId": "a74be3bf-4721-4bcc-b3be-8a060fc4b134",
+        "position": 1
+      }
     ]
   },
   {
@@ -525,6 +656,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8fd9de4a-2cfe-4e5d-a856-507efd5831bc",
+        "trafficRuleSectionId": "a74be3bf-4721-4bcc-b3be-8a060fc4b134",
+        "position": 1
       }
     ]
   }

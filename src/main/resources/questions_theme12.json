@@ -26,6 +26,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d18b8fdf-a187-4b16-a715-c227c4fe9b9c",
+        "trafficRuleSectionId": "18cfe02d-b653-41ad-9950-db475d2a2d45",
+        "position": 1
+      }
     ]
   },
   {
@@ -67,6 +74,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "4aa0d337-f033-4b04-8651-c850007d292e",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -99,6 +113,13 @@
         "position": 4,
         "text": "130 км/год.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6a8cbd78-42c2-4034-bc1e-5dedfb20c350",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
       }
     ]
   },
@@ -135,6 +156,13 @@
         "text": "130 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "aa686187-96e4-4132-a193-76a45340e6db",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -169,6 +197,13 @@
         "position": 4,
         "text": "130 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f290aa8e-ee50-41d1-87de-bc712023740c",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
       }
     ]
   },
@@ -211,6 +246,13 @@
         "text": "110 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "53909610-a741-4639-890f-bb5b50e9f4f8",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -239,6 +281,18 @@
         "position": 3,
         "text": "90 км/год. під час руху прямо, у разі повороту праворуч, на забудовану територію – 50 км/год.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1b0cc9b9-55b0-4162-8979-ae10dad0a3fc",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      },
+      {
+        "id": "003e21aa-a90e-4c09-ad38-89e7ece2a28e",
+        "trafficRuleSectionId": "214a87ef-3b8c-47b7-8c4d-73b239ab554a",
+        "position": 2
       }
     ]
   },
@@ -281,6 +335,13 @@
         "text": "110 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "affec932-6c56-463c-9a72-4d0d0eb349d2",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -316,6 +377,13 @@
         "text": "70 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2033b4f9-f69c-4bd5-a853-ae64f17811a7",
+        "trafficRuleSectionId": "c1cf897f-1c60-4795-8653-050887dc6123",
+        "position": 1
+      }
     ]
   },
   {
@@ -350,6 +418,13 @@
         "position": 4,
         "text": "70 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1192104e-757c-410d-b805-b1fa206a7852",
+        "trafficRuleSectionId": "c1cf897f-1c60-4795-8653-050887dc6123",
+        "position": 1
       }
     ]
   },
@@ -392,6 +467,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a96672e4-cfdb-4ce8-ae87-461b0a50624c",
+        "trafficRuleSectionId": "6167ebf2-6e4d-44de-bce6-0a8376883a65",
+        "position": 1
+      }
     ]
   },
   {
@@ -433,6 +515,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e31b7d95-cda7-40ae-8cc8-ccd5db11c2df",
+        "trafficRuleSectionId": "e159208c-bd49-4e5a-b7dc-4daff9bffbad",
+        "position": 1
+      }
     ]
   },
   {
@@ -461,6 +550,13 @@
         "position": 3,
         "text": "Швидкість обох не повинна перевищувати 20 км/год.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8cc78337-e792-4e82-b91b-744947bb5e5a",
+        "trafficRuleSectionId": "0765218a-d97a-4849-8219-913daeca6364",
+        "position": 1
       }
     ]
   },
@@ -497,6 +593,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9de1c293-9d7d-40a6-8354-fe83ff28ff18",
+        "trafficRuleSectionId": "0765218a-d97a-4849-8219-913daeca6364",
+        "position": 1
+      }
     ]
   },
   {
@@ -526,6 +629,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ae96893b-7111-41de-be10-3e2ada7560db",
+        "trafficRuleSectionId": "0e222449-b2ea-4c06-9854-f66b9da9b9b3",
+        "position": 1
+      }
     ]
   },
   {
@@ -554,6 +664,13 @@
         "position": 3,
         "text": "Об'їхати перешкоду, не знижуючи швидкості.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b438d1a4-c3b5-4d5d-8bcd-e33957fe1620",
+        "trafficRuleSectionId": "70e5dc9c-d7e6-4701-a707-d437ca5682ed",
+        "position": 1
       }
     ]
   },
@@ -590,6 +707,13 @@
         "text": "80 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "471518c1-d44d-46fa-a894-f634af1dea32",
+        "trafficRuleSectionId": "645008f6-13a0-4015-8a51-f4dbee9e91f8",
+        "position": 1
+      }
     ]
   },
   {
@@ -624,6 +748,13 @@
         "position": 4,
         "text": "80 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1e79750f-7079-43e9-8123-87990168b2ee",
+        "trafficRuleSectionId": "645008f6-13a0-4015-8a51-f4dbee9e91f8",
+        "position": 1
       }
     ]
   },
@@ -666,6 +797,13 @@
         "text": "50 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "8325c577-2ca8-4ae4-b5f7-070ccf4dc650",
+        "trafficRuleSectionId": "645008f6-13a0-4015-8a51-f4dbee9e91f8",
+        "position": 1
+      }
     ]
   },
   {
@@ -701,6 +839,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "68a25b5c-6d0c-42d2-8999-52b9dd0f95f6",
+        "trafficRuleSectionId": "0765218a-d97a-4849-8219-913daeca6364",
+        "position": 1
+      }
     ]
   },
   {
@@ -721,6 +866,13 @@
         "position": 2,
         "text": "Повинен завжди.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3ffce90c-213e-444f-8d41-2ec885a5f563",
+        "trafficRuleSectionId": "fdefd7e0-c9b2-4283-b3c9-2092e8080f8d",
+        "position": 1
       }
     ]
   },
@@ -761,6 +913,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "2eb58d2b-b2ac-46e6-9bdd-225721831a2c",
+        "trafficRuleSectionId": "9a6fa9a1-f8e7-4ec3-8d72-b4a76cab99cf",
+        "position": 1
+      }
     ]
   },
   {
@@ -781,6 +940,13 @@
         "position": 2,
         "text": "Не повинен, якщо на транспортному засобі встановлено зимові шини.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "5c4d1c91-3f30-4044-a49b-98d86b487584",
+        "trafficRuleSectionId": "fdefd7e0-c9b2-4283-b3c9-2092e8080f8d",
+        "position": 1
       }
     ]
   },
@@ -809,6 +975,13 @@
         "text": "Дозволено.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "b10a0987-84fb-4540-9ade-eb7ccffa99a2",
+        "trafficRuleSectionId": "6167ebf2-6e4d-44de-bce6-0a8376883a65",
+        "position": 1
+      }
     ]
   },
   {
@@ -829,6 +1002,13 @@
         "position": 2,
         "text": "Заборонено в умовах, коли це перешкоджає іншим транспортним засобам.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c88bc36b-2b38-40c2-9fe9-a0c3e1b4e475",
+        "trafficRuleSectionId": "6167ebf2-6e4d-44de-bce6-0a8376883a65",
+        "position": 1
       }
     ]
   },
@@ -863,6 +1043,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "a7611ed3-26bc-4495-bb01-8945f8a8a0f6",
+        "trafficRuleSectionId": "fdefd7e0-c9b2-4283-b3c9-2092e8080f8d",
+        "position": 1
+      }
     ]
   },
   {
@@ -883,6 +1070,13 @@
         "position": 2,
         "text": "Дозволено, якщо довжина гнучкого зчеплення достатня.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d4ee00a9-e4bd-48c4-a149-add213e183ce",
+        "trafficRuleSectionId": "6167ebf2-6e4d-44de-bce6-0a8376883a65",
+        "position": 1
       }
     ]
   },
@@ -917,6 +1111,13 @@
         "text": "Заборонено перевищувати встановлену швидкість.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "c713c1af-f888-4991-b545-a8762cdb4f02",
+        "trafficRuleSectionId": "6167ebf2-6e4d-44de-bce6-0a8376883a65",
+        "position": 1
+      }
     ]
   },
   {
@@ -943,6 +1144,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "400c4e4c-c85a-48da-b256-878bb8d5d870",
+        "trafficRuleSectionId": "646fa0d5-549f-424a-b053-6bdd657dc2df",
+        "position": 1
       }
     ]
   },
@@ -971,6 +1179,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2e80f0b9-f144-4bdf-8c63-9ff99aa9f556",
+        "trafficRuleSectionId": "646fa0d5-549f-424a-b053-6bdd657dc2df",
+        "position": 1
+      }
     ]
   },
   {
@@ -998,6 +1213,13 @@
         "text": "При якій гальмівний шлях перевищує видимість за напрямком руху.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "11906c5e-f289-46cf-af27-7d0911b32b2c",
+        "trafficRuleSectionId": "0e222449-b2ea-4c06-9854-f66b9da9b9b3",
+        "position": 1
+      }
     ]
   },
   {
@@ -1024,6 +1246,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "117acb61-b0e7-4da8-8e31-509a6d1aed1b",
+        "trafficRuleSectionId": "0e222449-b2ea-4c06-9854-f66b9da9b9b3",
+        "position": 1
       }
     ]
   },
@@ -1058,6 +1287,13 @@
         "text": "70 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ca70d464-91f8-4303-8be2-aa5f9a6db8b9",
+        "trafficRuleSectionId": "c1cf897f-1c60-4795-8653-050887dc6123",
+        "position": 1
+      }
     ]
   },
   {
@@ -1084,6 +1320,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b471d317-71ce-43b3-9548-2c23a8983cf3",
+        "trafficRuleSectionId": "70e5dc9c-d7e6-4701-a707-d437ca5682ed",
+        "position": 1
       }
     ]
   },
@@ -1124,6 +1367,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "bab14ef5-556b-4b32-b971-f27228f7c268",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -1157,6 +1407,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "19944739-cf79-4ef9-9a1c-12be72ab2c4c",
+        "trafficRuleSectionId": "0765218a-d97a-4849-8219-913daeca6364",
+        "position": 1
+      }
     ]
   },
   {
@@ -1184,6 +1441,13 @@
         "text": "Швидкість яка визначена технічною характеристикою даного транспортного засобу.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "32c92e2c-29d1-4fef-840c-b00442a33dca",
+        "trafficRuleSectionId": "4736e8fc-b826-458c-ba03-8d73c62efd7d",
+        "position": 1
+      }
     ]
   },
   {
@@ -1204,6 +1468,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c884e5f1-540e-4452-b4a2-83493ddca696",
+        "trafficRuleSectionId": "6167ebf2-6e4d-44de-bce6-0a8376883a65",
+        "position": 1
       }
     ]
   },
@@ -1228,6 +1499,13 @@
         "text": "Ні.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5e32c7ce-a4eb-4a22-8bc2-aeef7c98f1f7",
+        "trafficRuleSectionId": "0765218a-d97a-4849-8219-913daeca6364",
+        "position": 1
+      }
     ]
   },
   {
@@ -1248,6 +1526,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d9e0befa-44dd-4932-aa59-d79ff39f17f4",
+        "trafficRuleSectionId": "4736e8fc-b826-458c-ba03-8d73c62efd7d",
+        "position": 1
       }
     ]
   },
@@ -1271,6 +1556,13 @@
         "position": 2,
         "text": "Зобов’язаний продовжувати рух з цією ж швидкістю або меншою, але не більшою 70 км/год.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f3cf1eb3-3e0b-4136-9520-aeea2c051028",
+        "trafficRuleSectionId": "6167ebf2-6e4d-44de-bce6-0a8376883a65",
+        "position": 1
       }
     ]
   }

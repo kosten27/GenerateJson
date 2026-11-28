@@ -38,6 +38,13 @@
         "text": "Ближнє світло фар або денні ходові вогні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "552271e7-6009-4216-b3bb-8be3728eac79",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      }
     ]
   },
   {
@@ -66,6 +73,13 @@
         "position": 3,
         "text": "Може попереджати про випадок, указаний у відповіді 1 або у відповіді 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "651dc4c0-6cbc-4018-a7b7-6b8cb16302ab",
+        "trafficRuleSectionId": "ce08f49b-9127-4b79-8fc1-8ff3cf39de7f",
+        "position": 1
       }
     ]
   },
@@ -108,6 +122,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a968f0a8-1d6f-4c73-ad47-a95443d5cdba",
+        "trafficRuleSectionId": "ce08f49b-9127-4b79-8fc1-8ff3cf39de7f",
+        "position": 1
+      }
     ]
   },
   {
@@ -136,6 +157,13 @@
         "position": 3,
         "text": "Аварійна сигналізація.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f06e20e7-480c-4a34-9b8c-310cba11ac7a",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 1
       }
     ]
   },
@@ -171,6 +199,13 @@
         "position": 4,
         "text": "На відстані, що забезпечує безпеку дорожнього руху, але не менше ніж 100 м.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a706bcb2-737f-426d-8844-105a9b68a413",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
       }
     ]
   },
@@ -213,6 +248,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "d554a5ea-cf95-482e-82f2-99e57f40c431",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
+      }
     ]
   },
   {
@@ -241,6 +283,13 @@
         "position": 3,
         "text": "Ввімкнути аварійну сигналізацію, а також установити знак аварійної зупинки чи миготливий червоний ліхтар.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d26ef4d4-b175-44e8-bc6b-c871f3e868cc",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
       }
     ]
   },
@@ -271,6 +320,13 @@
         "text": "На третьому.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "fc240867-e21d-4639-80bb-a2d29cdeb54d",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -299,6 +355,13 @@
         "position": 3,
         "text": "Включите покажчик повороту, як показано на малюнку, і для запобігання дорожньо-транспортної пригодити з білим автомобілем, попередити його звуковим сигналом.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a2a64a6c-ad02-4fa0-8b97-8938e15ed3e7",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
       }
     ]
   },
@@ -329,6 +392,13 @@
         "text": "Тільки аварійна сигналізація.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "682beb13-225a-4063-a6b2-25fc4d090359",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 1
+      }
     ]
   },
   {
@@ -358,6 +428,13 @@
         "text": "На третьому.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "202c8fe4-6698-4616-9dd3-57a5ff2d69a2",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -384,6 +461,13 @@
         "position": 3,
         "text": "Аварійна сигналізація.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6f6a0003-6793-4065-ba5e-5ed74aeb064e",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 1
       }
     ]
   },
@@ -424,6 +508,13 @@
         "text": "Виконати вимогу, вказану у відповідях 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "4f0cad76-d310-498b-8ad7-f3cce8806d2c",
+        "trafficRuleSectionId": "ce08f49b-9127-4b79-8fc1-8ff3cf39de7f",
+        "position": 1
+      }
     ]
   },
   {
@@ -450,6 +541,13 @@
         "position": 3,
         "text": "Ближнє світло фар.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "5ab902c2-abff-4346-9822-5b40c31c3f5c",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
       }
     ]
   },
@@ -490,6 +588,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "6add9111-f3b5-493c-8dd1-02874f50fa48",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 1
+      }
     ]
   },
   {
@@ -529,6 +634,13 @@
         "text": "Відповіді 1 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e490bb2a-ffe8-4727-b7ca-65c018efb01f",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
+      }
     ]
   },
   {
@@ -555,6 +667,13 @@
         "position": 3,
         "text": "Стоянкові вогні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6b69ff8f-c112-4285-b0c5-be88fbca1734",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
       }
     ]
   },
@@ -583,6 +702,13 @@
         "text": "Виконати одну з дій, указаних у відповідях 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "6c011afb-e035-4327-a71a-a3c1eee34ea9",
+        "trafficRuleSectionId": "ce08f49b-9127-4b79-8fc1-8ff3cf39de7f",
+        "position": 1
+      }
     ]
   },
   {
@@ -603,6 +729,13 @@
         "position": 2,
         "text": "Установити знак аварійної зупинки або миготливий червоний ліхтар з боку гіршої видимості для інших учасників дорожнього руху.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "941a2c5f-7d5f-4faa-8e1c-d150a0ff518e",
+        "trafficRuleSectionId": "ce08f49b-9127-4b79-8fc1-8ff3cf39de7f",
+        "position": 1
       }
     ]
   },
@@ -631,6 +764,13 @@
         "text": "Не вмикати покажчики поворотів, поки він рухається по одній смузі.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "f01e8845-f4b9-4d92-b506-60e34ee38cc6",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
+      }
     ]
   },
   {
@@ -657,6 +797,13 @@
         "position": 3,
         "text": "Зобов’язаний подати сигнал покажчиками повороту або рукою не менш як за 50 - 100 метрів до маневру.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f8ae167e-77e2-4aa2-84c1-ed5626c6afd7",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
       }
     ]
   },
@@ -685,6 +832,13 @@
         "text": "Зобов’язаний подати сигнал покажчиками повороту або рукою не менш як за 50 - 100 метрів до початку виконання маневру.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "be0f6f21-3944-4cf5-9d05-81b22c879f21",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
+      }
     ]
   },
   {
@@ -711,6 +865,13 @@
         "position": 3,
         "text": "Зобов’язаний подати сигнал покажчиками повороту або рукою не менш як за 50 - 100 метрів до повороту.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7f006611-30c7-400e-b807-d79ac6d61c21",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
       }
     ]
   },
@@ -745,6 +906,13 @@
         "text": "Варіанти 1 та 2 вірні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1d223708-62cb-4396-9e81-2ed4afe3a9f5",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -778,6 +946,13 @@
         "text": "Варіанти 1 та 2 вірні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1a47c15b-12bf-486a-8a60-f9b766464341",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -804,6 +979,13 @@
         "position": 3,
         "text": "Витягнете ліву руку і зігнете у лікті під прямим кутом вгору.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "936da1de-6209-487f-b443-446c43ca74ab",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
       }
     ]
   },
@@ -832,6 +1014,13 @@
         "text": "Витягнете ліву руку у вікно і зігнете у лікті під прямим кутом вгору.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5a6e6795-631f-4b55-bfa4-4a6f7561007e",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -858,6 +1047,13 @@
         "position": 3,
         "text": "Витягнете ліву руку в ліву сторону у вікно і зігнете під прямим кутом вгору.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "9a8c6585-844a-4db9-b331-26898fa62370",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
       }
     ]
   },
@@ -886,6 +1082,13 @@
         "text": "Подати сигнал світловим покажчиком повороту.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9f6084d6-99e4-4d46-b62e-03e378bb02e9",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
+      }
     ]
   },
   {
@@ -913,6 +1116,13 @@
         "text": "В будь-якому випадку включити правий покажчик повороту.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "04d5f054-21bd-450a-ab38-d1d8c0b3a0e1",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
+      }
     ]
   },
   {
@@ -939,6 +1149,13 @@
         "position": 3,
         "text": "Світло, випромінюване ліхтарем, повинно бути добре видно як удень за сонячної погоди, так і в умовах недостатньої видимості.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "14069767-f04a-4ee6-910f-a3ff0e6e24a0",
+        "trafficRuleSectionId": "03030a4b-dd96-4498-87c7-e10c744e9862",
+        "position": 1
       }
     ]
   },
@@ -972,6 +1189,13 @@
         "position": 4,
         "text": "Стоянкові ліхтарі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "bc43ce7f-899d-4001-a001-661c7febe762",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 1
       }
     ]
   },
@@ -1012,6 +1236,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5fe4c73b-5ca1-4c38-8859-1d2c121d814d",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 1
+      }
     ]
   },
   {
@@ -1051,6 +1282,18 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e6226228-0a0b-4ea7-a99c-6aa68248f49f",
+        "trafficRuleSectionId": "90e0c68e-aae2-4f16-ad1f-8d531be351d7",
+        "position": 1
+      },
+      {
+        "id": "7e55b293-d975-4358-9652-89e50ff4c6c9",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 2
+      }
     ]
   },
   {
@@ -1077,6 +1320,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1bb8196a-690a-4db6-93b4-77962ebd2251",
+        "trafficRuleSectionId": "90e0c68e-aae2-4f16-ad1f-8d531be351d7",
+        "position": 1
       }
     ]
   },
@@ -1105,6 +1355,13 @@
         "text": "Заборонено у населених пунктах і поза населеними пунктами, крім випадків, коли без цього неможливо запобігти дорожньо-транспортній пригоді.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "6c69cbc2-f547-46c0-9f83-8a3132ae30d5",
+        "trafficRuleSectionId": "90e0c68e-aae2-4f16-ad1f-8d531be351d7",
+        "position": 1
+      }
     ]
   },
   {
@@ -1131,6 +1388,13 @@
         "position": 3,
         "text": "Не дає водієві переваги і не звільняє його від прийняття запобіжних заходів.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "335b7ca1-c4fc-474e-aea7-938f82948915",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
       }
     ]
   },
@@ -1159,6 +1423,18 @@
         "text": "Не повинен поступатися дорогою у разі, якщо він уже почав перестроювання.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "95d21431-f34b-4f7e-b0fc-cb60641f3469",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
+      },
+      {
+        "id": "78dc6a4b-781b-4d21-a7c8-9388114bc51d",
+        "trafficRuleSectionId": "33d6b54f-f9ec-4c16-b526-f6696e5b1fc4",
+        "position": 2
+      }
     ]
   },
   {
@@ -1185,6 +1461,13 @@
         "position": 3,
         "text": "Під час виконання маневру.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2014e473-c641-400d-a454-5ecd1ba378a2",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
       }
     ]
   },
@@ -1213,6 +1496,13 @@
         "text": "Під час виконання маневру.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "54283c00-45d0-495b-a69f-62f4da500d04",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
+      }
     ]
   },
   {
@@ -1239,6 +1529,13 @@
         "position": 3,
         "text": "Не менше ніж за 150–200 м.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "166df037-292c-4cd6-9443-f743269f0513",
+        "trafficRuleSectionId": "2e70e475-900c-46f6-a1e9-2b41c4a81e7b",
+        "position": 1
       }
     ]
   },
@@ -1267,6 +1564,13 @@
         "text": "Сигнал подається круговим обертанням правої або лівої руки, піднятою вгору.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "eafbf1c9-65a0-4f7f-9fd0-53a9cc962242",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
+      }
     ]
   },
   {
@@ -1293,6 +1597,13 @@
         "position": 3,
         "text": "Стоянкові вогні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6234b114-346c-4c2d-8be1-06bc5fb92f5f",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
       }
     ]
   },
@@ -1321,6 +1632,13 @@
         "text": "Зобов'язаний, якщо встигає їх ввімкнути.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "53029cd0-c8d3-4c5a-9f90-71596f10a6db",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
+      }
     ]
   },
   {
@@ -1341,6 +1659,13 @@
         "position": 2,
         "text": "Заборонено, якщо встановлений знак «Подачу звукового сигналу заборонено».",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6c705be7-3a48-4462-98f8-1e97a2ff8ffd",
+        "trafficRuleSectionId": "32932c52-93e0-44d1-8de8-6fb5cf7bfbfc",
+        "position": 1
       }
     ]
   },
@@ -1368,6 +1693,13 @@
         "position": 3,
         "text": "Дозволено в будь-якому випадку.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "049cd787-37dd-4a0d-8690-c4090a031dd6",
+        "trafficRuleSectionId": "32932c52-93e0-44d1-8de8-6fb5cf7bfbfc",
+        "position": 1
       }
     ]
   },
@@ -1408,6 +1740,13 @@
         "text": "Відповіді 1 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "f559fbca-8a36-468b-b0b4-020074605f7b",
+        "trafficRuleSectionId": "32932c52-93e0-44d1-8de8-6fb5cf7bfbfc",
+        "position": 1
+      }
     ]
   },
   {
@@ -1434,6 +1773,13 @@
         "position": 3,
         "text": "Габаритні ліхтарі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "55a246d2-7302-4954-bd87-cb61a1624194",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 1
       }
     ]
   },
@@ -1462,6 +1808,18 @@
         "text": "На транспортному засобі, що буксирує, вмикається ближнє світло, а на тому, що буксирується, – аварійна сигналізація.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "b231f535-0349-4819-ba40-e0df930230a6",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      },
+      {
+        "id": "a940a14b-cda9-4ef6-944b-e733a00c1216",
+        "trafficRuleSectionId": "49aa9c64-f68d-4dce-a407-e2878c2c312b",
+        "position": 2
+      }
     ]
   },
   {
@@ -1488,6 +1846,13 @@
         "position": 3,
         "text": "На всіх дорогах поза населеними пунктами.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "95a83685-a19b-4afc-b99c-966180a1e471",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
       }
     ]
   },
@@ -1522,6 +1887,13 @@
         "text": "Завжди під час руху транспортного засобу.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "f078a207-cba5-42b2-b95f-429d76f24002",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      }
     ]
   },
   {
@@ -1549,6 +1921,13 @@
         "text": "На всіх механічних транспортних засобах.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "4712dc3c-43ea-4ad4-aedf-d21a5a48a6dc",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      }
     ]
   },
   {
@@ -1575,6 +1954,13 @@
         "position": 3,
         "text": "Габаритні ліхтарі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "afbdff51-173c-4bf3-913b-c9a9b856f962",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
       }
     ]
   },
@@ -1609,6 +1995,13 @@
         "text": "Денні ходові вогні, а в разі їх відсутності у конструкції транспортного засобу – ближнє світло фар.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9b6bf18c-433e-4fb1-9d3a-6144a4c69375",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      }
     ]
   },
   {
@@ -1629,6 +2022,13 @@
         "position": 2,
         "text": "Світло вмикається завжди.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7ddba25c-70d5-4e7b-bf8d-e4c7142538ae",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
       }
     ]
   },
@@ -1657,6 +2057,13 @@
         "text": "Аварійна сигналізація.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "d6e2511b-11fd-44ab-a9cd-09ed982339bd",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      }
     ]
   },
   {
@@ -1683,6 +2090,13 @@
         "position": 3,
         "text": "Завжди на транспортних засобах колони вмикається ближнє світло фар.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "48d28a48-3b6c-4997-8b83-b8af539e701a",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
       }
     ]
   },
@@ -1723,6 +2137,13 @@
         "text": "Відповіді 3 і 4.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "f9a2f52c-b000-4206-9f86-f804c5b660a9",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
+      }
     ]
   },
   {
@@ -1749,6 +2170,13 @@
         "position": 3,
         "text": "Завжди перед початком руху, зупинкою, перестроюванням, поворотом або розворотом.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "4d1d57ea-56c6-4057-a382-12f2b4990279",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
       }
     ]
   },
@@ -1778,6 +2206,13 @@
         "position": 3,
         "text": "Стоянкові вогні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3eb61ef1-5fda-4392-a733-354dc39506be",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
       }
     ]
   }

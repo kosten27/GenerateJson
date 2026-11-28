@@ -20,6 +20,13 @@
         "text": "Частина доби від заходу до сходу сонця.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "977f8ec2-5fb8-415d-a610-1e1755c331f2",
+        "trafficRuleSectionId": "73c413dc-1f7b-409a-afd7-dc215f6e848e",
+        "position": 1
+      }
     ]
   },
   {
@@ -40,6 +47,13 @@
         "position": 2,
         "text": "Зменшити швидкість до безпечної.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "5e9d956e-6a23-45b7-8aec-d90bbcc8e979",
+        "trafficRuleSectionId": "51745ca0-d0da-4768-b321-2d99af69d957",
+        "position": 1
       }
     ]
   },
@@ -67,6 +81,13 @@
         "position": 3,
         "text": "Габаритні або стоянкові ліхтарі.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "615d9949-80e1-4a12-91b0-cf2c63be67ac",
+        "trafficRuleSectionId": "e1426876-fa56-4ae7-aede-71b2ac255e83",
+        "position": 1
       }
     ]
   },
@@ -101,6 +122,13 @@
         "text": "Габаритні або стоянкові ліхтарі спільно з аварійною сигналізацією.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d64d19a0-057f-4ffa-8fee-7a1bedb7fba8",
+        "trafficRuleSectionId": "e1426876-fa56-4ae7-aede-71b2ac255e83",
+        "position": 1
+      }
     ]
   },
   {
@@ -134,6 +162,13 @@
         "text": "Габаритні або стоянкові ліхтарі одночасно з аварійною сигналізацією.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a1618a67-3d13-4751-81c8-6e2d8eff3e8f",
+        "trafficRuleSectionId": "e1426876-fa56-4ae7-aede-71b2ac255e83",
+        "position": 1
+      }
     ]
   },
   {
@@ -160,6 +195,13 @@
         "position": 3,
         "text": "Транспортний засіб слід прибрати за межі дороги. Якщо це неможливо, його необхідно позначити відповідно до вимог Правил дорожнього руху.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "9de1ee76-cfbd-4ce9-96ce-f60963a07345",
+        "trafficRuleSectionId": "e1426876-fa56-4ae7-aede-71b2ac255e83",
+        "position": 1
       }
     ]
   },
@@ -188,6 +230,13 @@
         "text": "Як окремо, так і разом з ближнім або дальнім світлом фар.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "00f32b8e-84b4-4f93-946e-af182b515d8a",
+        "trafficRuleSectionId": "a332f101-8c31-4b17-af9b-85309257e66d",
+        "position": 1
+      }
     ]
   },
   {
@@ -215,6 +264,13 @@
         "text": "Як окремо, так і разом з ближнім або дальнім світлом фар.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5d5e0333-0ba6-4ace-84dc-f3ab10e722fc",
+        "trafficRuleSectionId": "a332f101-8c31-4b17-af9b-85309257e66d",
+        "position": 1
+      }
     ]
   },
   {
@@ -235,6 +291,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "4d1a3dae-6758-4dfa-919a-20fb50e639ab",
+        "trafficRuleSectionId": "a332f101-8c31-4b17-af9b-85309257e66d",
+        "position": 1
       }
     ]
   },
@@ -257,6 +320,13 @@
         "text": "Завжди в темний час доби або в умовах недостатньої видимості.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "cf0afe77-6af2-4baf-9147-26f4e8f945b7",
+        "trafficRuleSectionId": "33770c61-2218-4e12-aa69-77524ff6d0c7",
+        "position": 1
+      }
     ]
   },
   {
@@ -277,6 +347,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "dbfa6b76-7f5b-4e27-b0f2-4fba199ff448",
+        "trafficRuleSectionId": "85c3567c-d03a-4d77-ae69-1023b3d7e717",
+        "position": 1
       }
     ]
   },
@@ -305,6 +382,13 @@
         "text": "У будь-яких умовах.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "3d824266-7daf-46f0-8c7f-2e14071cdb96",
+        "trafficRuleSectionId": "33770c61-2218-4e12-aa69-77524ff6d0c7",
+        "position": 1
+      }
     ]
   },
   {
@@ -332,6 +416,13 @@
         "text": "Зупинитися, не змінюючи смуги руху, і увімкнути аварійну сигналізацію.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5e32dc05-1a82-473e-91aa-6eca297dab99",
+        "trafficRuleSectionId": "51745ca0-d0da-4768-b321-2d99af69d957",
+        "position": 1
+      }
     ]
   },
   {
@@ -358,6 +449,13 @@
         "position": 3,
         "text": "Переключитися на ближнє світло тільки на відстані 250 м.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3381b2f2-0df2-457f-8c64-70c4ad1e38fb",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
       }
     ]
   },
@@ -392,6 +490,13 @@
         "text": "Габаритні ліхтарі.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e2c67dc8-38d1-42fe-9e8a-03e9a1e81530",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -419,6 +524,13 @@
         "text": "Аварійна світлова сигналізація.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "3ea4dbd6-d965-4846-86e1-4b31771c147a",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -445,6 +557,18 @@
         "position": 3,
         "text": "Фари ближнього світла.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "eacc9df3-666c-4bb9-b27d-4ca9bc012ff6",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      },
+      {
+        "id": "5e28971d-10e7-4a7f-83b8-774e792c7907",
+        "trafficRuleSectionId": "a332f101-8c31-4b17-af9b-85309257e66d",
+        "position": 2
       }
     ]
   },
@@ -479,6 +603,13 @@
         "text": "Ближнє або дальнє світло фар.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e886a323-8711-4ca8-b19f-b321f0e4a2b2",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -505,6 +636,13 @@
         "position": 3,
         "text": "Ближнє або дальнє світло фар.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "210fda5d-66d0-44d6-9e29-44ea38359daf",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
       }
     ]
   },
@@ -539,6 +677,13 @@
         "text": "Ближнє світло фар.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e21539e8-7c2f-42bf-a28a-63c15e76660c",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -559,6 +704,13 @@
         "position": 2,
         "text": "Фари або ліхтарі.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "83f5be3c-450c-4d41-9ccd-542ae3290946",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
       }
     ]
   },
@@ -587,6 +739,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "126439e4-df5b-4c50-a96e-a162abe9cee9",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
+      }
     ]
   },
   {
@@ -607,6 +766,13 @@
         "position": 2,
         "text": "У режимі дальнього світла.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b9a3dc0b-8345-4163-9236-a32a426b22d9",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
       }
     ]
   },
@@ -641,6 +807,13 @@
         "text": "На відстані не менше 350 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "421b5db1-ab73-48b3-8769-e165835af427",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
+      }
     ]
   },
   {
@@ -667,6 +840,13 @@
         "position": 3,
         "text": "У режимі протитуманних фар.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "74320ef5-63ff-4e62-be27-bc03b5bb9d97",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
       }
     ]
   },
@@ -701,6 +881,13 @@
         "text": "Тільки протитуманні фари.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "7a12e18a-1a4a-42d3-b0d3-bd68b5b1755b",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -724,6 +911,13 @@
         "text": "Ні.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "4ab0b597-2725-42e1-b421-6e571ff4e4e6",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
+      }
     ]
   },
   {
@@ -744,6 +938,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "42a0b1fe-eed5-4d47-b02e-0338ab9ba287",
+        "trafficRuleSectionId": "0ac315a2-ade0-4430-97b1-b60bc88a92f7",
+        "position": 1
       }
     ]
   },
@@ -780,6 +981,13 @@
         "text": "Відповідь 1 та 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "922609fe-9900-4333-82e4-b54f60e76164",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -803,6 +1011,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "bc9a0e8c-5238-4bc2-9268-10f3fcf95288",
+        "trafficRuleSectionId": "51745ca0-d0da-4768-b321-2d99af69d957",
+        "position": 1
+      }
     ]
   },
   {
@@ -823,6 +1038,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "29752c25-b832-402a-99a3-3c1837306ec7",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
       }
     ]
   },
@@ -847,6 +1069,13 @@
         "text": "Так.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "cada00eb-5a15-48c8-8a65-0f3b3896bbc0",
+        "trafficRuleSectionId": "a332f101-8c31-4b17-af9b-85309257e66d",
+        "position": 1
+      }
     ]
   },
   {
@@ -869,6 +1098,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6767c574-eefc-4c1f-bdf4-36018764016f",
+        "trafficRuleSectionId": "c845bf1b-76a2-4a92-be08-5fe4caca58c8",
+        "position": 1
       }
     ]
   }

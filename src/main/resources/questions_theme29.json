@@ -24,6 +24,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "c1866c0e-13a0-446d-b7a1-5d4afc9dc672",
+        "trafficRuleSectionId": "00488492-40a6-4771-8aa5-bfbcf9a0e74c",
+        "position": 1
+      }
     ]
   }
 ]

@@ -32,6 +32,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9ea107cc-ad01-49bc-b8a2-379909fdf665",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
+      }
     ]
   },
   {
@@ -54,6 +61,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2ed6e8c8-2e29-401d-ba20-fee556343dba",
+        "trafficRuleSectionId": "2b413f0c-ca03-467c-910f-cdc69cc124f0",
+        "position": 1
       }
     ]
   },
@@ -96,6 +110,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "aff68866-cff1-4865-8d73-a85cde84ccf1",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
+      }
     ]
   },
   {
@@ -137,6 +158,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "b1d2fe87-6256-4607-aca5-d197069e3687",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
+      }
     ]
   },
   {
@@ -165,6 +193,13 @@
         "position": 3,
         "text": "Заборонений.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f8dd6952-331c-4be3-a799-f60b9c2c9e46",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
       }
     ]
   },
@@ -198,6 +233,13 @@
         "position": 4,
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "4198aad6-760a-43b9-bb10-cffc8bdfc465",
+        "trafficRuleSectionId": "48a0d21e-4caf-4a11-bd98-b7eb200ee995",
+        "position": 1
       }
     ]
   },
@@ -238,6 +280,13 @@
         "text": "Все перераховане вище.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "adf7dfc7-2bf5-4bed-83b7-cd31850352d8",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
+      }
     ]
   },
   {
@@ -264,6 +313,13 @@
         "position": 3,
         "text": "Повинні, тільки якщо встановлений знак «Дати дорогу».",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f192e73d-65bf-46c5-af48-30d54730b894",
+        "trafficRuleSectionId": "5c554902-8160-488e-8d8a-7e93d6b18d72",
+        "position": 1
       }
     ]
   },
@@ -292,6 +348,13 @@
         "text": "Забороняється.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "765911cb-6c72-4bdb-b0ed-e9f13cdb7e75",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
+      }
     ]
   },
   {
@@ -319,6 +382,13 @@
         "text": "Дозволено, якщо неможливо під'їхати до об'єкта іншим способом.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2c7a35e8-6e9d-484a-af21-cb5f3421dc76",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
+      }
     ]
   },
   {
@@ -345,6 +415,13 @@
         "position": 3,
         "text": "Дозволяється.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "820df203-07b2-4851-befe-c5e1677fd56e",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
       }
     ]
   },
@@ -379,6 +456,13 @@
         "text": "У будь-якому місці, але тільки на узбіччі.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "b8a91baf-4b9f-495f-9698-66e845730abd",
+        "trafficRuleSectionId": "b54cd1bc-eb75-4636-8565-6e60480b7106",
+        "position": 1
+      }
     ]
   },
   {
@@ -405,6 +489,13 @@
         "position": 3,
         "text": "Виконати обидві дії.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b12953e9-dc93-4eb2-af9d-6bdf792c963e",
+        "trafficRuleSectionId": "2febd7b2-74c6-4dff-b45a-477ddbcba68b",
+        "position": 1
       }
     ]
   }

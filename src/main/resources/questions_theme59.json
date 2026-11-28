@@ -348,6 +348,13 @@
         "text": "Буксирування автобусами завжди заборонене.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "b9a5939c-705a-4e8d-b139-98febf1f41f4",
+        "trafficRuleSectionId": "30ba22bd-71d1-4f5d-9410-f0d4b3695576",
+        "position": 1
+      }
     ]
   },
   {
@@ -374,6 +381,13 @@
         "position": 3,
         "text": "За дотримання всіх перерахованих вище умов.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "64915511-6e15-4841-b6f7-e1d855242ada",
+        "trafficRuleSectionId": "30ba22bd-71d1-4f5d-9410-f0d4b3695576",
+        "position": 1
       }
     ]
   },

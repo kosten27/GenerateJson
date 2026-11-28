@@ -20,6 +20,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e26f6c40-e681-4902-bd91-09d9cc4a63b3",
+        "trafficRuleSectionId": "fc45cff2-b9a9-425d-b8a6-05db14fadd87",
+        "position": 1
+      }
     ]
   },
   {
@@ -61,6 +68,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "f6831881-e528-469a-aca5-66267c866bcb",
+        "trafficRuleSectionId": "027ee7d5-d4b4-4098-8e4e-eb107d24a034",
+        "position": 1
+      }
     ]
   },
   {
@@ -96,6 +110,13 @@
         "text": "Габаритні ліхтарі або задній протитуманний ліхтар.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a4e76303-5e46-4be0-8157-30c88e6400f6",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -130,6 +151,13 @@
         "position": 4,
         "text": "130 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1600d837-3afc-4ce9-95ff-daab1f493129",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
       }
     ]
   },
@@ -172,6 +200,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "49e2b48e-2b8d-46ad-955c-c874ea198802",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -213,6 +248,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "f7bc368c-2014-4364-8d2a-854121e9d718",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -248,6 +290,13 @@
         "text": "70 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "4e451198-bbc1-461a-8b46-2fb7ae7e32f4",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -271,6 +320,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9be5a568-654b-4cf5-b766-1a48fd363e13",
+        "trafficRuleSectionId": "d2851e1d-62b3-4dfa-9df9-8ee8626f0d9c",
+        "position": 1
+      }
     ]
   },
   {
@@ -293,6 +349,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f8b9b06a-b812-4139-85f2-fc0719aedb02",
+        "trafficRuleSectionId": "d2851e1d-62b3-4dfa-9df9-8ee8626f0d9c",
+        "position": 1
       }
     ]
   },
@@ -323,6 +386,13 @@
         "text": "Тільки водій трактора.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "96875ecd-a3d2-4c68-9ce1-dfda75afa92e",
+        "trafficRuleSectionId": "b854c297-e4fe-4ade-8f12-54cce08dff9a",
+        "position": 1
+      }
     ]
   },
   {
@@ -352,6 +422,13 @@
         "text": "В обох випадках.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "db8c58f5-91f8-42ec-86fc-e88b41aa970f",
+        "trafficRuleSectionId": "18ae9be0-f8e3-4544-b946-640b9e3bdadd",
+        "position": 1
+      }
     ]
   },
   {
@@ -374,6 +451,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "09c9d8b6-fd6c-4f04-883e-c16cf7337a05",
+        "trafficRuleSectionId": "18ae9be0-f8e3-4544-b946-640b9e3bdadd",
+        "position": 1
       }
     ]
   },
@@ -402,6 +486,13 @@
         "text": "Буксирування автобусами завжди заборонене.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9a69f7d1-3582-4733-b8fd-a7819e6fcdc9",
+        "trafficRuleSectionId": "30ba22bd-71d1-4f5d-9410-f0d4b3695576",
+        "position": 1
+      }
     ]
   },
   {
@@ -428,6 +519,13 @@
         "position": 3,
         "text": "За наявності гальмової системи у причепа.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0e4eddc9-651b-42f4-998c-b4847018eaff",
+        "trafficRuleSectionId": "30ba22bd-71d1-4f5d-9410-f0d4b3695576",
+        "position": 1
       }
     ]
   },
@@ -456,6 +554,13 @@
         "text": "За дотримання всіх перерахованих вище умов.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9582462c-a50a-4699-8b40-e2be607c0a0c",
+        "trafficRuleSectionId": "30ba22bd-71d1-4f5d-9410-f0d4b3695576",
+        "position": 1
+      }
     ]
   },
   {
@@ -482,6 +587,13 @@
         "position": 3,
         "text": "Дозволяється завжди.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "db7f21ef-e948-4d62-8387-a14a2a45faae",
+        "trafficRuleSectionId": "b885be6e-866e-4278-99e2-4c317800f295",
+        "position": 1
       }
     ]
   },
@@ -516,6 +628,13 @@
         "text": "Протитуманні фари на тягачі та габаритні ліхтарі на причепі.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1c695506-597a-4b9e-a9b8-fae133053df2",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -542,6 +661,13 @@
         "position": 3,
         "text": "Сума дозволеної максимально допустимої маси автопоїзда, що не перевищує 25 т.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2bac8223-1b91-4562-b247-594213a896d1",
+        "trafficRuleSectionId": "a9154501-a4a9-4d93-b032-ba003f4a9d38",
+        "position": 1
       }
     ]
   },
@@ -582,6 +708,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9d2de02c-f7c0-447d-ace7-dd46b61c8687",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -609,6 +742,13 @@
         "text": "Обидва повинні рухатися зі швидкістю не більш ніж 80 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "f54141cd-34da-4d17-8e3c-727168100bc9",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -635,6 +775,13 @@
         "position": 3,
         "text": "У передбачених для цього місцях.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f8241f81-b927-487b-95f9-816c2b31941d",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
       }
     ]
   }

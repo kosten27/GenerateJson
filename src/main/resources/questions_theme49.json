@@ -26,6 +26,13 @@
         "text": "Вантаж.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "737247b4-f9a9-454d-a24e-b3d511605528",
+        "trafficRuleSectionId": "98bc3408-cdaa-4b17-b298-23b5dea02314",
+        "position": 1
+      }
     ]
   },
   {
@@ -1537,6 +1544,13 @@
         "position": 4,
         "text": "Відповіді 2 і 3.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "732af753-3cef-44ab-902a-f2d6bb79b398",
+        "trafficRuleSectionId": "94fa21d5-5486-4348-a467-ed13a216c1c1",
+        "position": 1
       }
     ]
   }

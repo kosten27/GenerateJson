@@ -20,6 +20,13 @@
         "text": "Повинен.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "1f16a1fc-eda1-4897-9340-f059c2596d2d",
+        "trafficRuleSectionId": "b1bc87ed-6339-41f1-9d18-80f7d78a9476",
+        "position": 1
+      }
     ]
   },
   {
@@ -42,6 +49,13 @@
         "position": 2,
         "text": "Не повинен.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7a345fa0-8b20-4773-a6d5-53fc4d89e446",
+        "trafficRuleSectionId": "26252d73-126d-47e9-b6e0-33a8fefedf5d",
+        "position": 1
       }
     ]
   },
@@ -72,6 +86,13 @@
         "text": "Знизити швидкість до 40 км/год. і в разі подання регулювальником відповідного сигналу зупинитися.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "c5e1d5da-060c-45a9-8185-7a6943fa0c70",
+        "trafficRuleSectionId": "697a1f1b-6fd4-4272-87d5-42adf63bb9e2",
+        "position": 1
+      }
     ]
   },
   {
@@ -100,6 +121,13 @@
         "position": 3,
         "text": "Так, якщо швидкість руху колони менш ніж 30 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f8a483cc-5b8f-406f-a4b2-ff0838e63dcb",
+        "trafficRuleSectionId": "0120587e-18c0-4786-ae30-d614a3f51221",
+        "position": 1
       }
     ]
   },
@@ -130,6 +158,13 @@
         "text": "Дозволено в будь-якому разі.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "33ddbb17-15e7-4971-9c4f-8ef0d0473b3e",
+        "trafficRuleSectionId": "0120587e-18c0-4786-ae30-d614a3f51221",
+        "position": 1
+      }
     ]
   },
   {
@@ -158,6 +193,13 @@
         "position": 3,
         "text": "Дати йому дорогу і забезпечити безперешкодний проїзд зазначеного транспортного засобу.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "cbada536-a109-4868-b2a2-0bd021ee6df9",
+        "trafficRuleSectionId": "b1bc87ed-6339-41f1-9d18-80f7d78a9476",
+        "position": 1
       }
     ]
   },
@@ -188,6 +230,13 @@
         "text": "Продовжувати рух із дотриманням вимог цих Правил.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a924dfe5-57ba-48ba-8d2e-5401da9b9627",
+        "trafficRuleSectionId": "b1bc87ed-6339-41f1-9d18-80f7d78a9476",
+        "position": 1
+      }
     ]
   },
   {
@@ -208,6 +257,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "81a46895-730b-4551-844a-55ff3438a2f6",
+        "trafficRuleSectionId": "0120587e-18c0-4786-ae30-d614a3f51221",
+        "position": 1
       }
     ]
   },
@@ -248,6 +304,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "0c118b4b-ea0c-4b79-b4de-f267379807cd",
+        "trafficRuleSectionId": "7168e6dd-a8ff-47a8-a002-0c220deb2551",
+        "position": 1
+      }
     ]
   },
   {
@@ -269,6 +332,13 @@
         "text": "Не зобов’язаний.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "fb2eea3a-cd5a-4f0c-8c8b-b2ed6440e9c3",
+        "trafficRuleSectionId": "26252d73-126d-47e9-b6e0-33a8fefedf5d",
+        "position": 1
+      }
     ]
   },
   {
@@ -289,6 +359,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "69a9c39d-65bf-4991-ad92-2250fcace25d",
+        "trafficRuleSectionId": "26252d73-126d-47e9-b6e0-33a8fefedf5d",
+        "position": 1
       }
     ]
   },
@@ -323,6 +400,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "fe39c08e-31e1-4afd-8c8c-6b12cda80eb4",
+        "trafficRuleSectionId": "26252d73-126d-47e9-b6e0-33a8fefedf5d",
+        "position": 1
+      }
     ]
   },
   {
@@ -344,6 +428,23 @@
         "text": "За умови увімкнення проблискового маячка синього або червоного кольору та забезпечення безпеки дорожнього руху.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "05e144f3-7e49-40fa-9560-1380b605fbc5",
+        "trafficRuleSectionId": "26252d73-126d-47e9-b6e0-33a8fefedf5d",
+        "position": 1
+      },
+      {
+        "id": "f49d2fb3-5d3a-4a34-9eda-4831458bb631",
+        "trafficRuleSectionId": "b1bc87ed-6339-41f1-9d18-80f7d78a9476",
+        "position": 2
+      },
+      {
+        "id": "def74ba2-f75e-4a1e-b7f1-eefbf34c5ffc",
+        "trafficRuleSectionId": "22bc7798-034a-4b5d-85a6-e7f30e573192",
+        "position": 3
+      }
     ]
   },
   {
@@ -364,6 +465,13 @@
         "position": 2,
         "text": "Можна не вмикати за відсутності необхідності додаткового привертання уваги учасників дорожнього руху.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "15a4e857-5c70-44c1-94e3-d95f33997ada",
+        "trafficRuleSectionId": "697a1f1b-6fd4-4272-87d5-42adf63bb9e2",
+        "position": 1
       }
     ]
   },
@@ -394,6 +502,13 @@
         "text": "Повинен тільки у разі ввімкнення проблискових маячків та (або) спеціального звукового сигналу.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "96608f10-7bed-4bd7-8e5a-6eb784a8461c",
+        "trafficRuleSectionId": "b1bc87ed-6339-41f1-9d18-80f7d78a9476",
+        "position": 1
+      }
     ]
   },
   {
@@ -416,6 +531,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6d2c3679-8bc7-4841-b9c4-27312ce58256",
+        "trafficRuleSectionId": "22bc7798-034a-4b5d-85a6-e7f30e573192",
+        "position": 1
       }
     ]
   }

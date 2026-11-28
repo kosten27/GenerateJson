@@ -26,6 +26,13 @@
         "text": "Не більше шістнадцяти.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "dedd3ab7-12a1-4dc3-a089-7162777247ab",
+        "trafficRuleSectionId": "0755b2dc-b3e1-4f60-8ee6-c9286585d72a",
+        "position": 1
+      }
     ]
   },
   {
@@ -383,6 +390,13 @@
         "text": "20 пасажирів на сидіннях, крім водія.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "030f7fbb-a44c-4e39-99ac-c68a1768e2f1",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
+      }
     ]
   },
   {
@@ -409,6 +423,13 @@
         "position": 3,
         "text": "Транспортний засіб, призначений для перевезення людей за маршрутами, узгодженими з пасажирами, та з зупинками на їхню вимогу.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8b1508b4-cc06-4a5a-99d5-3f20b7f56607",
+        "trafficRuleSectionId": "872ff4c0-1172-4258-9ce1-11994aa2241b",
+        "position": 1
       }
     ]
   },
@@ -1273,6 +1294,13 @@
         "position": 4,
         "text": "Відповіді 2 і 3.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "9833567c-3710-4d8b-9bf3-dae96e83472a",
+        "trafficRuleSectionId": "94fa21d5-5486-4348-a467-ed13a216c1c1",
+        "position": 1
       }
     ]
   }

@@ -18,6 +18,13 @@
         "text": "Дозволено, якщо при цьому не буде створено перешкод для руху транспортних засобів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "65dce601-4b70-4644-95f8-178cbc1f77bc",
+        "trafficRuleSectionId": "2af563c9-e04d-4646-9615-97fb36548fcb",
+        "position": 1
+      }
     ]
   },
   {
@@ -51,6 +58,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "b41da6af-94da-42ca-80fe-9dbfae7712c6",
+        "trafficRuleSectionId": "f4c9fb93-1453-4729-b5fc-ab05ff59bf88",
+        "position": 1
+      }
     ]
   },
   {
@@ -77,6 +91,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2dd3203c-3b53-4f58-b34d-9eb89ab3f7b6",
+        "trafficRuleSectionId": "c6a8ad88-a840-44c1-b754-3541c1622ebf",
+        "position": 1
       }
     ]
   },
@@ -105,6 +126,18 @@
         "text": "Дозволено з дозволу водія.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "8be5ca83-ee47-4a95-8da4-7dc4ad978b7b",
+        "trafficRuleSectionId": "d1e079b6-53b9-4f77-990d-684a906fc569",
+        "position": 1
+      },
+      {
+        "id": "d4844ca2-9746-40a9-a56c-11b30f14f0dd",
+        "trafficRuleSectionId": "6dce6187-b81d-4b8e-92bb-83af30a4503a",
+        "position": 2
+      }
     ]
   },
   {
@@ -132,6 +165,13 @@
         "text": "Заборонено з лівого боку.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "41763093-3aa7-4770-8b5a-d570cacd398f",
+        "trafficRuleSectionId": "6dce6187-b81d-4b8e-92bb-83af30a4503a",
+        "position": 1
+      }
     ]
   },
   {
@@ -152,6 +192,13 @@
         "position": 2,
         "text": "Дозволяється для уточнення маршруту.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ef6d87c7-8270-4e07-92aa-0f61b56a7db8",
+        "trafficRuleSectionId": "6dce6187-b81d-4b8e-92bb-83af30a4503a",
+        "position": 1
       }
     ]
   },
@@ -180,6 +227,13 @@
         "text": "Не повинні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "0741bc8b-b1d3-4d97-8c36-57f1e1dc2443",
+        "trafficRuleSectionId": "d1e079b6-53b9-4f77-990d-684a906fc569",
+        "position": 1
+      }
     ]
   },
   {
@@ -207,6 +261,13 @@
         "text": "Повинні обов'язково за межами населених пунктів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "cbf1195f-7f47-4873-8a99-e25572483819",
+        "trafficRuleSectionId": "d1e079b6-53b9-4f77-990d-684a906fc569",
+        "position": 1
+      }
     ]
   },
   {
@@ -227,6 +288,13 @@
         "position": 2,
         "text": "Може, якщо це передбачено конструкцією транспортного засобу.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "296db426-6d7c-407a-8834-43ebbd8a0053",
+        "trafficRuleSectionId": "d1e079b6-53b9-4f77-990d-684a906fc569",
+        "position": 1
       }
     ]
   },
@@ -267,6 +335,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "38a26a31-e355-455f-8dfe-d73a4befbcd2",
+        "trafficRuleSectionId": "d1e079b6-53b9-4f77-990d-684a906fc569",
+        "position": 1
+      }
     ]
   },
   {
@@ -294,6 +369,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e18a7e1a-2217-4cda-b898-f708706c933d",
+        "trafficRuleSectionId": "2af563c9-e04d-4646-9615-97fb36548fcb",
+        "position": 1
+      }
     ]
   },
   {
@@ -314,6 +396,13 @@
         "position": 2,
         "text": "З крайньої смуги проїзної частини, але не з боку суміжної смуги для руху, за умови, що це буде безпечно та не створить перешкод іншим учасникам руху.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "db6c8f90-6735-4e3a-b045-03fb1043578a",
+        "trafficRuleSectionId": "2af563c9-e04d-4646-9615-97fb36548fcb",
+        "position": 1
       }
     ]
   },
@@ -342,6 +431,13 @@
         "text": "У разі відсутності посадкового майданчика.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "1ef5386a-dda6-4d84-beb7-39f41923f499",
+        "trafficRuleSectionId": "2af563c9-e04d-4646-9615-97fb36548fcb",
+        "position": 1
+      }
     ]
   },
   {
@@ -369,6 +465,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "8c04318d-a084-4353-9d99-aa0278973871",
+        "trafficRuleSectionId": "2af563c9-e04d-4646-9615-97fb36548fcb",
+        "position": 1
+      }
     ]
   },
   {
@@ -389,6 +492,13 @@
         "position": 2,
         "text": "На всіх сидіннях, обладнаних ременями безпеки.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1a649dd1-4a04-43c0-88ee-b3cddb7076be",
+        "trafficRuleSectionId": "d1e079b6-53b9-4f77-990d-684a906fc569",
+        "position": 1
       }
     ]
   },
@@ -412,6 +522,13 @@
         "position": 2,
         "text": "Ні, посадку (висадку) дозволяється здійснювати пасажирам з крайньої смуги проїзної частини (але не з боку суміжної смуги для руху), за умови, що це буде безпечно та не створить перешкод іншим учасникам руху.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7582fd2f-dc47-4f10-b1d3-3b3d4dfbb659",
+        "trafficRuleSectionId": "2af563c9-e04d-4646-9615-97fb36548fcb",
+        "position": 1
       }
     ]
   }

@@ -36,6 +36,23 @@
         "text": "Відповіді 1 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "7ecd707b-b122-4ba7-b4f3-6ed562117d41",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      },
+      {
+        "id": "f0afa154-a865-40bc-bcc0-4b23e2afa5fd",
+        "trafficRuleSectionId": "fdefd7e0-c9b2-4283-b3c9-2092e8080f8d",
+        "position": 2
+      },
+      {
+        "id": "13f9379e-8e9b-4254-99fc-1684ffab90c8",
+        "trafficRuleSectionId": "fcc1b8e4-56f3-45bc-8c88-1d3edd32b575",
+        "position": 3
+      }
     ]
   },
   {

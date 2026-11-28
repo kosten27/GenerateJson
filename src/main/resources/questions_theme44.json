@@ -26,6 +26,13 @@
         "text": "Відповіді, зазначені в пунктах 1, 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5236bf3f-0272-4ea7-be8f-1c1880837de9",
+        "trafficRuleSectionId": "4c985cb6-9570-4da1-97d3-1ccf3848cb95",
+        "position": 1
+      }
     ]
   },
   {
@@ -61,6 +68,13 @@
         "text": "З 21 року.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "eb6f1a65-b178-495f-955f-6c3dc0ef1a3b",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
+      }
     ]
   },
   {
@@ -95,6 +109,13 @@
         "position": 4,
         "text": "80 км/год.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f61b4973-4267-477b-aed4-a6888d7b7ca1",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
       }
     ]
   },
@@ -156,6 +177,13 @@
         "text": "Протитуманні фари і задній протитуманний ліхтар.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "c16e0039-6c7f-453d-b6ef-207cc4fb00a7",
+        "trafficRuleSectionId": "a6c792ae-9825-45ed-9c62-8399f1392f72",
+        "position": 1
+      }
     ]
   },
   {
@@ -182,6 +210,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "008acfe1-428b-409c-b74f-484e267baf7e",
+        "trafficRuleSectionId": "0815bcae-93fa-44fd-a1b8-985f90327bfe",
+        "position": 1
       }
     ]
   },
@@ -222,6 +257,13 @@
         "text": "Відповіді 1, 2, 3 і 4.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d5d895e9-53a6-4047-8356-8d8e82053034",
+        "trafficRuleSectionId": "fcc1b8e4-56f3-45bc-8c88-1d3edd32b575",
+        "position": 1
+      }
     ]
   },
   {
@@ -248,6 +290,13 @@
         "position": 3,
         "text": "Продовжувати рух по тій самій смузі де і їхав.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "fc00ff34-ec17-458d-83a9-8e8e8df635f1",
+        "trafficRuleSectionId": "e6b71454-6620-4b2e-86a2-7ba6632bf83d",
+        "position": 1
       }
     ]
   },
@@ -276,6 +325,13 @@
         "text": "Не вмикати покажчики поворотів, поки він рухається по одній смузі.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "412182d9-0534-494d-aeed-634c5db7a903",
+        "trafficRuleSectionId": "a21d9ba5-735a-4b8e-8de4-f4e901173302",
+        "position": 1
+      }
     ]
   },
   {
@@ -302,6 +358,13 @@
         "position": 3,
         "text": "Денні ходові вогні, а в разі їх відсутності у конструкції транспортного засобу – ближнє світло фар.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7bd77d3e-129c-41a2-a6af-07001d736902",
+        "trafficRuleSectionId": "0b03696e-bc5b-4ab3-9c6d-7206e3761fa0",
+        "position": 1
       }
     ]
   },
@@ -330,6 +393,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "31b4606f-e2da-42c5-871b-9fea7dc76fe0",
+        "trafficRuleSectionId": "90e0c68e-aae2-4f16-ad1f-8d531be351d7",
+        "position": 1
+      }
     ]
   },
   {
@@ -356,6 +426,13 @@
         "position": 3,
         "text": "Витягнете ліву руку в ліву сторону у вікно і зігнете під прямим кутом вгору.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b12f01db-a338-489a-b319-5c818dff9b0e",
+        "trafficRuleSectionId": "8781e838-98d7-4592-b1f2-2295f24ae39e",
+        "position": 1
       }
     ]
   },
@@ -396,6 +473,13 @@
         "text": "Відповіді 1,2,3,4 входять в обов’язки.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "1200c8c5-044b-4540-8893-a62d85e4d3a1",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      }
     ]
   },
   {
@@ -435,6 +519,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "20a4bc26-7b12-4344-a276-fdfe383ed19f",
+        "trafficRuleSectionId": "94d72ca8-8ea1-457b-a553-0d18eb06127d",
+        "position": 1
+      }
     ]
   },
   {
@@ -461,6 +552,13 @@
         "position": 3,
         "text": "Більше дев'яти.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8ff23be8-36f5-43ff-9f76-107cec7782af",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
       }
     ]
   },

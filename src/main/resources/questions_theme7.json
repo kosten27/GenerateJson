@@ -20,6 +20,13 @@
         "text": "Вести тварину за вуздечку, повід.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "7239e430-f0b3-4814-8061-1531c6be190c",
+        "trafficRuleSectionId": "21a5cafa-9255-4998-b8d8-b59c6c3142b1",
+        "position": 1
+      }
     ]
   },
   {
@@ -41,6 +48,13 @@
         "text": "Світлоповертачами: спереду – білого кольору, ззаду – червоного.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "072417b2-0ffb-418b-bc6a-d98c0b93b493",
+        "trafficRuleSectionId": "ee5b6be8-94c7-41e2-82ed-081945d4a8b6",
+        "position": 1
+      }
     ]
   },
   {
@@ -61,6 +75,13 @@
         "position": 2,
         "text": "З лівого.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "65aced8a-a24b-40a7-8ef7-45bde565c55b",
+        "trafficRuleSectionId": "60a4eda4-1262-4ae1-84c5-c7d41e4f60e0",
+        "position": 1
       }
     ]
   },
@@ -89,6 +110,13 @@
         "text": "Ліхтарі: спереду – білого кольору, ззаду – червоного кольору, що встановлюються з лівого боку воза (саней).",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "05a5d691-634f-473f-bbd8-f6973e51b4e0",
+        "trafficRuleSectionId": "60a4eda4-1262-4ae1-84c5-c7d41e4f60e0",
+        "position": 1
+      }
     ]
   },
   {
@@ -115,6 +143,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "f74a4bbd-230a-486f-bddf-019d27b0a8f1",
+        "trafficRuleSectionId": "59a18278-9b7e-4ecb-a2c7-075aff803954",
+        "position": 1
       }
     ]
   },
@@ -143,6 +178,13 @@
         "text": "Дозволено по дорогах без покриття.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "165df986-82be-43dc-a7c7-714049560fcc",
+        "trafficRuleSectionId": "678247fb-526d-43fe-866b-493597dce14b",
+        "position": 1
+      }
     ]
   },
   {
@@ -169,6 +211,13 @@
         "position": 3,
         "text": "Дозволено, якщо віз обладнаний світлоповертачами.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "cc19c8f8-1c6c-46a6-9bf8-e868f037f291",
+        "trafficRuleSectionId": "18131d74-b747-4769-a735-d34110e412ab",
+        "position": 1
       }
     ]
   },
@@ -208,6 +257,13 @@
         "position": 5,
         "text": "Відповіді 1, 2, 3 і 4.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8bd784fc-093a-4a33-b4f3-d1ca0c0a46cd",
+        "trafficRuleSectionId": "18131d74-b747-4769-a735-d34110e412ab",
+        "position": 1
       }
     ]
   }

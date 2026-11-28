@@ -30,6 +30,13 @@
         "text": "Під час руху колони в населених пунктах.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "bc1963f2-3a1b-40ac-8448-5592b62e8a4b",
+        "trafficRuleSectionId": "6d262db9-bcd5-4a5f-bcab-449b14d37a27",
+        "position": 1
+      }
     ]
   },
   {
@@ -63,6 +70,13 @@
         "text": "Під час буксирування транспортного засобу з причепом.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1d6d84d5-73d4-4a8a-9708-2c8d19fe4f91",
+        "trafficRuleSectionId": "6d262db9-bcd5-4a5f-bcab-449b14d37a27",
+        "position": 1
+      }
     ]
   },
   {
@@ -90,6 +104,13 @@
         "text": "Переобладнання транспортних засобів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "c6a8ca46-942b-4c19-a0ef-56e1a0f965e7",
+        "trafficRuleSectionId": "6d262db9-bcd5-4a5f-bcab-449b14d37a27",
+        "position": 1
+      }
     ]
   },
   {
@@ -110,6 +131,13 @@
         "position": 2,
         "text": "За умови узгодження з уповноваженими підрозділами Національної поліції.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "16f8240f-b430-494d-adc2-01586bc19b86",
+        "trafficRuleSectionId": "953867d5-6d70-4a75-a808-0a10282fd576",
+        "position": 1
       }
     ]
   },
@@ -137,6 +165,13 @@
         "position": 3,
         "text": "За умови дозволу заводу-виробника.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "baf84584-b814-4674-9e3a-689d908e63b9",
+        "trafficRuleSectionId": "0172e1c5-2438-43b1-9165-5df6de775cdf",
+        "position": 1
       }
     ]
   }

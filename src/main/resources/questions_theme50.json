@@ -24,6 +24,13 @@
         "text": "Чотири роки.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "cc6cc7aa-df59-48a3-bb93-2a109e6a90f5",
+        "trafficRuleSectionId": "24b75238-e0bf-45bc-bce9-4c46216d5195",
+        "position": 1
+      }
     ]
   },
   {
@@ -50,6 +57,13 @@
         "position": 3,
         "text": "Обов'язкове, тільки поза населених пунктів.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2d224483-7f3a-4fd0-825c-ef7863fc1483",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
       }
     ]
   },
@@ -105,6 +119,13 @@
         "text": "Обов'язкове в будь-якому разі.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "4fb67519-793f-4e88-9e75-db18cd4e8731",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
+      }
     ]
   },
   {
@@ -137,6 +158,13 @@
         "position": 4,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b017da30-4370-4534-bf92-fab32c79f6c1",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
       }
     ]
   },
@@ -171,6 +199,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "df0971de-e32a-4095-8380-fbd8e5b1fce5",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
+      }
     ]
   },
   {
@@ -191,6 +226,13 @@
         "position": 2,
         "text": "Негайно зупинити транспортний засіб і залишатися на місці пригоди.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3b4c4d1c-65bd-435d-bbc3-a9a3942151bc",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
       }
     ]
   },
@@ -273,6 +315,13 @@
         "text": "Все вищеперераховане.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "87cf180b-694d-42cf-a189-cede163f5ee0",
+        "trafficRuleSectionId": "d33bd5df-5b24-446b-a602-61aa0984f145",
+        "position": 1
+      }
     ]
   },
   {
@@ -300,6 +349,13 @@
         "text": "У будь-якому випадку.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "19a770c5-7409-40d1-973c-2344d8cc0526",
+        "trafficRuleSectionId": "8824554f-c93b-497c-a471-fcdf3fb7c6aa",
+        "position": 1
+      }
     ]
   },
   {
@@ -326,6 +382,13 @@
         "position": 3,
         "text": "Усе перелічене вище.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b6519227-b21e-4f79-840e-1538c67f1000",
+        "trafficRuleSectionId": "d4ae007b-bd8c-413b-8319-683e94f357cd",
+        "position": 1
       }
     ]
   }

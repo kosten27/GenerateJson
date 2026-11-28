@@ -20,6 +20,13 @@
         "text": "Дати дорогу автомобілю.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "3775e7bc-8f02-4e1f-ab2c-dffc8efd87e5",
+        "trafficRuleSectionId": "b6517b51-d587-4309-b529-ff67867f7eed",
+        "position": 1
+      }
     ]
   },
   {
@@ -54,6 +61,13 @@
         "position": 4,
         "text": "Праворуч.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c645dc24-d3a4-44f7-bffb-0798ebfdb942",
+        "trafficRuleSectionId": "d762ac91-bf3b-4b73-8d16-eb9dd4ab1b4f",
+        "position": 1
       }
     ]
   },
@@ -90,6 +104,13 @@
         "text": "На світлофорах 1, 2, 3 і 4.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5bfe5417-2cc3-45d3-97ee-ecc5341add2f",
+        "trafficRuleSectionId": "d762ac91-bf3b-4b73-8d16-eb9dd4ab1b4f",
+        "position": 1
+      }
     ]
   },
   {
@@ -118,6 +139,18 @@
         "position": 3,
         "text": "Прямо або праворуч.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3ed65f86-d167-4afe-8854-b15c5a05b9c7",
+        "trafficRuleSectionId": "ac8dd8fa-ce01-4801-a86a-625a3f6ce49d",
+        "position": 1
+      },
+      {
+        "id": "f4190497-d58e-458f-aa91-204f3b45417d",
+        "trafficRuleSectionId": "25941aec-6536-42d4-9636-1833c9634709",
+        "position": 2
       }
     ]
   },
@@ -153,6 +186,18 @@
         "position": 4,
         "text": "Ліворуч.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "85d1f141-ba84-49cf-b89c-5f63022f1332",
+        "trafficRuleSectionId": "ac8dd8fa-ce01-4801-a86a-625a3f6ce49d",
+        "position": 1
+      },
+      {
+        "id": "5b6bfcab-953c-4614-bca2-1448bbc0686b",
+        "trafficRuleSectionId": "25941aec-6536-42d4-9636-1833c9634709",
+        "position": 2
       }
     ]
   },
@@ -349,6 +394,13 @@
         "text": "Обов'язкове в будь-якому разі.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "39f1b475-d662-4d4b-9788-3c1cd5563a8e",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
+      }
     ]
   },
   {
@@ -375,6 +427,13 @@
         "position": 3,
         "text": "Обов'язкове в будь-якому разі.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "715aa957-fc9a-4a7e-9912-db5712c2336d",
+        "trafficRuleSectionId": "16a0215d-c36c-4bda-a811-2e9ae02a1e70",
+        "position": 1
       }
     ]
   },
@@ -528,6 +587,18 @@
         "position": 4,
         "text": "Виконувати будь-яку з наведених дій.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c4aafdf3-9b97-418e-9aaf-e8e166ac4cc0",
+        "trafficRuleSectionId": "6167ebf2-6e4d-44de-bce6-0a8376883a65",
+        "position": 1
+      },
+      {
+        "id": "24baec22-5a0b-4dde-a9c3-17fdb27a00eb",
+        "trafficRuleSectionId": "7585d72a-8ce1-4acd-9eb7-b3da45985724",
+        "position": 2
       }
     ]
   }

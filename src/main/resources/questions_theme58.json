@@ -24,6 +24,13 @@
         "text": "З 19 років.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "0a00d675-53bf-47d3-a894-8b65ce39f29f",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
+      }
     ]
   },
   {
@@ -50,6 +57,13 @@
         "position": 3,
         "text": "Несправний зчіпний пристрій.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8d14ebda-5aaa-4d39-bd59-e40283282186",
+        "trafficRuleSectionId": "a45b38b2-5729-4809-a031-23fa9372c6e8",
+        "position": 1
       }
     ]
   },

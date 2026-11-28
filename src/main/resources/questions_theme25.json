@@ -36,6 +36,13 @@
         "text": "Відповіді 1 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "fe7dab9c-7f4b-4fb6-9db0-87020fb2f5f0",
+        "trafficRuleSectionId": "862e9b90-6670-4592-915f-956fb190b9e4",
+        "position": 1
+      }
     ]
   },
   {
@@ -75,6 +82,13 @@
         "text": "Відповіді 1 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "3959a000-a92d-4b1f-9b01-0399010e730f",
+        "trafficRuleSectionId": "862e9b90-6670-4592-915f-956fb190b9e4",
+        "position": 1
+      }
     ]
   },
   {
@@ -102,6 +116,13 @@
         "text": "Колона повинна рухатися лише в один ряд якнайближче до правого краю проїзної частини, за винятком випадків, коли її супроводжують оперативні транспортні засоби.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "4dee49a7-52f2-4cbb-ba4c-d28d973228e5",
+        "trafficRuleSectionId": "12b73ccd-ed6d-4026-a887-c61e10110283",
+        "position": 1
+      }
     ]
   },
   {
@@ -128,6 +149,13 @@
         "position": 3,
         "text": "Старшим колони або за режимом руху головної машини відповідно до вимог Правил дорожнього руху на певній ділянці дороги.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "18d489d7-4a68-4fea-97c5-67dbc405e6c6",
+        "trafficRuleSectionId": "003698ee-2be0-4771-ad9b-c0afd488de45",
+        "position": 1
       }
     ]
   },
@@ -168,6 +196,18 @@
         "text": "Відповіді 1 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "04379bfe-7abb-4c42-83ef-ded06317ebee",
+        "trafficRuleSectionId": "12b73ccd-ed6d-4026-a887-c61e10110283",
+        "position": 1
+      },
+      {
+        "id": "2eba2d14-cc97-408a-9de8-e5a5875d2341",
+        "trafficRuleSectionId": "ebe1bc70-3636-4f88-9478-5f2bc74f72f5",
+        "position": 2
+      }
     ]
   },
   {
@@ -207,6 +247,18 @@
         "text": "Відповіді 3 і 4.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5d1e849f-f5ca-4ccf-a6ad-29730a937ba6",
+        "trafficRuleSectionId": "12b73ccd-ed6d-4026-a887-c61e10110283",
+        "position": 1
+      },
+      {
+        "id": "a533b398-2bb3-4cad-8e47-2086e1b558b0",
+        "trafficRuleSectionId": "ebe1bc70-3636-4f88-9478-5f2bc74f72f5",
+        "position": 2
+      }
     ]
   },
   {
@@ -227,6 +279,13 @@
         "position": 2,
         "text": "Можуть.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "740d999e-2dda-4103-93ce-0ce8e9a39486",
+        "trafficRuleSectionId": "8ebcf6f9-1d8e-4fb9-a66e-6e2e9903cf74",
+        "position": 1
       }
     ]
   },
@@ -254,6 +313,13 @@
         "position": 3,
         "text": "У разі виконання обгону колони.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "91c95a8f-c38e-43b5-9444-11fcb1cadf4e",
+        "trafficRuleSectionId": "8ebcf6f9-1d8e-4fb9-a66e-6e2e9903cf74",
+        "position": 1
       }
     ]
   }

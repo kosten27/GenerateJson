@@ -38,6 +38,13 @@
         "text": "50 км/год.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "1760b509-7ac5-457a-87fa-c78b8275faad",
+        "trafficRuleSectionId": "645008f6-13a0-4015-8a51-f4dbee9e91f8",
+        "position": 1
+      }
     ]
   },
   {
@@ -67,6 +74,13 @@
         "text": "До категорії В1.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "7d59acdc-0f08-46e1-97ae-497826e26107",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
+      }
     ]
   },
   {
@@ -95,6 +109,13 @@
         "position": 3,
         "text": "З 16 років.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "cb070578-4370-4ed7-b468-8d035d981569",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
       }
     ]
   },
@@ -137,6 +158,13 @@
         "text": "50 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "70fa3ff4-c8dc-4a57-99e4-3c39ff96806c",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -164,6 +192,13 @@
         "text": "Дозволено ставити тільки велосипеди, мопеди і мотоцикли без бокового причепа.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d19dafd4-dac1-437d-8f66-a6b69ef419ad",
+        "trafficRuleSectionId": "51bd13bd-b08f-4c41-8858-e1aad0dc0c9c",
+        "position": 1
+      }
     ]
   },
   {
@@ -190,6 +225,13 @@
         "position": 3,
         "text": "У передбачених для цього місцях.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c9e6cdbb-fbdf-4a48-aa50-3a24b0a213a6",
+        "trafficRuleSectionId": "1ae2d529-f66c-490b-bb5f-a4c0cf5f4d47",
+        "position": 1
       }
     ]
   },
@@ -224,6 +266,13 @@
         "text": "14 діб.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "faa03230-1fb3-438a-b2e0-842ac2d092cd",
+        "trafficRuleSectionId": "d62e0e78-0800-4aab-b095-adc5b75ffb49",
+        "position": 1
+      }
     ]
   },
   {
@@ -257,6 +306,13 @@
         "text": "З 18 років.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "8b493fee-5208-4ead-ad14-93a7246a72a6",
+        "trafficRuleSectionId": "6d200a6b-cced-4b45-b732-b877b0dddf26",
+        "position": 1
+      }
     ]
   },
   {
@@ -289,6 +345,13 @@
         "position": 4,
         "text": "З 18 років.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "dbfd6181-8208-496d-b085-03e49b2d7725",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
       }
     ]
   },
@@ -371,6 +434,13 @@
         "text": "У всіх перерахованих випадках.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "eca9e9d9-0ee3-4cba-80e8-5050f640f90c",
+        "trafficRuleSectionId": "e158a65a-8be0-4a3e-8863-4f8db1d9fa6f",
+        "position": 1
+      }
     ]
   },
   {
@@ -404,6 +474,13 @@
         "text": "Права, перераховані у відповідях 1,2,3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "536aafa2-13f1-4f60-a1e0-0c9f5b1e8809",
+        "trafficRuleSectionId": "0380f4dc-f935-4713-b46b-5e40fd4cbf9e",
+        "position": 1
+      }
     ]
   },
   {
@@ -436,6 +513,13 @@
         "position": 4,
         "text": "Відповіді 1 і 3.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "314a3008-f6d8-4053-9f39-d281be6cd865",
+        "trafficRuleSectionId": "8c70416e-0bec-47a4-959e-54912ffb489a",
+        "position": 1
       }
     ]
   },
@@ -476,6 +560,13 @@
         "text": "90 км/год.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a024f500-2af4-4317-8c91-ee3531b6e550",
+        "trafficRuleSectionId": "aa600ae7-0962-4615-9817-ad0da52741b8",
+        "position": 1
+      }
     ]
   },
   {
@@ -502,6 +593,13 @@
         "position": 3,
         "text": "Усе перелічене вище.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a58fe118-ea45-4444-9845-c27a4741c3b8",
+        "trafficRuleSectionId": "c53f88d7-0bbc-4a66-8275-5dfcf725d54a",
+        "position": 1
       }
     ]
   },
@@ -542,6 +640,13 @@
         "text": "Відповіді, зазначені в пунктах 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "a9df3352-8300-4fd3-9c3a-caaca975043b",
+        "trafficRuleSectionId": "863aafac-b434-4b4b-921f-544683cebd41",
+        "position": 1
+      }
     ]
   },
   {
@@ -568,6 +673,13 @@
         "position": 3,
         "text": "Близькому родичу (чоловік або дружина, брат або сестра) під час його навчання водінню.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "01994acf-2bd5-4ad2-a15e-0ea8dfcb9f03",
+        "trafficRuleSectionId": "146c7e98-43bd-430f-a988-396334efcc7f",
+        "position": 1
       }
     ]
   },
@@ -608,6 +720,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "579f9ebc-8b93-4f67-866d-a810983bcad9",
+        "trafficRuleSectionId": "94d72ca8-8ea1-457b-a553-0d18eb06127d",
+        "position": 1
+      }
     ]
   },
   {
@@ -640,6 +759,18 @@
         "position": 4,
         "text": "Тільки мотоцикли без бокового причепа.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "eab35f52-9645-4a1c-a0dd-716e5e3f25fd",
+        "trafficRuleSectionId": "910302b6-55c4-4157-9d22-27428bc02eda",
+        "position": 1
+      },
+      {
+        "id": "2c1dc7f0-d7d3-4593-aa72-45d4d625addb",
+        "trafficRuleSectionId": "ff15088d-27fa-40e7-96bc-abf78442ebe1",
+        "position": 2
       }
     ]
   }

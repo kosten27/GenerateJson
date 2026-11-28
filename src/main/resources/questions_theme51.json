@@ -20,6 +20,13 @@
         "text": "Дозволено.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ba0d90a5-53ae-4b07-a192-62b8131fe51b",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -503,6 +510,13 @@
         "text": "Виконати всі перелічені дії.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "b193290f-4afe-40b1-95bb-879ce40a183e",
+        "trafficRuleSectionId": "251822c1-5a4d-4583-8d6f-6adf87f08bc0",
+        "position": 1
+      }
     ]
   },
   {
@@ -583,6 +597,13 @@
         "position": 4,
         "text": "Відповіді 2 та 3.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "e8b6f23b-86ca-403e-8807-0ab0f3d7adf1",
+        "trafficRuleSectionId": "9d68e48b-e702-4c57-a17d-692790837c44",
+        "position": 1
       }
     ]
   },
@@ -665,6 +686,13 @@
         "text": "Не менш ніж на 0,2 м від верхнього краю борту і 0,35-0,6 м від підлоги, а сидіння, розташовані вздовж заднього або бокового борту, повинні мати міцні спинки.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "60b0cfc3-d481-4d04-b320-0b86c9609981",
+        "trafficRuleSectionId": "969b9683-4465-4472-aae5-71905dfea38c",
+        "position": 1
+      }
     ]
   },
   {
@@ -692,6 +720,13 @@
         "text": "За наявності будь-якої із перерахованих вище умов.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "396aa7dd-e1c5-4af4-82f8-be0a3a41e996",
+        "trafficRuleSectionId": "24b75238-e0bf-45bc-bce9-4c46216d5195",
+        "position": 1
+      }
     ]
   },
   {
@@ -712,6 +747,13 @@
         "position": 2,
         "text": "Не повинні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "af988d95-8ab0-4851-8731-3b0f6a69b904",
+        "trafficRuleSectionId": "5db0c7de-2ac1-417e-a5d3-6a25ed641cb5",
+        "position": 1
       }
     ]
   },
@@ -739,6 +781,13 @@
         "position": 3,
         "text": "Користуватися противідкотними упорами.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6cc6c953-a5a5-40fb-9343-d7aeb1a0a7d5",
+        "trafficRuleSectionId": "5db0c7de-2ac1-417e-a5d3-6a25ed641cb5",
+        "position": 1
       }
     ]
   },
@@ -779,6 +828,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "aa7bdbba-bbb8-4e00-a5f1-5ea0690b2fbe",
+        "trafficRuleSectionId": "5db0c7de-2ac1-417e-a5d3-6a25ed641cb5",
+        "position": 1
+      }
     ]
   },
   {
@@ -818,6 +874,13 @@
         "text": "На 3 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "02febff4-13f0-4784-ab86-a57fba47e65e",
+        "trafficRuleSectionId": "db01f4c5-025f-408e-b314-4d3839461aaa",
+        "position": 1
+      }
     ]
   },
   {
@@ -851,6 +914,13 @@
         "text": "Нормами, визначеними відповідними органами.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "f0709edf-b8e5-4ba3-8872-2e8c5e9eb628",
+        "trafficRuleSectionId": "6a458989-556d-49d4-9aac-e7db6da2e6d4",
+        "position": 1
+      }
     ]
   },
   {
@@ -878,6 +948,13 @@
         "text": "Дозволене за маршрутом, узгодженим із відповідними органами.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "b20f6fe9-6d11-4a2c-81f7-bd812a6f8460",
+        "trafficRuleSectionId": "6a458989-556d-49d4-9aac-e7db6da2e6d4",
+        "position": 1
+      }
     ]
   },
   {
@@ -904,6 +981,13 @@
         "position": 3,
         "text": "Обидві відповіді правильні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "ba2ea161-0f5e-4758-b911-7ce02ccd355d",
+        "trafficRuleSectionId": "66a9b3be-30b6-4b69-9bf6-5674cd706a24",
+        "position": 1
       }
     ]
   },
@@ -944,6 +1028,13 @@
         "text": "З 16 років.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "79ac4c47-7b89-4476-90d3-a983a6eb3259",
+        "trafficRuleSectionId": "d33bd5df-5b24-446b-a602-61aa0984f145",
+        "position": 1
+      }
     ]
   },
   {
@@ -970,6 +1061,13 @@
         "position": 3,
         "text": "Якщо є супровідники.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "43f0cac9-0622-4760-9075-58730548d6d7",
+        "trafficRuleSectionId": "d33bd5df-5b24-446b-a602-61aa0984f145",
+        "position": 1
       }
     ]
   },
@@ -1085,6 +1183,13 @@
         "text": "Дозволено тільки в разі буксирування на жорсткому зчепленні.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "b4ee2c4f-fbf2-4b42-8c83-e72193f49816",
+        "trafficRuleSectionId": "b5d22623-3280-40c4-be91-1def9f0cfcc7",
+        "position": 1
+      }
     ]
   },
   {
@@ -1117,6 +1222,13 @@
         "position": 4,
         "text": "Мають право, якщо буксирування виконується лише на жорсткому зчепленні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "de61350d-e45b-4d5f-9787-8daad49216a6",
+        "trafficRuleSectionId": "a28c4b09-c4d1-468c-ac7f-40f78f4d6dfd",
+        "position": 1
       }
     ]
   },
@@ -1157,6 +1269,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "f45d881c-7f47-4993-addc-e98f7ebb7fbb",
+        "trafficRuleSectionId": "a28c4b09-c4d1-468c-ac7f-40f78f4d6dfd",
+        "position": 1
+      }
     ]
   },
   {
@@ -1196,6 +1315,13 @@
         "text": "Понад 25 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "00bf34e1-5ccf-444f-918e-176d59bfdf40",
+        "trafficRuleSectionId": "db01f4c5-025f-408e-b314-4d3839461aaa",
+        "position": 1
+      }
     ]
   },
   {
@@ -1228,6 +1354,13 @@
         "position": 4,
         "text": "Більш ніж 4 м.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "eab89b3d-b004-47e6-9e7d-046269c0e8fd",
+        "trafficRuleSectionId": "db01f4c5-025f-408e-b314-4d3839461aaa",
+        "position": 1
       }
     ]
   },
@@ -1267,6 +1400,13 @@
         "position": 5,
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "4ee82dfd-c0e5-4f6d-8b47-675d48dcc14d",
+        "trafficRuleSectionId": "b854c297-e4fe-4ade-8f12-54cce08dff9a",
+        "position": 1
       }
     ]
   }

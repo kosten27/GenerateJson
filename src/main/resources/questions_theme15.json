@@ -32,6 +32,13 @@
         "text": "У місцях А і В.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d60c41c7-9911-4d9c-a4e4-cbd8d28a9608",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -60,6 +67,13 @@
         "position": 3,
         "text": "Має право тільки для посадки (висадки) пасажирів.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "386addc7-c40a-4c8b-84b7-0ebe1e731868",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -102,6 +116,13 @@
         "text": "На місцях Б і В.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "4e3f487b-3afb-4df4-8cd6-3fb7d6f415fb",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -137,6 +158,13 @@
         "text": "Водії фіолетового автомобіля і мотоцикла.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1e0d6a56-03d1-40e7-ab19-d07caf254fc0",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -171,6 +199,13 @@
         "position": 4,
         "text": "На місцях А, В і Д.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "d84213e6-6fb6-4d9b-90a1-909224e2ea8a",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -213,6 +248,13 @@
         "text": "Ніхто не порушує.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "70f780ff-2227-45b7-872d-cd9e99855f1f",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -254,6 +296,13 @@
         "text": "Усі транспортні засоби порушують.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "90b87a74-d7e4-499b-b66e-2230703a04ec",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -289,6 +338,13 @@
         "text": "Ніхто не порушує.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "268358f8-b80b-400c-9e8b-091b0c03a0d2",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -317,6 +373,13 @@
         "position": 3,
         "text": "У місцях А і Б.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "4894448d-2e38-4491-981c-3f69b4aeaf6e",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -347,6 +410,13 @@
         "text": "Заборонено.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ec20beaa-7026-4b87-86e2-eebd33cd8b21",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -375,6 +445,13 @@
         "position": 3,
         "text": "Дозволено тільки в світлий час доби.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "cdb34186-912a-4910-a03a-b3ad86322840",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -405,6 +482,13 @@
         "text": "Дозволено тільки для посадки (висадки) пасажирів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "e1df4b5a-f276-4c70-9583-dccf7409c35c",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -434,6 +518,13 @@
         "text": "Дозволено в будь-якому випадку.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "41837505-55ea-4cb4-89e8-9f716b1a1ab8",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -462,6 +553,13 @@
         "position": 3,
         "text": "Водії всіх транспортних засобів порушують.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c74de04c-cf17-49b4-9029-10cafd50bb11",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -504,6 +602,13 @@
         "text": "У всіх місцях.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "149e68d9-b79f-4a8b-b89c-db948ef5c48a",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -533,6 +638,13 @@
         "text": "Зупинка в цьому місці дозволена в будь-якому випадку",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "98deccae-154c-47ed-91ea-00474d7c3d99",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -555,6 +667,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "78d5600f-ef51-44bc-9261-8f6f3c007598",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -597,6 +716,13 @@
         "text": "4 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "651d54f7-4c83-40d6-87bf-eae73d6449ab",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -632,6 +758,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "ff69cc92-bb59-42d7-87ff-68a73db158a5",
+        "trafficRuleSectionId": "9cc1bdf5-dfc9-4001-9b50-268bdd53273a",
+        "position": 1
+      }
     ]
   },
   {
@@ -654,6 +787,13 @@
         "position": 2,
         "text": "Заборонена.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a3d2d92d-7236-46e1-b3fb-be9667a98626",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
       }
     ]
   },
@@ -684,6 +824,13 @@
         "text": "Заборонена, якщо транспортний засіб унеможливить рух інших транспортних засобів або створить перешкоду для руху пішоходів.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e9900ea4-5bbe-4de2-a76b-f493d3bc02c8",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -712,6 +859,13 @@
         "position": 3,
         "text": "Дозволено, якщо включені денні ходові вогні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "36906bd6-93bc-4d36-9539-c037e6e1acf9",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
       }
     ]
   },
@@ -747,6 +901,13 @@
         "position": 4,
         "text": "У місцях А, В і Г.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "44147acc-358a-412b-8e0b-34ba1a2c868b",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
       }
     ]
   },
@@ -789,6 +950,13 @@
         "text": "Водії фіолетового і білого автомобілів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "8b994f03-b8ea-4317-9239-956fa339c92d",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -829,6 +997,13 @@
         "position": 5,
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "869b2cf3-429c-4b89-83f0-221294a028de",
+        "trafficRuleSectionId": "925821dd-0665-464e-b611-ac9a7a721492",
+        "position": 1
       }
     ]
   },
@@ -871,6 +1046,13 @@
         "text": "Водії сірого і жовтого автомобілів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "af78bacc-2992-4197-be83-64c4daac52c8",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -894,6 +1076,13 @@
         "text": "Дозволено, якщо буде можливий зустрічний роз'їзд або об'їзд транспортних засобів, що зупинилися.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d07a5d5f-bb7e-4468-992f-ee3c59c83c29",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -916,6 +1105,13 @@
         "position": 2,
         "text": "Не може.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c8bd94c6-42b3-41ef-8113-e33776b6a298",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -946,6 +1142,13 @@
         "text": "Ближче 30 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "11cf05be-ce24-4e39-a7ed-5a1fd83cd153",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -968,6 +1171,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "29dda902-2c72-4ea4-a4e6-c81cdb583f56",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -998,6 +1208,13 @@
         "text": "Водій червоного автомобіля.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "f19b1231-2358-4f30-bf7b-c3704a48271d",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -1021,6 +1238,13 @@
         "text": "Не має права.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "ac4eec79-fd39-4296-a28b-d73d657f8aa8",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -1043,6 +1267,13 @@
         "position": 2,
         "text": "Забороняється.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "2ae794cd-3efb-42da-a2a2-816a2b715dea",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -1073,6 +1304,13 @@
         "text": "Мотоцикл із боковим причепом.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "4788bae9-302d-4054-8c3e-2380502b1e0d",
+        "trafficRuleSectionId": "5f2ed0ae-ce20-4bf6-a2db-bc6e56d6f4a6",
+        "position": 1
+      }
     ]
   },
   {
@@ -1095,6 +1333,13 @@
         "position": 2,
         "text": "Неправильно.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "79444ddd-bd27-48c9-8473-41b72662a565",
+        "trafficRuleSectionId": "51bd13bd-b08f-4c41-8858-e1aad0dc0c9c",
+        "position": 1
       }
     ]
   },
@@ -1137,6 +1382,23 @@
         "text": "У місці В.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "768e3420-e65e-4440-8be2-eb9ea289b687",
+        "trafficRuleSectionId": "7b083882-f71d-44ef-a12b-50b4c17c5096",
+        "position": 1
+      },
+      {
+        "id": "ad8e66e1-af47-4843-8c4a-1f747038c442",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 2
+      },
+      {
+        "id": "20d67fda-dd01-4c07-9aa7-5df15d879f41",
+        "trafficRuleSectionId": "b8bcda78-725b-4d86-942a-3c9c8c05d170",
+        "position": 3
+      }
     ]
   },
   {
@@ -1166,6 +1428,13 @@
         "text": "Обидва водії.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "ab200bd0-9906-41fa-b709-8b2bfed84053",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
+      }
     ]
   },
   {
@@ -1194,6 +1463,13 @@
         "position": 3,
         "text": "На обох.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "85cef754-bc92-49dc-9b62-05ee16147305",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
       }
     ]
   },
@@ -1230,6 +1506,13 @@
         "text": "На малюнку 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "2049df76-39e0-46f8-9ac9-555c78e50e2f",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
+      }
     ]
   },
   {
@@ -1258,6 +1541,13 @@
         "position": 3,
         "text": "Обом водіям.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "83c39958-e119-4fa3-b312-b488f7dfefa9",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
       }
     ]
   },
@@ -1288,6 +1578,13 @@
         "text": "У місці А чи Б.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "c4d78660-3ad5-491c-a0e4-8f169f5ab3ea",
+        "trafficRuleSectionId": "f6631957-9aa0-4dbf-9288-98cbcf794d2c",
+        "position": 1
+      }
     ]
   },
   {
@@ -1316,6 +1613,13 @@
         "position": 3,
         "text": "Біля правого або лівого краю проїзної частини.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1c31e446-3912-4b71-bb2d-35c2cfcf5bc9",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
       }
     ]
   },
@@ -1352,6 +1656,18 @@
         "text": "Відповіді 1 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "df276475-3a9f-4438-98ff-4a21dcc6c6e9",
+        "trafficRuleSectionId": "f6631957-9aa0-4dbf-9288-98cbcf794d2c",
+        "position": 1
+      },
+      {
+        "id": "38388d38-3b82-4645-95af-f03cb88543a3",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 2
+      }
     ]
   },
   {
@@ -1380,6 +1696,13 @@
         "position": 3,
         "text": "Обидва водії.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "3f3725f7-9bfc-4440-90a2-da7bf39b84fa",
+        "trafficRuleSectionId": "f6631957-9aa0-4dbf-9288-98cbcf794d2c",
+        "position": 1
       }
     ]
   },
@@ -1416,6 +1739,13 @@
         "text": "Коричневий мотоцикл із боковим причепом.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "93a03218-384d-4c45-b309-85ba451ea31d",
+        "trafficRuleSectionId": "51bd13bd-b08f-4c41-8858-e1aad0dc0c9c",
+        "position": 1
+      }
     ]
   },
   {
@@ -1444,6 +1774,18 @@
         "position": 3,
         "text": "На тротуарах або на пішохідних доріжках, щоб не перешкоджати іншим учасникам дорожнього руху.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8865f338-880c-44b9-a830-e0051562e1b0",
+        "trafficRuleSectionId": "f6631957-9aa0-4dbf-9288-98cbcf794d2c",
+        "position": 1
+      },
+      {
+        "id": "a7f06be1-aec0-447f-83bd-eb0bad06431b",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 2
       }
     ]
   },
@@ -1486,6 +1828,13 @@
         "text": "У місці А і В.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "8e06e052-4b76-4a2c-9a90-416d6b755fdb",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -1508,6 +1857,13 @@
         "position": 2,
         "text": "Дозволено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "6efd2322-2a52-4665-9826-014693e009b6",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -1550,6 +1906,13 @@
         "text": "Вантажний автомобіль, мікроавтобус і мотоцикл.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "be9a1523-fce6-4627-8367-e3ca74b3d506",
+        "trafficRuleSectionId": "5f2ed0ae-ce20-4bf6-a2db-bc6e56d6f4a6",
+        "position": 1
+      }
     ]
   },
   {
@@ -1591,6 +1954,13 @@
         "text": "Транспортні засоби, зазначені у відповідях 3 і 4.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "fac49fa1-07a2-42ed-a9e4-09e0d73b408e",
+        "trafficRuleSectionId": "5f2ed0ae-ce20-4bf6-a2db-bc6e56d6f4a6",
+        "position": 1
+      }
     ]
   },
   {
@@ -1619,6 +1989,18 @@
         "position": 3,
         "text": "У місцях А чи Б.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "dc5b19d8-ed8d-42d0-8d52-722a3be78a57",
+        "trafficRuleSectionId": "0815bcae-93fa-44fd-a1b8-985f90327bfe",
+        "position": 1
+      },
+      {
+        "id": "cc9fea51-29e7-492c-87c1-ce89a1724e6d",
+        "trafficRuleSectionId": "f6631957-9aa0-4dbf-9288-98cbcf794d2c",
+        "position": 2
       }
     ]
   },
@@ -1649,6 +2031,13 @@
         "text": "Правильно в будь-якому випадку.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "07609fc2-79bb-48ea-8a0d-31d179849ce2",
+        "trafficRuleSectionId": "c0c74bf6-77b8-4e86-86f0-aa8da486d8a9",
+        "position": 1
+      }
     ]
   },
   {
@@ -1678,6 +2067,13 @@
         "text": "Правильно.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "3fff32ca-a755-44fb-af9e-f3edfcba157d",
+        "trafficRuleSectionId": "c0c74bf6-77b8-4e86-86f0-aa8da486d8a9",
+        "position": 1
+      }
     ]
   },
   {
@@ -1706,6 +2102,13 @@
         "position": 3,
         "text": "Обидва автомобілі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "fcd6bd63-fc22-440b-9ce2-870b2853e512",
+        "trafficRuleSectionId": "c0c74bf6-77b8-4e86-86f0-aa8da486d8a9",
+        "position": 1
       }
     ]
   },
@@ -1746,6 +2149,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "fab263df-dc77-452e-ae07-d5cc068e9d13",
+        "trafficRuleSectionId": "3f597d55-6ef8-446c-a089-d3e7beec4827",
+        "position": 1
+      }
     ]
   },
   {
@@ -1772,6 +2182,13 @@
         "position": 3,
         "text": "150 м.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "50b94806-7608-4545-b556-49f9ad739c3e",
+        "trafficRuleSectionId": "3f597d55-6ef8-446c-a089-d3e7beec4827",
+        "position": 1
       }
     ]
   },
@@ -1806,6 +2223,13 @@
         "text": "Відчиняти двері транспортного засобу, залишати їх відчиненими і виходити з транспортного засобу, якщо це загрожує безпеці і створює перешкоди іншим учасникам дорожнього руху.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "ab617d80-d08d-4ebe-8841-e6ce26a9143c",
+        "trafficRuleSectionId": "3f597d55-6ef8-446c-a089-d3e7beec4827",
+        "position": 1
+      }
     ]
   },
   {
@@ -1832,6 +2256,13 @@
         "position": 3,
         "text": "Так, щоб не перешкоджати лише транспортним засобам.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "5f805cd9-7ca9-4e66-bd08-a54b78051736",
+        "trafficRuleSectionId": "f6631957-9aa0-4dbf-9288-98cbcf794d2c",
+        "position": 1
       }
     ]
   },
@@ -1872,6 +2303,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "783d7333-12c1-4e7c-b86d-e8a248ed1e89",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -1892,6 +2330,13 @@
         "position": 2,
         "text": "Тільки на узбіччі.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "44014f88-c4e6-4d19-aa4d-a332dd47a22c",
+        "trafficRuleSectionId": "f6631957-9aa0-4dbf-9288-98cbcf794d2c",
+        "position": 1
       }
     ]
   },
@@ -1932,6 +2377,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "ea39e6a6-ebad-4f48-9828-a977110d8598",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -1958,6 +2410,13 @@
         "position": 3,
         "text": "Легковим автомобілям та мотоциклам.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7cff188c-4ed0-4c34-a412-d2d9181e4758",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
       }
     ]
   },
@@ -1986,6 +2445,13 @@
         "text": "Ближче 15 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "90204c8c-b2bc-423a-8134-2a31d7f2eb4d",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -2006,6 +2472,13 @@
         "position": 2,
         "text": "Заборонена.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0b0cdb00-fecf-4414-930e-31d71eac0396",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
       }
     ]
   },
@@ -2046,6 +2519,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "9996dead-3a0c-45b9-8e5b-8f445997d5da",
+        "trafficRuleSectionId": "90d5f458-aac4-4b19-900a-7927c1023e7a",
+        "position": 1
+      }
     ]
   },
   {
@@ -2072,6 +2552,13 @@
         "position": 3,
         "text": "Виконати дію з відповіді 1 або 2, а в установлених Правилами дорожнього руху випадках - й обидва дії одночасно.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c95142e6-07f6-419f-95c7-dc61c391ca5b",
+        "trafficRuleSectionId": "bb1b0c83-f2a0-4496-91bf-969cc960e21f",
+        "position": 1
       }
     ]
   },
@@ -2105,6 +2592,13 @@
         "position": 4,
         "text": "Виконати стоянку на узбіччі, включивши тільки стоянкові ліхтарі.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "b4cf043e-978c-448e-86cb-1acad25dee79",
+        "trafficRuleSectionId": "90d5f458-aac4-4b19-900a-7927c1023e7a",
+        "position": 1
       }
     ]
   },
@@ -2145,6 +2639,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "c222eb98-6eb4-4a6e-b8a9-f6899319cf26",
+        "trafficRuleSectionId": "f6631957-9aa0-4dbf-9288-98cbcf794d2c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2184,6 +2685,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e963ec2e-9de8-4af9-a57d-66fd7c4c15a8",
+        "trafficRuleSectionId": "99cca5cc-1337-477a-b87c-76a27e729113",
+        "position": 1
+      }
     ]
   },
   {
@@ -2217,6 +2725,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "62791998-c7d9-4ce8-8dcc-0a159f2810dc",
+        "trafficRuleSectionId": "3f597d55-6ef8-446c-a089-d3e7beec4827",
+        "position": 1
+      }
     ]
   },
   {
@@ -2244,6 +2759,13 @@
         "text": "У всіх перерахованих випадках.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "17c616bd-b30b-440e-b016-adafaf842517",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -2270,6 +2792,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "90c9c35f-274e-4564-8d2c-97a45fdf26e2",
+        "trafficRuleSectionId": "3099afc4-ef1d-461b-bc0f-242f8433ad84",
+        "position": 1
       }
     ]
   },
@@ -2310,6 +2839,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9977f00c-68fe-471a-9b3b-c530d3b47b63",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2336,6 +2872,13 @@
         "position": 3,
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c7ab6cff-b33c-4ba9-b4b3-75f280b8c2b5",
+        "trafficRuleSectionId": "c0c74bf6-77b8-4e86-86f0-aa8da486d8a9",
+        "position": 1
       }
     ]
   },
@@ -2370,6 +2913,13 @@
         "text": "На відстані не менше 30 м з обох боків від переходу.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "1da6b85b-43b6-4b98-8b19-adbf034882d0",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2390,6 +2940,13 @@
         "position": 2,
         "text": "Якщо це не буде перешкоджати руху інших транспортних засобів.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "76119089-3931-4cea-b4ad-8c8918bbab73",
+        "trafficRuleSectionId": "c0c74bf6-77b8-4e86-86f0-aa8da486d8a9",
+        "position": 1
       }
     ]
   },
@@ -2417,6 +2974,13 @@
         "position": 3,
         "text": "Дозволено ставити тільки велосипеди, мопеди і мотоцикли без бокового причепа.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c0552c31-2458-435e-9bf0-9cbc139180c8",
+        "trafficRuleSectionId": "51bd13bd-b08f-4c41-8858-e1aad0dc0c9c",
+        "position": 1
       }
     ]
   },
@@ -2457,6 +3021,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "cf80764f-6027-4a65-8ac5-1f5aac5ecb32",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2483,6 +3054,13 @@
         "position": 3,
         "text": "Дозволені для посадки або висадки людей.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "1854caa9-9bb8-4a50-a4b7-84c1c8f1271a",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
       }
     ]
   },
@@ -2523,6 +3101,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "846d5664-31b8-41dd-b7a0-3bb631391be7",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2543,6 +3128,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "c3dcc635-8320-436e-ad62-c84d3291372a",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
       }
     ]
   },
@@ -2583,6 +3175,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "b4f49125-3eba-49b8-8d52-d89bbadf3bba",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
+      }
     ]
   },
   {
@@ -2622,6 +3221,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e90057e8-2a24-4aec-b57e-9b57ed7064c9",
+        "trafficRuleSectionId": "81b534d2-a3a2-4d91-86d4-8772e4cedba9",
+        "position": 1
+      }
     ]
   },
   {
@@ -2649,6 +3255,13 @@
         "text": "Не ближче 20 м.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a94a106c-867c-4a16-a0fc-3e822bc0f27f",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2675,6 +3288,13 @@
         "position": 3,
         "text": "Дозволено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "dd07c498-0bcb-4669-abb7-a6f8488537da",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
       }
     ]
   },
@@ -2715,6 +3335,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "264d37d8-5317-4cc6-b279-660280001d8f",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -2754,6 +3381,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "bdbbd827-6f4f-4706-b8f3-de6d70ccdc28",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -2786,6 +3420,13 @@
         "position": 4,
         "text": "Не менше 3 м.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7b2c48cb-af23-4ad2-bc0d-4c48ebb96d7f",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
       }
     ]
   },
@@ -2826,6 +3467,13 @@
         "text": "Відповіді 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "11dc5609-cbf3-4a0f-83df-d11910aff9a4",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2849,6 +3497,13 @@
         "text": "Заборонена.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d707470f-3dde-4908-9a77-7e0312443afe",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -2871,6 +3526,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "a840cf7c-eb89-4916-a8d0-cd86ca4020fd",
+        "trafficRuleSectionId": "51bd13bd-b08f-4c41-8858-e1aad0dc0c9c",
+        "position": 1
       }
     ]
   },
@@ -2901,6 +3563,13 @@
         "text": "Водій білого автомобіля.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "3c6780ff-b1d0-45ca-93f9-36305415b913",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2923,6 +3592,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "77186e33-e5bd-412d-97a8-f780ca7ad3ff",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -2947,6 +3623,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d001c723-e3b1-4bcf-99c6-0f92d87e3df5",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
+      }
     ]
   },
   {
@@ -2969,6 +3652,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "14d44eec-b133-4777-8cd1-2965f6a7f535",
+        "trafficRuleSectionId": "1a73743d-1d03-433c-a485-836b0d1b424c",
+        "position": 1
       }
     ]
   },
@@ -2999,6 +3689,13 @@
         "text": "Дозволена, за умови, що поруч немає інших місць для паркування.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "56e23841-fdb2-4b8e-ac14-3ffb08808397",
+        "trafficRuleSectionId": "93300ab3-e016-4664-a61e-2b9a4bc24ae2",
+        "position": 1
+      }
     ]
   },
   {
@@ -3021,6 +3718,13 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "4b33a510-45a7-4661-a070-10ebbc9e3885",
+        "trafficRuleSectionId": "51bd13bd-b08f-4c41-8858-e1aad0dc0c9c",
+        "position": 1
       }
     ]
   }

@@ -20,6 +20,13 @@
         "text": "Дворові території, а також частини населених пунктів, позначені дорожнім знаком 5.34.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "5f9d1e61-eb22-49e6-815d-92c529ba2148",
+        "trafficRuleSectionId": "206fa50a-6447-4928-a846-452cb35cf192",
+        "position": 1
+      }
     ]
   },
   {
@@ -48,6 +55,13 @@
         "position": 3,
         "text": "Пішоходу і автомобілю.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "86f97278-e55f-4a8f-81a6-2d85a998cdb8",
+        "trafficRuleSectionId": "4e5f5514-5c73-4846-9e80-e4b2e43cdf37",
+        "position": 1
       }
     ]
   },
@@ -84,6 +98,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e22bcab4-3fae-4d50-9ff1-0e0a1d3f5237",
+        "trafficRuleSectionId": "43e3533e-c745-45bc-88fc-2d2b6e1a60d4",
+        "position": 1
+      }
     ]
   },
   {
@@ -112,6 +133,13 @@
         "position": 3,
         "text": "Забороняється.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "9fc39076-712a-4425-b381-fc31dd83c8e1",
+        "trafficRuleSectionId": "d62cbe7b-30f1-4367-aa66-6961c955fd49",
+        "position": 1
       }
     ]
   },
@@ -142,6 +170,13 @@
         "text": "Пішоходу і автомобілю.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "67616f9a-2d63-43c5-bd61-ec41c7da124f",
+        "trafficRuleSectionId": "4e5f5514-5c73-4846-9e80-e4b2e43cdf37",
+        "position": 1
+      }
     ]
   },
   {
@@ -164,6 +199,13 @@
         "position": 2,
         "text": "Не повинен.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "54d0247f-b132-49e4-86cc-644af4280157",
+        "trafficRuleSectionId": "29ee7845-a2d0-4836-9c30-27bad390a0cc",
+        "position": 1
       }
     ]
   },
@@ -191,6 +233,13 @@
         "position": 3,
         "text": "Дозволено.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "7479a76a-6aa3-43b5-bc8e-fb7ee20e1269",
+        "trafficRuleSectionId": "d62cbe7b-30f1-4367-aa66-6961c955fd49",
+        "position": 1
       }
     ]
   },
@@ -231,6 +280,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "acd60f6e-a08f-4c70-b6ca-336ae8f15c42",
+        "trafficRuleSectionId": "d62cbe7b-30f1-4367-aa66-6961c955fd49",
+        "position": 1
+      }
     ]
   },
   {
@@ -257,6 +313,13 @@
         "position": 3,
         "text": "Рухатися по проїжджій частині, поступаючись дорогою транспортним засобам.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "0a100bba-233e-4d9e-8178-029cf1620c9c",
+        "trafficRuleSectionId": "29ee7845-a2d0-4836-9c30-27bad390a0cc",
+        "position": 1
       }
     ]
   },
@@ -285,6 +348,13 @@
         "text": "По тротуарах і по проїжджій частині в разі відсутності тротуарів.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "9cc836b0-884f-496a-ba84-cb284c03aa64",
+        "trafficRuleSectionId": "29ee7845-a2d0-4836-9c30-27bad390a0cc",
+        "position": 1
+      }
     ]
   },
   {
@@ -312,6 +382,13 @@
         "text": "Відповіді 1 і 2.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "dbac6c46-3eae-4704-b834-cf8d56744647",
+        "trafficRuleSectionId": "d62cbe7b-30f1-4367-aa66-6961c955fd49",
+        "position": 1
+      }
     ]
   },
   {
@@ -335,6 +412,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "46fedfe0-50f8-4c53-b76f-0597a9baa310",
+        "trafficRuleSectionId": "d62cbe7b-30f1-4367-aa66-6961c955fd49",
+        "position": 1
+      }
     ]
   },
   {
@@ -355,6 +439,13 @@
         "position": 2,
         "text": "Ні.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "aa464b38-b938-4892-b2b6-8b76f54dde79",
+        "trafficRuleSectionId": "206fa50a-6447-4928-a846-452cb35cf192",
+        "position": 1
       }
     ]
   }

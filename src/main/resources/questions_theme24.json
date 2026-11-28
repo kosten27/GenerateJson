@@ -20,6 +20,13 @@
         "text": "Заборонено.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "e6cf9a67-8331-4660-9a7c-925cd35a3514",
+        "trafficRuleSectionId": "4077a6a4-436d-4d59-a39d-85a50f683b08",
+        "position": 1
+      }
     ]
   },
   {
@@ -48,6 +55,13 @@
         "position": 3,
         "text": "Дозволена під час руху по навчальному маршруту.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "e72074d6-0f3e-4349-8584-61b93aef9661",
+        "trafficRuleSectionId": "4077a6a4-436d-4d59-a39d-85a50f683b08",
+        "position": 1
       }
     ]
   },
@@ -83,6 +97,13 @@
         "position": 4,
         "text": "Всіма зазначеними знаками.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "e83a09e1-5cb1-47dc-825c-ed362d0b4deb",
+        "trafficRuleSectionId": "4077a6a4-436d-4d59-a39d-85a50f683b08",
+        "position": 1
       }
     ]
   },
@@ -125,6 +146,13 @@
         "text": "Знаками 1, 2 і 5.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "da9752f8-4df6-4883-b7c1-73bb154b9e3a",
+        "trafficRuleSectionId": "4077a6a4-436d-4d59-a39d-85a50f683b08",
+        "position": 1
+      }
     ]
   },
   {
@@ -158,6 +186,13 @@
         "text": "Відповіді 1, 2 і 3.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "5c2d7510-ae14-4090-a76c-b98443d0d1f7",
+        "trafficRuleSectionId": "01606c52-76de-4c01-99f0-25a234d028f4",
+        "position": 1
+      }
     ]
   },
   {
@@ -185,6 +220,13 @@
         "text": "На складних перехрестях і дорогах з одностороннім рухом.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "a601838b-da38-4e9a-a26b-a3f2a95fd5ad",
+        "trafficRuleSectionId": "a378960e-3bbe-43ff-98cc-9c651b14b047",
+        "position": 1
+      }
     ]
   },
   {
@@ -211,6 +253,13 @@
         "position": 3,
         "text": "Правильні відповіді 1 і 2.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "acacc035-6bad-4ec0-8555-7411b1a775bb",
+        "trafficRuleSectionId": "2eeda86f-516b-40bb-8de7-8cd457016ab6",
+        "position": 1
       }
     ]
   },
@@ -251,6 +300,13 @@
         "text": "Правильні відповіді 1, 2 і 3.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "7c71fe6c-388b-40fa-8239-8cab6ed7c611",
+        "trafficRuleSectionId": "2eeda86f-516b-40bb-8de7-8cd457016ab6",
+        "position": 1
+      }
     ]
   },
   {
@@ -277,6 +333,13 @@
         "position": 3,
         "text": "Дозволена в присутності будь-якого досвідченого водія.",
         "isCorrect": false
+      }
+    ],
+    "hintList": [
+      {
+        "id": "060d9a6d-cbe5-4e16-b7b6-3ad67333a766",
+        "trafficRuleSectionId": "e1782dfa-8599-4214-a50d-4f8809297306",
+        "position": 1
       }
     ]
   },
@@ -311,6 +374,13 @@
         "text": "На закритих майданчиках, автодромах або у місцях, де немає інших учасників дорожнього руху.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "baa6e975-65de-4aa8-9681-b49402c6e621",
+        "trafficRuleSectionId": "a378960e-3bbe-43ff-98cc-9c651b14b047",
+        "position": 1
+      }
     ]
   },
   {
@@ -331,6 +401,13 @@
         "position": 2,
         "text": "Повинна обов'язково.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "47d338d4-1d82-458b-bdb4-099882598ed6",
+        "trafficRuleSectionId": "a378960e-3bbe-43ff-98cc-9c651b14b047",
+        "position": 1
       }
     ]
   },
@@ -371,6 +448,13 @@
         "text": "З 19 років.",
         "isCorrect": false
       }
+    ],
+    "hintList": [
+      {
+        "id": "56c0caf4-8182-475e-9b6d-b85752369058",
+        "trafficRuleSectionId": "6d200a6b-cced-4b45-b732-b877b0dddf26",
+        "position": 1
+      }
     ]
   },
   {
@@ -398,6 +482,13 @@
         "text": "Зобов’язана знати і виконувати вимоги Правил дорожнього руху.",
         "isCorrect": true
       }
+    ],
+    "hintList": [
+      {
+        "id": "d9f7b2a4-9e21-42ed-9f43-a69a07cb55bc",
+        "trafficRuleSectionId": "69bb68e9-8bf8-4644-809c-ee5f6ac43703",
+        "position": 1
+      }
     ]
   },
   {
@@ -420,6 +511,18 @@
         "position": 2,
         "text": "Заборонено.",
         "isCorrect": true
+      }
+    ],
+    "hintList": [
+      {
+        "id": "8b8e5dd6-2354-42f3-af86-16477b7cb980",
+        "trafficRuleSectionId": "58b78f47-cebd-49d4-8ae0-92380c2115fd",
+        "position": 1
+      },
+      {
+        "id": "2a384b52-39ad-4482-a007-ab6df520f8fa",
+        "trafficRuleSectionId": "69bb68e9-8bf8-4644-809c-ee5f6ac43703",
+        "position": 2
       }
     ]
   }
