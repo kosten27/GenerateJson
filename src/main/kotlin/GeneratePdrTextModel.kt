@@ -74,8 +74,8 @@ fun main() {
                             .replace(".", "_")
                             .replace(" ", "")
                             .replace("-", "_to_")
-                            .replace("і", "_&_")
-                            .replace(",", "_&_")
+                            .replace("і", "_and_")
+                            .replace(",", "_and_")
                         val id = pdrHintsIds.getOrDefault(pdrIdWithPrefix, Uuid.random().toString())
                         val firstLineParagraph = paragraph_33.substringBefore('\n').trim()
                         val pdrHintValue = if (firstLineParagraph.last() == ':')
@@ -137,8 +137,8 @@ fun main() {
                             .replace(".", "_")
                             .replace(" ", "")
                             .replace("-", "_to_")
-                            .replace("і", "_&_")
-                            .replace(",", "_&_")
+                            .replace("і", "_and_")
+                            .replace(",", "_and_")
                         val id = pdrHintsIds.getOrDefault(pdrIdWithPrefix, Uuid.random().toString())
                         val pdrHintModel = PopulatedPdrHintModel(
                             id = id,

@@ -9,5 +9,6 @@ data class PopulateQuestionModel(
     val text: String,
     val imageResId: String? = null,
     val imageType: PopulatedImageType? = null,
-    val answerOptionList: List<PopulateAnswerOptionModel>
+    val answerOptionList: List<PopulateAnswerOptionModel>,
+    val hintList: List<PopulateTrafficRuleSectionModel> = emptyList()
 )

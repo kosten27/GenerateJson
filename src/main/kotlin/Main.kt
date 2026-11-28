@@ -15,6 +15,14 @@ fun main() {
     val themeJsonString = File("src/main/resources/themes.json").readText()
     val themeList = Json.decodeFromString<List<PopulateThemeModel>>(themeJsonString)
 
+//    val trafficRuleSectionString = File("src/main/resources/traffic_rule_section.json").readText()
+//    val trafficRuleSectionList = Json.decodeFromString<List<PopulateTrafficRuleSectionModel>>(trafficRuleSectionString)
+//    val updatedTrafficRuleSectionList = mutableListOf<PopulateTrafficRuleSectionModel>()
+
+    val questionHintMatchList = parseQuestionHint(File("src/main/resources/question_hints_match.txt").readText())
+    val pdrHintString = File("src/main/resources/pdr_hints.json").readText()
+    val pdrHintList = Json.decodeFromString<List<PopulatedPdrHintModel>>(pdrHintString)
+
     val stageIds = mutableMapOf<String, Uuid>()
     val themeStageFiles = File("src/main/resources/stages_theme_files.txt").readText().split("\n")
     themeStageFiles.forEach { themeStageFile ->
@@ -208,6 +216,25 @@ fun main() {
         }
 
     }
+
+    // HINT
+    val hintIdsToUpload = questionHintMatchList.flatMap { it.trafficRuleSectionMap.values.flatten() }.distinct()
+    val trafficRuleSectionList = pdrHintList
+        .filter { hintIdsToUpload.contains(it.pdrId) }
+        .map { PopulateTrafficRuleSectionModel(
+            id = it.id,
+            content = it.value
+        ) }
+
+    themes.forEach { theme ->
+        theme.questions.forEach { question ->
+            questionHintMatchList
+                .find { it.themeOrder == currentTheme?.order }
+                ?.let { questionHint -> }
+        }
+
+    }
+
     val generatedQuestionData = themes.associate { theme ->
         val themeNumber = theme.order.replace(".", "_")
         val fileName = "questions_theme${themeNumber}.json"
@@ -227,7 +254,8 @@ fun main() {
                         text = answerOption.text,
                         isCorrect = answerOption.isCorrect
                     )
-                }
+                },
+                hintList = emptyList()
             )
         }
         fileName to questions
@@ -291,6 +319,8 @@ fun main() {
     val updatedThemeListEncodedJson = prettyPrintJson.encodeToString(updatedThemeList)
     File("src/main/resources/themes.json").writeText(updatedThemeListEncodedJson)
 
+    val trafficRuleSectionListJson = prettyPrintJson.encodeToString(trafficRuleSectionList)
+    File("src/main/resources/traffic_rule_sections.json").writeText(trafficRuleSectionListJson)
 }
 
 fun parseQuestionsWithImages(input: String): List<ThemeImages> {
@@ -394,6 +424,30 @@ fun parseQuestionImageTypes(input: String): List<ThemeImageTypes> {
     }
 }
 
+fun parseQuestionHint(input: String): List<QuestionHint> {
+    val lines = input.trim().lines()
+    val themeRegex = Regex("""^(\d+(.\d)?):(.*)$""")
+
+    return lines.mapNotNull { line ->
+        val match = themeRegex.matchEntire(line) ?: return@mapNotNull null
+
+        val themeId = match.groupValues[1]
+        val raw = match.groupValues[3]
+
+        if (raw.isEmpty()) {
+            QuestionHint(themeId, emptyMap())
+        } else {
+            val trafficRuleSectionMap = raw.split(",")
+                .associate { part ->
+                    val (questionNumber, trafficRuleSectionIdsString) = part.split("-")
+                    val trafficRuleSectionIds = trafficRuleSectionIdsString.split("&")
+                    questionNumber.toInt() to trafficRuleSectionIds
+                }
+            QuestionHint(themeId, trafficRuleSectionMap)
+        }
+    }
+}
+
 fun parseMatchTheme(input: String): Map<String, List<Int>> {
     val lines = input.trim().lines()
     val themeRegex = Regex("""^(\d+(.\d)?):(.*)$""")
@@ -430,6 +484,12 @@ data class ThemeImageNames(
 data class ThemeImageTypes(
     val themeOrder: String,
     val imageTypeMap: Map<Int, ImageType>
+)
+
+
+data class QuestionHint(
+    val themeOrder: String,
+    val trafficRuleSectionMap: Map<Int, List<String>>
 )
 
 enum class ImageType {
