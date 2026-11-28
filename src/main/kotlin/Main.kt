@@ -22,6 +22,7 @@ fun main() {
     val questionHintMatchList = parseQuestionHint(File("src/main/resources/question_hints_match.txt").readText())
     val pdrHintString = File("src/main/resources/pdr_hints.json").readText()
     val pdrHintList = Json.decodeFromString<List<PopulatedPdrHintModel>>(pdrHintString)
+    val pdrHintPdrIdToIdMap = pdrHintList.associate { it.pdrId to it.id }
 
     val stageIds = mutableMapOf<String, Uuid>()
     val themeStageFiles = File("src/main/resources/stages_theme_files.txt").readText().split("\n")
@@ -43,6 +44,7 @@ fun main() {
 
     val questionIds = mutableMapOf<String, Uuid>()
     val questionOptionIds = mutableMapOf<String, Uuid>()
+    val questionHintIds = mutableMapOf<String, Uuid>()
     val themeQuestionFiles = File("src/main/resources/questions_theme_files.txt").readText().split("\n")
     themeQuestionFiles.forEach { themeQuestionFile ->
         val themeQuestionText = File("src/main/resources/$themeQuestionFile").readText()
@@ -70,6 +72,9 @@ fun main() {
                 "${questionIdKey}_${answerOption.position}" to Uuid.parse(answerOption.id)
             }
             questionOptionIds.putAll(currentQuestionAnswerOptionIds)
+
+            val hintPositionIds = question.hintList.associate { "${questionIdKey}_${it.position}" to Uuid.parse(it.id) }
+            questionHintIds.putAll(hintPositionIds)
         }
     }
 
@@ -238,7 +243,21 @@ fun main() {
     val generatedQuestionData = themes.associate { theme ->
         val themeNumber = theme.order.replace(".", "_")
         val fileName = "questions_theme${themeNumber}.json"
+        val questionHintMatchTheme = questionHintMatchList.find { it.themeOrder == themeNumber }?.trafficRuleSectionMap
         val questions = theme.questions.map { question ->
+
+            val hintList = questionHintMatchTheme?.get(question.sourceOrder)
+                ?.mapIndexed { index, pdrId ->
+                    val position = index.plus(1)
+                    val hintId = questionHintIds["${themeNumber}_${question.sourceOrder}_$position"]
+                    val trafficRuleSectionId = pdrHintPdrIdToIdMap[pdrId]
+                    PopulateQuestionHintModel(
+                        id = (hintId ?: Uuid.random()).toString(),
+                        trafficRuleSectionId = trafficRuleSectionId ?: "",
+                        position = position
+                    )
+                }
+                ?: emptyList()
             PopulateQuestionModel(
                 id = question.id.toString(),
                 themeId = theme.id.toString(),
@@ -255,7 +274,7 @@ fun main() {
                         isCorrect = answerOption.isCorrect
                     )
                 },
-                hintList = emptyList()
+                hintList = hintList
             )
         }
         fileName to questions

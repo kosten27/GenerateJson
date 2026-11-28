@@ -10,5 +10,5 @@ data class PopulateQuestionModel(
     val imageResId: String? = null,
     val imageType: PopulatedImageType? = null,
     val answerOptionList: List<PopulateAnswerOptionModel>,
-    val hintList: List<PopulateTrafficRuleSectionModel> = emptyList()
+    val hintList: List<PopulateQuestionHintModel> = emptyList()
 )
